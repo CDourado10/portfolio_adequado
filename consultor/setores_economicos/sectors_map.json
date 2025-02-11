@@ -1,0 +1,60 @@
+{
+    "sectors": {
+      "TECH": {
+        "name": "Tecnologia",
+        "symbols": ["AAPL", "MSFT", "NVDA", "GOOGL", "META", "TSLA", "AMD", "ORCL", "INTC", "CSCO"]
+      },
+      "FIN": {
+        "name": "Financeiro",
+        "symbols": ["JPM", "BAC", "GS", "C", "WFC", "MS", "AXP", "BRK-B", "USB", "SCHW"]
+      },
+      "HEALTH": {
+        "name": "Saúde",
+        "symbols": ["JNJ", "PFE", "UNH", "MRNA", "LLY", "BMY", "GILD", "ABT", "TMO", "REGN"]
+      },
+      "ENERGY": {
+        "name": "Energia",
+        "symbols": ["XOM", "CVX", "BP", "SLB", "COP", "TTE", "PBR", "EOG", "PSX", "MPC"]
+      },
+      "CONS": {
+        "name": "Consumo",
+        "symbols": ["AMZN", "WMT", "MCD", "KO", "PG", "HD", "NKE", "SBUX", "PEP", "TGT"]
+      },
+      "INDUSTRIAL": {
+        "name": "Industrial",
+        "symbols": ["BA", "CAT", "GE", "MMM", "HON", "LMT", "RTX", "DE", "UPS", "FDX"]
+      },
+      "MATERIALS": {
+        "name": "Materiais",
+        "symbols": ["LIN", "SHW", "APD", "NEM", "FCX", "ECL", "DD", "PPG", "VMC", "MLM"]
+      },
+      "UTILITIES": {
+        "name": "Serviços Públicos",
+        "symbols": ["NEE", "DUK", "SO", "D", "EXC", "AEP", "XEL", "PEG", "WEC", "ED"]
+      },
+      "REAL_ESTATE": {
+        "name": "Imobiliário",
+        "symbols": ["AMT", "PLD", "SPG", "EQIX", "PSA", "O", "VTR", "AVB", "MAA", "BXP"]
+      },
+      "INDEXES": {
+        "name": "Índices",
+        "symbols": ["^GSPC", "^DJI", "^IXIC", "^BVSP", "^RUT", "^VIX"]
+      },
+      "CURRENCIES": {
+        "name": "Moedas",
+        "symbols": ["EURUSD=X", "JPY=X", "GBPUSD=X", "AUDUSD=X", "USDCAD=X", "USDCHF=X"]
+      },
+      "CRYPTO": {
+        "name": "Criptomoedas",
+        "symbols": ["BTC-USD", "ETH-USD", "BNB-USD", "XRP-USD", "ADA-USD", "SOL-USD"]
+      },
+      "ETFS": {
+        "name": "ETFs",
+        "symbols": ["SPY", "QQQ", "VTI", "ARKK", "DIA", "XLF", "XLK", "XLE", "XLV", "XLY"]
+      },
+      "COMMODITIES": {
+        "name": "Commodities",
+        "symbols": ["GLD", "SLV", "COPX", "USO", "CORN", "CANE"]
+      }
+    }
+  }
