@@ -1,0 +1,20 @@
+2025-02-13 08:15:12,062 - __main__ - DEBUG - Starting economic calendar tool execution
+2025-02-13 08:15:12,062 - __main__ - DEBUG - Attempt 1 of 3 to get calendar data
+2025-02-13 08:15:16,290 - __main__ - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-02-13 08:15:36,252 - __main__ - DEBUG - Data successfully obtained for timeFrame_thisWeek
+2025-02-13 08:15:39,699 - __main__ - DEBUG - Data successfully obtained for timeFrame_nextWeek
+2025-02-13 09:27:53,257 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Starting economic calendar tool execution
+2025-02-13 09:27:53,257 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Attempt 1 of 3 to get calendar data
+2025-02-13 09:27:57,406 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-02-13 09:28:35,403 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Data successfully obtained for timeFrame_thisWeek
+2025-02-13 09:28:38,843 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Data successfully obtained for timeFrame_nextWeek
+2025-02-13 17:13:19,705 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Starting economic calendar tool execution
+2025-02-13 17:13:19,705 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Attempt 1 of 3 to get calendar data
+2025-02-13 17:13:24,019 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-02-13 17:14:23,551 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Data successfully obtained for timeFrame_thisWeek
+2025-02-13 17:14:27,006 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Data successfully obtained for timeFrame_nextWeek
+2025-02-13 21:39:21,468 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Starting economic calendar tool execution
+2025-02-13 21:39:21,468 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Attempt 1 of 3 to get calendar data
+2025-02-13 21:39:25,681 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-02-13 21:39:43,934 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Data successfully obtained for timeFrame_thisWeek
+2025-02-13 21:39:47,393 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Data successfully obtained for timeFrame_nextWeek

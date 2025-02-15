@@ -1,0 +1,193 @@
+# Estrutura Detalhada - Equipe de Commodities
+Data: 13/02/2025
+
+## 1. Visão Geral
+A equipe de Commodities é responsável pelo monitoramento e análise de 93 commodities em 7 setores distintos, focando em tendências de mercado, correlações setoriais e oportunidades de trading.
+
+## 2. Estrutura Organizacional
+
+### 2.1 Subequipe de Energia
+#### Escopo de Análise
+- **Produtos Principais:**
+  * Gás Natural (alta volatilidade, +109.35% anual)
+  * Urânio (tendência de queda, -33.59% anual)
+  * Petróleo e derivados
+
+#### Responsabilidades Específicas
+1. **Análise de Oferta e Demanda**
+   - Estoques globais
+   - Capacidade de produção
+   - Sazonalidade
+
+2. **Geopolítica**
+   - Tensões internacionais
+   - Acordos comerciais
+   - Políticas ambientais
+
+3. **Transição Energética**
+   - Impacto de energias renováveis
+   - Políticas de descarbonização
+   - Tendências tecnológicas
+
+### 2.2 Subequipe de Metais
+#### Escopo de Análise
+- **Produtos Principais:**
+  * Metais Preciosos (Ouro: +46.30% anual)
+  * Metais Industriais
+  * Lítio e Metais de Bateria (-21.59% anual)
+
+#### Responsabilidades Específicas
+1. **Análise Técnica**
+   - Padrões de preço
+   - Níveis de suporte/resistência
+   - Momentum
+
+2. **Demanda Industrial**
+   - Setor automotivo
+   - Construção civil
+   - Tecnologia
+
+3. **Tendências Macro**
+   - Correlação com câmbio
+   - Impacto de juros
+   - Hedge inflacionário
+
+### 2.3 Subequipe de Agrícolas
+#### Escopo de Análise
+- **Produtos Principais:**
+  * Café (+132.26% anual)
+  * Algodão (-28.43% anual)
+  * Grãos e Oleaginosas
+
+#### Responsabilidades Específicas
+1. **Análise Climática**
+   - Previsões meteorológicas
+   - Impacto em safras
+   - Eventos extremos
+
+2. **Fundamentos**
+   - Estimativas de safra
+   - Estoques globais
+   - Demanda internacional
+
+3. **Logística**
+   - Custos de transporte
+   - Gargalos logísticos
+   - Infraestrutura
+
+### 2.4 Subequipe de Industriais e Especiais
+#### Escopo de Análise
+- **Produtos Principais:**
+  * Germânio (+76.06% anual)
+  * Carbonato de Sódio (-39.92% anual)
+  * Terras Raras
+
+#### Responsabilidades Específicas
+1. **Análise de Cadeia Produtiva**
+   - Gargalos de produção
+   - Dependências setoriais
+   - Alternativas tecnológicas
+
+2. **Tendências Industriais**
+   - Novas tecnologias
+   - Mudanças regulatórias
+   - Substituição de materiais
+
+### 2.5 Subequipe de Proteínas
+#### Escopo de Análise
+- **Produtos Principais:**
+  * Ovos EUA (+135.94% anual)
+  * Ovos China (-4.54% anual)
+  * Carnes
+
+#### Responsabilidades Específicas
+1. **Análise Sanitária**
+   - Doenças e epidemias
+   - Regulações sanitárias
+   - Certificações
+
+2. **Demanda Global**
+   - Mudanças demográficas
+   - Hábitos alimentares
+   - Renda disponível
+
+### 2.6 Subequipe de Índices e Eletricidade
+#### Escopo de Análise
+- **Produtos Principais:**
+  * Créditos de Carbono (+37.22% anual)
+  * Energia Solar (-28.01% anual)
+  * Eletricidade (Espanha: +155.72%, França: -1.32%)
+
+#### Responsabilidades Específicas
+1. **Análise Regulatória**
+   - Políticas ambientais
+   - Mercado de carbono
+   - Incentivos governamentais
+
+2. **Matriz Energética**
+   - Composição por fonte
+   - Custos de geração
+   - Capacidade instalada
+
+## 3. Metodologia de Análise
+
+### 3.1 Análise Quantitativa
+- Modelagem de preços
+- Análise de volatilidade
+- Correlações intersetoriais
+
+### 3.2 Análise Qualitativa
+- Fatores geopolíticos
+- Mudanças regulatórias
+- Tendências de longo prazo
+
+### 3.3 Ferramentas
+- commodity_monitor_tool.py
+- Sistemas de previsão climática
+- Modelos de otimização
+
+## 4. Integração com Outras Equipes
+
+### 4.1 Equipe Macro
+- Impacto no crescimento global
+- Pressões inflacionárias
+- Políticas comerciais
+
+### 4.2 Equipe de Câmbio
+- Correlação com dólar
+- Impacto nos termos de troca
+- Fluxos comerciais
+
+### 4.3 Equipe de Renda Fixa
+- Impacto nos países exportadores
+- Risco soberano
+- Política monetária
+
+## 5. Produtos e Deliverables
+
+### 5.1 Relatórios
+- Daily Commodity Update
+- Weekly Sector Analysis
+- Monthly Strategic View
+
+### 5.2 Alertas
+- Movimentos significativos
+- Eventos climáticos
+- Riscos geopolíticos
+
+## 6. KPIs e Métricas
+
+### 6.1 Métricas de Performance
+- Acurácia de previsões
+- Tempo de resposta
+- Qualidade das análises
+
+### 6.2 Métricas de Processo
+- Cobertura de mercado
+- Tempestividade
+- Integração com outras equipes
+
+### 6.3 Métricas de Impacto
+- ROI das recomendações
+- Satisfação dos usuários
+- Contribuição estratégica

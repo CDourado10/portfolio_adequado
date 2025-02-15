@@ -1,0 +1,42 @@
+SUMÁRIO DOS DADOS ECONÔMICOS DE GOIÁS
+
+ECONOMIA
+PRODUTO INTERNO BRUTO
+- Tabela 79: PIB a preço de mercado corrente e per capita (Goiás, Centro-Oeste e Brasil)
+- Tabela 80: Participação no PIB do Brasil a preços correntes (%)
+- Tabela 81: Taxa de variação do PIB em relação ao ano anterior
+- Tabela 82: PIB trimestral comparativo (Goiás e Brasil)
+- Tabela 83: Ranking do PIB entre as Unidades da Federação
+
+ÍNDICES INFLACIONÁRIOS
+- Tabela 84: IPCA - Variação mensal, acumulada no ano e nos últimos 12 meses
+- Tabela 85: INPC - Variação mensal, acumulada no ano e nos últimos 12 meses
+
+AGRICULTURA
+- Tabela 86-97: Área plantada, produção e rendimento médio das principais culturas
+  * Soja, Milho, Cana-de-açúcar
+  * Sorgo, Feijão, Tomate
+  * Arroz, Mandioca, entre outras
+
+PECUÁRIA
+- Tabela 98: Principais rebanhos e produção de leite (Goiás, Centro-Oeste e Brasil)
+
+EMPRESAS E SERVIÇOS
+- Tabelas sobre estabelecimentos comerciais
+- Dados sobre prestação de serviços
+- Informações sobre o setor bancário
+
+COMÉRCIO EXTERIOR
+- Dados sobre exportações e importações
+- Principais produtos comercializados
+- Principais parceiros comerciais
+
+INDÚSTRIA
+BALANÇA COMERCIAL
+FINANÇAS PÚBLICAS
+
+OBSERVAÇÕES:
+1. Os dados são extraídos do documento "Goiás em Dados 2023"
+2. As tabelas estão organizadas por setor econômico
+3. Cada tabela contém séries históricas para análise comparativa
+4. Os dados permitem comparação com outras regiões e com o Brasil

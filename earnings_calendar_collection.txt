@@ -1,0 +1,65 @@
+```
+Structured Earnings Base:
+
+1. Company: **Coca-Cola (KO)**
+   - Market Cap: $296.3B
+   - EPS Expectation: $0.52 (Actual: $0.55, +5.8%)
+   - Revenue Expectation: $10.70B (Actual: $11.50B, +7.5%)
+   - Release Timing: Before market open
+
+2. Company: **Cisco (CSCO)**
+   - Market Cap: $258.4B
+   - EPS Expectation: $0.91 (Actual: $0.94, +3.3%)
+   - Revenue Expectation: $13.87B (Actual: $14.00B, +0.9%)
+   - Release Timing: N/A
+
+3. Company: **McDonald’s (MCD)**
+   - Market Cap: $221.1B
+   - EPS Expectation: $2.90 (Actual: $2.83, -2.4%)
+   - Revenue Expectation: $6.51B (Actual: $6.39B, -1.8%)
+   - Release Timing: Before market open
+
+4. Company: **Grupo Aval (AVAL)**
+   - Market Cap: $322.4B
+   - EPS Expectation: $0.06 (Actual: N/A)
+   - Revenue Expectation: $1.06B (Actual: N/A)
+   - Release Timing: N/A
+
+5. Company: **Applovin (APP)**
+   - Market Cap: $173.5B
+   - EPS Expectation: $1.25 (Actual: $1.73, +38.4%)
+   - Revenue Expectation: $1.26B (Actual: $1.37B, +8.7%)
+   - Release Timing: N/A
+
+6. Company: **Shopify Inc (SHOP)**
+   - Market Cap: $166.2B
+   - EPS Expectation: $0.43 (Actual: $0.44, +2.3%)
+   - Revenue Expectation: $2.73B (Actual: $2.81B, +2.9%)
+   - Release Timing: Before market open
+
+7. Company: **S&P Global (SPGI)**
+   - Market Cap: $166.1B
+   - EPS Expectation: $3.36 (Actual: $3.77, +12.2%)
+   - Revenue Expectation: $3.43B (Actual: $3.59B, +4.7%)
+   - Release Timing: Before market open
+  
+8. Company: **BHP Group Ltd ADR (BHP)**
+   - Market Cap: $131.8B
+   - EPS Expectation: $2.33 (Actual: N/A)
+   - Revenue Expectation: N/A (Actual: N/A)
+   - Release Timing: N/A
+
+9. Company: **Arista Networks (ANET)**
+   - Market Cap: $134.6B
+   - EPS Expectation: $2.26 (Actual: N/A)
+   - Revenue Expectation: $1.90B (Actual: N/A)
+   - Release Timing: N/A
+
+10. Company: **Essilor International SA (ESLOY)**
+    - Market Cap: $141.1B
+    - EPS Expectation: N/A (Actual: N/A)
+    - Revenue Expectation: $7.21B (Actual: $7.07B, -1.9%)
+    - Release Timing: N/A
+```
+
+This structured earnings base includes the top 10 companies according to market cap, their EPS and Revenue expectations, release timings, and relevant company history.

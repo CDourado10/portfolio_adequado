@@ -1,0 +1,58 @@
+# Preprocessing Tasks
+data_cleaning:
+  name: "Clean and Standardize Data"
+  description: >
+    Process news data from MultiSourceMarketNews and TopicalNewsAnalyzer
+    to remove duplicates, standardize formats, and filter out noise
+    or irrelevant content.
+  expected_output: >
+    Cleaned JSON array with standardized fields, no duplicates,
+    and enriched metadata including reliability scores.
+
+initial_categorization:
+  name: "Perform Initial Categorization"
+  description: >
+    Categorize news items by topic, assign priority levels, and
+    perform basic sentiment pre-screening.
+  expected_output: >
+    Categorized news items with topic tags, priority scores,
+    and preliminary sentiment indicators.
+
+# Analysis Tasks
+trend_identification:
+  name: "Identify Market Trends"
+  description: >
+    Analyze patterns and correlations across news items to identify
+    emerging market trends and potential opportunities or risks.
+    Incorporates sentiment analysis from TopicalNewsAnalyzer.
+  expected_output: >
+    Report of identified trends, their significance, supporting
+    evidence, and potential market implications.
+
+impact_assessment:
+  name: "Assess Market Impact"
+  description: >
+    Evaluate the potential impact of news and trends on different
+    market sectors and stakeholders. Uses sentiment scores and
+    trend analysis to gauge severity.
+  expected_output: >
+    Impact assessment matrix showing affected sectors, severity
+    levels, and recommended actions.
+
+# Reporting Tasks
+insight_generation:
+  name: "Generate Comprehensive Analysis Report"
+  description: >
+    Synthesize all analyses into a comprehensive report with
+    actionable insights, detailed findings, and strategic
+    recommendations. Includes sentiment analysis results,
+    trend identification, and impact assessments.
+  expected_output: >
+    Complete analysis report with:
+    - Executive summary
+    - Detailed findings and insights
+    - Supporting data and analysis
+    - Strategic recommendations
+    - Sentiment analysis overview
+    - Trend analysis results
+    - Impact assessment conclusions

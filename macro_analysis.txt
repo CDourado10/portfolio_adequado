@@ -1,0 +1,75 @@
+**Economic Events Analysis Report**
+
+**1. Variation Assessment**
+
+- **Core CPI (MoM) (Jan)**  
+  - **Market Expectations:** 0.3%  
+  - **Actual:** 0.4%  
+  - **Previous:** 0.2%  
+  - **Variation:** +0.1%
+
+- **CPI (MoM) (Jan)**  
+  - **Market Expectations:** 0.3%  
+  - **Actual:** 0.5%  
+  - **Previous:** 0.4%  
+  - **Variation:** +0.2%
+
+- **CPI (YoY) (Jan)**  
+  - **Market Expectations:** 2.9%  
+  - **Actual:** 3.0%  
+  - **Previous:** 2.9%  
+  - **Variation:** +0.1%
+
+- **Crude Oil Inventories**  
+  - **Market Expectations:** 2.400M  
+  - **Actual:** 4.070M  
+  - **Previous:** 8.664M  
+  - **Variation:** +1.670M
+
+- **GDP (YoY) (Q4) - UK**  
+  - **Market Expectations:** 1.1%  
+  - **Actual:** 1.4%  
+  - **Previous:** 1.0%  
+  - **Variation:** +0.3%
+
+- **GDP (QoQ) (Q4) - UK**  
+  - **Market Expectations:** -0.1%  
+  - **Actual:** 0.1%  
+  - **Previous:** 0.0%  
+  - **Variation:** +0.2%
+
+- **Initial Jobless Claims - US**  
+  - **Market Expectations:** 217K  
+  - **Actual:** 213K  
+  - **Previous:** 220K  
+  - **Variation:** -4K
+
+- **PPI (MoM) (Jan) - US**  
+  - **Market Expectations:** 0.3%  
+  - **Actual:** 0.4%  
+  - **Previous:** 0.5%  
+  - **Variation:** +0.1%
+
+**2. Indicator Context**
+
+The economic indicators released in mid to late February 2025 reflect a context of rising inflation pressures, with significant upticks in the CPI and Core CPI figures exceeding market expectations. This inflationary trend can be attributed to persistent supply chain disruptions, increased consumer demand, and higher energy prices, particularly exemplified by the substantial increase in crude oil inventories.
+
+The higher-than-expected UK GDP growth coupled with a favorable jobless claims report from the US suggests improving economic conditions in the West, which may further encourage potential tightening measures by the Federal Reserve, Bank of England, and other central banks.
+
+**3. Typical Observed Impacts**
+
+Inflation readings above expectations often motivate central banks to consider tightening monetary policy, which can lead to higher interest rates. The market typically reacts to such signals with a sell-off in equities, as higher rates tend to suppress growth prospects. The positive GDP figures from the UK may lead to speculation of a rate hike by the Bank of England which would potentially strengthen the British pound but also trigger an adverse reaction in bond markets.
+
+Crude oil inventory data revealing a surplus can suppress oil prices, affecting related sectors and inflation expectations negatively. This may also indicate lower future inflation attitudes, which could temper central bank hawkishness.
+
+**4. Correlated Indicators**
+
+- **Interest Rates:** Movements in CPI and PPI directly influence expectations surrounding future interest rate adjustments by central banks. The higher-than-expected CPI inflates rate hike expectations.
+  
+- **Bond Yields:** The 10-Year and 30-Year bond auctions showed a decrease in yields, reflecting a risk-off sentiment as investors seek safety amid rising inflation. Continued inflation may pressure yields upward as markets anticipate rate hikes.
+
+- **Employment Data:** The decrease in initial jobless claims signals a tighter labor market, which is often correlated with rising wages and inflation.
+
+- **Oil Prices:** Higher crude oil inventories tend to correlate inversely with oil prices. Increased inventories can signal weak demand or a supply abundance, creating price pressures that influence overall inflation trends.
+
+In conclusion, the economic events and their outcomes suggest potentially stronger inflation ahead, influencing central bank policies across major economies. Investors should prepare for volatility in equity markets, shifts in currency valuations, and potential adjustments in bond yields as central banks respond to these inflationary pressures.

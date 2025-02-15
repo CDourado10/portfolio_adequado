@@ -1,0 +1,51 @@
+**Commodity Market Overview Report**
+
+**Date:** February 15, 2025
+
+**Sector Performance:**
+1. **Energy:**
+   - Best Performer: Natural Gas - Price: 3.725 USD/MMBtu, Daily Change: 🟢 2.67%
+   - Worst Performer: Uranium - Price: 66.45 USD/Lbs, Daily Change: 🔴 -1.56%
+   
+2. **Metals:**
+   - Best Performer: Gold - Price: 2880.76 USD/t.oz, Daily Change: 🔴 -1.73%
+   - Worst Performer: Lithium - Price: 76250.0 CNY/T, Daily Change: 🔴 -0.26%
+   
+3. **Agricultural:**
+   - Best Performer: Coffee - Price: 419.67 USd/Lbs, Daily Change: 🔴 -3.16%
+   - Worst Performer: Cotton - Price: 67.14 USd/Lbs, Daily Change: 🟢 0.39%
+   
+4. **Industrial:**
+   - Best Performer: Germanium - Price: 16550.0 CNY/Kg, Daily Change: ⚪ 0.00%
+   - Worst Performer: Soda Ash - Price: 1424.0 CNY/T, Daily Change: ⚪ 0.00%
+   
+5. **Livestock:**
+   - Best Performer: Eggs US - Price: 7.74 USD/Dozen, Daily Change: 🟢 0.76%
+   - Worst Performer: Eggs CH - Price: 3115.0 CNY/T, Daily Change: ⚪ 0.00%
+   
+6. **Index:**
+   - Best Performer: EU Carbon Permits - Price: 79.75 EUR, Daily Change: 🟢 2.18%
+   - Worst Performer: Solar Energy Index - Price: 34.55 USD, Daily Change: 🟢 2.55%
+   
+7. **Electricity:**
+   - Best Performer: Spain - Price: 121.07 EUR/MWh, Daily Change: 🔴 -7.57%
+   - Worst Performer: France - Price: 67.9 EUR/MWh, Daily Change: 🔴 -2.58%
+
+**Major Price Movements:**
+- Natural gas and Gold show significant price movements providing insight into market dynamics.
+- Uranium and Lithium indicate possible market corrections given their downward trends.
+
+**Supply/Demand Signals:**
+- The strong demand for Natural Gas alongside the increase in volatility for Coffee suggests intense supply/demand dynamics.
+- The demand for Gold remains stable, but significant price drop indicates potential sell-offs or shifts in market sentiment.
+
+**Spread Analysis:**
+- An examination of the performance between Natural Gas and Uranium may reveal potential arbitrage opportunities given their inverse performance trends.
+- Comparing Gold and Silver prices can yield insights for those interested in precious metal spreads.
+
+**Market Structure Changes:**
+- The significant increases for EU Carbon Permits and higher volatility in Coffee prices indicate potential shifts in market strategies affecting broader market structures.
+- The performance divergence between Eggs US and Eggs CH highlights structural changes in agricultural sectors, possibly due to varying demand levels.
+
+This report provides a comprehensive view of the current commodity landscape, detailing key movements, volatility trends, and market dynamics at play.
+```

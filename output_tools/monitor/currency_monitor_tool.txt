@@ -1,0 +1,274 @@
+💱 **CURRENCY MONITOR** 💱
+
+🕒 Query Date: 02/13/2025 19:25
+📊 Monitoring 27 currency pairs
+
+💱 **EURUSD**
+💰 Price: 1.0465
+📊 Daily: ⚪ 0.00% (+0.0001)
+📈 Changes:
+  • Weekly: 🟢 +0.78%
+  • Monthly: 🟢 +1.52%
+  • YTD: 🟢 +1.03%
+  • Year: 🔴 -2.42%
+🕒 Last Update: Feb/14
+
+💱 **GBPUSD**
+💰 Price: 1.2564
+📊 Daily: 🟢 +0.01% (+0.0001)
+📈 Changes:
+  • Weekly: 🟢 +1.03%
+  • Monthly: 🟢 +2.85%
+  • YTD: 🟢 +0.36%
+  • Year: 🔴 -0.01%
+🕒 Last Update: Feb/14
+
+💱 **AUDUSD**
+💰 Price: 0.6318
+📊 Daily: ⚪ 0.00% (+0.0000)
+📈 Changes:
+  • Weekly: 🟢 +0.56%
+  • Monthly: 🟢 +1.99%
+  • YTD: 🟢 +2.07%
+  • Year: 🔴 -2.66%
+🕒 Last Update: Feb/14
+
+💱 **NZDUSD**
+💰 Price: 0.5676
+📊 Daily: 🟢 +0.44% (+0.0025)
+📈 Changes:
+  • Weekly: 🟢 +0.28%
+  • Monthly: 🟢 +1.14%
+  • YTD: 🟢 +1.49%
+  • Year: 🔴 -7.03%
+🕒 Last Update: Feb/14
+
+💱 **USDJPY**
+💰 Price: 152.8410
+📊 Daily: 🟢 +0.02% (+0.0380)
+📈 Changes:
+  • Weekly: 🟢 +0.95%
+  • Monthly: 🔴 -3.24%
+  • YTD: 🔴 -2.87%
+  • Year: 🟢 +1.52%
+🕒 Last Update: Feb/14
+
+💱 **USDCNY**
+💰 Price: 7.2715
+📊 Daily: 🟢 +0.01% (+0.0010)
+📈 Changes:
+  • Weekly: 🔴 -0.24%
+  • Monthly: 🔴 -0.98%
+  • YTD: 🔴 -0.90%
+  • Year: 🟢 +0.68%
+🕒 Last Update: Feb/14
+
+💱 **USDCHF**
+💰 Price: 0.9030
+📊 Daily: 🔴 -0.01% (+0.0001)
+📈 Changes:
+  • Weekly: 🔴 -0.23%
+  • Monthly: 🔴 -1.05%
+  • YTD: 🔴 -0.48%
+  • Year: 🟢 +1.94%
+🕒 Last Update: Feb/14
+
+💱 **USDCAD**
+💰 Price: 1.4192
+📊 Daily: 🔴 -0.79% (+0.0114)
+📈 Changes:
+  • Weekly: 🔴 -0.80%
+  • Monthly: 🔴 -1.09%
+  • YTD: 🔴 -1.29%
+  • Year: 🟢 +4.81%
+🕒 Last Update: Feb/13
+
+💱 **USDMXN**
+💰 Price: 20.4059
+📊 Daily: 🔴 -0.02% (+0.0031)
+📈 Changes:
+  • Weekly: 🔴 -0.26%
+  • Monthly: 🔴 -0.53%
+  • YTD: 🔴 -2.13%
+  • Year: 🟢 +19.52%
+🕒 Last Update: Feb/14
+
+💱 **USDINR**
+💰 Price: 86.6910
+📊 Daily: 🔴 -0.33% (+0.2909)
+📈 Changes:
+  • Weekly: 🔴 -1.02%
+  • Monthly: 🟢 +0.19%
+  • YTD: 🟢 +1.30%
+  • Year: 🟢 +4.40%
+🕒 Last Update: Feb/13
+
+💱 **USDBRL**
+💰 Price: 5.7673
+📊 Daily: 🟢 +0.01% (+0.0007)
+📈 Changes:
+  • Weekly: 🟢 +0.08%
+  • Monthly: 🔴 -4.76%
+  • YTD: 🔴 -6.74%
+  • Year: 🟢 +16.07%
+🕒 Last Update: Feb/13
+
+💱 **USDRUB**
+💰 Price: 89.5001
+📊 Daily: 🔴 -4.78% (+4.4955)
+📈 Changes:
+  • Weekly: 🔴 -7.49%
+  • Monthly: 🔴 -12.85%
+  • YTD: 🔴 -21.14%
+  • Year: 🔴 -2.34%
+🕒 Last Update: Feb/13
+
+💱 **USDKRW**
+💰 Price: 1440.1900
+📊 Daily: 🔴 -0.80% (+11.5500)
+📈 Changes:
+  • Weekly: 🔴 -0.41%
+  • Monthly: 🔴 -1.37%
+  • YTD: 🔴 -2.57%
+  • Year: 🟢 +8.29%
+🕒 Last Update: Feb/13
+
+💱 **DXY**
+💰 Price: 107.1110
+📊 Daily: 🔴 -0.77% (+0.8270)
+📈 Changes:
+  • Weekly: 🔴 -0.54%
+  • Monthly: 🔴 -1.98%
+  • YTD: 🔴 -1.27%
+  • Year: 🟢 +2.28%
+🕒 Last Update: Feb/13
+
+💱 **USDTRY**
+💰 Price: 36.1876
+📊 Daily: 🟢 +0.26% (+0.0940)
+📈 Changes:
+  • Weekly: 🟢 +0.91%
+  • Monthly: 🟢 +2.02%
+  • YTD: 🟢 +2.41%
+  • Year: 🟢 +17.74%
+🕒 Last Update: Feb/13
+
+💱 **USDSEK**
+💰 Price: 10.7361
+📊 Daily: 🔴 -0.03% (+0.0037)
+📈 Changes:
+  • Weekly: 🔴 -1.52%
+  • Monthly: 🔴 -3.92%
+  • YTD: 🔴 -2.96%
+  • Year: 🟢 +1.97%
+🕒 Last Update: Feb/14
+
+💱 **USDPLN**
+💰 Price: 3.9863
+📊 Daily: 🔴 -0.59% (+0.0235)
+📈 Changes:
+  • Weekly: 🔴 -1.20%
+  • Monthly: 🔴 -3.64%
+  • YTD: 🔴 -3.49%
+  • Year: 🔴 -1.39%
+🕒 Last Update: Feb/13
+
+💱 **USDNOK**
+💰 Price: 11.1478
+📊 Daily: 🟢 +0.03% (+0.0039)
+📈 Changes:
+  • Weekly: 🔴 -0.57%
+  • Monthly: 🔴 -2.00%
+  • YTD: 🔴 -2.08%
+  • Year: 🟢 +5.40%
+🕒 Last Update: Feb/14
+
+💱 **USDZAR**
+💰 Price: 18.5054
+📊 Daily: 🔴 -0.11% (+0.0200)
+📈 Changes:
+  • Weekly: 🟢 +0.42%
+  • Monthly: 🔴 -2.10%
+  • YTD: 🔴 -1.83%
+  • Year: 🔴 -2.76%
+🕒 Last Update: Feb/13
+
+💱 **USDDKK**
+💰 Price: 7.1277
+📊 Daily: 🔴 -0.02% (+0.0012)
+📈 Changes:
+  • Weekly: 🔴 -0.81%
+  • Monthly: 🔴 -1.52%
+  • YTD: 🔴 -0.99%
+  • Year: 🟢 +2.58%
+🕒 Last Update: Feb/14
+
+💱 **USDSGD**
+💰 Price: 1.3436
+📊 Daily: 🔴 -0.01% (+0.0001)
+📈 Changes:
+  • Weekly: 🔴 -0.54%
+  • Monthly: 🔴 -1.70%
+  • YTD: 🔴 -1.62%
+  • Year: 🔴 -0.35%
+🕒 Last Update: Feb/14
+
+💱 **USDILS**
+💰 Price: 3.5660
+📊 Daily: 🟢 +0.01% (+0.0003)
+📈 Changes:
+  • Weekly: 🟢 +0.41%
+  • Monthly: 🔴 -1.89%
+  • YTD: 🔴 -1.97%
+  • Year: 🔴 -2.20%
+🕒 Last Update: Feb/14
+
+💱 **USDHKD**
+💰 Price: 7.7881
+📊 Daily: ⚪ 0.00% (+0.0001)
+📈 Changes:
+  • Weekly: 🟢 +0.02%
+  • Monthly: 🟢 +0.02%
+  • YTD: 🟢 +0.28%
+  • Year: 🔴 -0.39%
+🕒 Last Update: Feb/14
+
+💱 **USDCLP**
+💰 Price: 944.0100
+📊 Daily: 🔴 -1.31% (+12.4900)
+📈 Changes:
+  • Weekly: 🔴 -1.94%
+  • Monthly: 🔴 -6.19%
+  • YTD: 🔴 -5.07%
+  • Year: 🔴 -1.44%
+🕒 Last Update: Feb/13
+
+💱 **USDPKR**
+💰 Price: 279.7290
+📊 Daily: 🟢 +0.27% (+0.7390)
+📈 Changes:
+  • Weekly: 🟢 +0.27%
+  • Monthly: 🟢 +0.41%
+  • YTD: 🟢 +0.49%
+  • Year: 🟢 +0.26%
+🕒 Last Update: Feb/13
+
+💱 **USDCZK**
+💰 Price: 23.9245
+📊 Daily: 🟢 +0.01% (+0.0030)
+📈 Changes:
+  • Weekly: 🔴 -0.99%
+  • Monthly: 🔴 -2.45%
+  • YTD: 🔴 -1.65%
+  • Year: 🟢 +1.22%
+🕒 Last Update: Feb/14
+
+💱 **USDHUF**
+💰 Price: 384.9880
+📊 Daily: 🟢 +0.18% (+0.6870)
+📈 Changes:
+  • Weekly: 🔴 -1.22%
+  • Monthly: 🔴 -3.67%
+  • YTD: 🔴 -3.07%
+  • Year: 🟢 +6.32%
+🕒 Last Update: Feb/14

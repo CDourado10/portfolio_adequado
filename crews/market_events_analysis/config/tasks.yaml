@@ -1,0 +1,108 @@
+# Processing Tasks
+collect_economic_calendar:
+  name: "Collect Economic Events"
+  description: >
+    Collect and organize economic events:
+    - Macroeconomic events
+    - Economic indicators
+    - Important speeches and meetings
+    - Importance classification
+  expected_output: >
+    Structured economic events base:
+    - Events organized by date/time
+    - Event importance level
+    - Market expectations
+    - Indicator historical data
+
+collect_earnings_calendar:
+  name: "Collect Earnings Calendar"
+  description: >
+    Collect and organize corporate results:
+    - Reporting companies
+    - Market cap and sector
+    - Market expectations
+    - Result timing (pre/post market)
+  expected_output: >
+    Structured earnings base:
+    - Companies ordered by market cap
+    - EPS and Revenue expectations
+    - Release timing
+    - Recent company history
+
+# Macroeconomic Analysis Tasks
+macro_analysis:
+  name: "Macroeconomic Events Analysis"
+  description: >
+    Analyze economic events:
+    - Variations vs expectations
+    - Indicator context
+    - Typical historical impact
+    - Relation with other indicators
+  expected_output: >
+    Detailed analysis containing:
+    - Variation assessment
+    - Indicator context
+    - Typical observed impacts
+    - Correlated indicators
+
+macro_trends:
+  name: "Indicator Trends Analysis"
+  description: >
+    Analyze trends in indicators:
+    - Current data direction
+    - Trend changes
+    - Forming patterns
+    - Indicator correlations
+  expected_output: >
+    Trends report with:
+    - Identified trends
+    - Change points
+    - Relevant patterns
+    - Observed correlations
+
+# Corporate Analysis Tasks
+earnings_analysis:
+  name: "Corporate Earnings Analysis"
+  description: >
+    Analyze business results:
+    - Variations vs consensus
+    - Main highlights
+    - Direct sector impact
+    - Observed trends
+  expected_output: >
+    Detailed analysis with:
+    - Variation assessment
+    - Main points
+    - Direct impacts
+    - Identified trends
+
+sector_impact:
+  name: "Sector Impact Analysis"
+  description: >
+    Analyze impacts on sectors:
+    - Results effect on sector
+    - Sector trends
+    - Structural changes
+    - Sector correlations
+  expected_output: >
+    Sector report with:
+    - Identified impacts
+    - Sector trends
+    - Observed changes
+    - Relevant correlations
+
+# Integration Task
+analysis_integration:
+  name: "Event Analysis Integration"
+  description: >
+    Integrate event analyses:
+    - Consolidated view
+    - Identified interrelations
+    - Combined impacts
+    - Attention points
+  expected_output: >
+    Integrated report with:
+    - Event overview
+    - Important correlations
+    - Consolidated impacts
+    - Relevant alerts

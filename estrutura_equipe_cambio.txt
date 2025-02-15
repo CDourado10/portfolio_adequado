@@ -1,0 +1,169 @@
+# Estrutura Detalhada - Equipe de Câmbio
+Data: 13/02/2025
+
+## 1. Visão Geral
+A equipe de Câmbio é responsável pelo monitoramento e análise de 27 pares de moedas, com foco em tendências globais, impactos regionais e correlações com outros ativos.
+
+## 2. Estrutura Organizacional
+
+### 2.1 Subequipe de Moedas Principais (G4)
+#### Escopo de Análise
+- **Pares Principais:**
+  * EUR/USD (-3.12% anual)
+  * USD/JPY (+2.17% anual)
+  * GBP/USD (-0.76% anual)
+  * USD/CHF (+2.48% anual)
+
+#### Responsabilidades Específicas
+1. **Análise de Política Monetária**
+   - Decisões dos BCs principais
+   - Diferencial de juros
+   - Forward guidance
+
+2. **Fluxos Globais**
+   - Fluxos de capital
+   - Posicionamento de mercado
+   - Hedge flows
+
+3. **Correlações Macro**
+   - Índice DXY (+2.97% anual)
+   - Taxas de juros
+   - Mercado acionário
+
+### 2.2 Subequipe de Moedas Emergentes
+#### Escopo de Análise
+- **Pares Principais:**
+  * USD/BRL (+16.47% anual)
+  * USD/MXN (+20.86% anual)
+  * USD/TRY (+17.47% anual)
+  * USD/RUB (-0.43% anual)
+  * USD/ZAR (-2.68% anual)
+
+#### Responsabilidades Específicas
+1. **Análise de Risco**
+   - Risco político
+   - Fluxos de comércio
+   - Reservas internacionais
+
+2. **Fundamentos Locais**
+   - Balanço de pagamentos
+   - Política fiscal
+   - Crescimento econômico
+
+3. **Correlações com Commodities**
+   - Exportadores de commodities
+   - Termos de troca
+   - Preços de energia
+
+### 2.3 Subequipe de Ásia-Pacífico
+#### Escopo de Análise
+- **Pares Principais:**
+  * AUD/USD (-3.51% anual)
+  * NZD/USD (-7.48% anual)
+  * USD/CNY (+1.13% anual)
+  * USD/KRW (+9.10% anual)
+  * USD/SGD (+0.20% anual)
+
+#### Responsabilidades Específicas
+1. **Análise China**
+   - Política cambial chinesa
+   - Fluxos comerciais
+   - Intervenções do PBoC
+
+2. **Commodities e Crescimento**
+   - Demanda chinesa
+   - Preços de commodities
+   - Crescimento regional
+
+3. **Integração Regional**
+   - Acordos comerciais
+   - Cadeias de produção
+   - Políticas regionais
+
+### 2.4 Subequipe de Moedas Secundárias
+#### Escopo de Análise
+- **Pares Principais:**
+  * USD/SEK (+3.08% anual)
+  * USD/NOK (+6.56% anual)
+  * USD/DKK (+3.32% anual)
+  * USD/PLN (-0.71% anual)
+  * USD/HUF (+6.86% anual)
+
+#### Responsabilidades Específicas
+1. **Análise Regional**
+   - Política monetária local
+   - Integração com EUR
+   - Fatores específicos
+
+2. **Correlações Intra-região**
+   - Spreads vs EUR
+   - Fluxos regionais
+   - Riscos compartilhados
+
+## 3. Metodologia de Análise
+
+### 3.1 Análise Quantitativa
+- Modelos de fair value
+- Análise técnica
+- Indicadores de momentum
+
+### 3.2 Análise Qualitativa
+- Fatores geopolíticos
+- Mudanças regulatórias
+- Eventos de risco
+
+### 3.3 Ferramentas
+- currency_monitor_tool.py
+- Modelos proprietários
+- Sistemas de alerta
+
+## 4. Integração com Outras Equipes
+
+### 4.1 Equipe Macro
+- Impacto de indicadores
+- Política monetária global
+- Cenários de crescimento
+
+### 4.2 Equipe de Renda Fixa
+- Diferencial de juros
+- Curvas de rendimento
+- Prêmios de risco
+
+### 4.3 Equipe de Commodities
+- Moedas commodity
+- Preços de energia
+- Balanças comerciais
+
+## 5. Produtos e Deliverables
+
+### 5.1 Relatórios
+- Daily FX Update
+- Weekly Currency Strategy
+- Monthly FX Outlook
+
+### 5.2 Alertas
+- Movimentos significativos
+- Eventos de risco
+- Mudanças de tendência
+
+### 5.3 Análises Especiais
+- Estudos de correlação
+- Análises de eventos
+- Deep dives regionais
+
+## 6. KPIs e Métricas
+
+### 6.1 Métricas de Performance
+- Acurácia de previsões
+- Timing de recomendações
+- Qualidade das análises
+
+### 6.2 Métricas de Processo
+- Cobertura de mercado
+- Tempestividade
+- Integração com outras equipes
+
+### 6.3 Métricas de Impacto
+- ROI das recomendações
+- Gestão de risco
+- Valor agregado

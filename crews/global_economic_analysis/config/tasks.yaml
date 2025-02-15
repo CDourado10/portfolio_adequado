@@ -1,0 +1,66 @@
+monetary_policy_analysis:
+  description: >
+    Analyze monetary policy events from last week and next week:
+    
+    1. Scheduled interest rate decisions (Fed, ECB, BoE, BoJ, etc.)
+    2. Important minutes and communications
+    3. Speeches and testimonies from central bank presidents
+    4. Global monetary policy trends and directions
+    
+  expected_output: >
+    Provide a detailed report containing:
+    - Analysis of major central banks' decisions and communications
+    - Interpretation of signals and policy stance changes
+    - Expected impact of monetary policies
+    - Projection of central banks' next steps
+
+macroeconomic_analysis:
+  description: >
+    Analyze the main macroeconomic indicators released:
+    
+    1. Inflation data (CPI, PPI)
+    2. Economic growth (GDP)
+    3. Labor market (unemployment claims)
+    4. Economic activity (manufacturing, services indices)
+    
+  expected_output: >
+    Provide a report containing:
+    - Analysis of main indicators released
+    - Comparison with expectations and previous data
+    - Trends identified in the data
+    - Implications for the global economic scenario
+
+market_impact_analysis:
+  description: >
+    Based on previous analyses of monetary policy and macroeconomic indicators, make a detailed analysis of impacts on financial markets.
+    
+    Specifically analyze:
+    1. Fixed Income Market
+       - Government bonds
+       - Credit spreads
+       - Yield curves
+    
+    2. Currency Market
+       - Major currency pairs (EUR/USD, USD/JPY, GBP/USD)
+       - Emerging market currencies
+       - Exchange rate influence factors
+    
+    3. Commodities Market
+       - Oil and derivatives
+       - Precious metals (gold, silver)
+       - Relevant agricultural commodities
+    
+    4. Stock Market
+       - Major global indices
+       - Most impacted sectors
+       - Expected sector rotation
+    
+    Provide a complete analysis with:
+    1. Direct and indirect impacts on each market
+    2. Important correlations between markets
+    3. Identified opportunities
+    4. Key risks to monitor
+    5. Strategic recommendations
+    
+  expected_output: >
+    Financial Markets Impact Report

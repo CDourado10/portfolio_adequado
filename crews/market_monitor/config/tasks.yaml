@@ -1,0 +1,133 @@
+macro_monitoring:
+  name: "Macroeconomic Data Collection"
+  description: >
+    Monitor and collect data from 23 key macroeconomic indicators,
+    including GDP, inflation rates, employment data, industrial
+    production, and other relevant economic metrics. Focus on
+    significant changes and trend deviations.
+  expected_output: >
+    Filtered macroeconomic report containing:
+    - Key indicator values and changes
+    - Significant deviations from trends
+    - Important economic releases
+    - Market impact assessment
+    - Risk indicators status
+
+bond_monitoring:
+  name: "Government Bond Analysis"
+  description: >
+    Track and analyze 21 government bonds across major markets,
+    monitoring yields, spreads, and curve movements. Focus on
+    significant yield changes and unusual curve behavior.
+  expected_output: >
+    Bond market summary containing:
+    - Key yield changes and levels
+    - Spread analysis
+    - Curve movements
+    - Liquidity conditions
+    - Market stress indicators
+
+currency_monitoring:
+  name: "Currency Market Watch"
+  description: >
+    Monitor 27 major currency pairs, tracking exchange rates,
+    volatility, and significant movements. Focus on major pairs
+    and emerging market currencies performance.
+  expected_output: >
+    Currency market report containing:
+    - Major pair movements
+    - Volatility levels
+    - Trend analysis
+    - Intervention signals
+    - Risk sentiment indicators
+
+commodity_monitoring:
+  name: "Commodity Market Analysis"
+  description: >
+    Track 93 commodities across 7 sectors, monitoring prices,
+    spreads, and market conditions. Focus on major commodities
+    and inter-commodity spreads.
+  expected_output: >
+    Commodity market overview containing:
+    - Sector performance
+    - Major price movements
+    - Supply/demand signals
+    - Spread analysis
+    - Market structure changes
+
+stock_monitoring:
+  name: "Stock Market Surveillance"
+  description: >
+    Monitor 23 major stock indices, tracking price movements,
+    volatility, and market internals. Focus on global market
+    trends and sector rotation.
+  expected_output: >
+    Stock market summary containing:
+    - Index performance
+    - Sector movements
+    - Volatility measures
+    - Market breadth
+    - Technical signals
+
+crypto_monitoring:
+  name: "Cryptocurrency Market Watch"
+  description: >
+    Track 20 major cryptocurrencies, monitoring prices, volume,
+    and network metrics. Focus on market leaders and significant
+    protocol developments.
+  expected_output: >
+    Crypto market report containing:
+    - Price and volume analysis
+    - Network metrics
+    - Protocol updates
+    - Market sentiment
+    - Risk indicators
+
+data_consolidation:
+  name: "Market Data Integration"
+  description: >
+    Consolidate and normalize data from all monitoring tools,
+    preparing a comprehensive market overview for analysis.
+    Identify cross-market patterns and relationships.
+  expected_output: >
+    Integrated market report containing:
+    - Cross-market summary
+    - Key metrics by sector
+    - Notable patterns
+    - Risk assessment
+    - Data quality checks
+
+integrated_market_analysis:
+  name: "Integrated Market Analysis"
+  description: >
+    Perform comprehensive analysis of consolidated data from all markets,
+    including technical, fundamental, and correlation analysis. Identify
+    significant patterns, regime changes, opportunities, and systemic
+    risks. Prioritize information by relevance and potential impact
+    for other teams.
+  expected_output: >
+    Integrated market report containing:
+
+    1. Market Overview:
+       - Summary of key movements
+       - Dominant trends
+       - Relevant technical levels
+       - Liquidity conditions
+
+    2. Correlation and Flow Analysis:
+       - Key market correlations
+       - Significant pattern changes
+       - Relevant capital flows
+       - Identified contagion effects
+
+    3. Risks and Opportunities:
+       - Detected anomalies and outliers
+       - Arbitrage opportunities
+       - System stress points
+       - Important structural changes
+
+    4. Implications and Recommendations:
+       - Cross-market impact
+       - Probable scenarios
+       - Points of attention
+       - Suggestions for other teams

@@ -1,0 +1,49 @@
+```
+**Stock Market Summary Report**
+
+**Date:** February 15, 2025
+
+### Index Performance Metrics
+- **Major Indices:**
+  - **US500**: Price: 6,114.63, Daily Change: 🔴 -0.01%
+  - **US30**: Price: 44,546.00, Daily Change: 🔴 -0.37%
+  - **US100**: Price: 22,115.00, Daily Change: 🟢 +0.38%
+  - **JP225**: Price: 39,149.00, Daily Change: 🔴 -0.79%
+  - **GB100**: Price: 8,732.00, Daily Change: 🔴 -0.37%
+  - **DE40**: Price: 22,513.00, Daily Change: 🔴 -0.44%
+  - **FR40**: Price: 8,179.00, Daily Change: 🟢 +0.18%
+  - **IT40**: Price: 37,978.00, Daily Change: 🟢 +0.18%
+  - **ES35**: Price: 12,956.00, Daily Change: 🟢 +0.15%
+  - **ASX200**: Price: 8,556.00, Daily Change: 🟢 +0.19%
+  - **SHANGHAI**: Price: 3,347.00, Daily Change: 🟢 +0.43%
+  - **SENSEX**: Price: 75,939.00, Daily Change: 🔴 -0.26%
+  - **TSX**: Price: 25,483.00, Daily Change: 🔴 -0.84%
+  - **MOEX**: Price: 3,185.00, Daily Change: 🔴 -0.69%
+  - **IBOVESPA**: Price: 128,219.00, Daily Change: 🟢 +2.70%
+  - **IPC**: Price: 54,061.00, Daily Change: 🔴 -0.27%
+  - **NL25**: Price: 947.00, Daily Change: ⚪ 0.00%
+  - **CH20**: Price: 12,840.00, Daily Change: 🔴 -0.84%
+  - **SAALL**: Price: 88,717.00, Daily Change: 🟢 +1.00%
+  - **STI**: Price: 3,877.00, Daily Change: 🔴 -0.13%
+  - **HK50**: Price: 22,620.00, Daily Change: 🟢 +3.69%
+  - **NZX 50**: Price: 12,989.00, Daily Change: 🟢 +0.64%
+  - **EU50**: Price: 5,491.00, Daily Change: 🔴 -0.17%
+
+### Sector Movements
+- **Top Performers:**
+  - **US100** and **HK50** show positive daily performance, highlighting resilience amidst market fluctuations.
+- **Bottom Performers:**
+  - **JP225** and **SENSEX** are experiencing downward pressure, indicating regional market challenges.
+
+### Volatility Measures
+- Notable volatility is indicated in **US30** and **JP225**, both showing consistent declines, while **US100** remains relatively stable with a slight uptick.
+
+### Market Breadth Indicators
+- Mixed breadth signals: Strong performance in indices like **IBOVESPA** contrasts against declines in **SENSEX** and **MOEX**, indicating polarization in market trends across sectors.
+
+### Technical Signals
+- **US500** and **GB100** both indicate resistance levels being tested, especially with recent downturns, suggesting possible short-term corrections.
+- **US100** shows bullish momentum, which may be a signal for continued upward movement if support levels hold.
+
+This stock market summary provides a snapshot of the current landscape, outlining performance, movements, volatility, breadth, and technical signals to guide investment decisions effectively.
+```

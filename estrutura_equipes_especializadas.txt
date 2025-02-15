@@ -1,0 +1,222 @@
+# Estrutura de Equipes Especializadas para Análise Macroeconômica
+Data: 13/02/2025
+
+## 1. Equipe de Análise Macroeconômica Global
+
+### 1.1 Equipe América do Norte
+- Foco Principal: EUA e impactos nas Américas
+- Indicadores Chave:
+  * GDP e componentes
+  * Inflação e expectativas
+  * Taxa de juros e política monetária
+  * Mercado de trabalho
+- Responsabilidades:
+  * Análise de tendências econômicas regionais
+  * Impacto das políticas do FED
+  * Relações comerciais intra-regionais
+
+### 1.2 Equipe Europa
+- Foco Principal: Zona do Euro e mercados europeus
+- Indicadores Chave:
+  * Políticas do BCE
+  * Integração da UE
+  * Disparidades regionais
+  * Indicadores harmonizados
+- Responsabilidades:
+  * Monitoramento da coesão econômica
+  * Análise de riscos sistêmicos
+  * Impacto das políticas comunitárias
+
+### 1.3 Equipe Ásia-Pacífico
+- Foco Principal: China e mercados asiáticos
+- Indicadores Chave:
+  * Crescimento do PIB
+  * Produção industrial
+  * Balança comercial
+  * Políticas governamentais
+- Responsabilidades:
+  * Análise de políticas econômicas chinesas
+  * Impacto na cadeia global de suprimentos
+  * Relações comerciais regionais
+
+### 1.3 Equipe de Commodities
+- Foco Principal: Análise global de 93 commodities em 7 setores
+- Estrutura Detalhada: Ver arquivo 'estrutura_equipe_commodities.txt'
+- Subequipes:
+  * Energia
+  * Metais
+  * Agrícolas
+  * Industriais e Especiais
+  * Proteínas
+  * Índices e Eletricidade
+- Responsabilidades:
+  * Análise fundamentalista
+  * Monitoramento de preços
+  * Correlações intersetoriais
+
+### 1.4 Equipe de Câmbio
+- Foco Principal: Análise de 27 pares de moedas globais
+- Estrutura Detalhada: Ver arquivo 'estrutura_equipe_cambio.txt'
+- Subequipes:
+  * Moedas Principais (G4)
+  * Moedas Emergentes
+  * Ásia-Pacífico
+  * Moedas Secundárias
+- Responsabilidades:
+  * Análise de tendências
+  * Correlações com outros ativos
+  * Gestão de risco cambial
+
+### 1.5 Equipe de Renda Variável
+- Foco Principal: Análise de 23 índices globais
+- Estrutura Detalhada: Ver arquivo 'estrutura_equipe_renda_variavel.txt'
+- Subequipes:
+  * América do Norte
+  * Europa
+  * Ásia-Pacífico
+  * Mercados Emergentes
+- Responsabilidades:
+  * Análise fundamentalista
+  * Análise técnica
+  * Gestão de risco
+
+### 1.6 Equipe de Criptoativos
+- Foco Principal: Análise de ativos digitais e DeFi
+- Estrutura Detalhada: Ver arquivo 'estrutura_equipe_cripto.txt'
+- Subequipes:
+  * Layer 1 (Bitcoin, Ethereum, outros)
+  * DeFi (Stablecoins e protocolos)
+  * Altcoins (Top market cap e tecnologias específicas)
+- Responsabilidades:
+  * Análise on-chain
+  * Análise técnica
+  * Gestão de risco DeFi
+
+## 2. Equipe de Análise Setorial
+
+### 2.1 Manufatura e Indústria
+- Indicadores Principais:
+  * PMIs globais
+  * Produção industrial
+  * Confiança empresarial
+  * Utilização da capacidade
+- Responsabilidades:
+  * Análise de tendências setoriais
+  * Identificação de gargalos produtivos
+  * Previsão de ciclos industriais
+
+### 2.2 Consumo e Varejo
+- Indicadores Principais:
+  * Vendas no varejo
+  * Confiança do consumidor
+  * Renda pessoal
+  * Emprego setorial
+- Responsabilidades:
+  * Análise de tendências de consumo
+  * Impacto de políticas no varejo
+  * Mudanças comportamentais
+
+### 2.3 Mercado Imobiliário
+- Indicadores Principais:
+  * Licenças de construção
+  * Dados habitacionais
+  * Índices de preços
+- Responsabilidades:
+  * Análise de ciclos imobiliários
+  * Impacto de políticas habitacionais
+  * Tendências regionais
+
+## 3. Equipe de Política Monetária e Fiscal
+
+### 3.1 Política Monetária
+- Indicadores Principais:
+  * Taxas de juros
+  * Inflação
+  * Oferta monetária
+  * Expectativas de mercado
+- Responsabilidades:
+  * Análise de decisões dos BCs
+  * Impacto nas condições financeiras
+  * Previsão de movimentos futuros
+
+### 3.2 Política Fiscal
+- Indicadores Principais:
+  * Orçamento governamental
+  * Dívida/PIB
+  * Alíquotas tributárias
+  * Gastos públicos
+- Responsabilidades:
+  * Análise de sustentabilidade fiscal
+  * Impacto de políticas tributárias
+  * Projeções de dívida pública
+
+## 4. Equipe de Comércio Internacional
+
+### 4.1 Balanço Comercial
+- Indicadores Principais:
+  * Balança comercial
+  * Conta corrente
+  * Termos de troca
+- Responsabilidades:
+  * Análise de fluxos comerciais
+  * Impacto de acordos comerciais
+  * Tendências globais de comércio
+
+### 4.2 Fluxos de Capital
+- Indicadores Principais:
+  * Fluxos de capital
+  * Investimento direto
+  * Investimento em carteira
+- Responsabilidades:
+  * Análise de movimentos de capital
+  * Impacto nas taxas de câmbio
+  * Riscos de fluxos de capital
+
+## 5. Equipe de Renda Fixa e Títulos
+### 5.1 Equipe de Renda Fixa e Títulos
+- Foco Principal: Análise global de títulos governamentais
+- Estrutura Detalhada: Ver arquivo 'estrutura_equipe_renda_fixa.txt'
+- Subequipes:
+  * Mercados Emergentes (High Yield)
+  * Mercados Desenvolvidos - Tier 1
+  * Mercados Desenvolvidos - Tier 2
+- Responsabilidades:
+  * Análise de yields e spreads
+  * Monitoramento de riscos
+  * Correlações com outros mercados
+
+## Integração e Comunicação
+
+- Reuniões diárias de cada subequipe
+- Reuniões semanais entre equipes relacionadas
+- Relatório mensal integrado
+- Sistema de alertas em tempo real
+- Dashboards específicos por equipe
+- Base de dados compartilhada
+
+## Objetivos Principais
+
+1. Análise profunda e especializada por região/setor
+2. Identificação precoce de tendências e riscos
+3. Suporte à tomada de decisão
+4. Geração de relatórios especializados
+5. Manutenção de base de conhecimento
+6. Desenvolvimento de modelos preditivos
+
+## Ferramentas Utilizadas
+
+1. macro_monitor_tool.py - Análise macroeconômica global
+2. bond_monitor_tool.py - Análise de renda fixa
+3. currency_monitor_tool.py - Análise de câmbio
+4. commodity_monitor_tool.py - Análise de commodities
+5. stock_market_monitor_tool.py - Análise de ações
+6. crypto_monitor_tool.py - Análise de criptoativos
+
+## Metodologia de Trabalho
+
+1. Monitoramento contínuo de indicadores
+2. Análise quantitativa e qualitativa
+3. Validação cruzada entre equipes
+4. Atualização constante de modelos
+5. Documentação detalhada de análises
+6. Feedback contínuo entre equipes

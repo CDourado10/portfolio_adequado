@@ -1,0 +1,671 @@
+ **MACROECONOMIC INDICATORS MONITOR** 🌍
+
+🕒 Query Time: 02/13/2025 19:19
+
+
+==================================================
+🏛️ **United States**
+📊 23 indicators monitored
+==================================================
+
+📊 **Currency**
+📈 Current: 🔴 107
+⏮️ Previous: 108
+📊 History:
+  • Maximum: 165
+  • Minimum: 70.7
+🕒 Last Update: Feb/25
+
+----------------------------------------
+
+📊 **Stock Market**
+📈 Current: 🟢 6116 points
+⏮️ Previous: 6052 points
+📊 History:
+  • Maximum: 6130 points
+  • Minimum: 4.4 points
+🕒 Last Update: Feb/25
+
+----------------------------------------
+
+📊 **GDP Growth Rate**
+📈 Current: 🔴 2.3 percent
+⏮️ Previous: 3.1 percent
+📊 History:
+  • Maximum: 35.2 percent
+  • Minimum: -28.1 percent
+🕒 Last Update: Dec/24
+
+----------------------------------------
+
+📊 **GDP Annual Growth Rate**
+📈 Current: 🔴 2.5 percent
+⏮️ Previous: 2.7 percent
+📊 History:
+  • Maximum: 13.4 percent
+  • Minimum: -7.5 percent
+🕒 Last Update: Dec/24
+
+----------------------------------------
+
+📊 **Unemployment Rate**
+📈 Current: 🔴 4 percent
+⏮️ Previous: 4.1 percent
+📊 History:
+  • Maximum: 14.9 percent
+  • Minimum: 2.5 percent
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Non Farm Payrolls**
+📈 Current: 🔴 143 Thousand
+⏮️ Previous: 307 Thousand
+📊 History:
+  • Maximum: 4631 Thousand
+  • Minimum: -20471 Thousand
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Inflation Rate**
+📈 Current: 🟢 3 percent
+⏮️ Previous: 2.9 percent
+📊 History:
+  • Maximum: 23.7 percent
+  • Minimum: -15.8 percent
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Inflation Rate MoM**
+📈 Current: 🟢 0.5 percent
+⏮️ Previous: 0.4 percent
+📊 History:
+  • Maximum: 2 percent
+  • Minimum: -1.8 percent
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Interest Rate**
+📈 Current: ⚪ 4.5 percent
+⏮️ Previous: 4.5 percent
+📊 History:
+  • Maximum: 20 percent
+  • Minimum: 0.25 percent
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Balance of Trade**
+📈 Current: 🔴 -98.43 USD Billion
+⏮️ Previous: -78.94 USD Billion
+📊 History:
+  • Maximum: 1.95 USD Billion
+  • Minimum: -102 USD Billion
+🕒 Last Update: Dec/24
+
+----------------------------------------
+
+📊 **Current Account**
+📈 Current: 🔴 -311 USD Billion
+⏮️ Previous: -275 USD Billion
+📊 History:
+  • Maximum: 9.96 USD Billion
+  • Minimum: -311 USD Billion
+🕒 Last Update: Sep/24
+
+----------------------------------------
+
+📊 **Current Account to GDP**
+📈 Current: 🟢 -3 percent of GDP
+⏮️ Previous: -3.8 percent of GDP
+📊 History:
+  • Maximum: 0.2 percent of GDP
+  • Minimum: -6 percent of GDP
+🕒 Last Update: Dec/23
+
+----------------------------------------
+
+📊 **Government Debt to GDP**
+📈 Current: ⚪ 122 percent of GDP
+⏮️ Previous: 122 percent of GDP
+📊 History:
+  • Maximum: 126 percent of GDP
+  • Minimum: 31.8 percent of GDP
+🕒 Last Update: Dec/23
+
+----------------------------------------
+
+📊 **Government Budget**
+📈 Current: 🔴 -6.2 percent of GDP
+⏮️ Previous: -5.4 percent of GDP
+📊 History:
+  • Maximum: 4.5 percent of GDP
+  • Minimum: -14.7 percent of GDP
+🕒 Last Update: Dec/23
+
+----------------------------------------
+
+📊 **Business Confidence**
+📈 Current: 🟢 50.9 points
+⏮️ Previous: 49.2 points
+📊 History:
+  • Maximum: 77.5 points
+  • Minimum: 29.4 points
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Manufacturing PMI**
+📈 Current: 🟢 51.2 points
+⏮️ Previous: 49.4 points
+📊 History:
+  • Maximum: 63.4 points
+  • Minimum: 36.1 points
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Non Manufacturing PMI**
+📈 Current: 🔴 52.8 points
+⏮️ Previous: 54 points
+📊 History:
+  • Maximum: 67.6 points
+  • Minimum: 37.8 points
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Services PMI**
+📈 Current: 🔴 52.9 points
+⏮️ Previous: 56.8 points
+📊 History:
+  • Maximum: 70.4 points
+  • Minimum: 26.7 points
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Consumer Confidence**
+📈 Current: 🔴 67.8 points
+⏮️ Previous: 71.1 points
+📊 History:
+  • Maximum: 111 points
+  • Minimum: 50 points
+🕒 Last Update: Feb/25
+
+----------------------------------------
+
+📊 **Retail Sales MoM**
+📈 Current: 🔴 0.4 percent
+⏮️ Previous: 0.8 percent
+📊 History:
+  • Maximum: 18.8 percent
+  • Minimum: -14.5 percent
+🕒 Last Update: Dec/24
+
+----------------------------------------
+
+📊 **Building Permits**
+📈 Current: 🔴 1482 Thousand
+⏮️ Previous: 1493 Thousand
+📊 History:
+  • Maximum: 2419 Thousand
+  • Minimum: 513 Thousand
+🕒 Last Update: Dec/24
+
+----------------------------------------
+
+📊 **Corporate Tax Rate**
+📈 Current: ⚪ 21 percent
+⏮️ Previous: 21 percent
+📊 History:
+  • Maximum: 52.8 percent
+  • Minimum: 1 percent
+🕒 Last Update: Dec/25
+
+----------------------------------------
+
+📊 **Personal Income Tax Rate**
+📈 Current: ⚪ 37 percent
+⏮️ Previous: 37 percent
+📊 History:
+  • Maximum: 39.6 percent
+  • Minimum: 35 percent
+🕒 Last Update: Dec/25
+
+----------------------------------------
+
+
+==================================================
+🏛️ **Euro Area**
+📊 20 indicators monitored
+==================================================
+
+📊 **Currency**
+📈 Current: 🟢 1.05
+⏮️ Previous: 1.04
+📊 History:
+  • Maximum: 1.87
+  • Minimum: 0.64
+🕒 Last Update: Feb/25
+
+----------------------------------------
+
+📊 **Stock Market**
+📈 Current: 🟢 5498 points
+⏮️ Previous: 5406 points
+📊 History:
+  • Maximum: 5522 points
+  • Minimum: 616 points
+🕒 Last Update: Feb/25
+
+----------------------------------------
+
+📊 **GDP Growth Rate**
+📈 Current: 🔴 0 percent
+⏮️ Previous: 0.4 percent
+📊 History:
+  • Maximum: 11.7 percent
+  • Minimum: -11.1 percent
+🕒 Last Update: Dec/24
+
+----------------------------------------
+
+📊 **GDP Annual Growth Rate**
+📈 Current: ⚪ 0.9 percent
+⏮️ Previous: 0.9 percent
+📊 History:
+  • Maximum: 15.3 percent
+  • Minimum: -14 percent
+🕒 Last Update: Dec/24
+
+----------------------------------------
+
+📊 **Unemployment Rate**
+📈 Current: 🟢 6.3 percent
+⏮️ Previous: 6.2 percent
+📊 History:
+  • Maximum: 12.2 percent
+  • Minimum: 6.2 percent
+🕒 Last Update: Dec/24
+
+----------------------------------------
+
+📊 **Inflation Rate**
+📈 Current: 🟢 2.5 percent
+⏮️ Previous: 2.4 percent
+📊 History:
+  • Maximum: 10.6 percent
+  • Minimum: -0.6 percent
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Inflation Rate MoM**
+📈 Current: 🔴 -0.3 percent
+⏮️ Previous: 0.4 percent
+📊 History:
+  • Maximum: 2.4 percent
+  • Minimum: -1.5 percent
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Interest Rate**
+📈 Current: 🔴 2.9 percent
+⏮️ Previous: 3.15 percent
+📊 History:
+  • Maximum: 4.75 percent
+  • Minimum: 0 percent
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Balance of Trade**
+📈 Current: 🟢 16354 EUR Million
+⏮️ Previous: 8612 EUR Million
+📊 History:
+  • Maximum: 29946 EUR Million
+  • Minimum: -55074 EUR Million
+🕒 Last Update: Nov/24
+
+----------------------------------------
+
+📊 **Current Account**
+📈 Current: 🟢 34.6 EUR Billion
+⏮️ Previous: 32 EUR Billion
+📊 History:
+  • Maximum: 55 EUR Billion
+  • Minimum: -33.54 EUR Billion
+🕒 Last Update: Nov/24
+
+----------------------------------------
+
+📊 **Current Account to GDP**
+📈 Current: 🟢 1.7 percent of GDP
+⏮️ Previous: 0 percent of GDP
+📊 History:
+  • Maximum: 3.4 percent of GDP
+  • Minimum: -1.8 percent of GDP
+🕒 Last Update: Dec/23
+
+----------------------------------------
+
+📊 **Government Debt to GDP**
+📈 Current: 🔴 87.4 percent of GDP
+⏮️ Previous: 89.5 percent of GDP
+📊 History:
+  • Maximum: 96.5 percent of GDP
+  • Minimum: 66.1 percent of GDP
+🕒 Last Update: Dec/23
+
+----------------------------------------
+
+📊 **Government Budget**
+📈 Current: 🔴 -3.6 percent of GDP
+⏮️ Previous: -3.5 percent of GDP
+📊 History:
+  • Maximum: -0.4 percent of GDP
+  • Minimum: -7.3 percent of GDP
+🕒 Last Update: Dec/23
+
+----------------------------------------
+
+📊 **Business Confidence**
+📈 Current: 🔴 -0.94 points
+⏮️ Previous: -0.91 points
+📊 History:
+  • Maximum: 1.87 points
+  • Minimum: -3.31 points
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Manufacturing PMI**
+📈 Current: 🟢 46.6 points
+⏮️ Previous: 45.1 points
+📊 History:
+  • Maximum: 63.4 points
+  • Minimum: 33.4 points
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Services PMI**
+📈 Current: 🔴 51.3 points
+⏮️ Previous: 51.6 points
+📊 History:
+  • Maximum: 59.8 points
+  • Minimum: 12 points
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Consumer Confidence**
+📈 Current: 🟢 -14.2 points
+⏮️ Previous: -14.5 points
+📊 History:
+  • Maximum: -1.8 points
+  • Minimum: -28.6 points
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Retail Sales MoM**
+📈 Current: 🔴 -0.2 percent
+⏮️ Previous: 0 percent
+📊 History:
+  • Maximum: 19.3 percent
+  • Minimum: -11.3 percent
+🕒 Last Update: Dec/24
+
+----------------------------------------
+
+📊 **Corporate Tax Rate**
+📈 Current: ⚪ 23 percent
+⏮️ Previous: 23 percent
+📊 History:
+  • Maximum: 36.8 percent
+  • Minimum: 23 percent
+🕒 Last Update: Dec/23
+
+----------------------------------------
+
+📊 **Personal Income Tax Rate**
+📈 Current: 🔴 41.8 percent
+⏮️ Previous: 42.7 percent
+📊 History:
+  • Maximum: 49 percent
+  • Minimum: 38.8 percent
+🕒 Last Update: Dec/23
+
+----------------------------------------
+
+
+==================================================
+🏛️ **China**
+📊 22 indicators monitored
+==================================================
+
+📊 **Currency**
+📈 Current: 🔴 7.27
+⏮️ Previous: 7.31
+📊 History:
+  • Maximum: 8.73
+  • Minimum: 1.53
+🕒 Last Update: Feb/25
+
+----------------------------------------
+
+📊 **Stock Market**
+📈 Current: 🔴 3332 points
+⏮️ Previous: 3346 points
+📊 History:
+  • Maximum: 6124 points
+  • Minimum: 95.79 points
+🕒 Last Update: Feb/25
+
+----------------------------------------
+
+📊 **GDP Growth Rate**
+📈 Current: 🟢 1.6 percent
+⏮️ Previous: 1.3 percent
+📊 History:
+  • Maximum: 12.8 percent
+  • Minimum: -10.5 percent
+🕒 Last Update: Dec/24
+
+----------------------------------------
+
+📊 **GDP Annual Growth Rate**
+📈 Current: 🟢 5.4 percent
+⏮️ Previous: 4.6 percent
+📊 History:
+  • Maximum: 18.9 percent
+  • Minimum: -6.8 percent
+🕒 Last Update: Dec/24
+
+----------------------------------------
+
+📊 **Unemployment Rate**
+📈 Current: 🟢 5.1 percent
+⏮️ Previous: 5 percent
+📊 History:
+  • Maximum: 6.2 percent
+  • Minimum: 3.9 percent
+🕒 Last Update: Dec/24
+
+----------------------------------------
+
+📊 **Inflation Rate**
+📈 Current: 🟢 0.5 percent
+⏮️ Previous: 0.1 percent
+📊 History:
+  • Maximum: 28.4 percent
+  • Minimum: -2.2 percent
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Inflation Rate MoM**
+📈 Current: 🟢 0.7 percent
+⏮️ Previous: 0 percent
+📊 History:
+  • Maximum: 2.6 percent
+  • Minimum: -1.8 percent
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Interest Rate**
+📈 Current: ⚪ 3.1 percent
+⏮️ Previous: 3.1 percent
+📊 History:
+  • Maximum: 5.77 percent
+  • Minimum: 3.1 percent
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Cash Reserve Ratio**
+📈 Current: ⚪ 9.5 percent
+⏮️ Previous: 9.5 percent
+📊 History:
+  • Maximum: 21.5 percent
+  • Minimum: 6 percent
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Balance of Trade**
+📈 Current: 🟢 105 USD Billion
+⏮️ Previous: 97.44 USD Billion
+📊 History:
+  • Maximum: 125 USD Billion
+  • Minimum: -61.99 USD Billion
+🕒 Last Update: Dec/24
+
+----------------------------------------
+
+📊 **Current Account**
+📈 Current: 🟢 1476 USD Hundred Million
+⏮️ Previous: 545 USD Hundred Million
+📊 History:
+  • Maximum: 1515 USD Hundred Million
+  • Minimum: -523 USD Hundred Million
+🕒 Last Update: Sep/24
+
+----------------------------------------
+
+📊 **Current Account to GDP**
+📈 Current: 🔴 1.5 percent of GDP
+⏮️ Previous: 2.2 percent of GDP
+📊 History:
+  • Maximum: 10.1 percent of GDP
+  • Minimum: -3.7 percent of GDP
+🕒 Last Update: Dec/23
+
+----------------------------------------
+
+📊 **Government Debt to GDP**
+📈 Current: 🟢 83.4 percent of GDP
+⏮️ Previous: 77.4 percent of GDP
+📊 History:
+  • Maximum: 83.4 percent of GDP
+  • Minimum: 20.6 percent of GDP
+🕒 Last Update: Dec/23
+
+----------------------------------------
+
+📊 **Government Budget**
+📈 Current: 🟢 -5.8 percent of GDP
+⏮️ Previous: -7.4 percent of GDP
+📊 History:
+  • Maximum: 0.58 percent of GDP
+  • Minimum: -8.6 percent of GDP
+🕒 Last Update: Dec/23
+
+----------------------------------------
+
+📊 **Business Confidence**
+📈 Current: 🔴 49.1 points
+⏮️ Previous: 50.1 points
+📊 History:
+  • Maximum: 59.2 points
+  • Minimum: 35.7 points
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Manufacturing PMI**
+📈 Current: 🔴 50.1 points
+⏮️ Previous: 50.5 points
+📊 History:
+  • Maximum: 54.9 points
+  • Minimum: 40.3 points
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Non Manufacturing PMI**
+📈 Current: 🔴 50.2 points
+⏮️ Previous: 52.2 points
+📊 History:
+  • Maximum: 62.2 points
+  • Minimum: 29.6 points
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Services PMI**
+📈 Current: 🔴 51 points
+⏮️ Previous: 52.2 points
+📊 History:
+  • Maximum: 58.4 points
+  • Minimum: 26.5 points
+🕒 Last Update: Jan/25
+
+----------------------------------------
+
+📊 **Consumer Confidence**
+📈 Current: 🔴 86.2 points
+⏮️ Previous: 86.9 points
+📊 History:
+  • Maximum: 127 points
+  • Minimum: 85.5 points
+🕒 Last Update: Nov/24
+
+----------------------------------------
+
+📊 **Retail Sales MoM**
+📈 Current: 🔴 0.12 percent
+⏮️ Previous: 0.16 percent
+📊 History:
+  • Maximum: 4.98 percent
+  • Minimum: -10.77 percent
+🕒 Last Update: Dec/24
+
+----------------------------------------
+
+📊 **Corporate Tax Rate**
+📈 Current: ⚪ 25 percent
+⏮️ Previous: 25 percent
+📊 History:
+  • Maximum: 33 percent
+  • Minimum: 25 percent
+🕒 Last Update: Dec/25
+
+----------------------------------------
+
+📊 **Personal Income Tax Rate**
+📈 Current: ⚪ 45 percent
+⏮️ Previous: 45 percent
+📊 History:
+  • Maximum: 45 percent
+  • Minimum: 45 percent
+🕒 Last Update: Dec/25
+
+----------------------------------------

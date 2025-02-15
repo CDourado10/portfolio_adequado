@@ -1,0 +1,162 @@
+{
+  "events": [
+    {
+      "date": "February 11, 2025",
+      "event": "Fed Chair Powell Testifies",
+      "importance": "High",
+      "marketExpectations": null,
+      "previous": null
+    },
+    {
+      "date": "February 12, 2025",
+      "event": "Core CPI (MoM) (Jan)",
+      "importance": "High",
+      "marketExpectations": "0.3%",
+      "actual": "0.4%",
+      "previous": "0.2%"
+    },
+    {
+      "date": "February 12, 2025",
+      "event": "CPI (MoM) (Jan)",
+      "importance": "High",
+      "marketExpectations": "0.3%",
+      "actual": "0.5%",
+      "previous": "0.4%"
+    },
+    {
+      "date": "February 12, 2025",
+      "event": "CPI (YoY) (Jan)",
+      "importance": "High",
+      "marketExpectations": "2.9%",
+      "actual": "3.0%",
+      "previous": "2.9%"
+    },
+    {
+      "date": "February 12, 2025",
+      "event": "Fed Chair Powell Testifies (second instance)",
+      "importance": "High",
+      "marketExpectations": null,
+      "previous": null
+    },
+    {
+      "date": "February 12, 2025",
+      "event": "Crude Oil Inventories",
+      "importance": "High",
+      "marketExpectations": "2.400M",
+      "actual": "4.070M",
+      "previous": "8.664M"
+    },
+    {
+      "date": "February 12, 2025",
+      "event": "10-Year Note Auction",
+      "importance": "High",
+      "actual": "4.632%",
+      "previous": "4.680%"
+    },
+    {
+      "date": "February 13, 2025",
+      "event": "GDP (YoY) (Q4) - UK",
+      "importance": "High",
+      "marketExpectations": "1.1%",
+      "actual": "1.4%",
+      "previous": "1.0%"
+    },
+    {
+      "date": "February 13, 2025",
+      "event": "GDP (QoQ) (Q4) - UK",
+      "importance": "High",
+      "marketExpectations": "-0.1%",
+      "actual": "0.1%",
+      "previous": "0.0%"
+    },
+    {
+      "date": "February 13, 2025",
+      "event": "GDP (MoM) (Dec) - UK",
+      "importance": "High",
+      "marketExpectations": "0.1%",
+      "actual": "0.4%",
+      "previous": "0.1%"
+    },
+    {
+      "date": "February 13, 2025",
+      "event": "German CPI (MoM) (Jan)",
+      "importance": "High",
+      "marketExpectations": "-0.2%",
+      "actual": "-0.2%",
+      "previous": "0.5%"
+    },
+    {
+      "date": "February 13, 2025",
+      "event": "Initial Jobless Claims - US",
+      "importance": "High",
+      "marketExpectations": "217K",
+      "actual": "213K",
+      "previous": "220K"
+    },
+    {
+      "date": "February 13, 2025",
+      "event": "PPI (MoM) (Jan) - US",
+      "importance": "High",
+      "marketExpectations": "0.3%",
+      "actual": "0.4%",
+      "previous": "0.5%"
+    },
+    {
+      "date": "February 13, 2025",
+      "event": "30-Year Bond Auction - US",
+      "importance": "High",
+      "actual": "4.748%",
+      "previous": "4.913%"
+    },
+    {
+      "date": "February 16, 2025",
+      "event": "GDP (QoQ) (Q4) - Japan",
+      "importance": "High",
+      "previous": "0.3%"
+    },
+    {
+      "date": "February 17, 2025",
+      "event": "RBA Interest Rate Decision (Feb) - Australia",
+      "importance": "High",
+      "marketExpectations": "4.10%",
+      "previous": "4.35%"
+    },
+    {
+      "date": "February 18, 2025",
+      "event": "RBNZ Interest Rate Decision - New Zealand",
+      "importance": "High",
+      "previous": "4.25%"
+    },
+    {
+      "date": "February 19, 2025",
+      "event": "CPI (YoY) (Jan) - UK",
+      "importance": "High",
+      "previous": "2.5%"
+    },
+    {
+      "date": "February 19, 2025",
+      "event": "FOMC Meeting Minutes - US",
+      "importance": "High",
+      "previous": null
+    },
+    {
+      "date": "February 20, 2025",
+      "event": "Initial Jobless Claims - US",
+      "importance": "High",
+      "previous": "213K"
+    },
+    {
+      "date": "February 20, 2025",
+      "event": "Philadelphia Fed Manufacturing Index (Feb) - US",
+      "importance": "High",
+      "previous": "44.3"
+    },
+    {
+      "date": "February 20, 2025",
+      "event": "Crude Oil Inventories - US",
+      "importance": "High",
+      "previous": "4.070M"
+    }
+  ]
+}
+```

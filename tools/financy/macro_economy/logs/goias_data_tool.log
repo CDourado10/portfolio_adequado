@@ -1,0 +1,1522 @@
+2025-02-14 07:40:50,210 - __main__ - INFO - Arquivo de dados: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 07:40:50,211 - __main__ - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:40:50,211 - __main__ - INFO - Processando 51 tabelas
+2025-02-14 07:40:50,211 - __main__ - INFO - Encontradas 4 tabelas de PIB
+2025-02-14 07:40:50,211 - __main__ - INFO - Processando tabela 79
+2025-02-14 07:40:50,211 - __main__ - INFO - Tabela 79 processada: 3 linhas
+2025-02-14 07:40:50,215 - __main__ - INFO - Dados:
+     Localidade       PIB_2019  ... PIB_PC_2020 PIB_PC_2021
+0         Goiás    208.672.492  ...   31.506,97   37.414,08
+1  Centro-Oeste    731.351.478  ...   47.942,09   55.793,79
+2        Brasil  7.389.131.000  ...   35.935,74   42.247,52
+
+[3 rows x 7 columns]
+2025-02-14 07:40:50,218 - __main__ - INFO - DataFrame criado com sucesso: (3, 7)
+2025-02-14 07:40:50,218 - __main__ - INFO - Colunas: ['Localidade', 'PIB_2019', 'PIB_2020', 'PIB_2021', 'PIB_PC_2019', 'PIB_PC_2020', 'PIB_PC_2021']
+2025-02-14 07:40:50,218 - __main__ - INFO - Indicadores gerados: 2
+2025-02-14 07:40:50,218 - __main__ - INFO - Processando tabela 80
+2025-02-14 07:40:50,218 - __main__ - INFO - DataFrame criado com sucesso: (2, 4)
+2025-02-14 07:40:50,218 - __main__ - INFO - Colunas: ['Especificação', '2019', '2020', '2021']
+2025-02-14 07:40:50,218 - __main__ - INFO - Indicadores gerados: 0
+2025-02-14 07:40:50,218 - __main__ - INFO - Processando tabela 81
+2025-02-14 07:40:50,219 - __main__ - INFO - Tabela 81 processada: 4 linhas
+2025-02-14 07:40:50,222 - __main__ - INFO - Dados:
+Ano         Setor  2019  2020  2021
+0    Agropecuária  1.06  1.37  1.46
+1       Indústria  1.09  1.20  1.12
+2             PIB  1.06  1.07  1.20
+3        Serviços  1.04  0.98  1.18
+2025-02-14 07:40:50,222 - __main__ - INFO - DataFrame criado com sucesso: (4, 4)
+2025-02-14 07:40:50,222 - __main__ - INFO - Colunas: ['Setor', '2019', '2020', '2021']
+2025-02-14 07:40:50,223 - __main__ - INFO - Processando setor: Agropecuária
+2025-02-14 07:40:50,223 - __main__ - INFO - Valor atual: 146.00%
+2025-02-14 07:40:50,223 - __main__ - INFO - Valor anterior: 137.00%
+2025-02-14 07:40:50,223 - __main__ - INFO - Processando setor: Indústria
+2025-02-14 07:40:50,223 - __main__ - INFO - Valor atual: 112.00%
+2025-02-14 07:40:50,223 - __main__ - INFO - Valor anterior: 120.00%
+2025-02-14 07:40:50,223 - __main__ - INFO - Processando setor: Serviços
+2025-02-14 07:40:50,223 - __main__ - INFO - Valor atual: 118.00%
+2025-02-14 07:40:50,223 - __main__ - INFO - Valor anterior: 98.00%
+2025-02-14 07:40:50,223 - __main__ - INFO - Indicadores gerados: 3
+2025-02-14 07:40:50,223 - __main__ - INFO - Processando tabela 82
+2025-02-14 07:40:50,224 - __main__ - INFO - DataFrame criado com sucesso: (0, 5)
+2025-02-14 07:40:50,224 - __main__ - INFO - Colunas: ['Períodos', 'Agropecuária', 'Indústria', 'Serviços', 'PIB']
+2025-02-14 07:40:50,225 - __main__ - INFO - Encontradas 2 tabelas de inflação
+2025-02-14 07:40:50,225 - __main__ - INFO - Processando tabela 84
+2025-02-14 07:40:50,225 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:40:50,225 - __main__ - INFO - Colunas: ['Localidade', 'Nov/2023']
+2025-02-14 07:40:50,225 - __main__ - INFO - Processando tabela 85
+2025-02-14 07:40:50,225 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:40:50,225 - __main__ - INFO - Colunas: ['Localidade', 'Nov/2023']
+2025-02-14 07:40:50,225 - __main__ - INFO - Encontradas 12 tabelas de agricultura
+2025-02-14 07:40:50,225 - __main__ - INFO - Processando tabela 86
+2025-02-14 07:40:50,227 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:40:50,227 - __main__ - INFO - Colunas: ['Produto', 'Área Plantada (ha)']
+2025-02-14 07:40:50,227 - __main__ - INFO - Processando tabela 87
+2025-02-14 07:40:50,227 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:40:50,228 - __main__ - INFO - Colunas: ['Produtos', 'Área colhida (ha)']
+2025-02-14 07:40:50,228 - __main__ - INFO - Processando tabela 88
+2025-02-14 07:40:50,228 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:40:50,228 - __main__ - INFO - Colunas: ['Produto', 'Quantidade Produzida (t)']
+2025-02-14 07:40:50,228 - __main__ - INFO - Processando tabela 89
+2025-02-14 07:40:50,229 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:40:50,229 - __main__ - INFO - Colunas: ['Produto', 'Rendimento médio da produção (kg/ha)']
+2025-02-14 07:40:50,229 - __main__ - INFO - Processando tabela 90
+2025-02-14 07:40:50,303 - __main__ - INFO - DataFrame criado com sucesso: (3, 6)
+2025-02-14 07:40:50,303 - __main__ - INFO - Colunas: ['Período', 'Brasil', 'Centro-Oeste', 'Goiás', 'Posição Goiás/Brasil', 'Participação Goiás/Brasil (%)']
+2025-02-14 07:40:50,303 - __main__ - INFO - Processando tabela 91
+2025-02-14 07:40:50,304 - __main__ - INFO - DataFrame criado com sucesso: (10, 4)
+2025-02-14 07:40:50,304 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:40:50,304 - __main__ - INFO - Processando tabela 92
+2025-02-14 07:40:50,304 - __main__ - INFO - DataFrame criado com sucesso: (9, 4)
+2025-02-14 07:40:50,305 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:40:50,305 - __main__ - INFO - Processando tabela 93
+2025-02-14 07:40:50,305 - __main__ - INFO - DataFrame criado com sucesso: (10, 4)
+2025-02-14 07:40:50,305 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:40:50,305 - __main__ - INFO - Processando tabela 94
+2025-02-14 07:40:50,306 - __main__ - INFO - DataFrame criado com sucesso: (3, 4)
+2025-02-14 07:40:50,306 - __main__ - INFO - Colunas: ['Ano', 'Total de Toneladas', 'Toneladas advindas de Goiás', 'Participação de Goiás (%)']
+2025-02-14 07:40:50,306 - __main__ - INFO - Processando tabela 95
+2025-02-14 07:40:50,307 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:40:50,307 - __main__ - INFO - Colunas: ['Município', '2022']
+2025-02-14 07:40:50,307 - __main__ - INFO - Processando tabela 96
+2025-02-14 07:40:50,308 - __main__ - ERROR - Erro ao converter coluna : 'DataFrame' object has no attribute 'str'
+2025-02-14 07:40:50,308 - __main__ - ERROR - Erro ao converter coluna : 'DataFrame' object has no attribute 'str'
+2025-02-14 07:40:50,308 - __main__ - ERROR - Erro ao converter coluna : 'DataFrame' object has no attribute 'str'
+2025-02-14 07:40:50,308 - __main__ - INFO - DataFrame criado com sucesso: (0, 5)
+2025-02-14 07:40:50,308 - __main__ - INFO - Colunas: ['Produto', '2022', '', '', '']
+2025-02-14 07:40:50,308 - __main__ - INFO - Processando tabela 97
+2025-02-14 07:40:50,308 - __main__ - INFO - DataFrame criado com sucesso: (0, 3)
+2025-02-14 07:40:50,310 - __main__ - INFO - Colunas: ['Especificação', 'Quantidade', 'Valor (R$ mil)']
+2025-02-14 07:40:50,311 - __main__ - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:40:50,311 - __main__ - INFO - Processando 51 tabelas
+2025-02-14 07:40:50,311 - __main__ - INFO - Encontradas 4 tabelas de PIB
+2025-02-14 07:40:50,311 - __main__ - INFO - Processando tabela 79
+2025-02-14 07:40:50,311 - __main__ - INFO - Tabela 79 processada: 3 linhas
+2025-02-14 07:40:50,314 - __main__ - INFO - Dados:
+     Localidade       PIB_2019  ... PIB_PC_2020 PIB_PC_2021
+0         Goiás    208.672.492  ...   31.506,97   37.414,08
+1  Centro-Oeste    731.351.478  ...   47.942,09   55.793,79
+2        Brasil  7.389.131.000  ...   35.935,74   42.247,52
+
+[3 rows x 7 columns]
+2025-02-14 07:40:50,315 - __main__ - INFO - DataFrame criado com sucesso: (3, 7)
+2025-02-14 07:40:50,315 - __main__ - INFO - Colunas: ['Localidade', 'PIB_2019', 'PIB_2020', 'PIB_2021', 'PIB_PC_2019', 'PIB_PC_2020', 'PIB_PC_2021']
+2025-02-14 07:40:50,315 - __main__ - INFO - Indicadores gerados: 2
+2025-02-14 07:40:50,315 - __main__ - INFO - Processando tabela 80
+2025-02-14 07:40:50,316 - __main__ - INFO - DataFrame criado com sucesso: (2, 4)
+2025-02-14 07:40:50,316 - __main__ - INFO - Colunas: ['Especificação', '2019', '2020', '2021']
+2025-02-14 07:40:50,316 - __main__ - INFO - Indicadores gerados: 0
+2025-02-14 07:40:50,316 - __main__ - INFO - Processando tabela 81
+2025-02-14 07:40:50,317 - __main__ - INFO - Tabela 81 processada: 4 linhas
+2025-02-14 07:40:50,318 - __main__ - INFO - Dados:
+Ano         Setor  2019  2020  2021
+0    Agropecuária  1.06  1.37  1.46
+1       Indústria  1.09  1.20  1.12
+2             PIB  1.06  1.07  1.20
+3        Serviços  1.04  0.98  1.18
+2025-02-14 07:40:50,318 - __main__ - INFO - DataFrame criado com sucesso: (4, 4)
+2025-02-14 07:40:50,318 - __main__ - INFO - Colunas: ['Setor', '2019', '2020', '2021']
+2025-02-14 07:40:50,318 - __main__ - INFO - Processando setor: Agropecuária
+2025-02-14 07:40:50,318 - __main__ - INFO - Valor atual: 146.00%
+2025-02-14 07:40:50,318 - __main__ - INFO - Valor anterior: 137.00%
+2025-02-14 07:40:50,319 - __main__ - INFO - Processando setor: Indústria
+2025-02-14 07:40:50,319 - __main__ - INFO - Valor atual: 112.00%
+2025-02-14 07:40:50,319 - __main__ - INFO - Valor anterior: 120.00%
+2025-02-14 07:40:50,319 - __main__ - INFO - Processando setor: Serviços
+2025-02-14 07:40:50,319 - __main__ - INFO - Valor atual: 118.00%
+2025-02-14 07:40:50,319 - __main__ - INFO - Valor anterior: 98.00%
+2025-02-14 07:40:50,319 - __main__ - INFO - Indicadores gerados: 3
+2025-02-14 07:40:50,319 - __main__ - INFO - Processando tabela 82
+2025-02-14 07:40:50,319 - __main__ - INFO - DataFrame criado com sucesso: (0, 5)
+2025-02-14 07:40:50,319 - __main__ - INFO - Colunas: ['Períodos', 'Agropecuária', 'Indústria', 'Serviços', 'PIB']
+2025-02-14 07:40:50,319 - __main__ - INFO - Encontradas 2 tabelas de inflação
+2025-02-14 07:40:50,319 - __main__ - INFO - Processando tabela 84
+2025-02-14 07:40:50,321 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:40:50,321 - __main__ - INFO - Colunas: ['Localidade', 'Nov/2023']
+2025-02-14 07:40:50,321 - __main__ - INFO - Processando tabela 85
+2025-02-14 07:40:50,321 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:40:50,321 - __main__ - INFO - Colunas: ['Localidade', 'Nov/2023']
+2025-02-14 07:41:11,479 - __main__ - INFO - Arquivo de dados: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 07:41:11,479 - __main__ - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:41:11,479 - __main__ - INFO - Processando 51 tabelas
+2025-02-14 07:41:11,479 - __main__ - INFO - Encontradas 4 tabelas de PIB
+2025-02-14 07:41:11,479 - __main__ - INFO - Processando tabela 79
+2025-02-14 07:41:11,479 - __main__ - INFO - Tabela 79 processada: 3 linhas
+2025-02-14 07:41:11,484 - __main__ - INFO - Dados:
+     Localidade       PIB_2019  ... PIB_PC_2020 PIB_PC_2021
+0         Goiás    208.672.492  ...   31.506,97   37.414,08
+1  Centro-Oeste    731.351.478  ...   47.942,09   55.793,79
+2        Brasil  7.389.131.000  ...   35.935,74   42.247,52
+
+[3 rows x 7 columns]
+2025-02-14 07:41:11,486 - __main__ - INFO - DataFrame criado com sucesso: (3, 7)
+2025-02-14 07:41:11,486 - __main__ - INFO - Colunas: ['Localidade', 'PIB_2019', 'PIB_2020', 'PIB_2021', 'PIB_PC_2019', 'PIB_PC_2020', 'PIB_PC_2021']
+2025-02-14 07:41:11,486 - __main__ - INFO - Indicadores gerados: 2
+2025-02-14 07:41:11,486 - __main__ - INFO - Processando tabela 80
+2025-02-14 07:41:11,487 - __main__ - INFO - DataFrame criado com sucesso: (2, 4)
+2025-02-14 07:41:11,487 - __main__ - INFO - Colunas: ['Especificação', '2019', '2020', '2021']
+2025-02-14 07:41:11,487 - __main__ - INFO - Indicadores gerados: 0
+2025-02-14 07:41:11,487 - __main__ - INFO - Processando tabela 81
+2025-02-14 07:41:11,489 - __main__ - INFO - Tabela 81 processada: 4 linhas
+2025-02-14 07:41:11,490 - __main__ - INFO - Dados:
+Ano         Setor  2019  2020  2021
+0    Agropecuária  1.06  1.37  1.46
+1       Indústria  1.09  1.20  1.12
+2             PIB  1.06  1.07  1.20
+3        Serviços  1.04  0.98  1.18
+2025-02-14 07:41:11,490 - __main__ - INFO - DataFrame criado com sucesso: (4, 4)
+2025-02-14 07:41:11,490 - __main__ - INFO - Colunas: ['Setor', '2019', '2020', '2021']
+2025-02-14 07:41:11,490 - __main__ - INFO - Processando setor: Agropecuária
+2025-02-14 07:41:11,491 - __main__ - INFO - Valor atual: 146.00%
+2025-02-14 07:41:11,491 - __main__ - INFO - Valor anterior: 137.00%
+2025-02-14 07:41:11,491 - __main__ - INFO - Processando setor: Indústria
+2025-02-14 07:41:11,491 - __main__ - INFO - Valor atual: 112.00%
+2025-02-14 07:41:11,491 - __main__ - INFO - Valor anterior: 120.00%
+2025-02-14 07:41:11,491 - __main__ - INFO - Processando setor: Serviços
+2025-02-14 07:41:11,491 - __main__ - INFO - Valor atual: 118.00%
+2025-02-14 07:41:11,491 - __main__ - INFO - Valor anterior: 98.00%
+2025-02-14 07:41:11,491 - __main__ - INFO - Indicadores gerados: 3
+2025-02-14 07:41:11,491 - __main__ - INFO - Processando tabela 82
+2025-02-14 07:41:11,493 - __main__ - INFO - DataFrame criado com sucesso: (0, 5)
+2025-02-14 07:41:11,493 - __main__ - INFO - Colunas: ['Períodos', 'Agropecuária', 'Indústria', 'Serviços', 'PIB']
+2025-02-14 07:41:11,493 - __main__ - INFO - Encontradas 2 tabelas de inflação
+2025-02-14 07:41:11,493 - __main__ - INFO - Processando tabela 84
+2025-02-14 07:41:11,493 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:41:11,493 - __main__ - INFO - Colunas: ['Localidade', 'Nov/2023']
+2025-02-14 07:41:11,493 - __main__ - INFO - Processando tabela 85
+2025-02-14 07:41:11,494 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:41:11,494 - __main__ - INFO - Colunas: ['Localidade', 'Nov/2023']
+2025-02-14 07:41:11,494 - __main__ - INFO - Encontradas 12 tabelas de agricultura
+2025-02-14 07:41:11,494 - __main__ - INFO - Processando tabela 86
+2025-02-14 07:41:11,495 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:41:11,495 - __main__ - INFO - Colunas: ['Produto', 'Área Plantada (ha)']
+2025-02-14 07:41:11,495 - __main__ - INFO - Processando tabela 87
+2025-02-14 07:41:11,495 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:41:11,495 - __main__ - INFO - Colunas: ['Produtos', 'Área colhida (ha)']
+2025-02-14 07:41:11,495 - __main__ - INFO - Processando tabela 88
+2025-02-14 07:41:11,495 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:41:11,495 - __main__ - INFO - Colunas: ['Produto', 'Quantidade Produzida (t)']
+2025-02-14 07:41:11,495 - __main__ - INFO - Processando tabela 89
+2025-02-14 07:41:11,497 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:41:11,497 - __main__ - INFO - Colunas: ['Produto', 'Rendimento médio da produção (kg/ha)']
+2025-02-14 07:41:11,497 - __main__ - INFO - Processando tabela 90
+2025-02-14 07:41:11,571 - __main__ - INFO - DataFrame criado com sucesso: (3, 6)
+2025-02-14 07:41:11,571 - __main__ - INFO - Colunas: ['Período', 'Brasil', 'Centro-Oeste', 'Goiás', 'Posição Goiás/Brasil', 'Participação Goiás/Brasil (%)']
+2025-02-14 07:41:11,572 - __main__ - INFO - Processando tabela 91
+2025-02-14 07:41:11,572 - __main__ - INFO - DataFrame criado com sucesso: (10, 4)
+2025-02-14 07:41:11,572 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:41:11,572 - __main__ - INFO - Processando tabela 92
+2025-02-14 07:41:11,574 - __main__ - INFO - DataFrame criado com sucesso: (9, 4)
+2025-02-14 07:41:11,574 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:41:11,575 - __main__ - INFO - Processando tabela 93
+2025-02-14 07:41:11,576 - __main__ - INFO - DataFrame criado com sucesso: (10, 4)
+2025-02-14 07:41:11,576 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:41:11,576 - __main__ - INFO - Processando tabela 94
+2025-02-14 07:41:11,577 - __main__ - INFO - DataFrame criado com sucesso: (3, 4)
+2025-02-14 07:41:11,577 - __main__ - INFO - Colunas: ['Ano', 'Total de Toneladas', 'Toneladas advindas de Goiás', 'Participação de Goiás (%)']
+2025-02-14 07:41:11,577 - __main__ - INFO - Processando tabela 95
+2025-02-14 07:41:11,577 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:41:11,577 - __main__ - INFO - Colunas: ['Município', '2022']
+2025-02-14 07:41:11,577 - __main__ - INFO - Processando tabela 96
+2025-02-14 07:41:11,579 - __main__ - ERROR - Erro ao converter coluna : 'DataFrame' object has no attribute 'str'
+2025-02-14 07:41:11,579 - __main__ - ERROR - Erro ao converter coluna : 'DataFrame' object has no attribute 'str'
+2025-02-14 07:41:11,579 - __main__ - ERROR - Erro ao converter coluna : 'DataFrame' object has no attribute 'str'
+2025-02-14 07:41:11,579 - __main__ - INFO - DataFrame criado com sucesso: (0, 5)
+2025-02-14 07:41:11,580 - __main__ - INFO - Colunas: ['Produto', '2022', '', '', '']
+2025-02-14 07:41:11,580 - __main__ - INFO - Processando tabela 97
+2025-02-14 07:41:11,580 - __main__ - INFO - DataFrame criado com sucesso: (0, 3)
+2025-02-14 07:41:11,580 - __main__ - INFO - Colunas: ['Especificação', 'Quantidade', 'Valor (R$ mil)']
+2025-02-14 07:41:13,899 - __main__ - INFO - Arquivo de dados: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 07:41:13,899 - __main__ - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:41:13,899 - __main__ - INFO - Processando 51 tabelas
+2025-02-14 07:41:13,900 - __main__ - INFO - Encontradas 4 tabelas de PIB
+2025-02-14 07:41:13,900 - __main__ - INFO - Processando tabela 79
+2025-02-14 07:41:13,900 - __main__ - INFO - Tabela 79 processada: 3 linhas
+2025-02-14 07:41:13,904 - __main__ - INFO - Dados:
+     Localidade       PIB_2019       PIB_2020       PIB_2021 PIB_PC_2019 PIB_PC_2020 PIB_PC_2021
+0         Goiás    208.672.492    224.126.112    269.627.874   29.732,40   31.506,97   37.414,08
+1  Centro-Oeste    731.351.478    791.250.736    932.165.625   44.876,24   47.942,09   55.793,79
+2        Brasil  7.389.131.000  7.609.597.000  9.012.142.000   35.161,70   35.935,74   42.247,52
+2025-02-14 07:41:13,905 - __main__ - INFO - DataFrame criado com sucesso: (3, 7)
+2025-02-14 07:41:13,905 - __main__ - INFO - Colunas: ['Localidade', 'PIB_2019', 'PIB_2020', 'PIB_2021', 'PIB_PC_2019', 'PIB_PC_2020', 'PIB_PC_2021']
+2025-02-14 07:41:13,905 - __main__ - INFO - Indicadores gerados: 2
+2025-02-14 07:41:13,905 - __main__ - INFO - Processando tabela 80
+2025-02-14 07:41:13,906 - __main__ - INFO - DataFrame criado com sucesso: (2, 4)
+2025-02-14 07:41:13,906 - __main__ - INFO - Colunas: ['Especificação', '2019', '2020', '2021']
+2025-02-14 07:41:13,906 - __main__ - INFO - Indicadores gerados: 0
+2025-02-14 07:41:13,906 - __main__ - INFO - Processando tabela 81
+2025-02-14 07:41:13,908 - __main__ - INFO - Tabela 81 processada: 4 linhas
+2025-02-14 07:41:13,910 - __main__ - INFO - Dados:
+Ano         Setor  2019  2020  2021
+0    Agropecuária  1.06  1.37  1.46
+1       Indústria  1.09  1.20  1.12
+2             PIB  1.06  1.07  1.20
+3        Serviços  1.04  0.98  1.18
+2025-02-14 07:41:13,910 - __main__ - INFO - DataFrame criado com sucesso: (4, 4)
+2025-02-14 07:41:13,910 - __main__ - INFO - Colunas: ['Setor', '2019', '2020', '2021']
+2025-02-14 07:41:13,910 - __main__ - INFO - Processando setor: Agropecuária
+2025-02-14 07:41:13,910 - __main__ - INFO - Valor atual: 146.00%
+2025-02-14 07:41:13,910 - __main__ - INFO - Valor anterior: 137.00%
+2025-02-14 07:41:13,910 - __main__ - INFO - Processando setor: Indústria
+2025-02-14 07:41:13,910 - __main__ - INFO - Valor atual: 112.00%
+2025-02-14 07:41:13,910 - __main__ - INFO - Valor anterior: 120.00%
+2025-02-14 07:41:13,910 - __main__ - INFO - Processando setor: Serviços
+2025-02-14 07:41:13,910 - __main__ - INFO - Valor atual: 118.00%
+2025-02-14 07:41:13,910 - __main__ - INFO - Valor anterior: 98.00%
+2025-02-14 07:41:13,910 - __main__ - INFO - Indicadores gerados: 3
+2025-02-14 07:41:13,910 - __main__ - INFO - Processando tabela 82
+2025-02-14 07:41:13,912 - __main__ - INFO - DataFrame criado com sucesso: (0, 5)
+2025-02-14 07:41:13,912 - __main__ - INFO - Colunas: ['Períodos', 'Agropecuária', 'Indústria', 'Serviços', 'PIB']
+2025-02-14 07:41:13,912 - __main__ - INFO - Encontradas 2 tabelas de inflação
+2025-02-14 07:41:13,912 - __main__ - INFO - Processando tabela 84
+2025-02-14 07:41:13,913 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:41:13,913 - __main__ - INFO - Colunas: ['Localidade', 'Nov/2023']
+2025-02-14 07:41:13,913 - __main__ - INFO - Processando tabela 85
+2025-02-14 07:41:13,913 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:41:13,913 - __main__ - INFO - Colunas: ['Localidade', 'Nov/2023']
+2025-02-14 07:41:13,913 - __main__ - INFO - Encontradas 12 tabelas de agricultura
+2025-02-14 07:41:13,914 - __main__ - INFO - Processando tabela 86
+2025-02-14 07:41:13,914 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:41:13,914 - __main__ - INFO - Colunas: ['Produto', 'Área Plantada (ha)']
+2025-02-14 07:41:13,914 - __main__ - INFO - Processando tabela 87
+2025-02-14 07:41:13,915 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:41:13,915 - __main__ - INFO - Colunas: ['Produtos', 'Área colhida (ha)']
+2025-02-14 07:41:13,915 - __main__ - INFO - Processando tabela 88
+2025-02-14 07:41:13,915 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:41:13,915 - __main__ - INFO - Colunas: ['Produto', 'Quantidade Produzida (t)']
+2025-02-14 07:41:13,915 - __main__ - INFO - Processando tabela 89
+2025-02-14 07:41:13,916 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:41:13,916 - __main__ - INFO - Colunas: ['Produto', 'Rendimento médio da produção (kg/ha)']
+2025-02-14 07:41:13,916 - __main__ - INFO - Processando tabela 90
+2025-02-14 07:41:13,917 - __main__ - INFO - DataFrame criado com sucesso: (3, 6)
+2025-02-14 07:41:13,917 - __main__ - INFO - Colunas: ['Período', 'Brasil', 'Centro-Oeste', 'Goiás', 'Posição Goiás/Brasil', 'Participação Goiás/Brasil (%)']
+2025-02-14 07:41:13,917 - __main__ - INFO - Processando tabela 91
+2025-02-14 07:41:13,983 - __main__ - INFO - DataFrame criado com sucesso: (10, 4)
+2025-02-14 07:41:13,983 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:41:13,983 - __main__ - INFO - Processando tabela 92
+2025-02-14 07:41:13,984 - __main__ - INFO - DataFrame criado com sucesso: (9, 4)
+2025-02-14 07:41:13,985 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:41:13,985 - __main__ - INFO - Processando tabela 93
+2025-02-14 07:41:13,985 - __main__ - INFO - DataFrame criado com sucesso: (10, 4)
+2025-02-14 07:41:13,985 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:41:13,986 - __main__ - INFO - Processando tabela 94
+2025-02-14 07:41:13,986 - __main__ - INFO - DataFrame criado com sucesso: (3, 4)
+2025-02-14 07:41:13,986 - __main__ - INFO - Colunas: ['Ano', 'Total de Toneladas', 'Toneladas advindas de Goiás', 'Participação de Goiás (%)']
+2025-02-14 07:41:13,986 - __main__ - INFO - Processando tabela 95
+2025-02-14 07:41:13,987 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:41:13,987 - __main__ - INFO - Colunas: ['Município', '2022']
+2025-02-14 07:41:13,987 - __main__ - INFO - Processando tabela 96
+2025-02-14 07:41:13,988 - __main__ - ERROR - Erro ao converter coluna : 'DataFrame' object has no attribute 'str'
+2025-02-14 07:41:13,988 - __main__ - ERROR - Erro ao converter coluna : 'DataFrame' object has no attribute 'str'
+2025-02-14 07:41:13,988 - __main__ - ERROR - Erro ao converter coluna : 'DataFrame' object has no attribute 'str'
+2025-02-14 07:41:13,988 - __main__ - INFO - DataFrame criado com sucesso: (0, 5)
+2025-02-14 07:41:13,989 - __main__ - INFO - Colunas: ['Produto', '2022', '', '', '']
+2025-02-14 07:41:13,989 - __main__ - INFO - Processando tabela 97
+2025-02-14 07:41:13,990 - __main__ - INFO - DataFrame criado com sucesso: (0, 3)
+2025-02-14 07:41:13,990 - __main__ - INFO - Colunas: ['Especificação', 'Quantidade', 'Valor (R$ mil)']
+2025-02-14 07:47:37,830 - __main__ - INFO - Arquivo de dados: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 07:47:37,830 - __main__ - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=None
+2025-02-14 07:47:37,830 - __main__ - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:47:37,830 - __main__ - INFO - Processando 51 tabelas
+2025-02-14 07:47:37,830 - __main__ - INFO - Encontradas 4 tabelas de PIB
+2025-02-14 07:47:37,830 - __main__ - INFO - Processando tabela 79
+2025-02-14 07:47:37,830 - __main__ - INFO - Estrutura detectada: years_in_rows
+2025-02-14 07:47:37,833 - __main__ - ERROR - Erro ao processar tabela com anos em linhas: Index contains duplicate entries, cannot reshape
+2025-02-14 07:47:37,833 - __main__ - INFO - DataFrame criado com sucesso: (0, 0)
+2025-02-14 07:47:37,833 - __main__ - INFO - Colunas: []
+2025-02-14 07:47:37,833 - __main__ - INFO - Processando tabela 80
+2025-02-14 07:47:37,833 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:47:37,834 - __main__ - INFO - DataFrame criado com sucesso: (2, 4)
+2025-02-14 07:47:37,834 - __main__ - INFO - Colunas: ['Especificação', '2019', '2020', '2021']
+2025-02-14 07:47:37,834 - __main__ - INFO - Indicadores gerados: 0
+2025-02-14 07:47:37,834 - __main__ - INFO - Processando tabela 81
+2025-02-14 07:47:37,834 - __main__ - INFO - Estrutura detectada: years_in_rows
+2025-02-14 07:47:37,836 - __main__ - INFO - DataFrame criado com sucesso: (4, 4)
+2025-02-14 07:47:37,836 - __main__ - INFO - Colunas: ['Setor', '2019', '2020', '2021']
+2025-02-14 07:47:37,837 - __main__ - INFO - Processando setor: Agropecuária
+2025-02-14 07:47:37,837 - __main__ - INFO - Valor atual: 1.46%
+2025-02-14 07:47:37,837 - __main__ - INFO - Valor anterior: 1.37%
+2025-02-14 07:47:37,837 - __main__ - INFO - Processando setor: Indústria
+2025-02-14 07:47:37,837 - __main__ - INFO - Valor atual: 1.12%
+2025-02-14 07:47:37,837 - __main__ - INFO - Valor anterior: 1.20%
+2025-02-14 07:47:37,837 - __main__ - INFO - Processando setor: Serviços
+2025-02-14 07:47:37,837 - __main__ - INFO - Valor atual: 1.18%
+2025-02-14 07:47:37,837 - __main__ - INFO - Valor anterior: 0.98%
+2025-02-14 07:47:37,837 - __main__ - INFO - Indicadores gerados: 3
+2025-02-14 07:47:37,837 - __main__ - INFO - Processando tabela 82
+2025-02-14 07:47:37,837 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:47:37,838 - __main__ - INFO - DataFrame criado com sucesso: (0, 5)
+2025-02-14 07:47:37,838 - __main__ - INFO - Colunas: ['Períodos', 'Agropecuária', 'Indústria', 'Serviços', 'PIB']
+2025-02-14 07:47:37,838 - __main__ - INFO - Encontradas 2 tabelas de inflação
+2025-02-14 07:47:37,838 - __main__ - INFO - Processando tabela 84
+2025-02-14 07:47:37,838 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:47:37,839 - __main__ - INFO - DataFrame criado com sucesso: (0, 0)
+2025-02-14 07:47:37,839 - __main__ - INFO - Colunas: []
+2025-02-14 07:47:37,839 - __main__ - INFO - Processando tabela 85
+2025-02-14 07:47:37,839 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:47:37,839 - __main__ - INFO - DataFrame criado com sucesso: (0, 0)
+2025-02-14 07:47:37,839 - __main__ - INFO - Colunas: []
+2025-02-14 07:47:37,839 - __main__ - INFO - Encontradas 12 tabelas de agricultura
+2025-02-14 07:47:37,839 - __main__ - INFO - Processando tabela 86
+2025-02-14 07:47:37,839 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:47:37,839 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:47:37,839 - __main__ - INFO - Colunas: ['Produto', 'Área Plantada (ha)']
+2025-02-14 07:47:37,839 - __main__ - INFO - Processando tabela 87
+2025-02-14 07:47:37,839 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:47:37,840 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:47:37,840 - __main__ - INFO - Colunas: ['Produtos', 'Área colhida (ha)']
+2025-02-14 07:47:37,840 - __main__ - INFO - Processando tabela 88
+2025-02-14 07:47:37,840 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:47:37,841 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:47:37,841 - __main__ - INFO - Colunas: ['Produto', 'Quantidade Produzida (t)']
+2025-02-14 07:47:37,841 - __main__ - INFO - Processando tabela 89
+2025-02-14 07:47:37,841 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:47:37,841 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:47:37,841 - __main__ - INFO - Colunas: ['Produto', 'Rendimento médio da produção (kg/ha)']
+2025-02-14 07:47:37,841 - __main__ - INFO - Processando tabela 90
+2025-02-14 07:47:37,841 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:47:37,842 - __main__ - INFO - DataFrame criado com sucesso: (3, 6)
+2025-02-14 07:47:37,842 - __main__ - INFO - Colunas: ['Período', 'Brasil', 'Centro-Oeste', 'Goiás', 'Posição Goiás/Brasil', 'Participação Goiás/Brasil (%)']
+2025-02-14 07:47:37,842 - __main__ - INFO - Processando tabela 91
+2025-02-14 07:47:37,842 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:47:37,842 - __main__ - INFO - DataFrame criado com sucesso: (10, 4)
+2025-02-14 07:47:37,842 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:47:37,842 - __main__ - INFO - Processando tabela 92
+2025-02-14 07:47:37,842 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:47:37,845 - __main__ - INFO - DataFrame criado com sucesso: (9, 4)
+2025-02-14 07:47:37,845 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:47:37,845 - __main__ - INFO - Processando tabela 93
+2025-02-14 07:47:37,845 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:47:37,845 - __main__ - INFO - DataFrame criado com sucesso: (10, 4)
+2025-02-14 07:47:37,845 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:47:37,845 - __main__ - INFO - Processando tabela 94
+2025-02-14 07:47:37,845 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:47:37,846 - __main__ - INFO - DataFrame criado com sucesso: (3, 4)
+2025-02-14 07:47:37,846 - __main__ - INFO - Colunas: ['Ano', 'Total de Toneladas', 'Toneladas advindas de Goiás', 'Participação de Goiás (%)']
+2025-02-14 07:47:37,846 - __main__ - INFO - Processando tabela 95
+2025-02-14 07:47:37,846 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:47:37,846 - __main__ - INFO - DataFrame criado com sucesso: (0, 0)
+2025-02-14 07:47:37,846 - __main__ - INFO - Colunas: []
+2025-02-14 07:47:37,847 - __main__ - INFO - Processando tabela 96
+2025-02-14 07:47:37,847 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:47:37,847 - __main__ - INFO - DataFrame criado com sucesso: (0, 0)
+2025-02-14 07:47:37,847 - __main__ - INFO - Colunas: []
+2025-02-14 07:47:37,847 - __main__ - INFO - Processando tabela 97
+2025-02-14 07:47:37,847 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:47:37,847 - __main__ - INFO - DataFrame criado com sucesso: (0, 3)
+2025-02-14 07:47:37,847 - __main__ - INFO - Colunas: ['Especificação', 'Quantidade', 'Valor (R$ mil)']
+2025-02-14 07:48:12,040 - __main__ - INFO - Arquivo de dados: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 07:48:12,041 - __main__ - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=86
+2025-02-14 07:48:12,041 - __main__ - INFO - Processando tabela 86
+2025-02-14 07:48:12,041 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:48:12,043 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:48:12,043 - __main__ - INFO - Colunas: ['Produto', 'Área Plantada (ha)']
+2025-02-14 07:48:12,043 - __main__ - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=None
+2025-02-14 07:48:12,044 - __main__ - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:48:12,044 - __main__ - INFO - Processando 51 tabelas
+2025-02-14 07:48:12,044 - __main__ - INFO - Encontradas 4 tabelas de PIB
+2025-02-14 07:48:12,044 - __main__ - INFO - Processando tabela 79
+2025-02-14 07:48:12,044 - __main__ - INFO - Estrutura detectada: years_in_rows
+2025-02-14 07:48:12,045 - __main__ - ERROR - Erro ao processar tabela com anos em linhas: Index contains duplicate entries, cannot reshape
+2025-02-14 07:48:12,045 - __main__ - INFO - DataFrame criado com sucesso: (0, 0)
+2025-02-14 07:48:12,045 - __main__ - INFO - Colunas: []
+2025-02-14 07:48:12,046 - __main__ - INFO - Processando tabela 80
+2025-02-14 07:48:12,046 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:48:12,046 - __main__ - INFO - DataFrame criado com sucesso: (2, 4)
+2025-02-14 07:48:12,046 - __main__ - INFO - Colunas: ['Especificação', '2019', '2020', '2021']
+2025-02-14 07:48:12,046 - __main__ - INFO - Indicadores gerados: 0
+2025-02-14 07:48:12,046 - __main__ - INFO - Processando tabela 81
+2025-02-14 07:48:12,047 - __main__ - INFO - Estrutura detectada: years_in_rows
+2025-02-14 07:48:12,048 - __main__ - INFO - DataFrame criado com sucesso: (4, 4)
+2025-02-14 07:48:12,048 - __main__ - INFO - Colunas: ['Setor', '2019', '2020', '2021']
+2025-02-14 07:48:12,049 - __main__ - INFO - Processando setor: Agropecuária
+2025-02-14 07:48:12,049 - __main__ - INFO - Valor atual: 1.46%
+2025-02-14 07:48:12,049 - __main__ - INFO - Valor anterior: 1.37%
+2025-02-14 07:48:12,049 - __main__ - INFO - Processando setor: Indústria
+2025-02-14 07:48:12,049 - __main__ - INFO - Valor atual: 1.12%
+2025-02-14 07:48:12,049 - __main__ - INFO - Valor anterior: 1.20%
+2025-02-14 07:48:12,049 - __main__ - INFO - Processando setor: Serviços
+2025-02-14 07:48:12,049 - __main__ - INFO - Valor atual: 1.18%
+2025-02-14 07:48:12,049 - __main__ - INFO - Valor anterior: 0.98%
+2025-02-14 07:48:12,049 - __main__ - INFO - Indicadores gerados: 3
+2025-02-14 07:48:12,049 - __main__ - INFO - Processando tabela 82
+2025-02-14 07:48:12,049 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:48:12,050 - __main__ - INFO - DataFrame criado com sucesso: (0, 5)
+2025-02-14 07:48:12,050 - __main__ - INFO - Colunas: ['Períodos', 'Agropecuária', 'Indústria', 'Serviços', 'PIB']
+2025-02-14 07:48:12,050 - __main__ - INFO - Encontradas 2 tabelas de inflação
+2025-02-14 07:48:12,050 - __main__ - INFO - Processando tabela 84
+2025-02-14 07:48:12,050 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:48:12,050 - __main__ - INFO - DataFrame criado com sucesso: (0, 0)
+2025-02-14 07:48:12,050 - __main__ - INFO - Colunas: []
+2025-02-14 07:48:12,050 - __main__ - INFO - Processando tabela 85
+2025-02-14 07:48:12,050 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:48:12,051 - __main__ - INFO - DataFrame criado com sucesso: (0, 0)
+2025-02-14 07:48:12,051 - __main__ - INFO - Colunas: []
+2025-02-14 07:48:12,051 - __main__ - INFO - Encontradas 12 tabelas de agricultura
+2025-02-14 07:48:12,051 - __main__ - INFO - Processando tabela 86
+2025-02-14 07:48:12,051 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:48:12,051 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:48:12,051 - __main__ - INFO - Colunas: ['Produto', 'Área Plantada (ha)']
+2025-02-14 07:48:12,051 - __main__ - INFO - Processando tabela 87
+2025-02-14 07:48:12,051 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:48:12,052 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:48:12,052 - __main__ - INFO - Colunas: ['Produtos', 'Área colhida (ha)']
+2025-02-14 07:48:12,052 - __main__ - INFO - Processando tabela 88
+2025-02-14 07:48:12,052 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:48:12,052 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:48:12,052 - __main__ - INFO - Colunas: ['Produto', 'Quantidade Produzida (t)']
+2025-02-14 07:48:12,052 - __main__ - INFO - Processando tabela 89
+2025-02-14 07:48:12,052 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:48:12,053 - __main__ - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:48:12,053 - __main__ - INFO - Colunas: ['Produto', 'Rendimento médio da produção (kg/ha)']
+2025-02-14 07:48:12,053 - __main__ - INFO - Processando tabela 90
+2025-02-14 07:48:12,053 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:48:12,054 - __main__ - INFO - DataFrame criado com sucesso: (3, 6)
+2025-02-14 07:48:12,054 - __main__ - INFO - Colunas: ['Período', 'Brasil', 'Centro-Oeste', 'Goiás', 'Posição Goiás/Brasil', 'Participação Goiás/Brasil (%)']
+2025-02-14 07:48:12,054 - __main__ - INFO - Processando tabela 91
+2025-02-14 07:48:12,054 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:48:12,056 - __main__ - INFO - DataFrame criado com sucesso: (10, 4)
+2025-02-14 07:48:12,056 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:48:12,056 - __main__ - INFO - Processando tabela 92
+2025-02-14 07:48:12,056 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:48:12,057 - __main__ - INFO - DataFrame criado com sucesso: (9, 4)
+2025-02-14 07:48:12,057 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:48:12,057 - __main__ - INFO - Processando tabela 93
+2025-02-14 07:48:12,057 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:48:12,058 - __main__ - INFO - DataFrame criado com sucesso: (10, 4)
+2025-02-14 07:48:12,058 - __main__ - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:48:12,058 - __main__ - INFO - Processando tabela 94
+2025-02-14 07:48:12,058 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:48:12,058 - __main__ - INFO - DataFrame criado com sucesso: (3, 4)
+2025-02-14 07:48:12,058 - __main__ - INFO - Colunas: ['Ano', 'Total de Toneladas', 'Toneladas advindas de Goiás', 'Participação de Goiás (%)']
+2025-02-14 07:48:12,058 - __main__ - INFO - Processando tabela 95
+2025-02-14 07:48:12,058 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:48:12,058 - __main__ - INFO - DataFrame criado com sucesso: (0, 0)
+2025-02-14 07:48:12,058 - __main__ - INFO - Colunas: []
+2025-02-14 07:48:12,058 - __main__ - INFO - Processando tabela 96
+2025-02-14 07:48:12,059 - __main__ - INFO - Estrutura detectada: years_in_columns
+2025-02-14 07:48:12,059 - __main__ - INFO - DataFrame criado com sucesso: (0, 0)
+2025-02-14 07:48:12,059 - __main__ - INFO - Colunas: []
+2025-02-14 07:48:12,059 - __main__ - INFO - Processando tabela 97
+2025-02-14 07:48:12,059 - __main__ - INFO - Estrutura detectada: simple
+2025-02-14 07:48:12,059 - __main__ - INFO - DataFrame criado com sucesso: (0, 3)
+2025-02-14 07:48:12,059 - __main__ - INFO - Colunas: ['Especificação', 'Quantidade', 'Valor (R$ mil)']
+2025-02-14 07:49:51,610 - tools.financy.macro_economy.goias_data_tool - INFO - Arquivo de dados: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 07:49:51,610 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=86
+2025-02-14 07:49:51,610 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:49:51,611 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 07:49:51,611 - tools.financy.macro_economy.goias_data_tool - INFO - Processando tabela 86: Estado de Goiás: área plantada dos produtos agrícolas
+2025-02-14 07:49:51,611 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: multi_header
+2025-02-14 07:49:51,613 - tools.financy.macro_economy.goias_data_tool - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:49:51,613 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Produto', 'Área Plantada (ha)']
+2025-02-14 07:50:46,797 - tools.financy.macro_economy.goias_data_tool - INFO - Arquivo de dados: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 07:50:46,797 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=86
+2025-02-14 07:50:46,797 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:50:46,797 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 07:50:46,797 - tools.financy.macro_economy.goias_data_tool - INFO - Processando tabela 86: Estado de Goiás: área plantada dos produtos agrícolas
+2025-02-14 07:50:46,797 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: multi_header
+2025-02-14 07:50:46,799 - tools.financy.macro_economy.goias_data_tool - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:50:46,799 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Produto', 'Área Plantada (ha)']
+2025-02-14 07:51:26,746 - tools.financy.macro_economy.goias_data_tool - ERROR - Erro ao inicializar a ferramenta: 'GoiasDataTool' object has no attribute '__pydantic_fields_set__'
+2025-02-14 07:52:08,506 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 07:52:08,507 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=86
+2025-02-14 07:52:08,507 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 86
+2025-02-14 07:52:08,507 - tools.financy.macro_economy.goias_data_tool - INFO - Arquivo lido com sucesso: 47055 caracteres
+2025-02-14 07:52:08,509 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:52:08,509 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 86 encontrada
+2025-02-14 07:52:08,509 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 86 - Estado de Goiás: área plantada dos produtos agrícolas
+|Produto|Área Plantada (ha)|
+|---|---|
+||2020|2021|2022|
+|Total|6.935.757|7.356.576|7.680.156|
+|Soja (em grão)|3.577.700|3.857.007|4.121.969|
+|Milho (em grão)|1.733.660|1.882.705|1.942.588|
+|Cana-de-açúcar|928.046|930.954|933.105|
+|Sorgo (em grão)|360.672|363.308|370.277|
+|Feijão (em grão)|137.681|139.194|127.597|
+|Algodão herbáceo (em caroço)|38.522|33.503|31.346|
+|Girassol (em grão)|22.872|24.235|25.165|
+|Arroz (em casca)|28.461|25.814|24.306|
+|Tomate|26.000|20.503|21.900|
+|Banana (cacho)|13.880|12.258|12.880|
+|Mandioca|11.949|11.440|11.657|
+|Borracha (látex coagulado)|9.215|9.520|10.460|
+|Laranja|6.909|6.902|7.024|
+|Café (em grão) Total|7.598|6.801|6.771|
+|Melancia|5.497|6.370|5.621|
+|Batata-inglesa|4.540|4.308|5.075|
+|Alho|3.425|3.500|3.440|
+|Cebola|2.450|2.460|2.365|
+|Abacaxi*|1.927|1.849|1.615|
+|Tangerina|1.010|1.030|1.047|
+|Palmito|819|777|919|
+|Maracujá|341|335|411|
+|Coco-da-baía*|466|357|197|
+|Limão|100|157|164|
+|Goiaba|151|151|151|
+|Uva|91|93|133|
+|Manga|180|177|129|
+|Mamão|63|62|54|
+|Abacate|38|38|28|
+|Ervilha (em grão)|-|-|-|
+|Trigo (em grão)|-|-|-|
+|Outras|11.494|10.768|11.762|
+
+*mil frutos
+
+
+2025-02-14 07:52:08,509 - tools.financy.macro_economy.goias_data_tool - INFO - Processando tabela 86: Estado de Goiás: área plantada dos produtos agrícolas
+2025-02-14 07:52:08,509 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: multi_header
+2025-02-14 07:52:08,511 - tools.financy.macro_economy.goias_data_tool - INFO - DataFrame criado com sucesso: (0, 2)
+2025-02-14 07:52:08,512 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Produto', 'Área Plantada (ha)']
+2025-02-14 07:52:40,786 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 07:52:40,787 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=86
+2025-02-14 07:52:40,787 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 86
+2025-02-14 07:52:40,787 - tools.financy.macro_economy.goias_data_tool - INFO - Arquivo lido com sucesso: 47055 caracteres
+2025-02-14 07:52:40,787 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:52:40,788 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 86 encontrada
+2025-02-14 07:52:40,788 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 86 - Estado de Goiás: área plantada dos produtos agrícolas
+|Produto|Área Plantada (ha)|
+|---|---|
+||2020|2021|2022|
+|Total|6.935.757|7.356.576|7.680.156|
+|Soja (em grão)|3.577.700|3.857.007|4.121.969|
+|Milho (em grão)|1.733.660|1.882.705|1.942.588|
+|Cana-de-açúcar|928.046|930.954|933.105|
+|Sorgo (em grão)|360.672|363.308|370.277|
+|Feijão (em grão)|137.681|139.194|127.597|
+|Algodão herbáceo (em caroço)|38.522|33.503|31.346|
+|Girassol (em grão)|22.872|24.235|25.165|
+|Arroz (em casca)|28.461|25.814|24.306|
+|Tomate|26.000|20.503|21.900|
+|Banana (cacho)|13.880|12.258|12.880|
+|Mandioca|11.949|11.440|11.657|
+|Borracha (látex coagulado)|9.215|9.520|10.460|
+|Laranja|6.909|6.902|7.024|
+|Café (em grão) Total|7.598|6.801|6.771|
+|Melancia|5.497|6.370|5.621|
+|Batata-inglesa|4.540|4.308|5.075|
+|Alho|3.425|3.500|3.440|
+|Cebola|2.450|2.460|2.365|
+|Abacaxi*|1.927|1.849|1.615|
+|Tangerina|1.010|1.030|1.047|
+|Palmito|819|777|919|
+|Maracujá|341|335|411|
+|Coco-da-baía*|466|357|197|
+|Limão|100|157|164|
+|Goiaba|151|151|151|
+|Uva|91|93|133|
+|Manga|180|177|129|
+|Mamão|63|62|54|
+|Abacate|38|38|28|
+|Ervilha (em grão)|-|-|-|
+|Trigo (em grão)|-|-|-|
+|Outras|11.494|10.768|11.762|
+
+*mil frutos
+
+
+2025-02-14 07:52:40,788 - tools.financy.macro_economy.goias_data_tool - INFO - Processando tabela 86: Estado de Goiás: área plantada dos produtos agrícolas
+2025-02-14 07:52:40,788 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: multi_header
+2025-02-14 07:52:40,788 - tools.financy.macro_economy.goias_data_tool - INFO - Processados 33 registros
+2025-02-14 07:52:40,788 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:52:40,790 - tools.financy.macro_economy.goias_data_tool - INFO - DataFrame criado com sucesso: (33, 4)
+2025-02-14 07:52:40,791 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Produto', '2020', '2021', '2022']
+2025-02-14 07:52:58,015 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 07:52:58,016 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 07:52:58,016 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 07:52:58,016 - tools.financy.macro_economy.goias_data_tool - INFO - Arquivo lido com sucesso: 47055 caracteres
+2025-02-14 07:52:58,016 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:52:58,016 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 07:52:58,016 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+
+
+2025-02-14 07:52:58,017 - tools.financy.macro_economy.goias_data_tool - INFO - Processando tabela 79: Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+2025-02-14 07:52:58,017 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: years_in_rows
+2025-02-14 07:52:58,019 - tools.financy.macro_economy.goias_data_tool - ERROR - Erro ao processar tabela com anos em linhas: Index contains duplicate entries, cannot reshape
+2025-02-14 07:52:58,019 - tools.financy.macro_economy.goias_data_tool - INFO - DataFrame criado com sucesso: (0, 0)
+2025-02-14 07:52:58,019 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: []
+2025-02-14 07:56:57,577 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 07:56:57,577 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 07:56:57,578 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 07:56:57,578 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:56:57,578 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 07:56:57,578 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 07:56:57,578 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+
+
+2025-02-14 07:56:57,579 - tools.financy.macro_economy.goias_data_tool - INFO - Processando tabela 79: Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+2025-02-14 07:56:57,579 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: years_in_rows
+2025-02-14 07:56:57,579 - tools.financy.macro_economy.goias_data_tool - INFO - Processados 0 registros
+2025-02-14 07:56:57,579 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Localidade', 'PIB a preços correntes (mil reais) (2019)', 'PIB a preços correntes (mil reais) (2020)', 'PIB a preços correntes (mil reais) (2021)', 'PIB a preços correntes (mil reais) (2019)', 'PIB a preços correntes (mil reais) (2020)', 'PIB a preços correntes (mil reais) (2021)', 'PIB per capita (R$) (2019)', 'PIB per capita (R$) (2020)', 'PIB per capita (R$) (2021)', 'PIB per capita (R$) (2019)', 'PIB per capita (R$) (2020)', 'PIB per capita (R$) (2021)']
+2025-02-14 07:56:57,581 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna PIB a preços correntes (mil reais) (2019) mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 07:56:57,581 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna PIB a preços correntes (mil reais) (2020) mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 07:56:57,581 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna PIB a preços correntes (mil reais) (2021) mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 07:56:57,581 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna PIB a preços correntes (mil reais) (2019) mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 07:56:57,581 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna PIB a preços correntes (mil reais) (2020) mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 07:56:57,581 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna PIB a preços correntes (mil reais) (2021) mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 07:56:57,582 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna PIB per capita (R$) (2019) mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 07:56:57,582 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna PIB per capita (R$) (2020) mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 07:56:57,582 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna PIB per capita (R$) (2021) mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 07:56:57,583 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna PIB per capita (R$) (2019) mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 07:56:57,583 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna PIB per capita (R$) (2020) mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 07:56:57,583 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna PIB per capita (R$) (2021) mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 07:56:57,583 - tools.financy.macro_economy.goias_data_tool - INFO - DataFrame criado com sucesso: (0, 13)
+2025-02-14 07:56:57,583 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Localidade', 'PIB a preços correntes (mil reais) (2019)', 'PIB a preços correntes (mil reais) (2020)', 'PIB a preços correntes (mil reais) (2021)', 'PIB a preços correntes (mil reais) (2019)', 'PIB a preços correntes (mil reais) (2020)', 'PIB a preços correntes (mil reais) (2021)', 'PIB per capita (R$) (2019)', 'PIB per capita (R$) (2020)', 'PIB per capita (R$) (2021)', 'PIB per capita (R$) (2019)', 'PIB per capita (R$) (2020)', 'PIB per capita (R$) (2021)']
+2025-02-14 07:57:37,834 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 07:57:37,836 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 07:57:37,836 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 07:57:37,836 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:57:37,837 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 07:57:37,837 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 07:57:37,837 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+
+
+2025-02-14 07:57:37,837 - tools.financy.macro_economy.goias_data_tool - INFO - Processando tabela 79: Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+2025-02-14 07:57:37,838 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: years_in_rows
+2025-02-14 07:57:37,838 - tools.financy.macro_economy.goias_data_tool - INFO - Processados 3 registros
+2025-02-14 07:57:37,838 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Localidade', 'PIB a preços correntes (mil reais) (2019)', 'PIB a preços correntes (mil reais) (2020)', 'PIB a preços correntes (mil reais) (2021)', 'PIB per capita (R$) (2019)', 'PIB per capita (R$) (2020)', 'PIB per capita (R$) (2021)']
+2025-02-14 07:57:37,840 - tools.financy.macro_economy.goias_data_tool - INFO - DataFrame criado com sucesso: (3, 7)
+2025-02-14 07:57:37,840 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Localidade', 'PIB a preços correntes (mil reais) (2019)', 'PIB a preços correntes (mil reais) (2020)', 'PIB a preços correntes (mil reais) (2021)', 'PIB per capita (R$) (2019)', 'PIB per capita (R$) (2020)', 'PIB per capita (R$) (2021)']
+2025-02-14 08:03:58,803 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 08:03:58,804 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 08:03:58,804 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 08:03:58,805 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:03:58,805 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:03:58,805 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 08:03:58,805 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+
+
+2025-02-14 08:03:58,805 - tools.financy.macro_economy.goias_data_tool - INFO - Processando tabela 79: Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+2025-02-14 08:03:58,805 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: years_in_rows
+2025-02-14 08:03:58,805 - tools.financy.macro_economy.goias_data_tool - INFO - Processados 3 registros
+2025-02-14 08:03:58,806 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Localidade', 'PIB a preços correntes (mil reais) (2019)', 'PIB a preços correntes (mil reais) (2020)', 'PIB a preços correntes (mil reais) (2021)', 'PIB per capita (R$) (2019)', 'PIB per capita (R$) (2020)', 'PIB per capita (R$) (2021)']
+2025-02-14 08:03:58,808 - tools.financy.macro_economy.goias_data_tool - INFO - DataFrame criado com sucesso: (3, 7)
+2025-02-14 08:03:58,808 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Localidade', 'PIB a preços correntes (mil reais) (2019)', 'PIB a preços correntes (mil reais) (2020)', 'PIB a preços correntes (mil reais) (2021)', 'PIB per capita (R$) (2019)', 'PIB per capita (R$) (2020)', 'PIB per capita (R$) (2021)']
+2025-02-14 08:08:56,085 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 08:08:56,087 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=104
+2025-02-14 08:08:56,087 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 104
+2025-02-14 08:08:56,088 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:08:56,088 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:08:56,088 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 104 encontrada
+2025-02-14 08:08:56,088 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 104 - Estado de Goiás: dados gerais da pesquisa anual de serviços não financeiros – PAS
+|Atividades de serviços|2021||||
+|---|---|---|---|---|
+||Número de empresas (Unidades)|Pessoal ocupado em 31/12 (Pessoas)|Receita bruta de serviços (Mil Reais)|Salários, retiradas e outras remunerações (Mil Reais)|
+|Total|52.986|386.039|49.323.111|9.485.095|
+|1. Serviços prestados às famílias|11.909|70.291|6.390.330|1.386.111|
+|1.1 Serviços de alojamento e alimentação|7.713|51.200|4.994.762|967.809|
+|1.2 Atividades culturais, recreativas e esportivas|1.242|6.112|509.367|121.350|
+|1.3 Serviços pessoais|1.450|6.370|505.694|174.914|
+|1.4 Atividades de ensino continuado|1.504|6.609|380.507|122.038|
+|2. Serviços de informação e comunicação|3.195|27.337|7.528.905|1.069.126|
+|3. Serviços profissionais, administrativos e complementares|21.778|174.859|13.149.843|3.925.770|
+|4. Transportes, serviços auxiliares aos transportes e correio|6.608|64.163|15.731.549|1.900.601|
+|4.1 Transporte rodoviário|5.616|49.607|12.843.685|1.404.498|
+|4.2 Outros transportes|22|1.089|1.353.751|70.160|
+|4.3 Armazenamento e serviços auxiliares aos transportes|794|8.973|998.755|232.476|
+|4.4 Correio e outras atividades de entrega|176|4.494|535.358|193.467|
+|5. Atividades imobiliárias|2.870|7.266|2.284.216|119.228|
+|6. Serviços de manutenção e reparação|3.939|16.804|806.567|332.101|
+|7. Outras atividades de serviços|2.687|25.319|3.431.701|752.158|
+
+## COMÉRCIO
+
+
+2025-02-14 08:08:56,089 - tools.financy.macro_economy.goias_data_tool - INFO - Processando tabela 104: Estado de Goiás: dados gerais da pesquisa anual de serviços não financeiros – PAS
+2025-02-14 08:08:56,089 - tools.financy.macro_economy.goias_data_tool - INFO - Análise da estrutura: vazios=3, subcategorias=True, anos_header=True, anos_linha=False, anos_dados=False, valores_monetarios=False
+2025-02-14 08:08:56,089 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: multi_header
+2025-02-14 08:08:56,089 - tools.financy.macro_economy.goias_data_tool - INFO - Processados 0 registros
+2025-02-14 08:08:56,089 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Atividades de serviços', '2021', '', '', '', '', 'Número de empresas (Unidades)', 'Pessoal ocupado em 31/12 (Pessoas)', 'Receita bruta de serviços (Mil Reais)', 'Salários, retiradas e outras remunerações (Mil Reais)']
+2025-02-14 08:08:56,092 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna  mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 08:08:56,093 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna  mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 08:08:56,093 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna  mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 08:08:56,093 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna  mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 08:08:56,094 - tools.financy.macro_economy.goias_data_tool - INFO - DataFrame criado com sucesso: (0, 10)
+2025-02-14 08:08:56,095 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Atividades de serviços', '2021', '', '', '', '', 'Número de empresas (Unidades)', 'Pessoal ocupado em 31/12 (Pessoas)', 'Receita bruta de serviços (Mil Reais)', 'Salários, retiradas e outras remunerações (Mil Reais)']
+2025-02-14 08:10:31,455 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 08:10:31,456 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=104
+2025-02-14 08:10:31,456 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 104
+2025-02-14 08:10:31,456 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:10:31,458 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:10:31,458 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 104 encontrada
+2025-02-14 08:10:31,458 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 104 - Estado de Goiás: dados gerais da pesquisa anual de serviços não financeiros – PAS
+|Atividades de serviços|2021||||
+|---|---|---|---|---|
+||Número de empresas (Unidades)|Pessoal ocupado em 31/12 (Pessoas)|Receita bruta de serviços (Mil Reais)|Salários, retiradas e outras remunerações (Mil Reais)|
+|Total|52.986|386.039|49.323.111|9.485.095|
+|1. Serviços prestados às famílias|11.909|70.291|6.390.330|1.386.111|
+|1.1 Serviços de alojamento e alimentação|7.713|51.200|4.994.762|967.809|
+|1.2 Atividades culturais, recreativas e esportivas|1.242|6.112|509.367|121.350|
+|1.3 Serviços pessoais|1.450|6.370|505.694|174.914|
+|1.4 Atividades de ensino continuado|1.504|6.609|380.507|122.038|
+|2. Serviços de informação e comunicação|3.195|27.337|7.528.905|1.069.126|
+|3. Serviços profissionais, administrativos e complementares|21.778|174.859|13.149.843|3.925.770|
+|4. Transportes, serviços auxiliares aos transportes e correio|6.608|64.163|15.731.549|1.900.601|
+|4.1 Transporte rodoviário|5.616|49.607|12.843.685|1.404.498|
+|4.2 Outros transportes|22|1.089|1.353.751|70.160|
+|4.3 Armazenamento e serviços auxiliares aos transportes|794|8.973|998.755|232.476|
+|4.4 Correio e outras atividades de entrega|176|4.494|535.358|193.467|
+|5. Atividades imobiliárias|2.870|7.266|2.284.216|119.228|
+|6. Serviços de manutenção e reparação|3.939|16.804|806.567|332.101|
+|7. Outras atividades de serviços|2.687|25.319|3.431.701|752.158|
+
+## COMÉRCIO
+
+
+2025-02-14 08:10:31,458 - tools.financy.macro_economy.goias_data_tool - INFO - Processando tabela 104: Estado de Goiás: dados gerais da pesquisa anual de serviços não financeiros – PAS
+2025-02-14 08:10:31,459 - tools.financy.macro_economy.goias_data_tool - INFO - Análise da estrutura: vazios=3, subcategorias=True, anos_header=True, anos_linha=False, anos_dados=False, valores_monetarios=False
+2025-02-14 08:10:31,459 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: multi_header
+2025-02-14 08:10:31,459 - tools.financy.macro_economy.goias_data_tool - INFO - Processados 0 registros
+2025-02-14 08:10:31,459 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Atividades de serviços', '2021', '', '', '', '', 'Número de empresas (Unidades)', 'Pessoal ocupado em 31/12 (Pessoas)', 'Receita bruta de serviços (Mil Reais)', 'Salários, retiradas e outras remunerações (Mil Reais)']
+2025-02-14 08:10:31,461 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna  mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 08:10:31,462 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna  mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 08:10:31,462 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna  mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 08:10:31,462 - tools.financy.macro_economy.goias_data_tool - INFO - Coluna  mantida como texto: 'DataFrame' object has no attribute 'str'
+2025-02-14 08:10:31,464 - tools.financy.macro_economy.goias_data_tool - INFO - DataFrame criado com sucesso: (0, 10)
+2025-02-14 08:10:31,464 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Atividades de serviços', '2021', '', '', '', '', 'Número de empresas (Unidades)', 'Pessoal ocupado em 31/12 (Pessoas)', 'Receita bruta de serviços (Mil Reais)', 'Salários, retiradas e outras remunerações (Mil Reais)']
+2025-02-14 08:12:04,206 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 08:12:04,208 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=104
+2025-02-14 08:12:04,208 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 104
+2025-02-14 08:12:04,208 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:12:04,208 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:12:04,209 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 104 encontrada
+2025-02-14 08:12:04,209 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 104 - Estado de Goiás: dados gerais da pesquisa anual de serviços não financeiros – PAS
+|Atividades de serviços|2021||||
+|---|---|---|---|---|
+||Número de empresas (Unidades)|Pessoal ocupado em 31/12 (Pessoas)|Receita bruta de serviços (Mil Reais)|Salários, retiradas e outras remunerações (Mil Reais)|
+|Total|52.986|386.039|49.323.111|9.485.095|
+|1. Serviços prestados às famílias|11.909|70.291|6.390.330|1.386.111|
+|1.1 Serviços de alojamento e alimentação|7.713|51.200|4.994.762|967.809|
+|1.2 Atividades culturais, recreativas e esportivas|1.242|6.112|509.367|121.350|
+|1.3 Serviços pessoais|1.450|6.370|505.694|174.914|
+|1.4 Atividades de ensino continuado|1.504|6.609|380.507|122.038|
+|2. Serviços de informação e comunicação|3.195|27.337|7.528.905|1.069.126|
+|3. Serviços profissionais, administrativos e complementares|21.778|174.859|13.149.843|3.925.770|
+|4. Transportes, serviços auxiliares aos transportes e correio|6.608|64.163|15.731.549|1.900.601|
+|4.1 Transporte rodoviário|5.616|49.607|12.843.685|1.404.498|
+|4.2 Outros transportes|22|1.089|1.353.751|70.160|
+|4.3 Armazenamento e serviços auxiliares aos transportes|794|8.973|998.755|232.476|
+|4.4 Correio e outras atividades de entrega|176|4.494|535.358|193.467|
+|5. Atividades imobiliárias|2.870|7.266|2.284.216|119.228|
+|6. Serviços de manutenção e reparação|3.939|16.804|806.567|332.101|
+|7. Outras atividades de serviços|2.687|25.319|3.431.701|752.158|
+
+## COMÉRCIO
+
+
+2025-02-14 08:12:04,209 - tools.financy.macro_economy.goias_data_tool - INFO - Análise da estrutura: vazios=0, subcategorias=True, anos_header=False, anos_linha=False, anos_dados=True, valores_monetarios=False
+2025-02-14 08:12:04,209 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: subcategories
+2025-02-14 08:17:08,625 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 08:17:08,627 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=104
+2025-02-14 08:17:08,627 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 104
+2025-02-14 08:17:08,628 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:17:08,628 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:17:08,628 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 104 encontrada
+2025-02-14 08:17:08,628 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 104 - Estado de Goiás: dados gerais da pesquisa anual de serviços não financeiros – PAS
+|Atividades de serviços|2021||||
+|---|---|---|---|---|
+||Número de empresas (Unidades)|Pessoal ocupado em 31/12 (Pessoas)|Receita bruta de serviços (Mil Reais)|Salários, retiradas e outras remunerações (Mil Reais)|
+|Total|52.986|386.039|49.323.111|9.485.095|
+|1. Serviços prestados às famílias|11.909|70.291|6.390.330|1.386.111|
+|1.1 Serviços de alojamento e alimentação|7.713|51.200|4.994.762|967.809|
+|1.2 Atividades culturais, recreativas e esportivas|1.242|6.112|509.367|121.350|
+|1.3 Serviços pessoais|1.450|6.370|505.694|174.914|
+|1.4 Atividades de ensino continuado|1.504|6.609|380.507|122.038|
+|2. Serviços de informação e comunicação|3.195|27.337|7.528.905|1.069.126|
+|3. Serviços profissionais, administrativos e complementares|21.778|174.859|13.149.843|3.925.770|
+|4. Transportes, serviços auxiliares aos transportes e correio|6.608|64.163|15.731.549|1.900.601|
+|4.1 Transporte rodoviário|5.616|49.607|12.843.685|1.404.498|
+|4.2 Outros transportes|22|1.089|1.353.751|70.160|
+|4.3 Armazenamento e serviços auxiliares aos transportes|794|8.973|998.755|232.476|
+|4.4 Correio e outras atividades de entrega|176|4.494|535.358|193.467|
+|5. Atividades imobiliárias|2.870|7.266|2.284.216|119.228|
+|6. Serviços de manutenção e reparação|3.939|16.804|806.567|332.101|
+|7. Outras atividades de serviços|2.687|25.319|3.431.701|752.158|
+
+## COMÉRCIO
+
+
+2025-02-14 08:17:08,628 - tools.financy.macro_economy.goias_data_tool - INFO - Análise da estrutura: vazios=0, subcategorias=True, anos_header=False, anos_linha=False, anos_dados=True, valores_monetarios=False
+2025-02-14 08:17:08,628 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: subcategories
+2025-02-14 08:18:38,968 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 08:18:38,969 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 08:18:38,969 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 08:18:38,969 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:18:38,969 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:18:38,969 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 08:18:38,969 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+
+
+2025-02-14 08:18:38,971 - tools.financy.macro_economy.goias_data_tool - INFO - Análise da estrutura: vazios=0, subcategorias=False, anos_header=False, anos_linha=True, anos_dados=True, valores_monetarios=False
+2025-02-14 08:18:38,971 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: years_in_rows
+2025-02-14 08:18:38,971 - tools.financy.macro_economy.goias_data_tool - INFO - Processados 0 registros
+2025-02-14 08:18:38,971 - tools.financy.macro_economy.goias_data_tool - INFO - Colunas: ['Localidade']
+2025-02-14 08:18:38,973 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=98
+2025-02-14 08:18:38,974 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 98
+2025-02-14 08:18:38,974 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:18:38,974 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:18:38,974 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 98 encontrada
+2025-02-14 08:18:38,974 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 98 - Estado de Goiás, Centro-Oeste e Brasil: principais rebanhos e produção de leite
+|Especificação|Bovino|Suíno|Aves|Vacas leiteiras|Produção de leite|
+|---|---|---|---|---|---|
+|Brasil||||||
+|2020|218.150.298|41.124.233|1.479.363.352|15.953.935|35.316.6677|
+|2021|224.601.992|42.550.892|1.528.031.685|15.892.943|35.183.066|
+|2022|234.352.649|44.393.930|1.586.047.875|15.740.153|34.609.218|
+|Centro-Oeste||||||
+|2020|75.440.444|6.052.812|179.702.816|2.433.227|4.113.109|
+|2021|75.413.186|6.197.884|185.362.561|2.316.116|3.981.998|
+|2022|77.175.767|6.264.159|189.109.593|2.208.629|3.813.946|
+|Goiás||||||
+|2020|23.626.608|1.822.133|93.365.406|1.862.056|3.173.510|
+|2021|24.293.954|1.592.498|97.747.163|1.805.721|3.121.391|
+|2022|24.410.182|1.521.186|102.851.347|1.742.203|2.999.571|
+
+
+2025-02-14 08:18:38,974 - tools.financy.macro_economy.goias_data_tool - INFO - Análise da estrutura: vazios=0, subcategorias=False, anos_header=False, anos_linha=False, anos_dados=True, valores_monetarios=False
+2025-02-14 08:18:38,974 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: years_in_rows
+2025-02-14 08:19:55,803 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 08:19:55,804 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 08:19:55,804 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 08:19:55,805 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:19:55,805 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:19:55,805 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 08:19:55,805 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+
+
+2025-02-14 08:19:55,805 - tools.financy.macro_economy.goias_data_tool - INFO - Análise da estrutura: vazios=0, subcategorias=False, anos_header=False, anos_linha=True, anos_dados=True, valores_monetarios=False
+2025-02-14 08:19:55,805 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: years_in_rows
+2025-02-14 08:19:55,808 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=98
+2025-02-14 08:19:55,808 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 98
+2025-02-14 08:19:55,808 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:19:55,808 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:19:55,808 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 98 encontrada
+2025-02-14 08:19:55,808 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 98 - Estado de Goiás, Centro-Oeste e Brasil: principais rebanhos e produção de leite
+|Especificação|Bovino|Suíno|Aves|Vacas leiteiras|Produção de leite|
+|---|---|---|---|---|---|
+|Brasil||||||
+|2020|218.150.298|41.124.233|1.479.363.352|15.953.935|35.316.6677|
+|2021|224.601.992|42.550.892|1.528.031.685|15.892.943|35.183.066|
+|2022|234.352.649|44.393.930|1.586.047.875|15.740.153|34.609.218|
+|Centro-Oeste||||||
+|2020|75.440.444|6.052.812|179.702.816|2.433.227|4.113.109|
+|2021|75.413.186|6.197.884|185.362.561|2.316.116|3.981.998|
+|2022|77.175.767|6.264.159|189.109.593|2.208.629|3.813.946|
+|Goiás||||||
+|2020|23.626.608|1.822.133|93.365.406|1.862.056|3.173.510|
+|2021|24.293.954|1.592.498|97.747.163|1.805.721|3.121.391|
+|2022|24.410.182|1.521.186|102.851.347|1.742.203|2.999.571|
+
+
+2025-02-14 08:19:55,809 - tools.financy.macro_economy.goias_data_tool - INFO - Análise da estrutura: vazios=0, subcategorias=False, anos_header=False, anos_linha=False, anos_dados=True, valores_monetarios=False
+2025-02-14 08:19:55,809 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: years_in_rows
+2025-02-14 08:27:11,201 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 08:27:11,202 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 08:27:11,202 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 08:27:11,202 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:27:11,202 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:27:11,203 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 08:27:11,203 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+
+
+2025-02-14 08:27:11,203 - tools.financy.macro_economy.goias_data_tool - INFO - Análise da estrutura: vazios=0, subcategorias=False, anos_header=False, anos_linha=True, anos_dados=True, valores_monetarios=False
+2025-02-14 08:27:11,203 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: years_in_rows
+2025-02-14 08:27:11,205 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=98
+2025-02-14 08:27:11,205 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 98
+2025-02-14 08:27:11,206 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:27:11,206 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:27:11,206 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 98 encontrada
+2025-02-14 08:27:11,206 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 98 - Estado de Goiás, Centro-Oeste e Brasil: principais rebanhos e produção de leite
+|Especificação|Bovino|Suíno|Aves|Vacas leiteiras|Produção de leite|
+|---|---|---|---|---|---|
+|Brasil||||||
+|2020|218.150.298|41.124.233|1.479.363.352|15.953.935|35.316.6677|
+|2021|224.601.992|42.550.892|1.528.031.685|15.892.943|35.183.066|
+|2022|234.352.649|44.393.930|1.586.047.875|15.740.153|34.609.218|
+|Centro-Oeste||||||
+|2020|75.440.444|6.052.812|179.702.816|2.433.227|4.113.109|
+|2021|75.413.186|6.197.884|185.362.561|2.316.116|3.981.998|
+|2022|77.175.767|6.264.159|189.109.593|2.208.629|3.813.946|
+|Goiás||||||
+|2020|23.626.608|1.822.133|93.365.406|1.862.056|3.173.510|
+|2021|24.293.954|1.592.498|97.747.163|1.805.721|3.121.391|
+|2022|24.410.182|1.521.186|102.851.347|1.742.203|2.999.571|
+
+
+2025-02-14 08:27:11,206 - tools.financy.macro_economy.goias_data_tool - INFO - Análise da estrutura: vazios=0, subcategorias=False, anos_header=False, anos_linha=False, anos_dados=True, valores_monetarios=False
+2025-02-14 08:27:11,206 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: years_in_rows
+2025-02-14 08:35:30,612 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 08:35:30,613 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 08:35:30,613 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 08:35:30,614 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:35:30,614 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:35:30,614 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 08:35:30,614 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+
+
+2025-02-14 08:35:30,614 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: simple
+2025-02-14 08:35:30,617 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=98
+2025-02-14 08:35:30,617 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 98
+2025-02-14 08:35:30,617 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:35:30,617 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:35:30,617 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 98 encontrada
+2025-02-14 08:35:30,617 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 98 - Estado de Goiás, Centro-Oeste e Brasil: principais rebanhos e produção de leite
+|Especificação|Bovino|Suíno|Aves|Vacas leiteiras|Produção de leite|
+|---|---|---|---|---|---|
+|Brasil||||||
+|2020|218.150.298|41.124.233|1.479.363.352|15.953.935|35.316.6677|
+|2021|224.601.992|42.550.892|1.528.031.685|15.892.943|35.183.066|
+|2022|234.352.649|44.393.930|1.586.047.875|15.740.153|34.609.218|
+|Centro-Oeste||||||
+|2020|75.440.444|6.052.812|179.702.816|2.433.227|4.113.109|
+|2021|75.413.186|6.197.884|185.362.561|2.316.116|3.981.998|
+|2022|77.175.767|6.264.159|189.109.593|2.208.629|3.813.946|
+|Goiás||||||
+|2020|23.626.608|1.822.133|93.365.406|1.862.056|3.173.510|
+|2021|24.293.954|1.592.498|97.747.163|1.805.721|3.121.391|
+|2022|24.410.182|1.521.186|102.851.347|1.742.203|2.999.571|
+
+
+2025-02-14 08:35:30,618 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: years_in_rows
+2025-02-14 08:41:13,939 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 08:41:13,940 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 08:41:13,940 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 08:41:13,941 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:41:13,941 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:41:13,941 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 08:41:13,941 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+
+
+2025-02-14 08:41:13,941 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: simple
+2025-02-14 08:41:13,943 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=98
+2025-02-14 08:41:13,943 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 98
+2025-02-14 08:41:13,944 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:41:13,944 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:41:13,944 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 98 encontrada
+2025-02-14 08:41:13,944 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 98 - Estado de Goiás, Centro-Oeste e Brasil: principais rebanhos e produção de leite
+|Especificação|Bovino|Suíno|Aves|Vacas leiteiras|Produção de leite|
+|---|---|---|---|---|---|
+|Brasil||||||
+|2020|218.150.298|41.124.233|1.479.363.352|15.953.935|35.316.6677|
+|2021|224.601.992|42.550.892|1.528.031.685|15.892.943|35.183.066|
+|2022|234.352.649|44.393.930|1.586.047.875|15.740.153|34.609.218|
+|Centro-Oeste||||||
+|2020|75.440.444|6.052.812|179.702.816|2.433.227|4.113.109|
+|2021|75.413.186|6.197.884|185.362.561|2.316.116|3.981.998|
+|2022|77.175.767|6.264.159|189.109.593|2.208.629|3.813.946|
+|Goiás||||||
+|2020|23.626.608|1.822.133|93.365.406|1.862.056|3.173.510|
+|2021|24.293.954|1.592.498|97.747.163|1.805.721|3.121.391|
+|2022|24.410.182|1.521.186|102.851.347|1.742.203|2.999.571|
+
+
+2025-02-14 08:41:13,945 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: years_in_rows
+2025-02-14 08:42:19,152 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 08:42:19,153 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 08:42:19,153 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 08:42:19,153 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:42:19,153 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:42:19,154 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 08:42:19,154 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+
+
+2025-02-14 08:42:19,154 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: grouped
+2025-02-14 08:42:19,156 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=98
+2025-02-14 08:42:19,157 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 98
+2025-02-14 08:42:19,157 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:42:19,157 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:42:19,157 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 98 encontrada
+2025-02-14 08:42:19,157 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 98 - Estado de Goiás, Centro-Oeste e Brasil: principais rebanhos e produção de leite
+|Especificação|Bovino|Suíno|Aves|Vacas leiteiras|Produção de leite|
+|---|---|---|---|---|---|
+|Brasil||||||
+|2020|218.150.298|41.124.233|1.479.363.352|15.953.935|35.316.6677|
+|2021|224.601.992|42.550.892|1.528.031.685|15.892.943|35.183.066|
+|2022|234.352.649|44.393.930|1.586.047.875|15.740.153|34.609.218|
+|Centro-Oeste||||||
+|2020|75.440.444|6.052.812|179.702.816|2.433.227|4.113.109|
+|2021|75.413.186|6.197.884|185.362.561|2.316.116|3.981.998|
+|2022|77.175.767|6.264.159|189.109.593|2.208.629|3.813.946|
+|Goiás||||||
+|2020|23.626.608|1.822.133|93.365.406|1.862.056|3.173.510|
+|2021|24.293.954|1.592.498|97.747.163|1.805.721|3.121.391|
+|2022|24.410.182|1.521.186|102.851.347|1.742.203|2.999.571|
+
+
+2025-02-14 08:42:19,157 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: grouped
+2025-02-14 08:43:03,395 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 08:43:03,396 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 08:43:03,396 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 08:43:03,396 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:43:03,396 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:43:03,396 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 08:43:03,396 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+
+
+2025-02-14 08:43:03,396 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: grouped
+2025-02-14 08:43:03,399 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=98
+2025-02-14 08:43:03,399 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 98
+2025-02-14 08:43:03,399 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:43:03,400 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:43:03,400 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 98 encontrada
+2025-02-14 08:43:03,400 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 98 - Estado de Goiás, Centro-Oeste e Brasil: principais rebanhos e produção de leite
+|Especificação|Bovino|Suíno|Aves|Vacas leiteiras|Produção de leite|
+|---|---|---|---|---|---|
+|Brasil||||||
+|2020|218.150.298|41.124.233|1.479.363.352|15.953.935|35.316.6677|
+|2021|224.601.992|42.550.892|1.528.031.685|15.892.943|35.183.066|
+|2022|234.352.649|44.393.930|1.586.047.875|15.740.153|34.609.218|
+|Centro-Oeste||||||
+|2020|75.440.444|6.052.812|179.702.816|2.433.227|4.113.109|
+|2021|75.413.186|6.197.884|185.362.561|2.316.116|3.981.998|
+|2022|77.175.767|6.264.159|189.109.593|2.208.629|3.813.946|
+|Goiás||||||
+|2020|23.626.608|1.822.133|93.365.406|1.862.056|3.173.510|
+|2021|24.293.954|1.592.498|97.747.163|1.805.721|3.121.391|
+|2022|24.410.182|1.521.186|102.851.347|1.742.203|2.999.571|
+
+
+2025-02-14 08:43:03,401 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: grouped
+2025-02-14 08:43:41,221 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 08:43:41,222 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 08:43:41,222 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 08:43:41,222 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:43:41,223 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:43:41,223 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 08:43:41,223 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+
+
+2025-02-14 08:43:41,223 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: grouped
+2025-02-14 08:43:41,225 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=98
+2025-02-14 08:43:41,227 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 98
+2025-02-14 08:43:41,227 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 51 tabelas brutas
+2025-02-14 08:43:41,227 - tools.financy.macro_economy.goias_data_tool - INFO - Processando 51 tabelas
+2025-02-14 08:43:41,227 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 98 encontrada
+2025-02-14 08:43:41,227 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+## Tabela 98 - Estado de Goiás, Centro-Oeste e Brasil: principais rebanhos e produção de leite
+|Especificação|Bovino|Suíno|Aves|Vacas leiteiras|Produção de leite|
+|---|---|---|---|---|---|
+|Brasil||||||
+|2020|218.150.298|41.124.233|1.479.363.352|15.953.935|35.316.6677|
+|2021|224.601.992|42.550.892|1.528.031.685|15.892.943|35.183.066|
+|2022|234.352.649|44.393.930|1.586.047.875|15.740.153|34.609.218|
+|Centro-Oeste||||||
+|2020|75.440.444|6.052.812|179.702.816|2.433.227|4.113.109|
+|2021|75.413.186|6.197.884|185.362.561|2.316.116|3.981.998|
+|2022|77.175.767|6.264.159|189.109.593|2.208.629|3.813.946|
+|Goiás||||||
+|2020|23.626.608|1.822.133|93.365.406|1.862.056|3.173.510|
+|2021|24.293.954|1.592.498|97.747.163|1.805.721|3.121.391|
+|2022|24.410.182|1.521.186|102.851.347|1.742.203|2.999.571|
+
+
+2025-02-14 08:43:41,228 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: grouped
+2025-02-14 08:44:52,430 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 08:44:52,431 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 08:44:52,431 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 08:44:52,431 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 60 tabelas brutas
+2025-02-14 08:44:52,432 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 08:44:52,432 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+2025-02-14 08:44:52,432 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: grouped
+2025-02-14 08:44:52,434 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=98
+2025-02-14 08:44:52,436 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 98
+2025-02-14 08:44:52,436 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 60 tabelas brutas
+2025-02-14 08:44:52,436 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 98 encontrada
+2025-02-14 08:44:52,436 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+Tabela 98 - Estado de Goiás, Centro-Oeste e Brasil: principais rebanhos e produção de leite
+|Especificação|Bovino|Suíno|Aves|Vacas leiteiras|Produção de leite|
+|---|---|---|---|---|---|
+|Brasil||||||
+|2020|218.150.298|41.124.233|1.479.363.352|15.953.935|35.316.6677|
+|2021|224.601.992|42.550.892|1.528.031.685|15.892.943|35.183.066|
+|2022|234.352.649|44.393.930|1.586.047.875|15.740.153|34.609.218|
+|Centro-Oeste||||||
+|2020|75.440.444|6.052.812|179.702.816|2.433.227|4.113.109|
+|2021|75.413.186|6.197.884|185.362.561|2.316.116|3.981.998|
+|2022|77.175.767|6.264.159|189.109.593|2.208.629|3.813.946|
+|Goiás||||||
+|2020|23.626.608|1.822.133|93.365.406|1.862.056|3.173.510|
+|2021|24.293.954|1.592.498|97.747.163|1.805.721|3.121.391|
+|2022|24.410.182|1.521.186|102.851.347|1.742.203|2.999.571|
+2025-02-14 08:44:52,436 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: grouped
+2025-02-14 09:05:45,179 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 09:05:45,180 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 09:05:45,180 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 09:05:45,181 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 60 tabelas brutas
+2025-02-14 09:05:45,181 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 09:05:45,181 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+2025-02-14 09:05:45,181 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: grouped
+2025-02-14 09:05:45,183 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=98
+2025-02-14 09:05:45,183 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 98
+2025-02-14 09:05:45,183 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 60 tabelas brutas
+2025-02-14 09:05:45,183 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 98 encontrada
+2025-02-14 09:05:45,183 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+Tabela 98 - Estado de Goiás, Centro-Oeste e Brasil: principais rebanhos e produção de leite
+|Especificação|Bovino|Suíno|Aves|Vacas leiteiras|Produção de leite|
+|---|---|---|---|---|---|
+|Brasil||||||
+|2020|218.150.298|41.124.233|1.479.363.352|15.953.935|35.316.6677|
+|2021|224.601.992|42.550.892|1.528.031.685|15.892.943|35.183.066|
+|2022|234.352.649|44.393.930|1.586.047.875|15.740.153|34.609.218|
+|Centro-Oeste||||||
+|2020|75.440.444|6.052.812|179.702.816|2.433.227|4.113.109|
+|2021|75.413.186|6.197.884|185.362.561|2.316.116|3.981.998|
+|2022|77.175.767|6.264.159|189.109.593|2.208.629|3.813.946|
+|Goiás||||||
+|2020|23.626.608|1.822.133|93.365.406|1.862.056|3.173.510|
+|2021|24.293.954|1.592.498|97.747.163|1.805.721|3.121.391|
+|2022|24.410.182|1.521.186|102.851.347|1.742.203|2.999.571|
+2025-02-14 09:05:45,184 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: grouped
+2025-02-14 09:51:50,812 - tools.financy.macro_economy.goias_data_tool - INFO - Caminho do arquivo: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\goias-tables.md
+2025-02-14 09:51:50,813 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=79
+2025-02-14 09:51:50,813 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 79
+2025-02-14 09:51:50,813 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 60 tabelas brutas
+2025-02-14 09:51:50,813 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 79 encontrada
+2025-02-14 09:51:50,813 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+Tabela 79 - Estado de Goiás, Centro-Oeste e Brasil: produto interno bruto a preço de mercado corrente e per capita
+|Localidade|PIB a preços correntes (mil reais)|PIB per capita (R$)|
+|---|---|---|
+|Ano|2019|2020|2021|2019|2020|2021|
+|Goiás|208.672.492|224.126.112|269.627.874|29.732,40|31.506,97|37.414,08|
+|Centro-Oeste|731.351.478|791.250.736|932.165.625|44.876,24|47.942,09|55.793,79|
+|Brasil|7.389.131.000|7.609.597.000|9.012.142.000|35.161,70|35.935,74|42.247,52|
+2025-02-14 09:51:50,814 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: grouped
+2025-02-14 09:51:50,815 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise com parâmetros: categorias=[<DataCategory.TODOS: 'todos'>], ano=2023, comparativa=True, tabela=98
+2025-02-14 09:51:50,815 - tools.financy.macro_economy.goias_data_tool - INFO - Buscando tabela 98
+2025-02-14 09:51:50,816 - tools.financy.macro_economy.goias_data_tool - INFO - Encontradas 60 tabelas brutas
+2025-02-14 09:51:50,816 - tools.financy.macro_economy.goias_data_tool - INFO - Tabela 98 encontrada
+2025-02-14 09:51:50,816 - tools.financy.macro_economy.goias_data_tool - INFO - Conteúdo da tabela:
+Tabela 98 - Estado de Goiás, Centro-Oeste e Brasil: principais rebanhos e produção de leite
+|Especificação|Bovino|Suíno|Aves|Vacas leiteiras|Produção de leite|
+|---|---|---|---|---|---|
+|Brasil||||||
+|2020|218.150.298|41.124.233|1.479.363.352|15.953.935|35.316.6677|
+|2021|224.601.992|42.550.892|1.528.031.685|15.892.943|35.183.066|
+|2022|234.352.649|44.393.930|1.586.047.875|15.740.153|34.609.218|
+|Centro-Oeste||||||
+|2020|75.440.444|6.052.812|179.702.816|2.433.227|4.113.109|
+|2021|75.413.186|6.197.884|185.362.561|2.316.116|3.981.998|
+|2022|77.175.767|6.264.159|189.109.593|2.208.629|3.813.946|
+|Goiás||||||
+|2020|23.626.608|1.822.133|93.365.406|1.862.056|3.173.510|
+|2021|24.293.954|1.592.498|97.747.163|1.805.721|3.121.391|
+|2022|24.410.182|1.521.186|102.851.347|1.742.203|2.999.571|
+2025-02-14 09:51:50,816 - tools.financy.macro_economy.goias_data_tool - INFO - Estrutura detectada: grouped
+2025-02-14 09:56:50,289 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 09:56:50,289 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 09:56:50,293 - __main__ - ERROR - Erro ao carregar CSV 79-pib-goiano-centro-oeste-brasil-valores-variacao-per-capita.csv: No columns to parse from file
+2025-02-14 09:56:50,294 - __main__ - ERROR - Erro ao carregar CSV 80-participacao-pib-goias-cenario-nacional.csv: No columns to parse from file
+2025-02-14 09:56:50,297 - __main__ - ERROR - Erro ao carregar CSV 112-balanca-comercial-goias-brasil.csv: No columns to parse from file
+2025-02-14 10:00:25,920 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:00:25,920 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:00:25,921 - __main__ - ERROR - Erro ao carregar CSV 79-pib-goiano-centro-oeste-brasil-valores-variacao-per-capita.csv: No columns to parse from file
+2025-02-14 10:00:25,922 - __main__ - ERROR - Erro ao carregar CSV 80-participacao-pib-goias-cenario-nacional.csv: No columns to parse from file
+2025-02-14 10:00:25,924 - __main__ - ERROR - Erro ao carregar CSV 112-balanca-comercial-goias-brasil.csv: No columns to parse from file
+2025-02-14 10:03:22,765 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:03:22,765 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:03:22,766 - __main__ - ERROR - Erro ao carregar CSV 79-pib-goiano-centro-oeste-brasil-valores-variacao-per-capita.csv: No columns to parse from file
+2025-02-14 10:03:22,767 - __main__ - ERROR - Erro ao carregar CSV 80-participacao-pib-goias-cenario-nacional.csv: No columns to parse from file
+2025-02-14 10:03:22,768 - __main__ - ERROR - Erro ao processar dados do PIB: invalid literal for int() with base 10: 'Taxa de variação PIB (%)'
+2025-02-14 10:03:22,769 - __main__ - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\tools\financy\macro_economy\goias_data_tool.py", line 265, in _process_pib_data
+    'ano': int(latest_year),
+           ^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'Taxa de variação PIB (%)'
+
+2025-02-14 10:03:22,769 - __main__ - ERROR - Erro ao carregar CSV 112-balanca-comercial-goias-brasil.csv: No columns to parse from file
+2025-02-14 10:04:05,528 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:04:05,529 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:04:05,529 - __main__ - ERROR - Erro ao carregar CSV 79-pib-goiano-centro-oeste-brasil-valores-variacao-per-capita.csv: No columns to parse from file
+2025-02-14 10:04:05,530 - __main__ - ERROR - Erro ao carregar CSV 80-participacao-pib-goias-cenario-nacional.csv: No columns to parse from file
+2025-02-14 10:04:05,531 - __main__ - ERROR - Erro ao processar dados do PIB: invalid literal for int() with base 10: 'Taxa de variação PIB (%)'
+2025-02-14 10:04:05,531 - __main__ - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\tools\financy\macro_economy\goias_data_tool.py", line 265, in _process_pib_data
+    'ano': int(latest_year),
+           ^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'Taxa de variação PIB (%)'
+
+2025-02-14 10:04:05,533 - __main__ - ERROR - Erro ao carregar CSV 112-balanca-comercial-goias-brasil.csv: No columns to parse from file
+2025-02-14 10:05:55,751 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:05:55,752 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:05:55,758 - __main__ - ERROR - Erro ao carregar CSV 112-balanca-comercial-goias-brasil.csv: No columns to parse from file
+2025-02-14 10:16:31,991 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:16:31,991 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:16:31,995 - __main__ - ERROR - Erro ao carregar CSV 90-producao-graos-goias-centro-oeste-brasil.csv: No columns to parse from file
+2025-02-14 10:16:31,996 - __main__ - ERROR - Erro ao processar dados da pecuária: 'Tipo'
+2025-02-14 10:16:31,997 - __main__ - ERROR - Erro ao carregar CSV 112-balanca-comercial-goias-brasil.csv: No columns to parse from file
+2025-02-14 10:16:32,001 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-02-14 10:16:32,001 - __main__ - ERROR - Erro ao processar dados de finanças públicas: 'Tipo'
+2025-02-14 10:16:32,002 - __main__ - ERROR - Erro ao processar dados de inflação: 'Capital'
+2025-02-14 10:17:24,476 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:17:24,476 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:17:24,481 - __main__ - ERROR - Erro ao carregar CSV 90-producao-graos-goias-centro-oeste-brasil.csv: No columns to parse from file
+2025-02-14 10:17:24,482 - __main__ - ERROR - Erro ao processar dados da pecuária: 'Tipo'
+2025-02-14 10:17:24,482 - __main__ - ERROR - Erro ao carregar CSV 112-balanca-comercial-goias-brasil.csv: No columns to parse from file
+2025-02-14 10:17:24,484 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-02-14 10:17:24,484 - __main__ - ERROR - Erro ao processar dados de finanças públicas: 'Tipo'
+2025-02-14 10:17:24,485 - __main__ - ERROR - Erro ao processar dados de inflação: 'Capital'
+2025-02-14 10:26:38,223 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:26:38,223 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:26:38,228 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-02-14 10:26:38,229 - __main__ - ERROR - Erro ao processar dados da pecuária: 'Tipo'
+2025-02-14 10:26:38,230 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-02-14 10:26:38,231 - __main__ - ERROR - Erro ao processar dados de finanças públicas: 'Tipo'
+2025-02-14 10:26:38,231 - __main__ - ERROR - Erro ao processar dados de inflação: 'Capital'
+2025-02-14 10:26:38,232 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: ufunc 'divide' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+2025-02-14 10:28:25,985 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:28:25,986 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:28:25,989 - __main__ - ERROR - Erro ao processar dados do PIB: 'Taxa de variação PIB (%)'
+2025-02-14 10:28:25,990 - __main__ - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Taxa de variação PIB (%)'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\tools\financy\macro_economy\goias_data_tool.py", line 247, in _process_pib_data
+    valor_atual=pib_total['Taxa de variação PIB (%)'],
+                ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\.venv\Lib\site-packages\pandas\core\series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\.venv\Lib\site-packages\pandas\core\series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Taxa de variação PIB (%)'
+
+2025-02-14 10:28:25,991 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-02-14 10:28:25,993 - __main__ - ERROR - Erro ao processar dados da pecuária: 'Tipo'
+2025-02-14 10:28:25,994 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-02-14 10:28:26,000 - __main__ - ERROR - Erro ao processar dados de inflação: 'Capital'
+2025-02-14 10:28:26,002 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-02-14 10:32:37,284 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:32:37,284 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:32:37,288 - __main__ - ERROR - Erro ao processar dados do PIB: 'Taxa de variação PIB (%)'
+2025-02-14 10:32:37,290 - __main__ - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Taxa de variação PIB (%)'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\tools\financy\macro_economy\goias_data_tool.py", line 247, in _process_pib_data
+    valor_atual=pib_total['Taxa de variação PIB (%)'],
+                ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\.venv\Lib\site-packages\pandas\core\series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\.venv\Lib\site-packages\pandas\core\series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Taxa de variação PIB (%)'
+
+2025-02-14 10:32:37,291 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-02-14 10:32:37,292 - __main__ - ERROR - Erro ao processar dados de pecuária: 'Tipo'
+2025-02-14 10:32:37,294 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-02-14 10:32:37,297 - __main__ - ERROR - Erro ao processar dados de inflação: 'Capital'
+2025-02-14 10:32:37,298 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-02-14 10:33:42,984 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:33:42,984 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:33:42,986 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-02-14 10:33:42,988 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-02-14 10:33:42,989 - __main__ - ERROR - Erro ao processar dados de pecuária: 'Tipo'
+2025-02-14 10:33:42,990 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-02-14 10:33:42,994 - __main__ - ERROR - Erro ao processar dados de inflação: 'Capital'
+2025-02-14 10:33:42,995 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-02-14 10:36:35,623 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:36:35,623 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:36:35,625 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-02-14 10:36:35,626 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-02-14 10:36:35,627 - __main__ - ERROR - Erro ao processar dados de pecuária: 'Tipo'
+2025-02-14 10:36:35,629 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-02-14 10:36:35,632 - __main__ - ERROR - Erro ao processar dados de inflação: 'Capital'
+2025-02-14 10:36:35,634 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-02-14 10:40:22,998 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:40:22,998 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:40:23,000 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-02-14 10:40:23,001 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-02-14 10:40:23,002 - __main__ - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\91-efetivo-rebanhos-goias.csv
+2025-02-14 10:40:23,002 - __main__ - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\92-producao-leite-goias.csv
+2025-02-14 10:40:23,002 - __main__ - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\93-producao-ovos-goias.csv
+2025-02-14 10:40:23,004 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-02-14 10:40:23,007 - __main__ - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\101-ipca-inpc-goiania.csv
+2025-02-14 10:40:23,008 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-02-14 10:40:56,153 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:40:56,153 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:40:56,155 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-02-14 10:40:56,156 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-02-14 10:40:56,157 - __main__ - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\91-efetivo-rebanhos-goias.csv
+2025-02-14 10:40:56,157 - __main__ - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\92-producao-leite-goias.csv
+2025-02-14 10:40:56,157 - __main__ - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\93-producao-ovos-goias.csv
+2025-02-14 10:40:56,158 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-02-14 10:40:56,162 - __main__ - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\101-ipca-inpc-goiania.csv
+2025-02-14 10:40:56,164 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-02-14 10:41:49,031 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:41:49,031 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:41:49,034 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-02-14 10:41:49,035 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-02-14 10:41:49,037 - __main__ - ERROR - Erro ao processar dados da pecuária: 'Tipo'
+2025-02-14 10:41:49,038 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-02-14 10:41:49,041 - __main__ - ERROR - Erro ao processar dados de inflação: 'Capital'
+2025-02-14 10:41:49,042 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-02-14 10:43:03,686 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:43:03,687 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:43:03,689 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-02-14 10:43:03,690 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-02-14 10:43:03,693 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\101-abate-animais-goias.csv
+2025-02-14 10:43:03,695 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-02-14 10:43:03,698 - __main__ - ERROR - Erro ao processar dados de inflação: 'Variação_Mensal_%'
+2025-02-14 10:43:03,700 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-02-14 10:43:30,405 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:43:30,405 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:43:30,407 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-02-14 10:43:30,408 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-02-14 10:43:30,410 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\101-abate-animais-goias.csv
+2025-02-14 10:43:30,412 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-02-14 10:43:30,416 - __main__ - ERROR - Erro ao processar dados de inflação: 'Variação_Mensal_%'
+2025-02-14 10:43:30,418 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-02-14 10:49:02,143 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-14 10:49:02,143 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-14 10:49:02,145 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-02-14 10:49:02,146 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-02-14 10:49:02,149 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\101-abate-animais-goias.csv
+2025-02-14 10:49:02,150 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-02-14 10:49:02,154 - __main__ - ERROR - Erro ao processar dados de inflação: 'Variação_Mensal_%'
+2025-02-14 10:49:02,155 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-02-15 02:15:11,526 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-02-15 02:15:11,526 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
+2025-02-15 02:15:11,534 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-02-15 02:15:11,539 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-02-15 02:15:11,548 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\101-abate-animais-goias.csv
+2025-02-15 02:15:11,553 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-02-15 02:15:11,570 - __main__ - ERROR - Erro ao processar dados de inflação: 'Variação_Mensal_%'
+2025-02-15 02:15:11,579 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'

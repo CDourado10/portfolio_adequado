@@ -1,0 +1,63 @@
+[
+    {
+        "title": "Mark Zuckerberg Follows Elon Musk's Footsteps As Meta Reportedly Plans Major Investment Into AI-Powered Humanoid Robots",
+        "description": "Mark Zuckerberg could be following Elon Musk's footsteps, as Meta Platforms Inc. META is reportedly planning a significant investment into AI-powered humanoid robots.",
+        "source": "Benzinga",
+        "link": "https://www.benzinga.com/25/02/43754366/mark-zuckerberg-follows-elon-musks-footsteps-as-meta-reportedly-plans-major-investment-into-ai-powered-humanoid-r",
+        "date": "2025-02-15T05:15:50Z",
+        "reliability_score": 0.85,
+        "sentiment_score": 0.134225,
+        "category": ["TECHNOLOGY", "MANUFACTURING", "FINANCIAL MARKETS"]
+    },
+    {
+        "title": "How to understand Elon Musk",
+        "description": "His attack on government is not ideologically coherent but it can be traced to an engineering mindset that values radical ideas.",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/cc1b184c-897c-4cb5-bad2-57b46dfec494",
+        "date": "2025-02-15T05:00:14Z",
+        "reliability_score": 0.90,
+        "sentiment_score": -0.049505,
+        "category": ["MANUFACTURING", "BLOCKCHAIN"]
+    },
+    {
+        "title": "Carbon Done Right Announces Upsizing and Extension of Non-Brokered Private Placement",
+        "description": "Carbon Done Right Developments Inc. announced that it has declared a quarterly cash dividend on its 8.00% Cumulative Preferred Stock.",
+        "source": "GlobeNewswire",
+        "link": "https://www.globenewswire.com/news-release/2025/02/15/3026942/0/en/Carbon-Done-Right-Announces-Upsizing-and-Extension-of-Non-Brokered-Private-Placement.html",
+        "date": "2025-02-15T04:28:00Z",
+        "reliability_score": 0.80,
+        "sentiment_score": 0.246103,
+        "category": ["FINANCIAL MARKETS"]
+    },
+    {
+        "title": "TSMC considers running Intel's US factories at Trump team's request",
+        "description": "Trump officials raised the idea of a deal between the two companies in recent meetings with the Taiwanese chipmaker.",
+        "source": "South China Morning Post",
+        "link": "https://www.scmp.com/tech/big-tech/article/3298810/semiconductor-giant-tsmc-considers-running-intels-us-factories-trump-teams-request",
+        "date": "2025-02-15T04:15:44Z",
+        "reliability_score": 0.75,
+        "sentiment_score": 0.159045,
+        "category": ["FINANCIAL MARKETS", "TECHNOLOGY"]
+    },
+    {
+        "title": "Did Argentina's President Javier Milei Launch a Solana Meme Coin? LIBRA Crashes 87%",
+        "description": "Donald Trump actually launched a Solana token, but did Javier Milei? The answer remains unclear.",
+        "source": "Decrypt.co",
+        "link": "https://decrypt.co/306134/did-argentina-president-javier-milei-launch-solana-meme-coin",
+        "date": "2025-02-15T02:28:20Z",
+        "reliability_score": 0.65,
+        "sentiment_score": 0.007145,
+        "category": ["FINANCIAL MARKETS"]
+    },
+    {
+        "title": "$100 Invested In Cencora 5 Years Ago Would Be Worth This Much Today",
+        "description": "Cencora COR has outperformed the market over the past 5 years by 8.2% on an annualized basis producing an average annual return of 20.8%.",
+        "source": "Benzinga",
+        "link": "https://www.benzinga.com/insights/news/25/02/43751288/100-invested-in-cencora-5-years-ago-would-be-worth-this-much-today",
+        "date": "2025-02-14T22:30:19Z",
+        "reliability_score": 0.70,
+        "sentiment_score": 0.238974,
+        "category": ["REAL ESTATE & CONSTRUCTION", "FINANCIAL MARKETS"]
+    }
+]
+```

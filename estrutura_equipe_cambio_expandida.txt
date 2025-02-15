@@ -1,0 +1,210 @@
+# Estrutura Detalhada - Equipe de Câmbio (Expandida)
+Data: 13/02/2025
+
+## 1. Visão Geral
+A equipe de Câmbio é responsável pelo monitoramento e análise de moedas globais, utilizando uma abordagem hierárquica por relevância e região geográfica.
+
+## 2. Estrutura Organizacional e Cobertura
+
+### 2.1 Subequipe das Américas
+#### Cobertura por Tier
+1. **Tier 1 - Alta Liquidez**
+   - USD/BRL (Brasil)
+   - USD/MXN (México)
+   - USD/CAD (Canadá)
+
+2. **Tier 2 - Média Liquidez**
+   - USD/CLP (Chile)
+   - USD/COP (Colômbia)
+   - USD/PEN (Peru)
+   - USD/ARS (Argentina)
+
+3. **Tier 3 - Monitoramento**
+   - USD/UYU (Uruguai)
+   - USD/PYG (Paraguai)
+   - USD/BOB (Bolívia)
+   - USD/VES (Venezuela)
+
+#### Responsabilidades Específicas
+1. **Análise Regional**
+   - Integração econômica
+   - Acordos comerciais
+   - Fluxos intrarregionais
+
+2. **Setores Chave**
+   - Commodities agrícolas
+   - Mineração
+   - Energia
+
+### 2.2 Subequipe Europa
+#### Cobertura por Tier
+1. **Tier 1 - Alta Liquidez**
+   - EUR/USD (Euro)
+   - GBP/USD (Reino Unido)
+   - USD/CHF (Suíça)
+
+2. **Tier 2 - Média Liquidez**
+   - USD/SEK (Suécia)
+   - USD/NOK (Noruega)
+   - USD/DKK (Dinamarca)
+   - USD/PLN (Polônia)
+
+3. **Tier 3 - Monitoramento**
+   - USD/CZK (República Tcheca)
+   - USD/HUF (Hungria)
+   - USD/RON (Romênia)
+   - USD/BGN (Bulgária)
+
+#### Responsabilidades Específicas
+1. **Política Monetária**
+   - BCE e BoE
+   - Bancos centrais regionais
+   - Divergência monetária
+
+2. **Integração Europeia**
+   - Política fiscal
+   - Regulamentação
+   - Brexit impacts
+
+### 2.3 Subequipe Ásia-Pacífico
+#### Cobertura por Tier
+1. **Tier 1 - Alta Liquidez**
+   - USD/JPY (Japão)
+   - USD/CNY (China)
+   - AUD/USD (Austrália)
+   - NZD/USD (Nova Zelândia)
+
+2. **Tier 2 - Média Liquidez**
+   - USD/KRW (Coreia do Sul)
+   - USD/SGD (Singapura)
+   - USD/TWD (Taiwan)
+   - USD/HKD (Hong Kong)
+
+3. **Tier 3 - Monitoramento**
+   - USD/MYR (Malásia)
+   - USD/THB (Tailândia)
+   - USD/IDR (Indonésia)
+   - USD/PHP (Filipinas)
+   - USD/VND (Vietnã)
+
+#### Responsabilidades Específicas
+1. **China Focus**
+   - Política cambial
+   - Abertura financeira
+   - Belt and Road Initiative
+
+2. **Cadeias Produtivas**
+   - Integração regional
+   - Relocação industrial
+   - Tecnologia
+
+### 2.4 Subequipe África e Oriente Médio
+#### Cobertura por Tier
+1. **Tier 1 - Alta Liquidez**
+   - USD/ZAR (África do Sul)
+   - USD/TRY (Turquia)
+   - USD/ILS (Israel)
+
+2. **Tier 2 - Média Liquidez**
+   - USD/SAR (Arábia Saudita)
+   - USD/AED (Emirados)
+   - USD/EGP (Egito)
+   - USD/NGN (Nigéria)
+
+3. **Tier 3 - Monitoramento**
+   - USD/KES (Quênia)
+   - USD/GHS (Gana)
+   - USD/MAD (Marrocos)
+   - USD/QAR (Catar)
+   - USD/KWD (Kuwait)
+
+#### Responsabilidades Específicas
+1. **Commodities**
+   - Petróleo
+   - Metais preciosos
+   - Agricultura
+
+2. **Geopolítica**
+   - Estabilidade regional
+   - Sanções
+   - Acordos internacionais
+
+## 3. Metodologia de Análise
+
+### 3.1 Análise por Camadas
+1. **Camada Principal**
+   - 27 pares mais líquidos
+   - Monitoramento contínuo
+   - Alertas em tempo real
+
+2. **Camada Continental**
+   - Análise regional
+   - Correlações intrarregionais
+   - Eventos locais
+
+3. **Camada Setorial**
+   - Moedas de commodities
+   - Moedas financeiras
+   - Moedas de comércio
+
+4. **Camada de Correlação**
+   - Clusters monetários
+   - Padrões de movimento
+   - Arbitragem
+
+### 3.2 Ferramentas e Sistemas
+1. **Monitoramento**
+   - currency_monitor_tool.py
+   - Feeds de notícias
+   - Dados de mercado
+
+2. **Análise**
+   - Modelos quantitativos
+   - Análise técnica
+   - Indicadores proprietários
+
+3. **Risco**
+   - VaR por moeda
+   - Stress tests
+   - Cenários
+
+## 4. Integração e Comunicação
+
+### 4.1 Fluxo de Informações
+1. **Interno**
+   - Reuniões diárias por região
+   - Reports semanais
+   - Alertas em tempo real
+
+2. **Entre Equipes**
+   - Macro: impactos globais
+   - Renda Fixa: diferencial de juros
+   - Commodities: preços e fluxos
+
+### 4.2 Produtos
+1. **Relatórios Regulares**
+   - Daily FX Update
+   - Weekly Regional Analysis
+   - Monthly Currency Outlook
+
+2. **Análises Especiais**
+   - Deep dives regionais
+   - Estudos temáticos
+   - Cenários de stress
+
+## 5. KPIs e Métricas
+
+### 5.1 Métricas de Cobertura
+- % de mercado coberto por região
+- Tempo de resposta a eventos
+- Precisão das análises
+
+### 5.2 Métricas de Impacto
+- ROI das recomendações
+- Acurácia de previsões
+- Gestão de risco
+
+### 5.3 Métricas de Processo
+- Tempestividade dos reports
+- Qualidade das análises
+- Integração entre equipes

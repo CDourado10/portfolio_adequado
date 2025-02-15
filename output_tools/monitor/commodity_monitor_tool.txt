@@ -1,0 +1,172 @@
+📊 **COMMODITY MONITOR - HIGHLIGHTS** 📊
+
+🕒 Query Date: 02/13/2025 19:25
+📈 Monitoring 93 commodities in 7 sectors
+
+🏭 **Energy**
+==========
+🌟 **BEST PERFORMANCE**
+📊 **Natural gas** (Energy)
+💰 Price: 3.653 USD/MMBtu
+📈 Daily: 🟢 2.47% (+0.0880)
+📊 Changes:
+  • Weekly: 🟢 +7.19%
+  • Monthly: 🔴 -7.94%
+  • YTD: 🟢 +0.55%
+  • Year: 🟢 +105.69%
+🕒 Last Update: Feb/13
+
+💫 **WORST PERFORMANCE**
+📊 **Uranium** (Energy)
+💰 Price: 67.7 USD/Lbs
+📈 Daily: 🟢 0.52% (+0.3500)
+📊 Changes:
+  • Weekly: 🔴 -3.77%
+  • Monthly: 🔴 -8.20%
+  • YTD: 🔴 -7.26%
+  • Year: 🔴 -33.59%
+🕒 Last Update: Feb/12
+
+🏭 **Metals**
+==========
+🌟 **BEST PERFORMANCE**
+📊 **Gold** (Metals)
+💰 Price: 2928.41 USD/t.oz
+📈 Daily: 🟢 0.77% (+22.4700)
+📊 Changes:
+  • Weekly: 🟢 +2.47%
+  • Monthly: 🟢 +9.46%
+  • YTD: 🟢 +11.58%
+  • Year: 🟢 +46.98%
+🕒 Last Update: Feb/13
+
+💫 **WORST PERFORMANCE**
+📊 **Lithium** (Metals)
+💰 Price: 76450.0 CNY/T
+📈 Daily: 🔴 -0.13% (+100.0000)
+📊 Changes:
+  • Weekly: 🔴 -1.10%
+  • Monthly: 🟢 +0.13%
+  • YTD: 🟢 +1.87%
+  • Year: 🔴 -21.59%
+🕒 Last Update: Feb/13
+
+🏭 **Agricultural**
+==========
+🌟 **BEST PERFORMANCE**
+📊 **Coffee** (Agricultural)
+💰 Price: 433.57 USd/Lbs
+📈 Daily: 🟢 0.82% (+3.5200)
+📊 Changes:
+  • Weekly: 🟢 +7.50%
+  • Monthly: 🟢 +34.84%
+  • YTD: 🟢 +35.28%
+  • Year: 🟢 +131.79%
+🕒 Last Update: Feb/13
+
+💫 **WORST PERFORMANCE**
+📊 **Cotton** (Agricultural)
+💰 Price: 66.87 USd/Lbs
+📈 Daily: 🔴 -0.77% (+0.5200)
+📊 Changes:
+  • Weekly: 🟢 +1.28%
+  • Monthly: 🔴 -0.86%
+  • YTD: 🔴 -2.19%
+  • Year: 🔴 -28.46%
+🕒 Last Update: Feb/13
+
+🏭 **Industrial**
+==========
+🌟 **BEST PERFORMANCE**
+📊 **Germanium** (Industrial)
+💰 Price: 16550.0 CNY/Kg
+📈 Daily: ⚪ 0.00% (+0.0000)
+📊 Changes:
+  • Weekly: 🔴 -1.19%
+  • Monthly: 🔴 -1.19%
+  • YTD: 🔴 -5.70%
+  • Year: 🟢 +76.06%
+🕒 Last Update: Feb/13
+
+💫 **WORST PERFORMANCE**
+📊 **Soda Ash** (Industrial)
+💰 Price: 1424.0 CNY/T
+📈 Daily: ⚪ 0.00% (+0.0000)
+📊 Changes:
+  • Weekly: 🔴 -3.00%
+  • Monthly: 🔴 -4.69%
+  • YTD: 🔴 -6.81%
+  • Year: 🔴 -39.92%
+🕒 Last Update: Feb/13
+
+🏭 **Livestock**
+==========
+🌟 **BEST PERFORMANCE**
+📊 **Eggs US** (Livestock)
+💰 Price: 7.68 USD/Dozen
+📈 Daily: 🟢 1.75% (+0.1300)
+📊 Changes:
+  • Weekly: 🔴 -2.23%
+  • Monthly: 🟢 +25.52%
+  • YTD: 🟢 +32.22%
+  • Year: 🟢 +140.06%
+🕒 Last Update: Feb/13
+
+💫 **WORST PERFORMANCE**
+📊 **Eggs CH** (Livestock)
+💰 Price: 3049.0 CNY/T
+📈 Daily: 🟢 0.86% (+26.0000)
+📊 Changes:
+  • Weekly: 🔴 -3.21%
+  • Monthly: 🔴 -12.76%
+  • YTD: 🔴 -13.41%
+  • Year: 🔴 -4.54%
+🕒 Last Update: Feb/12
+
+🏭 **Index**
+==========
+🌟 **BEST PERFORMANCE**
+📊 **EU Carbon Permits** (Index)
+💰 Price: 80.29 EUR
+📈 Daily: 🔴 -2.78% (+2.3000)
+📊 Changes:
+  • Weekly: 🔴 -1.02%
+  • Monthly: 🟢 +4.38%
+  • YTD: 🟢 +9.99%
+  • Year: 🟢 +37.22%
+🕒 Last Update: Feb/12
+
+💫 **WORST PERFORMANCE**
+📊 **Solar Energy Index** (Index)
+💰 Price: 33.69 USD
+📈 Daily: 🟢 2.53% (+0.8300)
+📊 Changes:
+  • Weekly: 🔴 -2.06%
+  • Monthly: 🔴 -0.82%
+  • YTD: ⚪ +0.00%
+  • Year: 🔴 -27.75%
+🕒 Last Update: Feb/13
+
+🏭 **Electricity**
+==========
+🌟 **BEST PERFORMANCE**
+📊 **Spain** (Electricity)
+💰 Price: 130.98 EUR/MWh
+📈 Daily: 🟢 9.28% (+11.1200)
+📊 Changes:
+  • Weekly: 🔴 -5.50%
+  • Monthly: 🔴 -4.97%
+  • YTD: 🔴 -3.59%
+  • Year: 🟢 +155.72%
+🕒 Last Update: Feb/13
+
+💫 **WORST PERFORMANCE**
+📊 **France** (Electricity)
+💰 Price: 70.55 EUR/MWh
+📈 Daily: 🔴 -4.09% (+3.0100)
+📊 Changes:
+  • Weekly: 🔴 -0.63%
+  • Monthly: 🟢 +1.36%
+  • YTD: 🟢 +1.00%
+  • Year: 🔴 -1.88%
+🕒 Last Update: Feb/13

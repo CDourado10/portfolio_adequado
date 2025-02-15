@@ -1,0 +1,40 @@
+{
+    "sectors": {
+        "FINANCEIRO": {
+            "name": "Financeiro",
+            "symbols": ["ITUB4.SA", "BBAS3.SA", "SANB11.SA", "B3SA3.SA"]
+        },
+        "CONSUMO": {
+            "name": "Consumo",
+            "symbols": ["ABEV3.SA", "LREN3.SA", "PCAR3.SA", "NTCO3.SA"]
+        },
+        "ENERGIA": {
+            "name": "Energia",
+            "symbols": ["PETR4.SA", "PETR3.SA", "CSAN3.SA", "UGPA3.SA"]
+        },
+        "MATERIAIS": {
+            "name": "Materiais Básicos",
+            "symbols": ["VALE3.SA", "SUZB3.SA", "GGBR4.SA", "CSNA3.SA"]
+        },
+        "UTILIDADES": {
+            "name": "Utilidades Públicas",
+            "symbols": ["CMIG4.SA", "ELET3.SA", "SBSP3.SA", "EGIE3.SA"]
+        },
+        "IMOBILIARIO": {
+            "name": "Imobiliário",
+            "symbols": ["CYRE3.SA", "MRVE3.SA", "MULT3.SA", "EVEN3.SA"]
+        },
+        "TRANSPORTE": {
+            "name": "Transporte",
+            "symbols": ["CCRO3.SA", "RAIL3.SA", "AZUL4.SA", "GOLL4.SA"]
+        },
+        "INDUSTRIAL": {
+            "name": "Industrial",
+            "symbols": ["WEGE3.SA", "EMBR3.SA", "RENT3.SA", "MOVI3.SA"]
+        },
+        "INDICES": {
+            "name": "Índices",
+            "symbols": ["^BVSP"]
+        }
+    }
+}

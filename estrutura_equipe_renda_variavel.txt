@@ -1,0 +1,208 @@
+# Estrutura Detalhada - Equipe de Renda Variável
+Data: 13/02/2025
+
+## 1. Visão Geral
+A equipe de Renda Variável é responsável pelo monitoramento e análise de 23 índices globais, utilizando uma abordagem por regiões e setores, integrada com VectorBT Pro para análise quantitativa.
+
+## 2. Estrutura Organizacional
+
+### 2.1 Subequipe América do Norte
+#### Mercados Principais
+1. **Estados Unidos**
+   - S&P 500 (+21.13% anual)
+   - Dow Jones (+15.46% anual)
+   - Nasdaq 100 (+22.22% anual)
+
+2. **Canadá**
+   - TSX (+24.18% anual)
+
+3. **México**
+   - IPC (-4.99% anual)
+
+#### Responsabilidades Específicas
+1. **Análise Setorial**
+   - Tecnologia
+   - Financeiro
+   - Energia
+
+2. **Eventos Críticos**
+   - Decisões do Fed
+   - Earnings seasons
+   - IPOs e M&As
+
+### 2.2 Subequipe Europa
+#### Mercados Principais
+1. **União Europeia**
+   - Euro Stoxx 50 (+16.28% anual)
+   - DAX (Alemanha, +32.86% anual)
+   - CAC 40 (França, +6.23% anual)
+   - FTSE MIB (Itália, +20.48% anual)
+   - IBEX 35 (Espanha, +30.62% anual)
+
+2. **Reino Unido**
+   - FTSE 100 (+15.78% anual)
+
+3. **Outros**
+   - SMI (Suíça, +14.72% anual)
+   - AEX (Holanda, +11.56% anual)
+
+#### Responsabilidades Específicas
+1. **Análise Regional**
+   - Política monetária do BCE
+   - Brexit impacts
+   - Integração europeia
+
+2. **Setores Estratégicos**
+   - Indústria
+   - Luxo
+   - Energia verde
+
+### 2.3 Subequipe Ásia-Pacífico
+#### Mercados Principais
+1. **Ásia Desenvolvida**
+   - Nikkei 225 (Japão, +4.22% anual)
+   - ASX 200 (Austrália, +13.22% anual)
+   - NZX 50 (Nova Zelândia, +10.67% anual)
+   - STI (Singapura, +23.69% anual)
+
+2. **China e Região**
+   - Shanghai Composite (+14.50% anual)
+   - Hang Seng (+36.93% anual)
+
+3. **Outros**
+   - SENSEX (Índia, +6.01% anual)
+
+#### Responsabilidades Específicas
+1. **China Focus**
+   - Política regulatória
+   - Setor imobiliário
+   - Tecnologia
+
+2. **Integração Regional**
+   - RCEP
+   - Cadeias de suprimentos
+   - Tensões geopolíticas
+
+### 2.4 Subequipe Mercados Emergentes
+#### Mercados Principais
+1. **América Latina**
+   - Ibovespa (Brasil, -2.27% anual)
+   - IPC (México, -4.99% anual)
+
+2. **EMEA**
+   - MOEX (Rússia, -1.48% anual)
+   - SAALL (África do Sul, +20.57% anual)
+
+#### Responsabilidades Específicas
+1. **Análise de Risco**
+   - Risco político
+   - Fluxos de capital
+   - Exposição a commodities
+
+2. **Oportunidades**
+   - Reformas estruturais
+   - Privatizações
+   - Setores em crescimento
+
+## 3. Metodologia de Análise
+
+### 3.1 Análise Quantitativa (VectorBT Pro)
+1. **Backtesting**
+   - Estratégias long-only
+   - Long-short
+   - Rotação setorial
+
+2. **Indicadores**
+   - Momentum
+   - Volatilidade
+   - Correlações
+
+3. **Otimização**
+   - Alocação de capital
+   - Stop loss
+   - Rebalanceamento
+
+### 3.2 Análise Fundamentalista
+1. **Top-down**
+   - Cenário macro
+   - Política monetária
+   - Fluxos globais
+
+2. **Bottom-up**
+   - Setores
+   - Empresas líderes
+   - Valuations
+
+### 3.3 Integração com CrewAI
+1. **Automação**
+   - Coleta de dados
+   - Geração de relatórios
+   - Alertas automáticos
+
+2. **Análise**
+   - Processamento de notícias
+   - Sentiment analysis
+   - Pattern recognition
+
+## 4. Produtos e Deliverables
+
+### 4.1 Relatórios Regulares
+1. **Diários**
+   - Pre-market analysis
+   - Market wrap
+   - Technical setup
+
+2. **Semanais**
+   - Strategy outlook
+   - Flow analysis
+   - Risk assessment
+
+3. **Mensais**
+   - Asset allocation
+   - Thematic opportunities
+   - Portfolio review
+
+### 4.2 Análises Especiais
+1. **Eventos**
+   - Eleições
+   - Bancos centrais
+   - Resultados corporativos
+
+2. **Temáticas**
+   - ESG
+   - Tecnologia
+   - Transição energética
+
+## 5. KPIs e Métricas
+
+### 5.1 Performance
+- Acurácia das recomendações
+- Retorno ajustado ao risco
+- Hit ratio
+
+### 5.2 Processo
+- Cobertura de mercado
+- Tempo de resposta
+- Qualidade dos relatórios
+
+### 5.3 Impacto
+- Valor agregado
+- Satisfação dos usuários
+- ROI das estratégias
+
+## 6. Integração com Outras Equipes
+
+### 6.1 Equipe Macro
+- Cenários globais
+- Política monetária
+- Crescimento econômico
+
+### 6.2 Equipe de Renda Fixa
+- Correlação juros-ações
+- Prêmio de risco
+- Duration
+
+### 6.3 Equipe de Câmbio
+- Impacto cambial
+- ADRs
+- Hedge cambial

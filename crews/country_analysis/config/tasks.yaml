@@ -1,0 +1,88 @@
+#Configurações das tasks a serem executadas
+macro_analysis:
+  name: "Análise do Cenário Macroeconômico"
+  description: >
+    Analisar o cenário macroeconômico brasileiro, identificando tendências 
+    e riscos para diferentes setores da economia. Focar em indicadores-chave 
+    como PIB, inflação, juros, câmbio e emprego, avaliando seus impactos 
+    setoriais e perspectivas futuras.
+  expected_output: >
+    Relatório macroeconômico contendo:
+    - Análise dos principais indicadores e suas tendências
+    - Identificação de pontos de inflexão nos ciclos econômicos
+    - Avaliação dos impactos das políticas monetária e fiscal
+    - Projeções de cenários para variáveis-chave
+    - Mapeamento de riscos e oportunidades
+
+sector_analysis:
+  name: "Análise dos Setores Produtivos"
+  description: >
+    Avaliar o desempenho e perspectivas dos principais setores produtivos 
+    do Brasil, analisando competitividade, produtividade e tendências 
+    tecnológicas. Identificar gargalos estruturais e oportunidades de 
+    desenvolvimento.
+  expected_output: >
+    Relatório setorial contendo:
+    - Diagnóstico da competitividade de cada setor
+    - Análise de produtividade e eficiência
+    - Identificação de tendências tecnológicas
+    - Avaliação de gargalos estruturais
+    - Recomendações para aumento de competitividade
+
+trade_analysis:
+  name: "Análise do Comércio Internacional"
+  description: >
+    Analisar a inserção do Brasil no comércio internacional, avaliando 
+    competitividade externa, acordos comerciais e oportunidades em 
+    cadeias globais de valor. Identificar tendências e riscos no 
+    comércio mundial.
+  expected_output: >
+    Relatório de comércio exterior contendo:
+    - Análise da balança comercial e termos de troca
+    - Avaliação de acordos comerciais e seus impactos
+    - Identificação de mercados potenciais
+    - Análise de competitividade internacional
+    - Tendências do comércio global
+
+financial_analysis:
+  name: "Análise do Mercado Financeiro"
+  description: >
+    Avaliar as condições do mercado financeiro brasileiro, analisando 
+    crédito, mercado de capitais e condições de financiamento. 
+    Identificar riscos sistêmicos e oportunidades setoriais.
+  expected_output: >
+    Relatório financeiro contendo:
+    - Análise das condições de crédito e financiamento
+    - Avaliação do mercado de capitais
+    - Identificação de riscos sistêmicos
+    - Análise de liquidez e solvência
+    - Oportunidades de funding por setor
+
+structural_analysis:
+  name: "Análise de Tendências Estruturais"
+  description: >
+    Identificar e analisar tendências estruturais que afetam a economia 
+    brasileira, incluindo mudanças demográficas, transformação digital 
+    e transição energética. Avaliar impactos setoriais e necessidades 
+    de adaptação.
+  expected_output: >
+    Relatório de tendências contendo:
+    - Análise de mudanças demográficas e impactos
+    - Avaliação da transformação digital na economia
+    - Tendências de sustentabilidade e economia verde
+    - Mudanças nos padrões de consumo e produção
+    - Recomendações de adaptação setorial
+
+strategic_consolidation:
+  name: "Consolidação de Perspectivas Estratégicas"
+  description: >
+    Consolidar as análises setoriais e macroeconômicas em uma visão 
+    estratégica integrada da economia brasileira. Desenvolver cenários 
+    e recomendações para políticas públicas e investimentos.
+  expected_output: >
+    Relatório estratégico contendo:
+    - Síntese das principais tendências e desafios
+    - Cenários de médio e longo prazo
+    - Oportunidades estratégicas por setor
+    - Recomendações para políticas públicas
+    - Diretrizes para investimentos setoriais

@@ -1,0 +1,81 @@
+2025-02-14 06:58:24,363 - __main__ - ERROR - Erro ao processar tabela: 0 columns passed, passed data had 7 columns
+2025-02-14 06:58:24,365 - __main__ - ERROR - Erro na análise do PIB: single positional indexer is out-of-bounds
+2025-02-14 06:58:24,365 - __main__ - ERROR - Erro ao processar tabela: 0 columns passed, passed data had 4 columns
+2025-02-14 06:58:24,365 - __main__ - ERROR - Erro na análise do PIB: single positional indexer is out-of-bounds
+2025-02-14 06:58:24,365 - __main__ - ERROR - Erro ao processar tabela: 0 columns passed, passed data had 4 columns
+2025-02-14 06:58:24,365 - __main__ - ERROR - Erro na análise do PIB: single positional indexer is out-of-bounds
+2025-02-14 06:58:24,365 - __main__ - ERROR - Erro ao processar tabela: 0 columns passed, passed data had 9 columns
+2025-02-14 06:58:24,366 - __main__ - ERROR - Erro na análise do PIB: single positional indexer is out-of-bounds
+2025-02-14 06:58:24,366 - __main__ - ERROR - Erro ao processar tabela: 0 columns passed, passed data had 3 columns
+2025-02-14 06:58:24,366 - __main__ - ERROR - Erro ao processar tabela: 0 columns passed, passed data had 3 columns
+2025-02-14 07:10:42,849 - __main__ - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:10:42,849 - __main__ - INFO - Processando Tabela 79
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 80
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 81
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 82
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 83
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 84
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 85
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 86
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 87
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 88
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 89
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 90
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 91
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 92
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 93
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 94
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 95
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 96
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 97
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando Tabela 98
+2025-02-14 07:10:42,851 - __main__ - INFO - Processando 20 tabelas relevantes
+2025-02-14 07:10:42,851 - __main__ - INFO - Encontradas 4 tabelas de PIB
+2025-02-14 07:10:42,853 - __main__ - INFO - DataFrame criado: (0, 3) linhas x Index(['Localidade', 'PIB a preços correntes (mil reais)',
+       'PIB per capita (R$)'],
+      dtype='object') colunas
+2025-02-14 07:10:42,853 - __main__ - INFO - Colunas: ['Localidade', 'PIB a preços correntes (mil reais)', 'PIB per capita (R$)']
+2025-02-14 07:10:42,855 - __main__ - INFO - DataFrame criado: (2, 4) linhas x Index(['Especificação', '2019', '2020', '2021'], dtype='object') colunas
+2025-02-14 07:10:42,855 - __main__ - INFO - Colunas: ['Especificação', '2019', '2020', '2021']
+2025-02-14 07:10:42,855 - __main__ - INFO - Indicadores gerados: 0
+2025-02-14 07:10:42,856 - __main__ - INFO - DataFrame criado: (0, 2) linhas x Index(['Setor', 'Taxa de variação PIB (%)'], dtype='object') colunas
+2025-02-14 07:10:42,856 - __main__ - INFO - Colunas: ['Setor', 'Taxa de variação PIB (%)']
+2025-02-14 07:10:42,857 - __main__ - INFO - DataFrame criado: (0, 5) linhas x Index(['Períodos', 'Agropecuária', 'Indústria', 'Serviços', 'PIB'], dtype='object') colunas
+2025-02-14 07:10:42,857 - __main__ - INFO - Colunas: ['Períodos', 'Agropecuária', 'Indústria', 'Serviços', 'PIB']
+2025-02-14 07:10:42,857 - __main__ - INFO - Encontradas 2 tabelas de inflação
+2025-02-14 07:10:42,857 - __main__ - INFO - Encontradas 12 tabelas de agricultura
+2025-02-14 07:10:42,869 - __main__ - INFO - Encontradas 51 tabelas brutas
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 79
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 80
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 81
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 82
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 83
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 84
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 85
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 86
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 87
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 88
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 89
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 90
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 91
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 92
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 93
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 94
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 95
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 96
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 97
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando Tabela 98
+2025-02-14 07:10:42,869 - __main__ - INFO - Processando 20 tabelas relevantes
+2025-02-14 07:10:42,869 - __main__ - INFO - Encontradas 4 tabelas de PIB
+2025-02-14 07:10:42,871 - __main__ - INFO - DataFrame criado: (0, 3) linhas x Index(['Localidade', 'PIB a preços correntes (mil reais)',
+       'PIB per capita (R$)'],
+      dtype='object') colunas
+2025-02-14 07:10:42,871 - __main__ - INFO - Colunas: ['Localidade', 'PIB a preços correntes (mil reais)', 'PIB per capita (R$)']
+2025-02-14 07:10:42,946 - __main__ - INFO - DataFrame criado: (2, 4) linhas x Index(['Especificação', '2019', '2020', '2021'], dtype='object') colunas
+2025-02-14 07:10:42,946 - __main__ - INFO - Colunas: ['Especificação', '2019', '2020', '2021']
+2025-02-14 07:10:42,946 - __main__ - INFO - Indicadores gerados: 0
+2025-02-14 07:10:42,947 - __main__ - INFO - DataFrame criado: (0, 2) linhas x Index(['Setor', 'Taxa de variação PIB (%)'], dtype='object') colunas
+2025-02-14 07:10:42,947 - __main__ - INFO - Colunas: ['Setor', 'Taxa de variação PIB (%)']
+2025-02-14 07:10:42,948 - __main__ - INFO - DataFrame criado: (0, 5) linhas x Index(['Períodos', 'Agropecuária', 'Indústria', 'Serviços', 'PIB'], dtype='object') colunas
+2025-02-14 07:10:42,948 - __main__ - INFO - Colunas: ['Períodos', 'Agropecuária', 'Indústria', 'Serviços', 'PIB']
+2025-02-14 07:10:42,948 - __main__ - INFO - Encontradas 2 tabelas de inflação

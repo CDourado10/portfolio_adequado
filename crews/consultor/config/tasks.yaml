@@ -1,0 +1,97 @@
+macro_analysis:
+  description: > 
+    Analyze the current global financial market scenario, considering:
+
+    1. Main sectors (Technology, Financial, Healthcare, Energy, Consumer, Industrial, Materials, Utilities, Real Estate, Indices, Currencies, Cryptocurrencies, ETFs, and Commodities)
+    2. Moving average of sectors
+    3. Sector volatility
+    4. Sector returns
+    5. Correlations between sectors
+  expected_output: >
+    Detailed report on the current financial market scenario, the 3 best sectors for long or short investment and their trends.
+    Investment strategies for the 3 best sectors.
+
+asset_research:
+  description: >
+    Your task is to conduct in-depth research on the most promising assets to compose an investment portfolio.
+    For this, use reliable financial and economic data sources, analyzing factors such as:
+
+    - Economic cycles and global trends
+    - Monetary and fiscal policies
+    - Sectors with the highest growth potential and stability
+    - Correlation between sectors and asset classes
+
+    You will have access to a detailed report on the current macroeconomic scenario, which will identify the **three most promising sectors for investment**.
+    Your research should focus on these sectors to find **the most suitable individual assets**.
+
+    Use search tools to find reports, news, and market analyses that help in asset selection.
+
+  expected_output: >
+    A report containing:
+    - A list of **recommended assets** based on research (stocks, ETFs, commodities, cryptocurrencies, etc.).
+    - Justification for each asset choice, based on macroeconomic trends and market analyses.
+    - Sources used in the research.
+
+portfolio_optimization:
+  description: >
+    Now that we have a list of promising assets based on previous research, your task is to optimize the portfolio, ensuring a balanced and efficient allocation.
+
+    Use quantitative models to calculate the best capital distribution among selected assets, considering:
+
+    - Expected returns and volatility
+    - Correlation between assets
+    - Balancing strategies (example: Hierarchical Risk Parity)
+
+    Your analysis should include suggestions for **allocation percentage** for each asset and strategies for periodic rebalancing.
+
+  expected_output: >
+    A structured report containing:
+    - The optimized portfolio composition.
+    - Percentage of capital to be invested in each asset.
+    - Technical and quantitative justification for each allocation.
+    - Rebalancing strategy and future adjustments.
+
+long_short_strategy:
+  description: >
+    Based on the detailed report of the previously built portfolio, your task is to develop a long & short strategy for the selected assets.
+
+    For this, use statistics and technical indicators for each asset, ensuring that long positions are in undervalued assets with strong appreciation potential and short positions are in overvalued assets or those with a downward trend.
+
+    The strategy should consider:
+    - Technical indicators such as moving averages, RSI, MACD, and Bollinger bands.
+    - Correlation between portfolio assets and their market sensitivity.
+    - Associated risks and hedging strategies to minimize potential losses.
+    - Clear criteria for entering and exiting operations.
+
+    You will have access to a tool that will provide statistics and technical indicators for each portfolio asset, allowing detailed analysis for decision making.
+
+  expected_output: >
+    A structured report containing:
+
+    - The portfolio assets.
+    - The percentage of capital to be invested in each asset.
+    - An overview of the long & short strategy and its objectives.
+    - The list of portfolio assets classified into long and short positions.
+    - Technical and statistical justification for each position.
+    - Entry and exit criteria for operations.
+    - A strategic summary including potential risks and hedging strategies.
+
+final_report:
+  description: >
+    Your task is to consolidate all analyses performed in previous tasks and produce a detailed final report.
+
+    The report should contain:
+    - The definitive list of assets that will compose the portfolio, with capital allocation percentages.
+    - The strategy to be used for each asset, including entry points, exit points, and expected operation duration.
+    - An analysis of expected risks and returns, based on information extracted from previous tasks.
+    - Clear explanation of the logic behind strategic decisions, connecting macroeconomic analysis with portfolio construction and long & short strategies.
+    - Additional relevant factors identified throughout the process, such as the impact of macroeconomic events and sectoral variations.
+
+  expected_output: >
+    A structured report in Markdown format containing:
+
+    - An introduction summarizing the main portfolio decisions.
+    - The detailed composition of the final portfolio, including capital allocation percentages for each asset.
+    - Operational strategies, with justifications based on entry prices, exit prices, and estimated operation time.
+    - Expected risks and returns, based on macroeconomic and technical analyses performed previously.
+    - Final considerations on the portfolio and possible future adjustments, taking into account market variations.

@@ -1,0 +1,55 @@
+analyze_economic_events:
+  name: "Economic Events Analysis"
+  description: >
+    Utilize MarketEventsAnalysisTool to analyze global economic events, 
+    monetary policy decisions, and corporate events that may have significant 
+    sectoral impacts.
+  expected_output: >
+    Detailed report identifying key economic events, their potential impacts 
+    on different sectors, correlation analysis between events, and early 
+    warning indicators for significant economic shifts.
+
+monitor_market_patterns:
+  name: "Market Patterns Monitoring"
+  description: >
+    Deploy MarketMonitorTool to analyze patterns across 207 assets, 
+    identifying correlations, anomalies, and structural changes in market 
+    behavior.
+  expected_output: >
+    Comprehensive analysis of market patterns including price-volume 
+    relationships, cross-asset correlations, identified anomalies, and 
+    potential arbitrage opportunities between sectors.
+
+analyze_market_sentiment:
+  name: "Market Sentiment Analysis"
+  description: >
+    Use MarketNewsAnalysisTool to monitor and analyze changes in market 
+    sentiment, news flow, and emerging trends that could impact sector 
+    performance.
+  expected_output: >
+    Detailed sentiment analysis report including trend identification, 
+    sentiment shifts by sector, emerging themes, and potential impact 
+    assessment of news and trends on different sectors.
+
+perform_cross_sector_analysis:
+  name: "Cross-Sector Impact Analysis"
+  description: >
+    Integrate findings from all tools to identify cascade effects and 
+    non-obvious correlations between sectors, focusing on systemic risks 
+    and opportunities.
+  expected_output: >
+    Matrix of cross-sector impacts, identification of key transmission 
+    channels between sectors, risk assessment of cascade effects, and 
+    opportunities arising from sector interconnections.
+
+strategic_analysis_and_reporting:
+  name: "Strategic Analysis Integration and Reporting"
+  description: >
+    Coordinate the integration of all analyses and transform them into a 
+    comprehensive strategic report. Ensure effective communication between 
+    team members and deliver actionable insights for the sector analysis team.
+  expected_output: >
+    Comprehensive strategic report including: executive summary, integrated 
+    analysis framework, key macro drivers, sector impact matrix, identified 
+    opportunities, risk assessment, areas requiring deeper investigation, and 
+    specific recommendations for sector analysis team.
