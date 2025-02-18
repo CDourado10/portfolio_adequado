@@ -8,7 +8,7 @@ import sys
 # Add project root directory to sys.path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
 
-from crews.macro_analysis_and_positioning_strategy.macro_analysis_and_positioning_strategy_crew_alt import MarketMonitorCrew
+from crews.macro_analysis_and_positioning_strategy.macro_analysis_and_positioning_strategy_crew import MarketMonitorCrew
 
 # Logging configuration
 logging.basicConfig(level=logging.INFO)

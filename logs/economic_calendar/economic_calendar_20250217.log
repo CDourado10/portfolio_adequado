@@ -1,0 +1,10 @@
+2025-02-17 05:07:50,477 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Starting economic calendar tool execution
+2025-02-17 05:07:50,477 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Attempt 1 of 3 to get calendar data
+2025-02-17 05:07:54,723 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-02-17 05:08:12,956 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Data successfully obtained for timeFrame_thisWeek
+2025-02-17 05:08:16,536 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Data successfully obtained for timeFrame_nextWeek
+2025-02-17 05:09:13,910 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Starting economic calendar tool execution
+2025-02-17 05:09:13,911 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Attempt 1 of 3 to get calendar data
+2025-02-17 05:09:18,150 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-02-17 05:09:38,842 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Data successfully obtained for timeFrame_thisWeek
+2025-02-17 05:09:42,192 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Data successfully obtained for timeFrame_nextWeek

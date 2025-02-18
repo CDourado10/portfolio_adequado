@@ -815,3 +815,887 @@
 2025-02-15 04:40:37,934 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
 2025-02-15 04:40:37,934 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
 2025-02-15 04:40:37,934 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 03:34:13,321 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.USA at https://tradingeconomics.com/united-states/indicators
+2025-02-16 03:34:23,805 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 03:34:23,805 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 03:34:23,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 03:34:23,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 03:34:23,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 03:34:23,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Farm Payrolls
+2025-02-16 03:34:23,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 03:34:23,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 03:34:23,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 03:34:23,808 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 03:34:23,808 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 03:34:23,808 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 03:34:23,808 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 03:34:23,808 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 03:34:23,809 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 03:34:23,809 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 03:34:23,809 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 03:34:23,809 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 03:34:23,809 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 03:34:23,809 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 03:34:23,809 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Building Permits
+2025-02-16 03:34:23,809 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 03:34:23,809 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 03:34:23,810 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.EURO at https://tradingeconomics.com/euro-area/indicators
+2025-02-16 03:34:25,798 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 03:34:25,798 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 03:34:25,798 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 03:34:25,798 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 03:34:25,799 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 03:34:25,799 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 03:34:25,799 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 03:34:25,799 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 03:34:25,799 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 03:34:25,799 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 03:34:25,799 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 03:34:25,799 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 03:34:25,800 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 03:34:25,800 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 03:34:25,800 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 03:34:25,800 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 03:34:25,801 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 03:34:25,801 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 03:34:25,801 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 03:34:25,801 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 03:34:25,801 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.CHINA at https://tradingeconomics.com/china/indicators
+2025-02-16 03:34:27,805 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 03:34:27,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 03:34:27,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 03:34:27,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 03:34:27,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 03:34:27,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 03:34:27,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 03:34:27,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 03:34:27,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Cash Reserve Ratio
+2025-02-16 03:34:27,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 03:34:27,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 03:34:27,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 03:34:27,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 03:34:27,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 03:34:27,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 03:34:27,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 03:34:27,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 03:34:27,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 03:34:27,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 03:34:27,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 03:34:27,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 03:34:27,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 03:59:20,194 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.USA at https://tradingeconomics.com/united-states/indicators
+2025-02-16 03:59:30,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 03:59:30,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 03:59:30,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 03:59:30,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 03:59:30,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 03:59:30,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Farm Payrolls
+2025-02-16 03:59:30,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 03:59:30,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 03:59:30,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 03:59:30,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 03:59:30,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 03:59:30,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 03:59:30,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 03:59:30,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 03:59:30,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 03:59:30,693 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 03:59:30,693 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 03:59:30,693 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 03:59:30,693 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 03:59:30,693 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 03:59:30,693 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Building Permits
+2025-02-16 03:59:30,693 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 03:59:30,693 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 03:59:30,694 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.EURO at https://tradingeconomics.com/euro-area/indicators
+2025-02-16 03:59:32,747 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 03:59:32,747 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 03:59:32,747 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 03:59:32,748 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 03:59:32,748 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 03:59:32,748 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 03:59:32,748 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 03:59:32,748 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 03:59:32,748 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 03:59:32,748 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 03:59:32,748 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 03:59:32,748 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 03:59:32,749 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 03:59:32,749 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 03:59:32,749 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 03:59:32,749 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 03:59:32,749 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 03:59:32,750 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 03:59:32,750 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 03:59:32,750 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 03:59:32,750 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.CHINA at https://tradingeconomics.com/china/indicators
+2025-02-16 03:59:34,757 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 03:59:34,757 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 03:59:34,757 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 03:59:34,757 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 03:59:34,757 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 03:59:34,757 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 03:59:34,757 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 03:59:34,758 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 03:59:34,758 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Cash Reserve Ratio
+2025-02-16 03:59:34,758 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 03:59:34,758 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 03:59:34,758 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 03:59:34,758 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 03:59:34,758 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 03:59:34,759 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 03:59:34,759 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 03:59:34,759 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 03:59:34,759 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 03:59:34,759 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 03:59:34,759 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 03:59:34,759 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 03:59:34,759 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 04:06:22,081 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.USA at https://tradingeconomics.com/united-states/indicators
+2025-02-16 04:06:24,157 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 04:06:24,157 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 04:06:24,157 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 04:06:24,157 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 04:06:24,157 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 04:06:24,157 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Farm Payrolls
+2025-02-16 04:06:24,158 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 04:06:24,158 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 04:06:24,158 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 04:06:24,158 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 04:06:24,158 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 04:06:24,158 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 04:06:24,158 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 04:06:24,158 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 04:06:24,158 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 04:06:24,159 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 04:06:24,159 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 04:06:24,159 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 04:06:24,159 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 04:06:24,159 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 04:06:24,159 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Building Permits
+2025-02-16 04:06:24,160 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 04:06:24,160 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 04:06:24,160 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.EURO at https://tradingeconomics.com/euro-area/indicators
+2025-02-16 04:06:26,168 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 04:06:26,168 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 04:06:26,169 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 04:06:26,169 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 04:06:26,169 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 04:06:26,169 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 04:06:26,169 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 04:06:26,169 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 04:06:26,169 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 04:06:26,170 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 04:06:26,170 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 04:06:26,170 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 04:06:26,170 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 04:06:26,170 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 04:06:26,170 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 04:06:26,170 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 04:06:26,170 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 04:06:26,171 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 04:06:26,171 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 04:06:26,171 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 04:06:26,171 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.CHINA at https://tradingeconomics.com/china/indicators
+2025-02-16 04:06:28,149 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 04:06:28,149 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 04:06:28,149 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 04:06:28,149 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 04:06:28,149 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 04:06:28,149 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 04:06:28,150 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 04:06:28,150 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 04:06:28,150 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Cash Reserve Ratio
+2025-02-16 04:06:28,150 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 04:06:28,150 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 04:06:28,151 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 04:06:28,151 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 04:06:28,151 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 04:06:28,151 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 04:06:28,151 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 04:06:28,151 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 04:06:28,152 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 04:06:28,152 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 04:06:28,152 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 04:06:28,152 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 04:06:28,152 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 05:01:57,992 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.USA at https://tradingeconomics.com/united-states/indicators
+2025-02-16 05:02:08,472 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 05:02:08,472 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 05:02:08,472 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 05:02:08,472 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 05:02:08,472 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 05:02:08,472 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Farm Payrolls
+2025-02-16 05:02:08,473 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 05:02:08,473 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 05:02:08,473 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 05:02:08,473 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 05:02:08,473 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 05:02:08,473 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 05:02:08,473 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 05:02:08,473 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 05:02:08,473 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 05:02:08,473 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 05:02:08,473 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 05:02:08,474 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 05:02:08,474 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 05:02:08,474 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 05:02:08,474 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Building Permits
+2025-02-16 05:02:08,474 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 05:02:08,474 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 05:02:08,474 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.EURO at https://tradingeconomics.com/euro-area/indicators
+2025-02-16 05:02:10,467 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 05:02:10,467 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 05:02:10,467 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 05:02:10,468 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 05:02:10,468 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 05:02:10,468 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 05:02:10,468 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 05:02:10,468 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 05:02:10,468 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 05:02:10,468 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 05:02:10,468 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 05:02:10,469 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 05:02:10,469 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 05:02:10,469 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 05:02:10,469 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 05:02:10,469 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 05:02:10,469 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 05:02:10,469 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 05:02:10,469 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 05:02:10,469 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 05:02:10,470 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.CHINA at https://tradingeconomics.com/china/indicators
+2025-02-16 05:02:12,513 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 05:02:12,513 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 05:02:12,513 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 05:02:12,513 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 05:02:12,513 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 05:02:12,513 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 05:02:12,513 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 05:02:12,514 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 05:02:12,514 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Cash Reserve Ratio
+2025-02-16 05:02:12,514 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 05:02:12,514 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 05:02:12,514 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 05:02:12,514 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 05:02:12,514 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 05:02:12,514 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 05:02:12,514 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 05:02:12,515 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 05:02:12,515 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 05:02:12,515 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 05:02:12,515 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 05:02:12,515 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 05:02:12,515 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 05:17:04,781 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.USA at https://tradingeconomics.com/united-states/indicators
+2025-02-16 05:17:15,254 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 05:17:15,254 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 05:17:15,254 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 05:17:15,255 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 05:17:15,255 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 05:17:15,255 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Farm Payrolls
+2025-02-16 05:17:15,256 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 05:17:15,256 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 05:17:15,256 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 05:17:15,256 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 05:17:15,256 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 05:17:15,256 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 05:17:15,256 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 05:17:15,257 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 05:17:15,257 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 05:17:15,257 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 05:17:15,257 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 05:17:15,257 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 05:17:15,257 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 05:17:15,258 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 05:17:15,258 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Building Permits
+2025-02-16 05:17:15,258 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 05:17:15,258 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 05:17:15,259 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.EURO at https://tradingeconomics.com/euro-area/indicators
+2025-02-16 05:17:17,263 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 05:17:17,264 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 05:17:17,264 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 05:17:17,264 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 05:17:17,264 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 05:17:17,265 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 05:17:17,265 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 05:17:17,265 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 05:17:17,265 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 05:17:17,265 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 05:17:17,265 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 05:17:17,266 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 05:17:17,266 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 05:17:17,266 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 05:17:17,266 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 05:17:17,267 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 05:17:17,267 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 05:17:17,267 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 05:17:17,267 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 05:17:17,267 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 05:17:17,267 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.CHINA at https://tradingeconomics.com/china/indicators
+2025-02-16 05:17:19,241 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 05:17:19,242 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 05:17:19,242 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 05:17:19,242 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 05:17:19,242 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 05:17:19,243 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 05:17:19,243 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 05:17:19,243 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 05:17:19,243 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Cash Reserve Ratio
+2025-02-16 05:17:19,243 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 05:17:19,244 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 05:17:19,244 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 05:17:19,244 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 05:17:19,244 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 05:17:19,244 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 05:17:19,244 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 05:17:19,244 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 05:17:19,245 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 05:17:19,245 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 05:17:19,245 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 05:17:19,245 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 05:17:19,245 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 06:56:51,464 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.USA at https://tradingeconomics.com/united-states/indicators
+2025-02-16 06:56:53,685 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 06:56:53,685 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 06:56:53,685 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 06:56:53,685 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 06:56:53,685 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 06:56:53,686 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Farm Payrolls
+2025-02-16 06:56:53,686 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 06:56:53,686 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 06:56:53,686 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 06:56:53,686 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 06:56:53,686 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 06:56:53,686 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 06:56:53,686 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 06:56:53,686 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 06:56:53,686 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 06:56:53,687 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 06:56:53,687 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 06:56:53,687 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 06:56:53,687 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 06:56:53,687 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 06:56:53,687 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Building Permits
+2025-02-16 06:56:53,687 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 06:56:53,687 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 06:56:53,687 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.EURO at https://tradingeconomics.com/euro-area/indicators
+2025-02-16 06:56:55,711 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 06:56:55,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 06:56:55,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 06:56:55,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 06:56:55,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 06:56:55,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 06:56:55,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 06:56:55,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 06:56:55,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 06:56:55,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 06:56:55,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 06:56:55,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 06:56:55,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 06:56:55,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 06:56:55,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 06:56:55,713 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 06:56:55,713 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 06:56:55,713 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 06:56:55,713 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 06:56:55,713 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 06:56:55,713 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.CHINA at https://tradingeconomics.com/china/indicators
+2025-02-16 06:56:57,689 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 06:56:57,689 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 06:56:57,689 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 06:56:57,689 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 06:56:57,689 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 06:56:57,691 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 06:56:57,691 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 06:56:57,691 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 06:56:57,691 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Cash Reserve Ratio
+2025-02-16 06:56:57,691 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 06:56:57,691 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 06:56:57,691 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 06:56:57,691 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 06:56:57,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 06:56:57,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 06:56:57,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 06:56:57,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 06:56:57,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 06:56:57,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 06:56:57,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 06:56:57,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 06:56:57,692 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 07:18:33,594 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.USA at https://tradingeconomics.com/united-states/indicators
+2025-02-16 07:18:35,779 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 07:18:35,779 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 07:18:35,779 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 07:18:35,779 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 07:18:35,779 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 07:18:35,779 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Farm Payrolls
+2025-02-16 07:18:35,779 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 07:18:35,780 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 07:18:35,780 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 07:18:35,780 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 07:18:35,780 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 07:18:35,780 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 07:18:35,780 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 07:18:35,781 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 07:18:35,781 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 07:18:35,781 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 07:18:35,781 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 07:18:35,781 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 07:18:35,781 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 07:18:35,781 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 07:18:35,781 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Building Permits
+2025-02-16 07:18:35,781 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 07:18:35,782 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 07:18:35,782 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.EURO at https://tradingeconomics.com/euro-area/indicators
+2025-02-16 07:18:37,832 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 07:18:37,832 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 07:18:37,832 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 07:18:37,832 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 07:18:37,832 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 07:18:37,833 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 07:18:37,833 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 07:18:37,833 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 07:18:37,833 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 07:18:37,833 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 07:18:37,833 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 07:18:37,834 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 07:18:37,834 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 07:18:37,834 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 07:18:37,834 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 07:18:37,834 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 07:18:37,834 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 07:18:37,834 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 07:18:37,835 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 07:18:37,835 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 07:18:37,835 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.CHINA at https://tradingeconomics.com/china/indicators
+2025-02-16 07:18:39,804 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 07:18:39,805 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 07:18:39,805 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 07:18:39,805 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 07:18:39,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 07:18:39,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 07:18:39,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 07:18:39,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 07:18:39,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Cash Reserve Ratio
+2025-02-16 07:18:39,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 07:18:39,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 07:18:39,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 07:18:39,806 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 07:18:39,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 07:18:39,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 07:18:39,807 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 07:18:39,808 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 07:18:39,808 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 07:18:39,808 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 07:18:39,808 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 07:18:39,808 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 07:18:39,808 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 21:48:02,101 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.USA at https://tradingeconomics.com/united-states/indicators
+2025-02-16 21:48:04,282 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 21:48:04,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 21:48:04,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 21:48:04,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 21:48:04,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 21:48:04,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Farm Payrolls
+2025-02-16 21:48:04,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 21:48:04,284 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 21:48:04,284 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 21:48:04,284 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 21:48:04,284 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 21:48:04,284 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 21:48:04,284 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 21:48:04,285 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 21:48:04,285 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 21:48:04,285 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 21:48:04,285 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 21:48:04,285 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 21:48:04,285 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 21:48:04,285 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 21:48:04,285 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Building Permits
+2025-02-16 21:48:04,285 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 21:48:04,286 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 21:48:04,286 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.EURO at https://tradingeconomics.com/euro-area/indicators
+2025-02-16 21:48:14,688 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 21:48:14,688 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 21:48:14,688 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 21:48:14,688 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 21:48:14,688 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 21:48:14,688 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 21:48:14,688 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 21:48:14,689 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 21:48:14,689 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 21:48:14,689 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 21:48:14,689 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 21:48:14,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 21:48:14,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 21:48:14,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 21:48:14,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 21:48:14,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 21:48:14,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 21:48:14,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 21:48:14,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 21:48:14,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 21:48:14,690 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.CHINA at https://tradingeconomics.com/china/indicators
+2025-02-16 21:48:16,710 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 21:48:16,710 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 21:48:16,710 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 21:48:16,710 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 21:48:16,710 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 21:48:16,711 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 21:48:16,711 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 21:48:16,711 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 21:48:16,711 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Cash Reserve Ratio
+2025-02-16 21:48:16,711 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 21:48:16,711 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 21:48:16,711 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 21:48:16,711 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 21:48:16,711 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 21:48:16,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 21:48:16,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 21:48:16,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 21:48:16,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 21:48:16,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 21:48:16,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 21:48:16,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 21:48:16,712 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 22:48:21,208 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.USA at https://tradingeconomics.com/united-states/indicators
+2025-02-16 22:48:23,302 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 22:48:23,302 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 22:48:23,303 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 22:48:23,303 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 22:48:23,303 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 22:48:23,303 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Farm Payrolls
+2025-02-16 22:48:23,303 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 22:48:23,304 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 22:48:23,304 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 22:48:23,304 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 22:48:23,304 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 22:48:23,304 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 22:48:23,304 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 22:48:23,304 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 22:48:23,304 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 22:48:23,304 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 22:48:23,304 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 22:48:23,304 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 22:48:23,306 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 22:48:23,306 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 22:48:23,306 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Building Permits
+2025-02-16 22:48:23,306 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 22:48:23,306 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 22:48:23,307 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.EURO at https://tradingeconomics.com/euro-area/indicators
+2025-02-16 22:48:25,280 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 22:48:25,280 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 22:48:25,280 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 22:48:25,282 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 22:48:25,282 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 22:48:25,282 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 22:48:25,282 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 22:48:25,282 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 22:48:25,282 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 22:48:25,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 22:48:25,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 22:48:25,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 22:48:25,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 22:48:25,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 22:48:25,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 22:48:25,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 22:48:25,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 22:48:25,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 22:48:25,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 22:48:25,283 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 22:48:25,284 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.CHINA at https://tradingeconomics.com/china/indicators
+2025-02-16 22:48:27,257 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 22:48:27,257 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 22:48:27,257 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 22:48:27,257 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 22:48:27,257 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 22:48:27,258 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 22:48:27,258 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 22:48:27,258 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 22:48:27,258 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Cash Reserve Ratio
+2025-02-16 22:48:27,258 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 22:48:27,258 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 22:48:27,258 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 22:48:27,259 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 22:48:27,259 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 22:48:27,259 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 22:48:27,259 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 22:48:27,259 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 22:48:27,259 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 22:48:27,259 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 22:48:27,260 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 22:48:27,260 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 22:48:27,260 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 22:54:44,272 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.USA at https://tradingeconomics.com/united-states/indicators
+2025-02-16 22:54:46,366 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 22:54:46,366 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 22:54:46,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 22:54:46,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 22:54:46,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 22:54:46,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Farm Payrolls
+2025-02-16 22:54:46,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 22:54:46,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 22:54:46,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 22:54:46,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 22:54:46,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 22:54:46,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 22:54:46,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 22:54:46,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 22:54:46,369 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 22:54:46,369 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 22:54:46,369 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 22:54:46,369 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 22:54:46,369 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 22:54:46,369 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 22:54:46,369 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Building Permits
+2025-02-16 22:54:46,369 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 22:54:46,369 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 22:54:46,370 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.EURO at https://tradingeconomics.com/euro-area/indicators
+2025-02-16 22:54:48,396 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 22:54:48,396 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 22:54:48,396 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 22:54:48,396 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 22:54:48,397 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 22:54:48,397 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 22:54:48,397 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 22:54:48,397 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 22:54:48,397 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 22:54:48,397 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 22:54:48,397 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 22:54:48,397 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 22:54:48,397 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 22:54:48,398 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 22:54:48,398 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 22:54:48,398 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 22:54:48,398 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 22:54:48,398 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 22:54:48,398 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 22:54:48,398 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 22:54:48,399 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.CHINA at https://tradingeconomics.com/china/indicators
+2025-02-16 22:54:50,365 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 22:54:50,365 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 22:54:50,366 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 22:54:50,366 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 22:54:50,366 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 22:54:50,366 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 22:54:50,366 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 22:54:50,366 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 22:54:50,366 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Cash Reserve Ratio
+2025-02-16 22:54:50,366 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 22:54:50,366 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 22:54:50,366 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 22:54:50,366 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 22:54:50,366 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 22:54:50,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 22:54:50,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 22:54:50,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 22:54:50,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 22:54:50,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 22:54:50,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 22:54:50,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 22:54:50,368 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 23:07:31,844 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.USA at https://tradingeconomics.com/united-states/indicators
+2025-02-16 23:07:34,214 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 23:07:34,215 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 23:07:34,215 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 23:07:34,215 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 23:07:34,215 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 23:07:34,215 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Farm Payrolls
+2025-02-16 23:07:34,216 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 23:07:34,216 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 23:07:34,216 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 23:07:34,216 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 23:07:34,216 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 23:07:34,216 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 23:07:34,216 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 23:07:34,216 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 23:07:34,217 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 23:07:34,217 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 23:07:34,217 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 23:07:34,217 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 23:07:34,217 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 23:07:34,217 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 23:07:34,217 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Building Permits
+2025-02-16 23:07:34,217 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 23:07:34,218 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 23:07:34,218 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.EURO at https://tradingeconomics.com/euro-area/indicators
+2025-02-16 23:07:36,204 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 23:07:36,204 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 23:07:36,204 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 23:07:36,204 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 23:07:36,206 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 23:07:36,206 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 23:07:36,206 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 23:07:36,206 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 23:07:36,206 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 23:07:36,206 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 23:07:36,207 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 23:07:36,207 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 23:07:36,207 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 23:07:36,207 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 23:07:36,207 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 23:07:36,208 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 23:07:36,208 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 23:07:36,208 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 23:07:36,208 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 23:07:36,208 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 23:07:36,208 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.CHINA at https://tradingeconomics.com/china/indicators
+2025-02-16 23:07:38,248 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 23:07:38,248 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 23:07:38,249 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 23:07:38,249 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 23:07:38,249 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 23:07:38,249 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 23:07:38,249 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 23:07:38,249 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 23:07:38,249 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Cash Reserve Ratio
+2025-02-16 23:07:38,249 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 23:07:38,250 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 23:07:38,250 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 23:07:38,250 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 23:07:38,250 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 23:07:38,250 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 23:07:38,250 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 23:07:38,250 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 23:07:38,250 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 23:07:38,250 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 23:07:38,250 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 23:07:38,251 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 23:07:38,251 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 23:24:20,432 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.USA at https://tradingeconomics.com/united-states/indicators
+2025-02-16 23:24:22,641 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 23:24:22,641 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 23:24:22,643 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 23:24:22,643 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 23:24:22,643 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 23:24:22,643 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Farm Payrolls
+2025-02-16 23:24:22,643 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 23:24:22,643 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 23:24:22,644 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 23:24:22,644 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 23:24:22,644 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 23:24:22,644 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 23:24:22,644 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 23:24:22,645 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 23:24:22,645 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 23:24:22,645 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 23:24:22,645 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 23:24:22,645 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 23:24:22,645 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 23:24:22,646 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 23:24:22,646 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Building Permits
+2025-02-16 23:24:22,646 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 23:24:22,646 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 23:24:22,647 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.EURO at https://tradingeconomics.com/euro-area/indicators
+2025-02-16 23:24:24,638 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 23:24:24,638 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 23:24:24,639 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 23:24:24,639 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 23:24:24,639 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 23:24:24,640 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 23:24:24,640 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 23:24:24,640 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 23:24:24,640 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 23:24:24,640 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 23:24:24,641 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 23:24:24,641 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 23:24:24,641 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 23:24:24,641 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 23:24:24,642 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 23:24:24,642 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 23:24:24,642 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 23:24:24,642 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 23:24:24,642 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 23:24:24,642 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-16 23:24:24,643 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.CHINA at https://tradingeconomics.com/china/indicators
+2025-02-16 23:24:26,680 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-16 23:24:26,680 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-16 23:24:26,680 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-16 23:24:26,680 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-16 23:24:26,680 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-16 23:24:26,680 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-16 23:24:26,681 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-16 23:24:26,681 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-16 23:24:26,681 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Cash Reserve Ratio
+2025-02-16 23:24:26,682 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-16 23:24:26,682 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-16 23:24:26,682 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-16 23:24:26,682 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-16 23:24:26,682 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-16 23:24:26,682 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-16 23:24:26,682 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-16 23:24:26,683 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-16 23:24:26,683 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-16 23:24:26,683 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-16 23:24:26,683 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-16 23:24:26,683 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-16 23:24:26,683 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-17 05:11:50,765 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.USA at https://tradingeconomics.com/united-states/indicators
+2025-02-17 05:12:05,438 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-17 05:12:05,438 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-17 05:12:05,438 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-17 05:12:05,438 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Farm Payrolls
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-17 05:12:05,439 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-17 05:12:05,441 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-17 05:12:05,441 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Building Permits
+2025-02-17 05:12:05,441 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-17 05:12:05,441 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-17 05:12:05,441 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.EURO at https://tradingeconomics.com/euro-area/indicators
+2025-02-17 05:12:07,466 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-17 05:12:07,467 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-17 05:12:07,467 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-17 05:12:07,467 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-17 05:12:07,467 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-17 05:12:07,467 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-17 05:12:07,467 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-17 05:12:07,467 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-17 05:12:07,467 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-17 05:12:07,467 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-17 05:12:07,467 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-17 05:12:07,468 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-17 05:12:07,468 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-17 05:12:07,468 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-17 05:12:07,468 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-17 05:12:07,468 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-17 05:12:07,468 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-17 05:12:07,469 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-17 05:12:07,469 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-17 05:12:07,469 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate
+2025-02-17 05:12:07,469 - tools.financy.macro_economy.macro_monitor_tool - INFO - Searching for data for Region.CHINA at https://tradingeconomics.com/china/indicators
+2025-02-17 05:12:09,485 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Currency
+2025-02-17 05:12:09,485 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Stock Market
+2025-02-17 05:12:09,485 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Growth Rate
+2025-02-17 05:12:09,485 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: GDP Annual Growth Rate
+2025-02-17 05:12:09,485 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Unemployment Rate
+2025-02-17 05:12:09,485 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate
+2025-02-17 05:12:09,485 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Inflation Rate MoM
+2025-02-17 05:12:09,485 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Interest Rate
+2025-02-17 05:12:09,485 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Cash Reserve Ratio
+2025-02-17 05:12:09,486 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Balance of Trade
+2025-02-17 05:12:09,486 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account
+2025-02-17 05:12:09,486 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Current Account to GDP
+2025-02-17 05:12:09,486 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Debt to GDP
+2025-02-17 05:12:09,486 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Government Budget
+2025-02-17 05:12:09,486 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Business Confidence
+2025-02-17 05:12:09,486 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Manufacturing PMI
+2025-02-17 05:12:09,486 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Non Manufacturing PMI
+2025-02-17 05:12:09,486 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Services PMI
+2025-02-17 05:12:09,486 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Consumer Confidence
+2025-02-17 05:12:09,486 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Retail Sales MoM
+2025-02-17 05:12:09,487 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Corporate Tax Rate
+2025-02-17 05:12:09,487 - tools.financy.macro_economy.macro_monitor_tool - INFO - Processing indicator: Personal Income Tax Rate

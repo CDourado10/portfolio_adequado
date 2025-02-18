@@ -38,7 +38,7 @@ class CountryAnalysisCrew:
     @agent
     def sector_analyst(self) -> Agent:
         return Agent(
-            config=self.agents_config['sector_analysis'],
+            config=self.agents_config['sector_analyst'],
             verbose=True,
             tools=[CountryDataTool(), BovespaDataTool()],
             llm="azure/gpt-4o-mini"

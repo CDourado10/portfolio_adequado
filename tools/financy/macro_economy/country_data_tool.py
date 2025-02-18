@@ -237,59 +237,54 @@ class CountryDataTool(BaseTool):
         except:
             return "⚪"
 
-    def _run(self, request: Union[List[str], CountryDataInput]) -> str:
+    def _run(self, countries: List[str], detailed_analysis: bool = False) -> str:
         """Run the tool with the given input."""
-        if isinstance(request, list):
-            countries = request
-            detailed_analysis = False
-        else:
-            countries = request.countries
-            detailed_analysis = request.detailed_analysis
+        try:
+            all_data = {}
+            
+            for i, country in enumerate(countries):
+                country_data = self._get_country_data(country)
+                all_data[country] = {"basic_indicators": country_data}
+                
+                # Obtém dados detalhados apenas para o primeiro país se detailed_analysis for True
+                if i == 0 and detailed_analysis:
+                    detailed_data = self._get_detailed_data(country)
+                    all_data[country]["detailed_data"] = detailed_data
 
-        all_data = {}
-        
-        for i, country in enumerate(countries):
-            country_data = self._get_country_data(country)
-            all_data[country] = {"basic_indicators": country_data}
+            # Formatação da saída
+            output = []
+            for country, data in all_data.items():
+                output.append(f"\n🌍 Dados para {country.upper()}:")
+                
+                # Indicadores básicos
+                output.append("\n📊 Indicadores Principais:")
+                for indicator in data["basic_indicators"]:
+                    change_emoji = self._get_change_emoji(indicator.last, indicator.previous)
+                    output.append(
+                        f"  • {indicator.name}: {change_emoji} {indicator.last} {indicator.unit} "
+                        f"(Anterior: {indicator.previous})"
+                    )
+                
+                # Dados detalhados (se disponíveis)
+                if "detailed_data" in data:
+                    output.append("\n🔍 Análise Detalhada:")
+                    for category, indicators in data["detailed_data"].items():
+                        output.append(f"\n  📌 {category.upper()}:")
+                        for indicator in indicators:
+                            change_emoji = self._get_change_emoji(indicator.value, indicator.previous)
+                            output.append(
+                                f"    • {indicator.name}: {change_emoji} {indicator.value} "
+                                f"(Ref: {indicator.reference}, Anterior: {indicator.previous})"
+                            )
             
-            # Obtém dados detalhados apenas para o primeiro país se detailed_analysis for True
-            if i == 0 and detailed_analysis:
-                detailed_data = self._get_detailed_data(country)
-                all_data[country]["detailed_data"] = detailed_data
+            return "\n".join(output) if output else "Não foi possível obter dados para os países solicitados."
 
-        # Formatação da saída
-        output = []
-        for country, data in all_data.items():
-            output.append(f"\n🌍 Dados para {country.upper()}:")
-            
-            # Indicadores básicos
-            output.append("\n📊 Indicadores Principais:")
-            for indicator in data["basic_indicators"]:
-                change_emoji = self._get_change_emoji(indicator.last, indicator.previous)
-                output.append(
-                    f"  • {indicator.name}: {change_emoji} {indicator.last} {indicator.unit} "
-                    f"(Anterior: {indicator.previous})"
-                )
-            
-            # Dados detalhados (se disponíveis)
-            if "detailed_data" in data:
-                output.append("\n🔍 Análise Detalhada:")
-                for category, indicators in data["detailed_data"].items():
-                    output.append(f"\n  📌 {category.upper()}:")
-                    for indicator in indicators:
-                        change_emoji = self._get_change_emoji(indicator.value, indicator.previous)
-                        output.append(
-                            f"    • {indicator.name}: {change_emoji} {indicator.value} "
-                            f"(Ref: {indicator.reference}, Anterior: {indicator.previous})"
-                        )
-        
-        return "\n".join(output)
+        except Exception as e:
+            logger.error(f"Erro ao processar a requisição: {str(e)}")
+            return f"Erro ao processar a requisição: {str(e)}"
 
 if __name__ == '__main__':
     # Exemplo de uso
     tool = CountryDataTool()
-    result = tool._run(CountryDataInput(
-        countries=['brazil', 'germany'],
-        detailed_analysis=True
-    ))
+    result = tool._run(['brazil', 'germany'], detailed_analysis=True)
     print(result)

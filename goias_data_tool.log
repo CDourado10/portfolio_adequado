@@ -1,8 +1,0 @@
-2025-02-15 02:15:11,526 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
-2025-02-15 02:15:11,526 - __main__ - INFO - Iniciando processamento com categorias: [<DataCategory.TODOS: 'todos'>]
-2025-02-15 02:15:11,534 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
-2025-02-15 02:15:11,539 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
-2025-02-15 02:15:11,548 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\101-abate-animais-goias.csv
-2025-02-15 02:15:11,553 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
-2025-02-15 02:15:11,570 - __main__ - ERROR - Erro ao processar dados de inflação: 'Variação_Mensal_%'
-2025-02-15 02:15:11,579 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'

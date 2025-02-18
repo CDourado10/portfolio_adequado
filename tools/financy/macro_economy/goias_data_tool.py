@@ -63,10 +63,38 @@ class GoiasIndicator(BaseModel):
     unidade: Optional[str] = None
 
 class GoiasDataInput(BaseModel):
-    """Modelo para entrada de dados."""
-    categorias: List[DataCategory] = [DataCategory.TODOS]
-    ano_referencia: int = 2023
-    analise_comparativa: bool = True
+    """Modelo para entrada de dados da ferramenta GoiasDataTool."""
+    categorias: List[DataCategory] = Field(
+        default=[DataCategory.TODOS],
+        description="""
+        Lista de categorias de dados econômicos para análise.
+        
+        Deve ser uma lista contendo uma ou mais das seguintes strings:
+        - "todos": Todos os indicadores disponíveis
+        - "pib": PIB total e setorial
+        - "inflacao": IPCA regional
+        - "agricultura": Produção agrícola
+        - "pecuaria": Produção pecuária
+        - "servicos": Setor de serviços
+        - "comercio": Setor comercial
+        - "industria": Produção industrial
+        - "comercio_exterior": Comércio internacional
+        - "financas_publicas": Finanças do estado
+        - "empresas": Setor empresarial
+        
+        Exemplo: ["pib", "industria", "comercio"]
+        """
+    )
+    analise_comparativa: bool = Field(
+        default=True,
+        description="""
+        Se True, inclui comparações com indicadores nacionais para cada métrica,
+        permitindo avaliar o desempenho de Goiás em relação ao Brasil.
+        Recomendado manter True para uma análise mais completa.
+        
+        Exemplo: true
+        """
+    )
 
 class GoiasDataTool(BaseTool):
     """Ferramenta para análise de dados econômicos de Goiás."""
@@ -77,26 +105,53 @@ class GoiasDataTool(BaseTool):
     
     1. PIB e Crescimento:
        - PIB total e per capita
-       - Comparação com Brasil e Centro-Oeste
-       - Variações e tendências
+       - Composição setorial do PIB
+       - Ranking nacional e participação no PIB brasileiro
+       - Variações trimestrais e anuais
        
     2. Setores Econômicos:
-       - Indústria e produção
-       - Agricultura e pecuária
-       - Comércio e serviços
+       - Indústria: produção física, emprego e segmentos
+       - Agricultura: principais culturas, área e produtividade
+       - Pecuária: rebanhos, produção de leite e carnes
+       - Serviços: volume, emprego e segmentação
+       - Comércio: vendas, e-commerce e indicadores
        
     3. Comércio Exterior:
-       - Balança comercial
-       - Principais produtos
-       - Destinos e origens
+       - Balança comercial (exportações e importações)
+       - Principais produtos e commodities
+       - Destinos e origens do comércio
+       - Variação cambial e competitividade
        
     4. Finanças Públicas:
-       - Arrecadação de impostos
-       - Gastos governamentais
-       - Indicadores fiscais
+       - Arrecadação de impostos (federais e estaduais)
+       - Gastos governamentais por função
+       - Indicadores fiscais e dívida pública
+       - Transferências e investimentos
        
-    Os dados são apresentados com indicadores de tendência:
-    (positiva), (negativa), (estável)
+    5. Análise Comparativa:
+       - Comparação com médias nacionais
+       - Posicionamento regional (Centro-Oeste)
+       - Benchmarking com estados similares
+       - Análise temporal (variações entre períodos)
+       
+    Indicadores de Tendência:
+    🟢 Positiva: crescimento em relação ao período anterior
+    🔴 Negativa: queda em relação ao período anterior
+    ➡️ Estável: variação inferior a 0,1%
+    ℹ️ Informativo: dado pontual ou sem variação disponível
+    
+    Formatação dos Dados:
+    - Valores monetários no padrão brasileiro (R$ 1.234,56)
+    - Percentuais com duas casas decimais (12,34%)
+    - Números grandes em milhões/bilhões quando apropriado
+    
+    Periodicidade:
+    - Dados mensais: indicadores conjunturais
+    - Dados trimestrais: PIB e setores
+    - Dados anuais: análises estruturais
+    
+    Todos os valores são ajustados para inflação e sazonalidade
+    quando aplicável.
     """
     args_schema: Type[BaseModel] = GoiasDataInput
     csv_dir: str = Field(default="")
@@ -687,44 +742,33 @@ class GoiasDataTool(BaseTool):
             logger.error(f"Erro ao processar dados de empresas e serviços: {str(e)}")
         return indicators
 
-    def process_data(self) -> str:
-        """Processa todos os dados disponíveis."""
+    def _add_national_comparisons(self, indicators: List[GoiasIndicator]) -> List[GoiasIndicator]:
+        """Adiciona comparações nacionais aos indicadores."""
         try:
-            all_indicators = []
+            # Carrega dados nacionais
+            df_nacional = self._load_csv("comparacao_nacional.csv")
+            if not df_nacional.empty:
+                for indicator in indicators:
+                    # Busca o indicador nacional correspondente
+                    nacional = df_nacional[
+                        df_nacional['indicador'].str.contains(indicator.nome, case=False, na=False)
+                    ]
+                    
+                    if not nacional.empty:
+                        valor_nacional = self._clean_numeric(nacional.iloc[0]['valor'])
+                        if valor_nacional > 0 and indicator.valor_atual is not None:
+                            # Calcula a diferença percentual
+                            diff = ((indicator.valor_atual / valor_nacional) - 1) * 100
+                            indicator.comparacao_nacional = f"{diff:+.1f}% em relação à média nacional"
             
-            # Processa PIB
-            all_indicators.extend(self._process_pib_data())
-            
-            # Processa indústria
-            all_indicators.extend(self._process_industry_data())
-            
-            # Processa agricultura
-            all_indicators.extend(self._process_agriculture_data())
-            
-            # Processa pecuária
-            all_indicators.extend(self._process_livestock_data())
-            
-            # Processa comércio exterior
-            all_indicators.extend(self._process_trade_data())
-            
-            # Processa finanças públicas
-            all_indicators.extend(self._process_public_finance_data())
-            
-            # Processa inflação
-            all_indicators.extend(self._process_inflation_data())
-            
-            # Processa serviços
-            all_indicators.extend(self._process_business_data())
-            
-            # Formata e retorna a saída
-            return self._format_output(all_indicators)
+            return indicators
             
         except Exception as e:
-            logger.error(f"Erro ao processar os dados: {str(e)}")
-            return f"❌ Erro ao processar os dados: {str(e)}"
-
-    def _format_output(self, indicators: List[GoiasIndicator]) -> str:
-        """Formata a saída dos indicadores."""
+            logger.error(f"Erro ao adicionar comparações nacionais: {str(e)}")
+            return indicators
+            
+    def _format_report(self, indicators: List[GoiasIndicator]) -> str:
+        """Formata o relatório com os indicadores."""
         if not indicators:
             return "❌ Nenhum indicador encontrado"
 
@@ -777,43 +821,93 @@ class GoiasDataTool(BaseTool):
                 elif ind.variacao < 0:
                     emoji = "🔴"
                 else:
-                    emoji = "⚪"
+                    emoji = "➡️"
 
                 # Formata o valor atual
-                valor_atual = self._format_value(ind.valor_atual, ind.unidade)
-
+                valor_atual = self._format_value(ind.valor_atual, ind.unidade) if ind.valor_atual is not None else "N/D"
+                
                 # Formata a variação
                 if ind.variacao is not None:
-                    variacao = f"({ind.variacao:+.2f}%)"
+                    variacao = f"{ind.variacao:+.1f}%" if ind.variacao != 0 else "0%"
                 else:
-                    variacao = ""
+                    variacao = "N/D"
 
-                # Formata a comparação nacional
-                comparacao = f" | {ind.comparacao_nacional}" if ind.comparacao_nacional else ""
-
-                # Formata a unidade
-                unidade = f" ({ind.unidade})" if ind.unidade else ""
-
-                # Monta a linha do indicador
-                linha = f"{emoji} {ind.nome}: {valor_atual} {variacao}{comparacao}{unidade}"
+                # Linha do indicador
+                linha = f"{emoji} {ind.nome}: {valor_atual} ({variacao})"
+                
+                # Adiciona comparação nacional se disponível
+                if ind.comparacao_nacional:
+                    linha += f" | {ind.comparacao_nacional}"
+                    
                 output.append(linha)
+
+            output.append("")  # Linha em branco entre categorias
 
         return "\n".join(output)
 
-    def _run(self, tool_input: GoiasDataInput) -> str:
-        """Executa a ferramenta com os parâmetros fornecidos."""
+    def process_data(self) -> str:
+        """Processa todos os dados disponíveis."""
         try:
-            logger.info(f"Iniciando processamento com categorias: {tool_input.categorias}")
+            all_indicators = []
+            
+            # Processa PIB
+            all_indicators.extend(self._process_pib_data())
+            
+            # Processa indústria
+            all_indicators.extend(self._process_industry_data())
+            
+            # Processa agricultura
+            all_indicators.extend(self._process_agriculture_data())
+            
+            # Processa pecuária
+            all_indicators.extend(self._process_livestock_data())
+            
+            # Processa comércio exterior
+            all_indicators.extend(self._process_trade_data())
+            
+            # Processa finanças públicas
+            all_indicators.extend(self._process_public_finance_data())
+            
+            # Processa inflação
+            all_indicators.extend(self._process_inflation_data())
+            
+            # Processa serviços
+            all_indicators.extend(self._process_business_data())
+            
+            # Formata e retorna a saída
+            return self._format_report(all_indicators)
+            
+        except Exception as e:
+            logger.error(f"Erro ao processar os dados: {str(e)}")
+            return f"❌ Erro ao processar os dados: {str(e)}"
+
+    def _run(
+        self,
+        categorias: List[DataCategory] = [DataCategory.TODOS],
+        analise_comparativa: bool = True
+    ) -> str:
+        """
+        Executa a análise dos dados econômicos de Goiás.
+        
+        Args:
+            categorias: Lista de categorias para análise
+            analise_comparativa: Se deve incluir comparações nacionais
+            
+        Returns:
+            str: Relatório formatado com os resultados da análise
+        """
+        try:
+            logger.info(f"Iniciando análise para categorias: {categorias}")
             
             all_indicators = []
             
-            # Processa cada categoria solicitada
-            for categoria in tool_input.categorias:
+            # Processamento dos indicadores por categoria
+            for categoria in categorias:
                 if categoria in [DataCategory.TODOS, DataCategory.PIB]:
                     all_indicators.extend(self._process_pib_data())
                     
-                if categoria in [DataCategory.TODOS, DataCategory.INDUSTRIA]:
-                    all_indicators.extend(self._process_industry_data())
+                if categoria in [DataCategory.TODOS, DataCategory.INFLACAO]:
+                    all_indicators.extend(self._process_inflation_data())
                     
                 if categoria in [DataCategory.TODOS, DataCategory.AGRICULTURA]:
                     all_indicators.extend(self._process_agriculture_data())
@@ -821,20 +915,30 @@ class GoiasDataTool(BaseTool):
                 if categoria in [DataCategory.TODOS, DataCategory.PECUARIA]:
                     all_indicators.extend(self._process_livestock_data())
                     
+                if categoria in [DataCategory.TODOS, DataCategory.SERVICOS]:
+                    all_indicators.extend(self._process_business_data())
+                    
+                if categoria in [DataCategory.TODOS, DataCategory.COMERCIO]:
+                    all_indicators.extend(self._process_business_data())
+                    
+                if categoria in [DataCategory.TODOS, DataCategory.INDUSTRIA]:
+                    all_indicators.extend(self._process_industry_data())
+                    
                 if categoria in [DataCategory.TODOS, DataCategory.COMERCIO_EXTERIOR]:
                     all_indicators.extend(self._process_trade_data())
                     
                 if categoria in [DataCategory.TODOS, DataCategory.FINANCAS_PUBLICAS]:
                     all_indicators.extend(self._process_public_finance_data())
                     
-                if categoria in [DataCategory.TODOS, DataCategory.INFLACAO]:
-                    all_indicators.extend(self._process_inflation_data())
-                    
                 if categoria in [DataCategory.TODOS, DataCategory.EMPRESAS]:
                     all_indicators.extend(self._process_business_data())
             
-            # Formata e retorna o resultado
-            return self._format_output(all_indicators)
+            # Adiciona comparações nacionais se solicitado
+            if analise_comparativa:
+                all_indicators = self._add_national_comparisons(all_indicators)
+            
+            # Formata e retorna o relatório
+            return self._format_report(all_indicators)
             
         except Exception as e:
             error_msg = f"Erro ao executar a ferramenta: {str(e)}\n{traceback.format_exc()}"
@@ -844,9 +948,19 @@ class GoiasDataTool(BaseTool):
 if __name__ == "__main__":
     # Exemplo de uso
     tool = GoiasDataTool()
-    result = tool._run(GoiasDataInput(
-        categorias=['todos'],
-        ano_referencia=2023,
+    
+    # Exemplo 1: Todas as categorias
+    print("\nExemplo 1: Todas as categorias")
+    result = tool._run(
+        categorias=[DataCategory.TODOS],
         analise_comparativa=True
-    ))
+    )
+    print(result)
+    
+    # Exemplo 2: Categorias específicas
+    print("\nExemplo 2: PIB e Indústria")
+    result = tool._run(
+        categorias=["pib", "industria"],
+        analise_comparativa=True
+    )
     print(result)

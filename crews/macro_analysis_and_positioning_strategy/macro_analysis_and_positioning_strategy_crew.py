@@ -27,38 +27,13 @@ class MarketMonitorCrew:
     agents_config = "config/agents.yaml"
     tasks_config = "config/tasks.yaml"
 
-    @agent
-    def macro_events_specialist(self) -> Agent:
-        return Agent(
-            config=self.agents_config['macro_events_specialist'],
-            verbose=True,
-            tools=[MarketEventsAnalysisTool()],
-            llm="azure/gpt-4o-mini"
-        )
-
-    @agent
-    def market_dynamics_analyst(self) -> Agent:
-        return Agent(
-            config=self.agents_config['market_dynamics_analyst'],
-            verbose=True,
-            tools=[MarketMonitorTool()],
-            llm="azure/gpt-4o-mini"
-        )
-
-    @agent
-    def sentiment_trends_analyst(self) -> Agent:
-        return Agent(
-            config=self.agents_config['sentiment_trends_analyst'],
-            verbose=True,
-            tools=[MarketNewsAnalysisTool()],
-            llm="azure/gpt-4o-mini"
-        )
 
     @agent
     def cross_sector_impact_analyst(self) -> Agent:
         return Agent(
             config=self.agents_config['cross_sector_impact_analyst'],
             verbose=True,
+            tools=[MarketEventsAnalysisTool(), MarketMonitorTool(), MarketNewsAnalysisTool()],
             llm="azure/gpt-4o-mini"
         )
 
@@ -71,36 +46,11 @@ class MarketMonitorCrew:
         )
 
     @task
-    def analyze_economic_events(self) -> Task:
-        return Task(
-            config=self.tasks_config['analyze_economic_events'],
-            agent=self.macro_events_specialist(),
-            output_file='analyze_economic_events.txt'
-        )
-
-    @task
-    def monitor_market_patterns(self) -> Task:
-        return Task(
-            config=self.tasks_config['monitor_market_patterns'],
-            agent=self.market_dynamics_analyst(),
-            output_file='monitor_market_patterns.txt'
-        )
-
-    @task
-    def analyze_market_sentiment(self) -> Task:
-        return Task(
-            config=self.tasks_config['analyze_market_sentiment'],
-            agent=self.sentiment_trends_analyst(),
-            output_file='analyze_market_sentiment.txt'
-        )
-
-    @task
     def perform_cross_sector_analysis(self) -> Task:
         return Task(
             config=self.tasks_config['perform_cross_sector_analysis'],
             agent=self.cross_sector_impact_analyst(),
-            context=[self.analyze_economic_events(), self.monitor_market_patterns(), self.analyze_market_sentiment()],
-            output_file='perform_cross_sector_analysis.txt'
+            output_file='perform_cross_sector_analysis.txt',
         )
 
     @task
@@ -108,7 +58,7 @@ class MarketMonitorCrew:
         return Task(
             config=self.tasks_config['strategic_analysis_and_reporting'],
             agent=self.global_intelligence_director(),
-            context=[self.analyze_economic_events(), self.monitor_market_patterns(), self.analyze_market_sentiment(), self.perform_cross_sector_analysis()],
+            context=[self.perform_cross_sector_analysis()],
             output_file='strategic_analysis_and_reporting.txt'
         )
 

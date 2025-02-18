@@ -1,4 +1,5 @@
 import asyncio
+import copy
 import inspect
 import logging
 from typing import (
@@ -394,7 +395,6 @@ class FlowMeta(type):
                 or hasattr(attr_value, "__trigger_methods__")
                 or hasattr(attr_value, "__is_router__")
             ):
-
                 # Register start methods
                 if hasattr(attr_value, "__is_start_method__"):
                     start_methods.append(attr_name)
@@ -569,6 +569,9 @@ class Flow(Generic[T], metaclass=FlowMeta):
             f"Initial state must be dict or BaseModel, got {type(self.initial_state)}"
         )
 
+    def _copy_state(self) -> T:
+        return copy.deepcopy(self._state)
+
     @property
     def state(self) -> T:
         return self._state
@@ -600,7 +603,7 @@ class Flow(Generic[T], metaclass=FlowMeta):
             ```
         """
         try:
-            if not hasattr(self, '_state'):
+            if not hasattr(self, "_state"):
                 return ""
 
             if isinstance(self._state, dict):
@@ -706,26 +709,31 @@ class Flow(Generic[T], metaclass=FlowMeta):
             inputs: Optional dictionary containing input values and potentially a state ID to restore
         """
         # Handle state restoration if ID is provided in inputs
-        if inputs and 'id' in inputs and self._persistence is not None:
-            restore_uuid = inputs['id']
+        if inputs and "id" in inputs and self._persistence is not None:
+            restore_uuid = inputs["id"]
             stored_state = self._persistence.load_state(restore_uuid)
 
             # Override the id in the state if it exists in inputs
-            if 'id' in inputs:
+            if "id" in inputs:
                 if isinstance(self._state, dict):
-                    self._state['id'] = inputs['id']
+                    self._state["id"] = inputs["id"]
                 elif isinstance(self._state, BaseModel):
-                    setattr(self._state, 'id', inputs['id'])
+                    setattr(self._state, "id", inputs["id"])
 
             if stored_state:
-                self._log_flow_event(f"Loading flow state from memory for UUID: {restore_uuid}", color="yellow")
+                self._log_flow_event(
+                    f"Loading flow state from memory for UUID: {restore_uuid}",
+                    color="yellow",
+                )
                 # Restore the state
                 self._restore_state(stored_state)
             else:
-                self._log_flow_event(f"No flow state found for UUID: {restore_uuid}", color="red")
+                self._log_flow_event(
+                    f"No flow state found for UUID: {restore_uuid}", color="red"
+                )
 
             # Apply any additional inputs after restoration
-            filtered_inputs = {k: v for k, v in inputs.items() if k != 'id'}
+            filtered_inputs = {k: v for k, v in inputs.items() if k != "id"}
             if filtered_inputs:
                 self._initialize_state(filtered_inputs)
 
@@ -735,11 +743,14 @@ class Flow(Generic[T], metaclass=FlowMeta):
             event=FlowStartedEvent(
                 type="flow_started",
                 flow_name=self.__class__.__name__,
+                inputs=inputs,
             ),
         )
-        self._log_flow_event(f"Flow started with ID: {self.flow_id}", color="bold_magenta")
+        self._log_flow_event(
+            f"Flow started with ID: {self.flow_id}", color="bold_magenta"
+        )
 
-        if inputs is not None and 'id' not in inputs:
+        if inputs is not None and "id" not in inputs:
             self._initialize_state(inputs)
 
         return asyncio.run(self.kickoff_async())
@@ -796,6 +807,18 @@ class Flow(Generic[T], metaclass=FlowMeta):
     async def _execute_method(
         self, method_name: str, method: Callable, *args: Any, **kwargs: Any
     ) -> Any:
+        dumped_params = {f"_{i}": arg for i, arg in enumerate(args)} | (kwargs or {})
+        self.event_emitter.send(
+            self,
+            event=MethodExecutionStartedEvent(
+                type="method_execution_started",
+                method_name=method_name,
+                flow_name=self.__class__.__name__,
+                params=dumped_params,
+                state=self._copy_state(),
+            ),
+        )
+
         result = (
             await method(*args, **kwargs)
             if asyncio.iscoroutinefunction(method)
@@ -805,6 +828,18 @@ class Flow(Generic[T], metaclass=FlowMeta):
         self._method_execution_counts[method_name] = (
             self._method_execution_counts.get(method_name, 0) + 1
         )
+
+        self.event_emitter.send(
+            self,
+            event=MethodExecutionFinishedEvent(
+                type="method_execution_finished",
+                method_name=method_name,
+                flow_name=self.__class__.__name__,
+                state=self._copy_state(),
+                result=result,
+            ),
+        )
+
         return result
 
     async def _execute_listeners(self, trigger_method: str, result: Any) -> None:
@@ -943,16 +978,6 @@ class Flow(Generic[T], metaclass=FlowMeta):
         """
         try:
             method = self._methods[listener_name]
-
-            self.event_emitter.send(
-                self,
-                event=MethodExecutionStartedEvent(
-                    type="method_execution_started",
-                    method_name=listener_name,
-                    flow_name=self.__class__.__name__,
-                ),
-            )
-
             sig = inspect.signature(method)
             params = list(sig.parameters.values())
             method_params = [p for p in params if p.name != "self"]
@@ -963,15 +988,6 @@ class Flow(Generic[T], metaclass=FlowMeta):
                 )
             else:
                 listener_result = await self._execute_method(listener_name, method)
-
-            self.event_emitter.send(
-                self,
-                event=MethodExecutionFinishedEvent(
-                    type="method_execution_finished",
-                    method_name=listener_name,
-                    flow_name=self.__class__.__name__,
-                ),
-            )
 
             # Execute listeners (and possibly routers) of this listener
             await self._execute_listeners(listener_name, listener_result)
@@ -984,7 +1000,9 @@ class Flow(Generic[T], metaclass=FlowMeta):
 
             traceback.print_exc()
 
-    def _log_flow_event(self, message: str, color: str = "yellow", level: str = "info") -> None:
+    def _log_flow_event(
+        self, message: str, color: str = "yellow", level: str = "info"
+    ) -> None:
         """Centralized logging method for flow events.
 
         This method provides a consistent interface for logging flow-related events,

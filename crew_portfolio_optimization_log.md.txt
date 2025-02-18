@@ -1,0 +1,30 @@
+2025-02-18 14:57:05: task_name="macro_analysis", task="Analyze the current global financial market scenario across ALL sectors and asset types:
+1. Main Sectors:
+   - Technology (Software, Hardware, Semiconductors, Cloud)
+   - Healthcare (Biotech, Pharma, Medical Devices)
+   - Financial (Banks, Insurance, Fintech)
+   - Consumer (Staples, Discretionary, E-commerce)
+   - Industrial (Manufacturing, Aerospace, Defense)
+   - Energy (Traditional, Renewable, Utilities)
+   - Materials (Mining, Chemicals, Construction)
+   - Real Estate (Commercial, Residential, REITs)
+   - Communication (Telecom, Media, Entertainment)
+   - Transportation (Airlines, Shipping, Logistics)
+
+2. Asset Classes:
+   - Stocks (Large-cap, Mid-cap, Small-cap)
+   - Bonds (Government, Corporate, Municipal)
+   - ETFs (Sector, Commodity, International)
+   - Cryptocurrencies
+   - Commodities
+   - International Markets
+
+For each sector and asset class, analyze: - Current trends and market dynamics - Growth potential and risks - Volatility patterns - Correlation with other sectors/assets - Global economic impact
+1. Gather relevant historical data for each sector and asset class using MacroAnalysisPositioningTool and GlobalEconomicAnalysisTool.
+2. Utilize the MacroAnalysisPositioningTool to analyze current trends, growth potential, risks, volatility patterns, and global economic impact across all sectors and asset types.
+   - Input analysis parameters relevant to each sector and asset type.
+   - Document findings focusing on key observations under current trends and market dynamics.
+3. Use the GlobalEconomicAnalysisTool to provide a global economic overview and specific economic indicators affecting the financial markets.
+   - Input macroeconomic events and trends for analysis.
+   - Summarize the report with a comprehensive outlook of the global economic situation.
+4. Produce a detailed report from both tools highlighting insights, market analysis, and strategic recommendations for sector allocations based on the analysis.", agent="Macro Analyst", status="started"

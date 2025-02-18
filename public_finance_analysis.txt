@@ -1,0 +1,28 @@
+**Propostas Fiscais:**
+
+1. **Receitas:**
+   - **Ação de implementação:** Implementar um novo sistema de cobrança para a arrecadação de tributos estaduais com foco na digitalização e na transparência.
+   - **Impacto esperado em reais:** Aumento de R$ 5,000,000 na arrecadação anual.
+   - **Prazo de implementação em dias:** 180 dias.
+   - **Custos operacionais em reais:** R$ 500,000 para desenvolvimento do sistema.
+   - **Indicadores de monitoramento:** 
+     - Taxa de arrecadação mensal.
+     - Índice de satisfação dos contribuintes com o novo sistema.
+
+2. **Despesas:**
+   - **Medidas de otimização:** Revisão e reavaliação de contratos de serviços públicos para renegociação com fornecedores.
+   - **Economia prevista:** R$ 8,000,000 anuais.
+   - **Timeline de implementação:** Início em 30 dias, com conclusão em 120 dias.
+   - **Riscos e mitigação:** 
+     - Risco de resistência por parte dos fornecedores; mitigação através de reuniões transparentes e explicações sobre a necessidade da revisão.
+     - Possibilidade de redução temporária na qualidade dos serviços; mitigação através da elaboração de critérios claros de qualidade.
+
+3. **Investimentos:**
+   - **Projetos prioritários:** Construção de uma plataforma digital integrada para gestão fiscal e cumprimento das obrigações tributárias.
+   - **Fontes de financiamento:** Alocação de recursos do orçamento estadual e possíveis parcerias público-privadas (PPP).
+   - **Cronograma de desembolso:** 
+     - Fase de planejamento: 60 dias.
+     - Fase de construção: 240 dias.
+   - **ROI projetado:** Estimativa de aumento de 15% na arrecadação, equivalente a R$ 10,000,000 no primeiro ano após a implementação.
+
+Essas decisões visam otimizar as finanças públicas de Goiás, aumentando a capacidade de investimento e garantindo a eficiência na utilização dos recursos disponíveis.

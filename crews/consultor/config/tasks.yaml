@@ -1,97 +1,291 @@
 macro_analysis:
   description: > 
-    Analyze the current global financial market scenario, considering:
+    Analyze the current global financial market scenario across ALL sectors and asset types:
 
-    1. Main sectors (Technology, Financial, Healthcare, Energy, Consumer, Industrial, Materials, Utilities, Real Estate, Indices, Currencies, Cryptocurrencies, ETFs, and Commodities)
-    2. Moving average of sectors
-    3. Sector volatility
-    4. Sector returns
-    5. Correlations between sectors
+    1. Main Sectors:
+       - Technology (Software, Hardware, Semiconductors, Cloud)
+       - Healthcare (Biotech, Pharma, Medical Devices)
+       - Financial (Banks, Insurance, Fintech)
+       - Consumer (Staples, Discretionary, E-commerce)
+       - Industrial (Manufacturing, Aerospace, Defense)
+       - Energy (Traditional, Renewable, Utilities)
+       - Materials (Mining, Chemicals, Construction)
+       - Real Estate (Commercial, Residential, REITs)
+       - Communication (Telecom, Media, Entertainment)
+       - Transportation (Airlines, Shipping, Logistics)
+
+    2. Asset Classes:
+       - Stocks (Large-cap, Mid-cap, Small-cap)
+       - Bonds (Government, Corporate, Municipal)
+       - ETFs (Sector, Commodity, International)
+       - Cryptocurrencies
+       - Commodities
+       - International Markets
+
+    For each sector and asset class, analyze:
+    - Current trends and market dynamics
+    - Growth potential and risks
+    - Volatility patterns
+    - Correlation with other sectors/assets
+    - Global economic impact
+
   expected_output: >
-    Detailed report on the current financial market scenario, the 3 best sectors for long or short investment and their trends.
-    Investment strategies for the 3 best sectors.
+    Comprehensive market analysis including:
+    1. Detailed analysis of each sector's performance and outlook
+    2. Identification of emerging trends and opportunities
+    3. Risk assessment across different asset classes
+    4. Correlation analysis between sectors and assets
+    5. Recommendations for sector allocation based on risk profiles
 
 asset_research:
   description: >
-    Your task is to conduct in-depth research on the most promising assets to compose an investment portfolio.
-    For this, use reliable financial and economic data sources, analyzing factors such as:
+    Your task is to conduct comprehensive research to identify UNIQUE assets for each portfolio,
+    ensuring ABSOLUTELY NO REPETITION between portfolios. Use yfinance symbols and explore
+    the full range of available assets:
 
-    - Economic cycles and global trends
-    - Monetary and fiscal policies
-    - Sectors with the highest growth potential and stability
-    - Correlation between sectors and asset classes
+    LOW RISK PORTFOLIOS:
+    1. Short Term (Conservative Growth):
+       - Large-cap dividend aristocrats
+       - Consumer staples leaders
+       - Utility companies
+       - Blue-chip tech
+       - Healthcare giants
+       - Low-volatility ETFs
+       - Quality REITs
 
-    You will have access to a detailed report on the current macroeconomic scenario, which will identify the **three most promising sectors for investment**.
-    Your research should focus on these sectors to find **the most suitable individual assets**.
+    2. Medium Term (Stable Growth):
+       - Established pharma companies
+       - Telecom leaders
+       - Industrial stalwarts
+       - Energy infrastructure
+       - Transportation leaders
+       - Government bonds
+       - Defensive sector ETFs
 
-    Use search tools to find reports, news, and market analyses that help in asset selection.
+    3. Long Term (Value Growth):
+       - Banking leaders
+       - Insurance giants
+       - Materials companies
+       - Infrastructure firms
+       - Real estate corporations
+       - Dividend ETFs
+       - Municipal bonds
+
+    MEDIUM RISK PORTFOLIOS:
+    4. Short Term (Growth Focus):
+       - Mid-cap tech companies
+       - Healthcare innovators
+       - E-commerce players
+       - Fintech leaders
+       - Cloud computing firms
+       - Cybersecurity companies
+       - Green energy innovators
+
+    5. Medium Term (Balanced Growth):
+       - Semiconductor manufacturers
+       - Biotech researchers
+       - Digital payment providers
+       - Enterprise software
+       - Clean energy producers
+       - Space technology
+       - Robotics and automation
+
+    6. Long Term (Emerging Leaders):
+       - AI and machine learning
+       - Electric vehicle ecosystem
+       - 5G infrastructure
+       - Smart manufacturing
+       - Digital healthcare
+       - Quantum computing
+       - Metaverse technology
+
+    HIGH RISK PORTFOLIOS:
+    7. Short Term (Aggressive Growth):
+       - Small-cap tech disruptors
+       - Emerging biotech
+       - DeFi protocols
+       - NFT platforms
+       - Web3 infrastructure
+       - Gaming and esports
+       - Space exploration
+
+    8. Medium Term (Innovation Focus):
+       - Gene editing companies
+       - Blockchain technology
+       - Alternative energy
+       - Advanced materials
+       - Edge computing
+       - Virtual reality
+       - Autonomous vehicles
+
+    9. Long Term (Future Tech):
+       - Quantum technology
+       - Synthetic biology
+       - Neural interfaces
+       - Advanced robotics
+       - Green hydrogen
+       - Space mining
+       - Advanced battery tech
+
+    IMPORTANT RULES:
+    1. Each portfolio MUST use completely different assets
+    2. NO ASSET can appear in more than one portfolio
+    3. Use ONLY valid yfinance symbols
+    4. Consider liquidity and market cap appropriate for each risk level
+    5. Ensure proper sector diversification within each portfolio
+    6. Match asset characteristics with time horizon requirements
 
   expected_output: >
-    A report containing:
-    - A list of **recommended assets** based on research (stocks, ETFs, commodities, cryptocurrencies, etc.).
-    - Justification for each asset choice, based on macroeconomic trends and market analyses.
-    - Sources used in the research.
+    Detailed report containing:
+    1. Nine unique lists of 5-8 assets each (NO REPETITIONS)
+    2. For each asset:
+       - Symbol and company name
+       - Sector and industry
+       - Market cap and liquidity metrics
+       - Historical performance summary
+       - Risk analysis
+       - Growth potential
+    3. Portfolio-level analysis:
+       - Diversification metrics
+       - Sector allocation
+       - Risk-return characteristics
+    4. Implementation considerations
+    5. Data sources and methodology
 
 portfolio_optimization:
   description: >
-    Now that we have a list of promising assets based on previous research, your task is to optimize the portfolio, ensuring a balanced and efficient allocation.
+    Create 9 UNIQUE optimized portfolios using the assets identified in the research phase.
+    Each portfolio MUST use completely different assets - NO REPETITION allowed.
 
-    Use quantitative models to calculate the best capital distribution among selected assets, considering:
+    RISK PROFILES AND CONSTRAINTS:
 
-    - Expected returns and volatility
-    - Correlation between assets
-    - Balancing strategies (example: Hierarchical Risk Parity)
+    LOW RISK (Maximum volatility: 15%%):
+    1. Short Term:
+       - Monthly rebalancing
+       - Focus: Capital preservation
+       - Emphasis: Dividend income
 
-    Your analysis should include suggestions for **allocation percentage** for each asset and strategies for periodic rebalancing.
+    2. Medium Term:
+       - Quarterly rebalancing
+       - Focus: Stable growth
+       - Emphasis: Quality factors
+
+    3. Long Term:
+       - Semi-annual rebalancing
+       - Focus: Value appreciation
+       - Emphasis: Fundamental strength
+
+    MEDIUM RISK (Maximum volatility: 25%%):
+    4. Short Term:
+       - Monthly rebalancing
+       - Focus: Growth momentum
+       - Emphasis: Market trends
+
+    5. Medium Term:
+       - Quarterly rebalancing
+       - Focus: Balanced growth
+       - Emphasis: Innovation leaders
+
+    6. Long Term:
+       - Semi-annual rebalancing
+       - Focus: Secular growth
+       - Emphasis: Industry disruption
+
+    HIGH RISK (Maximum volatility: 35%%):
+    7. Short Term:
+       - Monthly rebalancing
+       - Focus: Aggressive growth
+       - Emphasis: Momentum factors
+
+    8. Medium Term:
+       - Quarterly rebalancing
+       - Focus: Emerging technologies
+       - Emphasis: Innovation metrics
+
+    9. Long Term:
+       - Semi-annual rebalancing
+       - Focus: Disruptive potential
+       - Emphasis: Future markets
+
+    OPTIMIZATION REQUIREMENTS:
+    1. Use Modern Portfolio Theory principles
+    2. Consider correlation between assets
+    3. Apply risk management constraints
+    4. Calculate expected returns using multiple methods
+    5. Analyze portfolio efficiency
+    6. Ensure proper diversification
+    7. Account for market conditions
+    8. Consider transaction costs
+    9. Evaluate liquidity constraints
 
   expected_output: >
-    A structured report containing:
-    - The optimized portfolio composition.
-    - Percentage of capital to be invested in each asset.
-    - Technical and quantitative justification for each allocation.
-    - Rebalancing strategy and future adjustments.
-
-long_short_strategy:
-  description: >
-    Based on the detailed report of the previously built portfolio, your task is to develop a long & short strategy for the selected assets.
-
-    For this, use statistics and technical indicators for each asset, ensuring that long positions are in undervalued assets with strong appreciation potential and short positions are in overvalued assets or those with a downward trend.
-
-    The strategy should consider:
-    - Technical indicators such as moving averages, RSI, MACD, and Bollinger bands.
-    - Correlation between portfolio assets and their market sensitivity.
-    - Associated risks and hedging strategies to minimize potential losses.
-    - Clear criteria for entering and exiting operations.
-
-    You will have access to a tool that will provide statistics and technical indicators for each portfolio asset, allowing detailed analysis for decision making.
-
-  expected_output: >
-    A structured report containing:
-
-    - The portfolio assets.
-    - The percentage of capital to be invested in each asset.
-    - An overview of the long & short strategy and its objectives.
-    - The list of portfolio assets classified into long and short positions.
-    - Technical and statistical justification for each position.
-    - Entry and exit criteria for operations.
-    - A strategic summary including potential risks and hedging strategies.
+    Comprehensive optimization report:
+    1. Nine unique optimized portfolios
+    2. For each portfolio:
+       - Detailed asset allocation
+       - Expected return and risk metrics
+       - Rebalancing strategy
+       - Implementation guidelines
+       - Risk management protocols
+    3. Portfolio-level metrics:
+       - Sharpe ratio
+       - Maximum drawdown
+       - Beta and alpha
+       - R-squared
+       - Information ratio
+    4. Comparative analysis
+    5. Implementation recommendations
 
 final_report:
   description: >
-    Your task is to consolidate all analyses performed in previous tasks and produce a detailed final report.
+    Create a comprehensive final report that presents the 9 unique optimized portfolios
+    and their implementation strategies. Each portfolio must be clearly differentiated
+    with its unique characteristics and asset composition.
 
-    The report should contain:
-    - The definitive list of assets that will compose the portfolio, with capital allocation percentages.
-    - The strategy to be used for each asset, including entry points, exit points, and expected operation duration.
-    - An analysis of expected risks and returns, based on information extracted from previous tasks.
-    - Clear explanation of the logic behind strategic decisions, connecting macroeconomic analysis with portfolio construction and long & short strategies.
-    - Additional relevant factors identified throughout the process, such as the impact of macroeconomic events and sectoral variations.
+    REPORT SECTIONS:
+    1. Executive Summary
+       - Market overview
+       - Key investment themes
+       - Portfolio strategy overview
+
+    2. Market Analysis
+       - Sector performance
+       - Economic indicators
+       - Risk factors
+       - Opportunity assessment
+
+    3. Portfolio Strategies
+       For each of the 9 portfolios:
+       - Unique investment thesis
+       - Asset composition
+       - Risk-return profile
+       - Implementation strategy
+       - Rebalancing guidelines
+       - Monitoring metrics
+
+    4. Risk Management
+       - Portfolio-specific risks
+       - Mitigation strategies
+       - Monitoring protocols
+       - Adjustment triggers
+
+    5. Implementation Guide
+       - Entry strategies
+       - Position sizing
+       - Rebalancing procedures
+       - Exit criteria
+
+    6. Monitoring Framework
+       - Key performance indicators
+       - Risk metrics
+       - Review schedule
+       - Adjustment thresholds
 
   expected_output: >
-    A structured report in Markdown format containing:
-
-    - An introduction summarizing the main portfolio decisions.
-    - The detailed composition of the final portfolio, including capital allocation percentages for each asset.
-    - Operational strategies, with justifications based on entry prices, exit prices, and estimated operation time.
-    - Expected risks and returns, based on macroeconomic and technical analyses performed previously.
-    - Final considerations on the portfolio and possible future adjustments, taking into account market variations.
+    Professional report in Markdown format:
+    1. Clear executive summary
+    2. Detailed market analysis
+    3. Nine distinct portfolio strategies
+    4. Comprehensive risk management framework
+    5. Practical implementation guidelines
+    6. Effective monitoring procedures
