@@ -1,3 +1,7 @@
 2025-02-18 14:58:19,292 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Starting earnings calendar tool execution
 2025-02-18 14:58:19,293 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Attempt 1 of 3 to get earnings data
 2025-02-18 14:58:23,486 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Accessing URL: https://www.investing.com/earnings-calendar/
+2025-02-18 19:34:31,346 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Starting earnings calendar tool execution
+2025-02-18 19:34:31,346 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Attempt 1 of 3 to get earnings data
+2025-02-18 19:34:35,472 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Accessing URL: https://www.investing.com/earnings-calendar/
+2025-02-18 19:34:56,600 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Processing timeframe: timeFrame_thisWeek

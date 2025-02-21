@@ -1,0 +1,2 @@
+Unable to optimize the 9 structured portfolios due to persistent data retrieval issues with asset symbols. Please review the asset symbols and retry the optimization process.
+```

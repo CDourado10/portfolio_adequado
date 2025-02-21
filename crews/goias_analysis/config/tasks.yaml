@@ -1,124 +1,124 @@
 # Configuracao das tarefas
 regional_analysis:
-  name: "Decisoes Estrategicas Regionais"
-  description: >-
-    Identificar e propor decisoes especificas para aproveitar oportunidades 
-    macroeconomicas em Goias:
-    
-    - Identificar setores com maior potencial imediato de retorno
-    - Mapear gargalos que podem ser resolvidos rapidamente
-    - Propor acoes concretas de curto e medio prazo
-    - Definir metricas de acompanhamento para cada decisao
-  expected_output: >-
-    Propostas de Decisao:
-    
-    1. Decisoes Imediatas (proximos 3 meses):
-       - Acao especifica para implementar
-       - Custo estimado em reais
-       - Retorno esperado em reais ou percentual
-       - Prazo de implementacao em dias/meses
-       - Metricas de acompanhamento detalhadas
-    
-    2. Decisoes de Curto Prazo (6-12 meses):
-       - Lista de acoes priorizadas
-       - Recursos necessarios
-       - ROI esperado por acao
-       - Timeline de implementacao
-    
-    3. Decisoes de Medio Prazo (12-24 meses):
-       - Projetos estruturantes
-       - Investimentos necessarios
-       - Impacto projetado no PIB
-       - Cronograma detalhado
+   name: "Decisoes Estrategicas Regionais"
+   description: >
+      Identificar e propor decisoes especificas para aproveitar oportunidades 
+      macroeconomicas em Goias:
+         
+      - Identificar setores com maior potencial imediato de retorno
+      - Mapear gargalos que podem ser resolvidos rapidamente
+      - Propor acoes concretas de curto e medio prazo
+      - Definir metricas de acompanhamento para cada decisao
+   expected_output: >
+      Propostas de Decisao:
+      
+      1. Decisoes Imediatas (proximos 3 meses):
+         - Acao especifica para implementar
+         - Custo estimado em reais
+         - Retorno esperado em reais ou percentual
+         - Prazo de implementacao em dias/meses
+         - Metricas de acompanhamento detalhadas
+      
+      2. Decisoes de Curto Prazo (6-12 meses):
+         - Lista de acoes priorizadas
+         - Recursos necessarios
+         - ROI esperado por acao
+         - Timeline de implementacao
+      
+      3. Decisoes de Medio Prazo (12-24 meses):
+         - Projetos estruturantes
+         - Investimentos necessarios
+         - Impacto projetado no PIB
+         - Cronograma detalhado
 
 sector_analysis:
-  name: "Decisoes Setoriais Prioritarias"
-  description: >-
-    Propor decisoes especificas para cada setor produtivo:
-    
-    - Agronegocio: acoes para aumento de produtividade
-    - Industria: medidas para recuperacao do setor
-    - Servicos: oportunidades de expansao
-    - Comercio: modernizacao e eficiencia
-  expected_output: >-
-    Propostas por Setor:
-    
-    1. Agronegocio:
-       - Decisao de implementacao
-       - Investimento necessario em reais
-       - Retorno esperado em percentual
-       - Etapas de implementacao
-       - KPIs de acompanhamento
-    
-    2. Industria:
-       - Acoes especificas por segmento
-       - Custos detalhados
-       - Impacto no emprego
-       - Cronograma de execucao
-    
-    3. Servicos e Comercio:
-       - Medidas de modernizacao
-       - Investimentos em tecnologia
-       - Metas de produtividade
-       - Prazos definidos
+   name: "Decisoes Setoriais Prioritarias"
+   description: >
+      Propor decisoes especificas para cada setor produtivo:
+      
+      - Agronegocio: acoes para aumento de produtividade
+      - Industria: medidas para recuperacao do setor
+      - Servicos: oportunidades de expansao
+      - Comercio: modernizacao e eficiencia
+   expected_output: >
+      Propostas por Setor:
+      
+      1. Agronegocio:
+         - Decisao de implementacao
+         - Investimento necessario em reais
+         - Retorno esperado em percentual
+         - Etapas de implementacao
+         - KPIs de acompanhamento
+      
+      2. Industria:
+         - Acoes especificas por segmento
+         - Custos detalhados
+         - Impacto no emprego
+         - Cronograma de execucao
+      
+      3. Servicos e Comercio:
+         - Medidas de modernizacao
+         - Investimentos em tecnologia
+         - Metas de produtividade
+         - Prazos definidos
 
 public_finance_analysis:
-  name: "Decisoes de Gestao Fiscal"
-  description: >-
-    Propor decisoes especificas para otimizacao fiscal:
-    
-    - Medidas de aumento de receita
-    - Acoes de reducao de despesas
-    - Priorizacao de investimentos
-    - Gestao da divida publica
-  expected_output: >-
-    Propostas Fiscais:
-    
-    1. Receitas:
-       - Acao de implementacao
-       - Impacto esperado em reais
-       - Prazo de implementacao em dias
-       - Custos operacionais em reais
-       - Indicadores de monitoramento
-    
-    2. Despesas:
-       - Medidas de otimizacao
-       - Economia prevista
-       - Timeline de implementacao
-       - Riscos e mitigacoes
-    
-    3. Investimentos:
-       - Projetos prioritarios
-       - Fontes de financiamento
-       - Cronograma de desembolso
-       - ROI projetado
+   name: "Decisoes de Gestao Fiscal"
+   description: >
+      Propor decisoes especificas para otimizacao fiscal:
+      
+      - Medidas de aumento de receita
+      - Acoes de reducao de despesas
+      - Priorizacao de investimentos
+      - Gestao da divida publica
+   expected_output: >
+      Propostas Fiscais:
+      
+      1. Receitas:
+         - Acao de implementacao
+         - Impacto esperado em reais
+         - Prazo de implementacao em dias
+         - Custos operacionais em reais
+         - Indicadores de monitoramento
+      
+      2. Despesas:
+         - Medidas de otimizacao
+         - Economia prevista
+         - Timeline de implementacao
+         - Riscos e mitigacoes
+      
+      3. Investimentos:
+         - Projetos prioritarios
+         - Fontes de financiamento
+         - Cronograma de desembolso
+         - ROI projetado
 
 strategic_consolidation:
-  name: "Plano de Acao Integrado"
-  description: >-
-    Consolidar todas as decisoes em um plano de acao:
-    
-    - Priorizar decisoes por impacto e viabilidade
-    - Definir cronograma integrado de implementacao
-    - Estabelecer sistema de monitoramento
-    - Criar planos de contingencia
-  expected_output: >-
-    Plano de Acao:
-    
-    1. Decisoes Prioritarias:
-       - Lista priorizada por impacto/viabilidade
-       - Recursos necessarios totais
-       - Cronograma integrado
-       - Sistema de monitoramento
-    
-    2. Gestao de Riscos:
-       - Riscos identificados
-       - Planos de mitigacao
-       - Gatilhos de contingencia
-       - Responsabilidades definidas
-    
-    3. Governanca:
-       - Estrutura de gestao
-       - Processo decisorio
-       - Metricas de sucesso
-       - Ciclos de revisao
+   name: "Plano de Acao Integrado"
+   description: >
+      Consolidar todas as decisoes em um plano de acao:
+      
+      - Priorizar decisoes por impacto e viabilidade
+      - Definir cronograma integrado de implementacao
+      - Estabelecer sistema de monitoramento
+      - Criar planos de contingencia
+   expected_output: >
+      Plano de Acao:
+      
+      1. Decisoes Prioritarias:
+         - Lista priorizada por impacto/viabilidade
+         - Recursos necessarios totais
+         - Cronograma integrado
+         - Sistema de monitoramento
+      
+      2. Gestao de Riscos:
+         - Riscos identificados
+         - Planos de mitigacao
+         - Gatilhos de contingencia
+         - Responsabilidades definidas
+      
+      3. Governanca:
+         - Estrutura de gestao
+         - Processo decisorio
+         - Metricas de sucesso
+         - Ciclos de revisao

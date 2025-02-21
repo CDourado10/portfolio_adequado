@@ -1,0 +1,62 @@
+screener_research_task:
+  name: "Screener Research Task"
+  description: >
+    Use stock screeners to identify promising assets based on the following criteria:
+    - Risk level: {risk_level}
+    - Investment horizon: {investment_horizon}
+    - Types of assets to consider: {asset_types}
+    
+    Select the assets that best fit these criteria.
+    IMPORTANT: For each selected asset, include both the name and Yahoo Finance symbol (e.g., SPY for S&P 500 ETF).
+  expected_output: "A list of assets with strong financial potential aligned with the risk profile and investment horizon, including name and Yahoo Finance symbol."
+
+trending_stocks_research_task:
+  name: "Trending Stocks Research Task"
+  description: >
+    Analyze trending assets and identify high momentum appreciation opportunities.
+    - Preferred risk level: {risk_level}
+    - Investment horizon: {investment_horizon}
+    - Allowed asset types: {asset_types}
+    
+    Choose only those that match these parameters.
+    IMPORTANT: Return both the name and Yahoo Finance symbol for each asset (e.g., BTC-USD for Bitcoin).
+  expected_output: "A report on trending assets suitable for inclusion in the portfolio based on risk and timeframe, including name and Yahoo Finance symbol."
+
+asset_analysis_task:
+  name: "Asset Analysis Task"
+  description: >
+    Evaluate financial metrics and fundamentals of the identified assets.
+    - Consider only assets compatible with the risk: {risk_level}
+    - Analyze the investment horizon: {investment_horizon}
+    - Include fundamental metrics for {asset_types}
+    
+    The assets must align with the desired profile.
+    IMPORTANT: Maintain the Yahoo Finance symbol nomenclature in all analyses (e.g., QQQ for Nasdaq-100 ETF).
+  expected_output: "A detailed assessment of each asset (using Yahoo Finance symbols), highlighting strengths and risks within the context of risk and timeframe."
+
+portfolio_reduction_task:
+  name: "Portfolio Reduction Task"
+  description: >
+    Reduce the list of assets using Hierarchical Portfolio Optimization (HPO).
+    - Classify the assets into short, medium, and long-term according to {investment_horizon}
+    - Categorize each asset according to risk: {risk_level}
+    - Include only assets of the following types: {asset_types}
+    
+    Performance Requirements Based on Risk Profile:
+    - Low Risk: Sharpe Ratio > 0.8, Max Drawdown < -15 percent, Annual Vol < 15 percent
+    - Medium Risk: Sharpe Ratio > 1.2, Max Drawdown < -25 percent, Annual Vol < 25 percent
+    - High Risk: Sharpe Ratio > 1.5, Max Drawdown < -35 percent, Annual Vol < 35 percent
+
+    Time Horizon Adjustments:
+    - Short-term (< 1 year): Emphasis on lower volatility and drawdown
+    - Medium-term (1-3 years): Balanced approach with moderate drawdown tolerance
+    - Long-term (3+ years): Higher tolerance for volatility with focus on total return
+
+    Minimum Requirements:
+    - Portfolio Sharpe Ratio must exceed benchmark for chosen risk level
+    - Individual assets must have volume above 25th percentile
+    - No single asset should exceed 25 percent of portfolio weight
+    
+    The goal is to generate a final portfolio that is more efficient and aligned with the investor's profile.
+    IMPORTANT: Maintain Yahoo Finance symbols throughout all optimization steps (e.g., ETH-USD for Ethereum).
+  expected_output: "A list of optimized assets with their respective Yahoo Finance symbols, classified by risk profile and investment horizon, including performance metrics that meet the specified requirements."

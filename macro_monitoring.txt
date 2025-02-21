@@ -1,0 +1,42 @@
+```
+🌍 **Filtered Macroeconomic Report** 🌍
+
+---
+
+**Key Indicator Values and Changes:**
+
+- **Inflation Rate (US)**: 🟢 3% (positive trend from 2.9%)
+- **Unemployment Rate (US)**: 🔴 4% (down from 4.1%)
+- **GDP Growth Rate (US)**: 🔴 2.3% (down significantly from 3.1%)
+- **Non-Farm Payrolls**: 🔴 143K (down from 307K, indicating a slowdown)
+- **GDP Annual Growth Rate (China)**: 🟢 5.4% (up from 4.6%)
+- **Business Confidence (China)**: 🔴 49.1 (a slight decrease)
+- **Balance of Trade (China)**: 🟢 105B (up from 97.31B)
+
+---
+
+**Significant Deviations From Trends:**
+- **US inflation is rising**, exceeding earlier expectations and affecting Federal Reserve policies.
+- **US GDP is contracting**, showing slower growth.
+- **Chinese GDP growth** experience an upward trend, buoying expectations of recovery.
+
+---
+
+**Important Economic Releases:**
+- **US Monthly Employment Report** (Feb 2025): indicated a concerning drop in job creation.
+- **China GDP Report** (Dec 2024): a solid improvement showing recovery.
+
+---
+
+**Market Impact Assessment:**
+- Increased inflation in the US may lead to tighter monetary policy, affecting equity markets.
+- Mixed signals from China can contribute volatility, influencing global growth outlooks.
+
+---
+
+**Risk Indicators Status:**
+- **US Economy**: High risk due to inflation and slumping job numbers.
+- **China Economy**: Moderate risk; improvements in GDP but potential cracks in consumer sentiment.
+
+---
+```

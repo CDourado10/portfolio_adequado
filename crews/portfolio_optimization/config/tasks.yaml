@@ -1,0 +1,55 @@
+define_optimization_strategy_task:
+  name: "Define Optimization Strategy Task"
+  description: >
+    Choose the portfolio optimization strategy based on the following parameters:
+    - Risk level: {risk_level}
+    - Investment horizon: {investment_horizon}
+
+    Use appropriate approaches according to the risk:
+    - **Low risk:** CVaR, Semivariance, Conservative Black-Litterman.
+    - **Medium risk:** Balanced Efficient Frontier, HRP, CLA.
+    - **High risk:** Aggressive Efficient Frontier, CDaR, Aggressive Black-Litterman.
+
+    Return the selected strategy for optimization.
+  expected_output: "The appropriate optimization strategy for the risk level and investment horizon."
+
+portfolio_construction_task:
+  name: "Portfolio Construction Task"
+  description: >
+    Build the ideal portfolio based on the selected assets and the defined strategy.
+
+    - Risk level: {risk_level}
+    - Investment horizon: {investment_horizon}
+    - Available assets: {selected_assets}
+
+    Apply the asset allocation according to the strategy defined in the previous step.
+  expected_output: "An optimized investment portfolio with appropriate allocations."
+
+risk_return_evaluation_task:
+  name: "Risk-Return Evaluation Task"
+  description: >
+    Analyze the optimized portfolio and evaluate its risk and return metrics.
+
+    - Expected return
+    - Volatility
+    - Sharpe Ratio
+    - Risk adjusted to the investment horizon {investment_horizon}
+
+    Ensure that the results align with the investor's profile.
+  expected_output: "Detailed risk and return metrics of the optimized portfolio."
+
+final_portfolio_report_task:
+  name: "Final Portfolio Report Task"
+  description: >
+    Consolidate all information and generate the final report of the optimized portfolio.
+
+    - Include the strategy used.
+    - Show the final asset allocations.
+    - Present the risk and return metrics.
+    - Highlight recommendations for future adjustments.
+
+    The report should be structured to facilitate decision-making.
+  expected_output: "Detailed report of the portfolio, with final allocations, risk and return analysis, and recommendations."
+
+
+

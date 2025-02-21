@@ -109,14 +109,7 @@ class GoiasAnalysisCrew:
             verbose=True,
             process=Process.sequential,
             planning=True,
-            memory=True,  # Habilita o sistema de memória
-            #embedder={
-            #    "provider": "openai",  # Usando OpenAI para embeddings
-            #    "config": {
-            #        "model": "text-embedding-ada-002"  # Modelo de embedding
-            #    }
-            #},
-            output_log_file="crew_goias_analysis_log.md"
+            output_log_file="crew_goias_analysis_log.txt"
         )
         return crew.kickoff()
 

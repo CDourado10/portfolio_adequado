@@ -1,0 +1,30 @@
+asset_exploration_task:
+  name: "Asset Exploration Task"
+  description: >
+    Use the AssetExplorationTool to perform a comprehensive analysis of a wide range of investment assets.
+    Explore and evaluate a large number of assets (minimum 100) across different categories based on:
+    - Desired risk level: {risk_level}
+    - Investment horizon: {investment_horizon}
+    - Asset types: {asset_types}
+    
+    Make sure to explore assets that match these criteria, considering multiple market sectors, regions, and asset classes.
+    Cast a wide net initially to ensure no promising opportunities are missed.
+    IMPORTANT: All assets must be identified by both name and Yahoo Finance symbol (e.g., VOO for Vanguard S&P 500 ETF, SOL-USD for Solana USD).
+  expected_output: "A comprehensive structured list of at least 100 assets, with their respective Yahoo Finance symbols, categorized by risk and investment horizon."
+
+portfolio_optimization_task:
+  name: "Portfolio Optimization Task"
+  description: >
+    Use the PortfolioOptimizationTool to construct, test, and optimize multiple investment portfolios.
+    Start with a large universe of assets (50+ assets) to ensure optimal diversification opportunities.
+    Consider various portfolio combinations and weightings to maximize efficiency.
+    IMPORTANT: Always use Yahoo Finance symbols (e.g., LINK-USD for Chainlink) in all optimization steps to ensure
+    compatibility with the yfinance library.
+  expected_output: "A set of fully optimized portfolios with their respective performance metrics, using Yahoo Finance symbols, derived from a broad asset universe."
+
+final_portfolio_report_task:
+  name: "Final Portfolio Report Task"
+  description: >
+    Compile the results from portfolio optimization and generate a comprehensive investment report with asset
+    allocations and expected performance. Maintain consistency by using Yahoo Finance symbols (e.g., IWM for Russell 2000 ETF) throughout the report.
+  expected_output: "A consolidated investment report detailing portfolio allocations, risk assessments, and performance metrics, using Yahoo Finance symbols."

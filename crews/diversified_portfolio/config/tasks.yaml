@@ -1,0 +1,69 @@
+macro_analysis_task:
+  name: Macro Analysis Task
+  description: >
+    Generate a detailed macroeconomic report and identify promising sectors for investments.
+  expected_output: >
+    A list of sectors with high growth potential and a positive market impact.
+
+screener_research_task:
+  name: Screener Research Task
+  description: >
+    Use Yahoo Finance screeners to find promising assets within the sectors recommended 
+    by the macroeconomic report.
+  expected_output: >
+    An initial list of assets categorized by sector.
+
+trending_stocks_research_task:
+  name: Trending Stocks Research Task
+  description: >
+    Identify trending stocks and evaluate their correlation with promising sectors.
+  expected_output: >
+    A list of popular and volatile assets within the recommended sectors.
+
+asset_analysis_task:
+  name: Asset Analysis Task
+  description: >
+    Retrieve financial and fundamental details of the assets found in the screener 
+    and trending stock research.
+  expected_output: >
+    Detailed information on each asset, including financial indicators and fundamentals.
+
+asset_selection_task:
+  name: Asset Selection Task
+  description: >
+    Filter the asset list to ensure diversity and prevent asset duplication across portfolios.
+    Format all tickers according to yfinance requirements.
+  expected_output: >
+    A final optimized list of assets with properly formatted tickers, distributed across the 9 portfolios.
+
+initial_portfolio_creation_task:
+  name: Initial Portfolio Creation Task
+  description: >
+    Construct the 9 initial portfolios (short, medium, long-term - low, medium, high risk).
+  expected_output: >
+    9 structured portfolios based on the selected assets.
+
+portfolio_optimization_task:
+  name: Portfolio Optimization Task
+  description: >
+    Apply optimization techniques to balance the portfolios and maximize risk-adjusted returns.
+  expected_output: >
+    9 optimized portfolios with efficient risk-return ratios.
+
+portfolio_validation_task:
+  name: Portfolio Validation Task
+  description: >
+    Evaluate whether the portfolios meet the following constraints:
+    - Minimum rebalancing period: weekly.
+    - Minimum data period: 1 year.
+    - Minimum annual return: 24 percentage.
+  expected_output: >
+    A list of validated portfolios and recommendations for those that fail to meet requirements.
+
+portfolio_adjustment_task:
+  name: Portfolio Adjustment Task
+  description: >
+    For portfolios that did not pass validation, replace underperforming assets 
+    and repeat the optimization process.
+  expected_output: >
+    All portfolios adjusted and validated, ready for use.

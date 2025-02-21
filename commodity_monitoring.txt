@@ -1,0 +1,44 @@
+**Commodity Market Overview Report**
+
+---
+
+### Sector Performance:
+- **Energy**: 
+  - Natural gas shows strong performance with a price increase of +3.28% daily. 
+  - Uranium, however, struggles with a weekly decrease of -4.14%.
+- **Metals**: 
+  - Gold is resilient, with a monthly increase of +6.70%, while lithium is down -12.30% weekly.
+- **Agricultural**: 
+  - Coffee experiences a rise in monthly price by +15.75%, contrasting with potatoes which are down -21.21% weekly.
+- **Industrial**: 
+  - Germanium remains stable, but soda ash is declining (>4.95% monthly).
+- **Livestock**: 
+  - Eggs show robust demand (+4.53% weekly), while salmon drops sharply by -5.75%.
+- **Index**: 
+  - EU Carbon Permits maintain some stability despite being down -9.49% weekly.
+- **Electricity**: 
+  - Spain's electricity market faces turmoil, with prices down -60.36% weekly, while France is relatively stable.
+
+### Major Price Movements:
+- Key price gainers:
+  - **Natural Gas**: Up 3.28%
+  - **Coffee**: Up 15.75% monthly
+- Notable losses:
+  - **Potatoes**: Down 21.21%
+  - **Uranium**: Down 4.14% weekly
+
+### Supply/Demand Signals:
+- Increasing demand in **Natural Gas** and **Eggs** suggests a recovering market and heightened consumer need.
+- **Uranium** and **Salmon** face decreasing demand, indicating potential oversupply or changing consumer habits.
+
+### Spread Analysis:
+- **Natural Gas and Oil** trends indicate a robust inter-commodity spread, suggesting lucrative arbitrage opportunities.
+- Metals market indicates volatility with notable splits between gold’s performance and that of lithium.
+
+### Market Structure Changes:
+- The electricity sector shows drastic changes, especially in Spain, indicating supply chain disruptions or regulatory impacts.
+- Changes in performance across sectors suggest a realignment of investment strategies in response to fluctuating prices and demand dynamics.
+
+--- 
+This report captures the multifaceted landscape of the commodity market, offering a thorough understanding of sector performances, price movements, and overarching market dynamics essential for strategic decision-making.
+```

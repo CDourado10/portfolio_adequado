@@ -1,0 +1,23 @@
+1. General Motors Company (GM)
+2. Energy Transfer LP (ET)
+3. APA Corporation (APA)
+4. Kinross Gold Corporation (KGC)
+5. Laureate Education, Inc. (LAUR)
+6. Baker Hughes Company (BKR)
+7. Match Group, Inc. (MTCH)
+8. Kosmos Energy Ltd. (KOS)
+9. IAMGOLD Corporation (IAG)
+10. Synchrony Financial (SYF)
+11. Ford Motor Company (F)
+12. Banco Bradesco S.A. (BBD)
+13. Itaú Unibanco Holding S.A. (ITUB)
+14. Petróleo Brasileiro S.A. - Petrobras (PBR)
+15. United Airlines Holdings, Inc. (UAL)
+16. Vale S.A. (VALE)
+17. Occidental Petroleum Corporation (OXY)
+18. Vanguard FTSE Developed Markets Index Fund ETF Shares (VEA)
+19. The Technology Select Sector SPDR Fund (XLK)
+20. Vanguard Information Technology Index Fund ETF Shares (VGT)
+
+These assets exhibit strong financial potential while aligning with the required risk profile and investment horizon.
+```

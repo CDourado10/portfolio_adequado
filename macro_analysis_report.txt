@@ -1,0 +1,8 @@
+1. Technology
+2. Consumer Goods
+3. Finance
+4. Energy
+5. Healthcare
+6. Materials
+7. Home Improvement
+```

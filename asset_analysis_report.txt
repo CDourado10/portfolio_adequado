@@ -1,0 +1,120 @@
+**Technology Sector:**
+
+1. **The Technology Select Sector SPDR Fund (Ticker: XLK)**
+   - Long business summary: The fund employs a replication strategy to track the performance of the index.
+   - Market Capitalization: $65.88 Billion
+   - Dividend Yield: 0.66%
+
+2. **Fidelity MSCI Information Technology Index ETF (Ticker: FTEC)**
+   - Long business summary: The fund invests at least 80% of assets in securities included in its underlying index.
+   - Market Capitalization: N/A
+   - Dividend Yield: 0.49%
+
+3. **Vanguard Information Technology Index Fund ETF Shares (Ticker: VGT)**
+   - Long business summary: The fund employs an indexing investment approach designed to track the performance of its index.
+   - Market Capitalization: N/A
+   - Dividend Yield: 0.60%
+
+4. **Xtrackers Semiconductor Select Equity ETF (Ticker: CHPS)**
+   - Long business summary: The fund seeks results that correspond to the index focused on semiconductor businesses.
+   - Market Capitalization: N/A
+   - Dividend Yield: 1.70%
+
+5. **Invesco PHLX Semiconductor ETF (Ticker: SOXQ)**
+   - Long business summary: Invests at least 90% of total assets in securities that comprise the underlying index.
+   - Market Capitalization: N/A
+   - Dividend Yield: 0.68%
+
+**Healthcare Sector:**
+
+1. **UnitedHealth Group Incorporated (Ticker: UNH)**
+   - Long business summary: Operates a diversified health care company offering health benefits products.
+   - Market Capitalization: $470.34 Billion
+   - Dividend Yield: 1.68%
+
+2. **Elevance Health, Inc. (Ticker: ELV)**
+   - Long business summary: Provides health insurance and related services including Medicaid and Medicare plans.
+   - Market Capitalization: $90.86 Billion
+   - Dividend Yield: 1.79%
+
+3. **CVS Health Corporation (Ticker: CVS)**
+   - Long business summary: Provides health services and manages pharmacy benefits across various sectors.
+   - Market Capitalization: $83.73 Billion
+   - Dividend Yield: 4.06%
+
+4. **The Cigna Group (Ticker: CI)**
+   - Long business summary: Provides insurance products and integrated health services.
+   - Market Capitalization: $81.35 Billion
+   - Dividend Yield: 2.05%
+
+5. **Humana Inc. (Ticker: HUM)**
+   - Long business summary: Provides health care services and insurance products in the US.
+   - Market Capitalization: $32.03 Billion
+   - Dividend Yield: 1.38%
+
+**Home Improvement Sector:**
+
+1. **The Home Depot, Inc. (Ticker: HD)**
+   - Long business summary: Retailer of home improvement products and services across the US.
+   - Market Capitalization: $392.76 Billion
+   - Dividend Yield: 2.23%
+
+2. **Lowe's Companies, Inc. (Ticker: LOW)**
+   - Long business summary: Home improvement retailer offering a variety of products and services.
+   - Market Capitalization: $139.28 Billion
+   - Dividend Yield: 1.83%
+
+3. **Floor & Decor Holdings, Inc. (Ticker: FND)**
+   - Long business summary: Specialty retailer of hard surface flooring and related accessories.
+   - Market Capitalization: $10.22 Billion
+   - Dividend Yield: N/A
+
+4. **Arhaus, Inc. (Ticker: ARHS)**
+   - Long business summary: Lifestyle brand focused on premium home furnishings.
+   - Market Capitalization: $1.76 Billion
+   - Dividend Yield: N/A
+
+5. **Haverty Furniture Companies, Inc. (Ticker: HVT)**
+   - Long business summary: Specialty retailer of residential furniture and accessories.
+   - Market Capitalization: $356.48 Million
+   - Dividend Yield: 5.79%
+
+**Finance Sector:**
+
+1. **JPMorgan Chase & Co. (Ticker: JPM)**
+   - Long business summary: Offers a wide range of financial services globally.
+   - Market Capitalization: $780.95 Billion
+   - Dividend Yield: 1.79%
+
+2. **Bank of America Corporation (Ticker: BAC)**
+   - Long business summary: Provides banking and financial products for consumers and businesses.
+   - Market Capitalization: $350.25 Billion
+   - Dividend Yield: 2.24%
+
+**Energy Sector:**
+
+1. **Exxon Mobil Corporation (Ticker: XOM)**
+   - Long business summary: Engaged in exploration and production of oil and natural gas.
+   - Market Capitalization: $480.02 Billion
+   - Dividend Yield: 3.60%
+
+2. **Chevron Corporation (Ticker: CVX)**
+   - Long business summary: Operates in both upstream and downstream segments of oil and gas.
+   - Market Capitalization: $275.89 Billion
+   - Dividend Yield: 4.38%
+
+3. **Shell plc (Ticker: SHEL)**
+   - Long business summary: Engages in the production and marketing of oil and gas.
+   - Market Capitalization: $203.57 Billion
+   - Dividend Yield: 4.22%
+
+4. **TotalEnergies SE (Ticker: TTE)**
+   - Long business summary: Operates across segments in oil, gas, and renewable energy.
+   - Market Capitalization: $136.09 Billion
+   - Dividend Yield: 5.68%
+
+5. **ConocoPhillips (Ticker: COP)**
+   - Long business summary: Focuses on exploration and production of oil and natural gas.
+   - Market Capitalization: $128.83 Billion
+   - Dividend Yield: 3.20%
+```

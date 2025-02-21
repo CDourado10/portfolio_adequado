@@ -28,3 +28,26 @@ For each sector and asset class, analyze: - Current trends and market dynamics -
    - Input macroeconomic events and trends for analysis.
    - Summarize the report with a comprehensive outlook of the global economic situation.
 4. Produce a detailed report from both tools highlighting insights, market analysis, and strategic recommendations for sector allocations based on the analysis.", agent="Macro Analyst", status="started"
+2025-02-18 19:31:17: task_name="macro_analysis", task="Analyze the current global financial market scenario across ALL sectors and asset types:
+1. Main Sectors:
+   - Technology (Software, Hardware, Semiconductors, Cloud)
+   - Healthcare (Biotech, Pharma, Medical Devices)
+   - Financial (Banks, Insurance, Fintech)
+   - Consumer (Staples, Discretionary, E-commerce)
+   - Industrial (Manufacturing, Aerospace, Defense)
+   - Energy (Traditional, Renewable, Utilities)
+   - Materials (Mining, Chemicals, Construction)
+   - Real Estate (Commercial, Residential, REITs)
+   - Communication (Telecom, Media, Entertainment)
+   - Transportation (Airlines, Shipping, Logistics)
+
+2. Asset Classes:
+   - Stocks (Large-cap, Mid-cap, Small-cap)
+   - Bonds (Government, Corporate, Municipal)
+   - ETFs (Sector, Commodity, International)
+   - Cryptocurrencies
+   - Commodities
+   - International Markets
+
+For each sector and asset class, analyze: - Current trends and market dynamics - Growth potential and risks - Volatility patterns - Correlation with other sectors/assets - Global economic impact
+1. Initiate analysis using the 'GlobalEconomicAnalysisTool' to gather high-importance global economic data including monetary policy, macroeconomic indicators, and their impacts on financial markets. 2. Utilize the 'MacroAnalysisPositioningTool' to dive deeper into each sector's performance and trends, focusing on technology, healthcare, finance, consumer, industrial, energy, materials, real estate, communication, and transportation. 3. For each sector and asset class, assess the following: a. Current trends and market dynamics such as growth areas and sector performance. b. Growth potential and associated risks detailing what factors could influence future growth and ignore volatility. c. Identify volatility patterns specific to each asset class. d. Analyze correlations between these sectors/assets to establish connections and impacts. e. Consider global economic impacts like inflation and geopolitical issues on the market scenario. 4. Compile and synthesize data to prepare a comprehensive market analysis report covering detailed analysis, emerging trends, risk assessments, correlation findings, and sector allocation recommendations.", agent="Macro Analyst", status="started"

@@ -100,58 +100,56 @@ class GoiasDataTool(BaseTool):
     """Ferramenta para análise de dados econômicos de Goiás."""
     name: str = "GoiasDataTool"
     description: str = """
-    Ferramenta avançada para análise de dados econômicos do estado de Goiás.
-    Processa dados de diversas fontes e gera insights sobre:
-    
+    Ferramenta avançada para análise de dados econômicos do estado de Goiás. Processa dados de diversas fontes e gera insights sobre:
+
     1. PIB e Crescimento:
        - PIB total e per capita
        - Composição setorial do PIB
        - Ranking nacional e participação no PIB brasileiro
        - Variações trimestrais e anuais
-       
+
     2. Setores Econômicos:
        - Indústria: produção física, emprego e segmentos
        - Agricultura: principais culturas, área e produtividade
        - Pecuária: rebanhos, produção de leite e carnes
        - Serviços: volume, emprego e segmentação
        - Comércio: vendas, e-commerce e indicadores
-       
+
     3. Comércio Exterior:
        - Balança comercial (exportações e importações)
        - Principais produtos e commodities
        - Destinos e origens do comércio
        - Variação cambial e competitividade
-       
+
     4. Finanças Públicas:
        - Arrecadação de impostos (federais e estaduais)
        - Gastos governamentais por função
        - Indicadores fiscais e dívida pública
        - Transferências e investimentos
-       
+
     5. Análise Comparativa:
        - Comparação com médias nacionais
        - Posicionamento regional (Centro-Oeste)
        - Benchmarking com estados similares
        - Análise temporal (variações entre períodos)
-       
+
     Indicadores de Tendência:
-    🟢 Positiva: crescimento em relação ao período anterior
-    🔴 Negativa: queda em relação ao período anterior
-    ➡️ Estável: variação inferior a 0,1%
-    ℹ️ Informativo: dado pontual ou sem variação disponível
-    
+    - Positiva: crescimento em relação ao período anterior
+    - Negativa: queda em relação ao período anterior
+    - Estável: variação inferior a zero ponto um por cento
+    - Informativo: dado pontual ou sem variação disponível
+
     Formatação dos Dados:
-    - Valores monetários no padrão brasileiro (R$ 1.234,56)
-    - Percentuais com duas casas decimais (12,34%)
-    - Números grandes em milhões/bilhões quando apropriado
-    
+    - Valores monetários no padrão brasileiro (um mil duzentos e trinta e quatro reais e cinquenta e seis centavos)
+    - Percentuais com duas casas decimais (doze ponto trinta e quatro por cento)
+    - Números grandes em milhões ou bilhões quando apropriado
+
     Periodicidade:
     - Dados mensais: indicadores conjunturais
     - Dados trimestrais: PIB e setores
     - Dados anuais: análises estruturais
-    
-    Todos os valores são ajustados para inflação e sazonalidade
-    quando aplicável.
+
+    Todos os valores são ajustados para inflação e sazonalidade quando aplicável.
     """
     args_schema: Type[BaseModel] = GoiasDataInput
     csv_dir: str = Field(default="")
@@ -767,10 +765,15 @@ class GoiasDataTool(BaseTool):
             logger.error(f"Erro ao adicionar comparações nacionais: {str(e)}")
             return indicators
             
+    def _sanitize_string(self, text: str) -> str:
+        """Sanitiza strings com caracteres especiais para evitar problemas de formatação."""
+        if not text:
+            return ''
+        # Escapa caracteres especiais e emojis
+        return text.encode('unicode_escape').decode('ascii')
+
     def _format_report(self, indicators: List[GoiasIndicator]) -> str:
         """Formata o relatório com os indicadores."""
-        if not indicators:
-            return "❌ Nenhum indicador encontrado"
 
         # Agrupa indicadores por categoria
         categorias = {}
@@ -796,20 +799,20 @@ class GoiasDataTool(BaseTool):
         output = []
         for categoria, inds in sorted(categorias.items(), key=lambda x: ordem_categorias.get(x[0], 99)):
             # Cabeçalho da categoria
-            output.append(f"\n 📊 {categoria}")
-            output.append("=" * (len(categoria) + 2))
+            output.append(self._sanitize_string(f"\n 📊 {categoria}"))
+            output.append(self._sanitize_string("=" * (len(categoria) + 2)))
 
             # Calcula estatísticas da categoria
             valores_atuais = [ind.valor_atual for ind in inds if ind.valor_atual is not None]
             variacoes = [ind.variacao for ind in inds if ind.variacao is not None]
-            
+
             if valores_atuais and len(valores_atuais) > 1:
                 media_atual = sum(valores_atuais) / len(valores_atuais)
-                output.append(f"📈 Média: {self._format_value(media_atual, inds[0].unidade)} ({len(valores_atuais)} indicadores)\n")
-            
+                output.append(self._sanitize_string(f"📈 Média: {self._format_value(media_atual, inds[0].unidade)} ({len(valores_atuais)} indicadores)\n"))
+
             if variacoes and len(variacoes) > 1:
                 media_var = sum(variacoes) / len(variacoes)
-                output.append(f"📊 Variação média: {media_var:+.2f}%\n")
+                output.append(self._sanitize_string(f"📊 Variação média: {media_var:+.2f}%\n"))  # Adicionado %% para evitar erro
 
             # Indicadores da categoria
             for ind in sorted(inds, key=lambda x: (-(x.variacao or 0))):
@@ -825,25 +828,31 @@ class GoiasDataTool(BaseTool):
 
                 # Formata o valor atual
                 valor_atual = self._format_value(ind.valor_atual, ind.unidade) if ind.valor_atual is not None else "N/D"
-                
+
                 # Formata a variação
                 if ind.variacao is not None:
-                    variacao = f"{ind.variacao:+.1f}%" if ind.variacao != 0 else "0%"
+                    variacao = f"{ind.variacao:+.1f}%" if ind.variacao != 0 else "0%"  # Adicionado %% para evitar erro
                 else:
                     variacao = "N/D"
 
                 # Linha do indicador
                 linha = f"{emoji} {ind.nome}: {valor_atual} ({variacao})"
-                
+
                 # Adiciona comparação nacional se disponível
                 if ind.comparacao_nacional:
                     linha += f" | {ind.comparacao_nacional}"
-                    
-                output.append(linha)
+
+                output.append(self._sanitize_string(linha))
 
             output.append("")  # Linha em branco entre categorias
 
-        return "\n".join(output)
+        # Junta toda a saída e remove caracteres problemáticos
+        output_text = "\n".join(output)
+        output_text = output_text.replace("\\", "")  # Remove barras invertidas
+
+        return output_text
+
+
 
     def process_data(self) -> str:
         """Processa todos os dados disponíveis."""

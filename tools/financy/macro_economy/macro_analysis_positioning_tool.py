@@ -23,31 +23,31 @@ class MacroAnalysisPositioningTool(BaseTool):
     
     name: str = Field(default="MacroAnalysisPositioningTool")
     description: str = Field(default=(
-        "Realiza análise abrangente do mercado e desenvolve estratégias de posicionamento. "
-        "Utiliza uma equipe especializada para: \n"
-        "1. Análise de impacto entre setores\n"
-        "2. Monitoramento de eventos de mercado\n"
-        "3. Análise de notícias relevantes\n"
-        "4. Geração de relatórios estratégicos\n"
-        "Retorna um relatório detalhado com insights sobre o mercado e recomendações "
-        "estratégicas de posicionamento."
+        "Conducts comprehensive market analysis and develops positioning strategies. "
+        "Utilizes a specialized team for: \n"
+        "1. Impact analysis between sectors\n"
+        "2. Market event monitoring\n"
+        "3. Analysis of relevant news\n"
+        "4. Generation of strategic reports\n"
+        "Returns a detailed report with market insights and "
+        "strategic positioning recommendations."
     ))
     args_schema: Type[BaseModel] = MacroAnalysisPositioningInput
 
     def _run(self) -> str:
-        """Executa a ferramenta."""
+        """Runs the tool."""
         try:
-            logger.info("Iniciando análise macro e posicionamento estratégico")
+            logger.info("Starting macro analysis and strategic positioning")
             
-            # Cria e executa a crew
+            # Create and execute the crew
             crew = MarketMonitorCrew()
             results = crew.run_crew()
             
-            logger.info("Análise macro e posicionamento estratégico concluídos com sucesso")
+            logger.info("Macro analysis and strategic positioning completed successfully")
             return results
             
         except Exception as e:
-            error_msg = f"Erro ao executar análise macro e posicionamento: {str(e)}"
+            error_msg = f"Error executing macro analysis and positioning: {str(e)}"
             logger.error(error_msg)
             return f"❌ {error_msg}"
 

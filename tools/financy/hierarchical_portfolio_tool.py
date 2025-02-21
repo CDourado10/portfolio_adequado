@@ -160,12 +160,12 @@ class PortfolioOptimizerTool(BaseTool):
 if __name__ == "__main__":
     # Usage example
     optimizer = PortfolioOptimizerTool()
-    symbols = "PETR4.SA, VALE3.SA, ITUB4.SA, BBDC4.SA"  # Símbolos do mercado brasileiro
+    symbols = "AAPL, MSFT, GOOGL, AMZN, PG, JNJ, KO, PEP, WMT, VZ, TSLA"  # Símbolos do mercado brasileiro
     result = optimizer._run(
         symbols, 
         period="1 year", 
         rebalance_period="1M", 
-        optimizer="efficient_frontier",
+        optimizer="hierarchical_portfolio",
         tz="America/Sao_Paulo"
     )
     print(result)

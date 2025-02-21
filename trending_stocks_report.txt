@@ -1,0 +1,8 @@
+A list of popular and volatile assets within the recommended sectors is as follows:
+- Technology Sector: Microsoft (MSFT), Texas Instruments (TXN), Axon (AXON), AppLovin (APPN), Quantum Computing (QBTS)
+- Consumer Goods Sector: Celsius Holdings (CELH), Wingstop (WING)
+- Finance Sector: MicroStrategy (MSTR)
+- Healthcare Sector: Hims & Hers Health (HIMS)
+- Energy Sector: SolarEdge Technologies (SEDG)
+- Materials Sector: Celanese Corporation (CE)
+```

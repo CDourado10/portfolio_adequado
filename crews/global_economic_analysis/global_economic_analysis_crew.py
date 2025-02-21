@@ -21,8 +21,8 @@ class GlobalEconomicAnalysisCrew:
     """Crew for global economic analysis using CrewAI"""
 
     # Define paths relative to this file location
-    agents_config_path = os.path.join(os.path.dirname(__file__), "config/agents.yaml")
-    tasks_config_path = os.path.join(os.path.dirname(__file__), "config/tasks.yaml")
+    agents_config = "config/agents.yaml"
+    tasks_config = "config/tasks.yaml"
 
     @agent
     def monetary_analyst(self) -> Agent:

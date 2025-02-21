@@ -1,0 +1,6 @@
+- **Optimized Assets:**
+  1. IVOV - Vanguard S&P Mid-Cap 400 Value Index Fund ETF Shares
+  2. SPLG - SPDR Portfolio S&P 500 ETF
+
+Both assets were selected based on their sharpe ratios and volatility, ensuring they align with the investment strategy while providing adequate liquidity and maintaining position sizing and diversification as per portfolio management guidelines.
+```

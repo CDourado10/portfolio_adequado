@@ -1,119 +1,149 @@
-**Structured Economic Events**
-
-**Events Organized by Date/Time:**
-
-1. **16/02/2025**
-   - **Country:** Japan
-   - **Event:** GDP (QoQ) (Q4)
-   - **Importance:** High
-   - **Actual:** 0.7%
-   - **Forecast:** 0.3%
-   - **Previous:** 0.4%
-
-2. **17/02/2025**
-   - **Country:** Australia
-   - **Event:** RBA Interest Rate Decision (Feb)
-   - **Importance:** High
-   - **Actual:** 4.10%
-   - **Forecast:** 4.10%
-   - **Previous:** 4.35%
-
-3. **18/02/2025**
-   - **Country:** New Zealand
-   - **Event:** RBNZ Interest Rate Decision
-   - **Importance:** High
-   - **Forecast:** 3.75%
-   - **Previous:** 4.25%
-   - 
-   - **Country:** United States
-   - **Event:** U.S. President Trump Speaks
-   - **Importance:** High
-
-4. **19/02/2025**
-   - **Country:** United Kingdom
-   - **Event:** CPI (YoY) (Jan)
-   - **Importance:** High
-   - **Forecast:** 2.8%
-   - **Previous:** 2.5%
-
-   - **Country:** United States
-   - **Event:** FOMC Meeting Minutes
-   - **Importance:** High
-
-5. **20/02/2025**
-   - **Country:** United States
-   - **Event:** Initial Jobless Claims
-   - **Importance:** High
-   - **Forecast:** 214K
-   - **Previous:** 213K
-
-   - **Country:** United States
-   - **Event:** Philadelphia Fed Manufacturing Index (Feb)
-   - **Importance:** High
-   - **Forecast:** 19.4
-   - **Previous:** 44.3
-
-6. **24/02/2025**
-   - **Country:** Euro Zone
-   - **Event:** CPI (YoY) (Jan)
-   - **Importance:** High
-   - **Previous:** 2.5%
-
-7. **25/02/2025**
-   - **Country:** Germany
-   - **Event:** German GDP (QoQ) (Q4)
-   - **Importance:** High
-   - **Previous:** -0.2%
-
-   - **Country:** United States
-   - **Event:** CB Consumer Confidence (Feb)
-   - **Importance:** High
-   - **Previous:** 104.1
-
-8. **26/02/2025**
-   - **Country:** United States
-   - **Event:** New Home Sales (Jan)
-   - **Importance:** High
-   - **Previous:** 698K
-
-9. **27/02/2025**
-   - **Country:** United States
-   - **Event:** Durable Goods Orders (MoM) (Jan)
-   - **Importance:** High
-   - **Previous:** -2.2%
-
-   - **Country:** United States
-   - **Event:** GDP (QoQ) (Q4)
-   - **Importance:** High
-   - **Previous:** 2.3%
-
-   - **Country:** United States
-   - **Event:** Initial Jobless Claims
-   - **Importance:** High
-
-10. **28/02/2025**
-    - **Country:** Germany
-    - **Event:** German CPI (MoM) (Feb)
-    - **Importance:** High
-    - **Previous:** -0.2%
-
-    - **Country:** United States
-    - **Event:** Core PCE Price Index (MoM) (Jan)
-    - **Importance:** High
-    - **Previous:** 0.2%
-
-    - **Country:** United States
-    - **Event:** Core PCE Price Index (YoY) (Jan)
-    - **Importance:** High
-    - **Previous:** 2.8%
-
-**Indicator Historical Data:**
-- **GDP (QoQ) (Q4) Japan**: 0.4% (Previous), Actual: 0.7%
-- **RBA Interest Rate (Feb)**: 4.35% (Previous), Actual: 4.10%
-- **CPI (YoY) (Jan) UK**: 2.5% (Previous), Forecast: 2.8%
-- **Initial Jobless Claims USA (Previous)**: 213K
-- **CPI (YoY) Euro Zone (Jan)**: 2.5% (Previous)
-
-**Market Expectations:**
-The above economic events indicate a mix of expected growth in specific sectors like GDP for Japan and the U.S., alongside critical central bank activities with interest rate decisions expected to align with market predictions, particularly in Australia and New Zealand.
+{
+  "events": [
+    {
+      "dateTime": "16/02/2025 18:50",
+      "country": "Japan",
+      "event": "GDP (QoQ) (Q4)",
+      "importance": "High",
+      "actual": "0.7%",
+      "forecast": "0.3%",
+      "previous": "0.4%"
+    },
+    {
+      "dateTime": "17/02/2025 22:30",
+      "country": "Australia",
+      "event": "RBA Interest Rate Decision (Feb)",
+      "importance": "High",
+      "actual": "4.10%",
+      "forecast": "4.10%",
+      "previous": "4.35%"
+    },
+    {
+      "dateTime": "18/02/2025 20:00",
+      "country": "New Zealand",
+      "event": "RBNZ Interest Rate Decision",
+      "importance": "High",
+      "actual": "3.75%",
+      "forecast": "3.75%",
+      "previous": "4.25%"
+    },
+    {
+      "dateTime": "18/02/2025 21:00",
+      "country": "United States",
+      "event": "U.S. President Trump Speaks",
+      "importance": "High",
+      "actual": null,
+      "forecast": null,
+      "previous": null
+    },
+    {
+      "dateTime": "19/02/2025 02:00",
+      "country": "United Kingdom",
+      "event": "CPI (YoY) (Jan)",
+      "importance": "High",
+      "actual": "3.0%",
+      "forecast": "2.8%",
+      "previous": "2.5%"
+    },
+    {
+      "dateTime": "19/02/2025 14:00",
+      "country": "United States",
+      "event": "FOMC Meeting Minutes",
+      "importance": "High",
+      "actual": null,
+      "forecast": null,
+      "previous": null
+    },
+    {
+      "dateTime": "20/02/2025 08:30",
+      "country": "United States",
+      "event": "Initial Jobless Claims",
+      "importance": "High",
+      "actual": "219K",
+      "forecast": "215K",
+      "previous": "214K"
+    },
+    {
+      "dateTime": "20/02/2025 08:30",
+      "country": "United States",
+      "event": "Philadelphia Fed Manufacturing Index (Feb)",
+      "importance": "High",
+      "actual": "18.1",
+      "forecast": "19.4",
+      "previous": "44.3"
+    },
+    {
+      "dateTime": "24/02/2025 05:00",
+      "country": "Euro Zone",
+      "event": "CPI (YoY) (Jan)",
+      "importance": "High",
+      "actual": null,
+      "forecast": "2.5%",
+      "previous": "2.5%"
+    },
+    {
+      "dateTime": "25/02/2025 02:00",
+      "country": "Germany",
+      "event": "German GDP (QoQ) (Q4)",
+      "importance": "High",
+      "actual": null,
+      "forecast": "-0.2%",
+      "previous": "-0.2%"
+    },
+    {
+      "dateTime": "25/02/2025 10:00",
+      "country": "United States",
+      "event": "CB Consumer Confidence (Feb)",
+      "importance": "High",
+      "actual": null,
+      "forecast": null,
+      "previous": "104.1"
+    },
+    {
+      "dateTime": "26/02/2025 10:00",
+      "country": "United States",
+      "event": "Crude Oil Inventories",
+      "importance": "High",
+      "actual": null,
+      "forecast": null,
+      "previous": "4.633M"
+    },
+    {
+      "dateTime": "26/02/2025 10:00",
+      "country": "United States",
+      "event": "New Home Sales (Jan)",
+      "importance": "High",
+      "actual": null,
+      "forecast": null,
+      "previous": "698K"
+    },
+    {
+      "dateTime": "27/02/2025 08:30",
+      "country": "United States",
+      "event": "Durable Goods Orders (MoM) (Jan)",
+      "importance": "High",
+      "actual": null,
+      "forecast": null,
+      "previous": "-2.2%"
+    },
+    {
+      "dateTime": "27/02/2025 08:30",
+      "country": "United States",
+      "event": "GDP (QoQ) (Q4)",
+      "importance": "High",
+      "actual": null,
+      "forecast": "2.3%",
+      "previous": "3.1%"
+    },
+    {
+      "dateTime": "27/02/2025 08:30",
+      "country": "United States",
+      "event": "Initial Jobless Claims",
+      "importance": "High",
+      "actual": null,
+      "forecast": null,
+      "previous": "219K"
+    }
+  ]
+}
 ```

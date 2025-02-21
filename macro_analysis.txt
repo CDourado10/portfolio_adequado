@@ -1,0 +1,103 @@
+**Economic Events Analysis Report**
+
+This report provides a thorough analysis of important economic events, including assessments of variations against expectations, contextual insights into each indicator, typical observed impacts on broader markets, and relational analyses with correlated indicators.
+
+---
+
+### 1. **Japan - GDP (QoQ) (Q4)**
+- **Date and Time**: 16/02/2025 18:50
+- **Actual**: 0.7%
+- **Forecast**: 0.3%
+- **Previous**: 0.4%
+
+**Variation Assessment**: The actual GDP growth of 0.7% significantly outperformed expectations of 0.3%, indicating robust economic activity.
+
+**Indicator Context**: Historically, stronger-than-expected GDP figures in Japan have been associated with positive market reactions, reflecting confidence in the economic recovery.
+
+**Typical Observed Impacts**: A surprising uptick in GDP can typically drive yen appreciation and boost Japanese equities. It often leads to speculation of potential monetary policy adjustments.
+
+**Correlated Indicators**: The GDP data positively correlates with employment rates and business sentiment indicators, often seen improving concurrently during growth phases.
+
+---
+
+### 2. **Australia - RBA Interest Rate Decision (Feb)**
+- **Date and Time**: 17/02/2025 22:30
+- **Actual**: 4.10%
+- **Forecast**: 4.10%
+- **Previous**: 4.35%
+
+**Variation Assessment**: The decision to maintain the interest rate at 4.10% aligns with market expectations, signaling stability in monetary policy despite a previous decrease.
+
+**Indicator Context**: Historically, unchanged interest rates tend to maintain market equilibrium, with minor impacts on Australian dollar valuation and interest-sensitive sectors.
+
+**Typical Observed Impacts**: Expectation management around unchanged rates can lead to reduced volatility in the equity markets and stability in the currency markets.
+
+**Correlated Indicators**: This rate decision correlates with inflation rates and the employment rate, as changes in these metrics often drive RBA’s policy adjustments.
+
+---
+
+### 3. **New Zealand - RBNZ Interest Rate Decision**
+- **Date and Time**: 18/02/2025 20:00
+- **Actual**: 3.75%
+- **Forecast**: 3.75%
+- **Previous**: 4.25%
+
+**Variation Assessment**: The reduction in the interest rate to 3.75% aligns with market forecasts but reflects a significant cut from 4.25%, indicating easing monetary policy.
+
+**Indicator Context**: A cut in interest rates aligns with historical patterns aimed at stimulating economic growth during downturns.
+
+**Typical Observed Impacts**: Typically, such reductions lead to depreciation of the NZD, increased borrowing, and potentially higher equity valuations.
+
+**Correlated Indicators**: This decision is often linked to inflation metrics and GDP growth patterns, showing a leading relation to shifts in economic activity.
+
+---
+
+### 4. **United Kingdom - CPI (YoY) (Jan)**
+- **Date and Time**: 19/02/2025 02:00
+- **Actual**: 3.0%
+- **Forecast**: 2.8%
+- **Previous**: 2.5%
+
+**Variation Assessment**: The Consumer Price Index (CPI) rose to 3.0%, exceeding the forecast and demonstrating heightened inflationary pressures.
+
+**Indicator Context**: Historical instances of CPI significantly above forecasts often precede market sell-offs in fixed income due to anticipated monetary tightening.
+
+**Typical Observed Impacts**: A rise in CPI can prompt speculation regarding the Bank of England's monetary policy, typically favoring GBP appreciation in the short term.
+
+**Correlated Indicators**: CPI closely correlates with wage growth and employment figures, as persistent inflation impacts consumer spending and economic confidence.
+
+---
+
+### 5. **United States - Initial Jobless Claims**
+- **Date and Time**: 20/02/2025 08:30
+- **Actual**: 219K
+- **Forecast**: 215K
+- **Previous**: 214K
+
+**Variation Assessment**: Claims were marginally above expectations, indicating a slight deterioration in the labor market.
+
+**Indicator Context**: Increases in jobless claims often reflect underlying economic weakness; historically, this can lead markets to react cautiously.
+
+**Typical Observed Impacts**: A breach of expectations may lead to increased volatility in equity markets and cautious sentiment toward economic growth forecasts.
+
+**Correlated Indicators**: Jobless claims frequently correlate with employment reports and GDP data, allowing analysts to gauge overall labor market health and growth prospects.
+
+---
+
+### 6. **United States - Philadelphia Fed Manufacturing Index (Feb)**
+- **Date and Time**: 20/02/2025 08:30
+- **Actual**: 18.1
+- **Forecast**: 19.4
+- **Previous**: 44.3
+
+**Variation Assessment**: The index decreased against both forecasts and previous readings, suggesting a slowdown in manufacturing activity.
+
+**Indicator Context**: A weakening index below forecast often indicates deterred business sentiment; historically, this has led to declines in manufacturing stocks and sector-related equity.
+
+**Typical Observed Impacts**: Such contractions typically lead to bearish market sentiment, particularly within manufacturing and exports.
+
+**Correlated Indicators**: This index is correlated with broader manufacturing surveys and the industrial production index, reflecting synchronicity in manufacturing conditions. 
+
+---
+
+This detailed economic events analysis outlines current data against historical trends and market impacts, enabling insights for future investment strategies and risk assessments.

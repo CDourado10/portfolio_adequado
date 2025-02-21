@@ -1,0 +1,82 @@
+1. **General Motors Company (GM)**
+   - **Strengths:** Strong brand recognition, diverse product line, and significant market share in the automobile industry. Solid efforts towards electric vehicle production indicate future growth potential.
+   - **Risks:** Dependency on the automobile market growth, potential disruptions from technological advancements, and regulatory changes affecting vehicle emissions.
+   
+2. **Energy Transfer LP (ET)**
+   - **Strengths:** Extensive pipeline infrastructure, diversified energy businesses across natural gas and liquids, and stable cash flow from long-term contracts.
+   - **Risks:** Vulnerable to commodity price fluctuations, regulatory challenges, and potential liabilities due to environmental concerns.
+   
+3. **APA Corporation (APA)**
+   - **Strengths:** Operational diversity across the U.S. and international markets, significant reserves, and effective cost management strategies.
+   - **Risks:** Exposure to oil price volatility, geopolitical risks in the regions they operate, and growing competition in the energy sector.
+   
+4. **Kinross Gold Corporation (KGC)**
+   - **Strengths:** Global operations in gold mining, established production volumes, and consistent dividend payout history.
+   - **Risks:** Commodity price risk associated with gold, operational risks in mining projects, and potential regulatory uncertainties in respective countries.
+   
+5. **Laureate Education, Inc. (LAUR)**
+   - **Strengths:** Diverse educational offerings and international presence assist with revenue stability.
+   - **Risks:** Dependency on regulatory landscape for education funding, competition from other educational providers, and changing demographics affecting enrollment rates.
+   
+6. **Baker Hughes Company (BKR)**
+   - **Strengths:** Comprehensive range of oilfield services and products, strong technology-driven approach.
+   - **Risks:** Oil and gas price volatility impacting demand, geopolitical tensions affecting operations, and intense industry competition.
+   
+7. **Match Group, Inc. (MTCH)**
+   - **Strengths:** Strong brand portfolio in the online dating space coupled with solid user growth and revenue generation.
+   - **Risks:** Market saturation with growing competition, potential regulatory scrutiny regarding data privacy, and changing user trends.
+   
+8. **Kosmos Energy Ltd. (KOS)**
+   - **Strengths:** Focus on high-potential offshore resources, consistently strong production growth, and strategic asset acquisitions.
+   - **Risks:** Commodity price fluctuations affecting operations, exposure to geopolitical risks in African markets, and potential environmental regulations.
+   
+9. **IAMGOLD Corporation (IAG)**
+   - **Strengths:** Diverse portfolio of gold assets, strong regional presence, and ability to adapt to market changes.
+   - **Risks:** Volatility in gold prices, operational challenges in mining processes, and long lead times on new projects.
+   
+10. **Synchrony Financial (SYF)**
+    - **Strengths:** Strong partnerships with major retailers, diversified product offerings, and increasing digital wallet engagement.
+    - **Risks:** Credit risk associated with lending practices, dependency on retail partners for growth, and regulatory changes impacting credit products.
+    
+11. **Ford Motor Company (F)**
+    - **Strengths:** Established automotive presence, transition towards electric vehicles, and solid global market share.
+    - **Risks:** Shift in consumer preferences, supply chain disruptions, and stiff competition from established and new market entrants in EVs.
+    
+12. **Banco Bradesco S.A. (BBD)**
+    - **Strengths:** Solid market presence in Brazil with a wide array of financial products and services, and a focus on digital transformation.
+    - **Risks:** Economic instability in Brazil, regulatory changes affecting banking operations, and competition from fintech companies.
+    
+13. **Itaú Unibanco Holding S.A. (ITUB)**
+    - **Strengths:** Comprehensive range of financial services, strong market leadership in Brazil, and a consistent track record of profitability.
+    - **Risks:** Economic performance correlated to Brazil's economy, credit risk associated with loans, and competition in the banking sector.
+    
+14. **Petróleo Brasileiro S.A. - Petrobras (PBR)**
+    - **Strengths:** Large-scale operations in oil and gas sectors in Brazil, significant reserves, and integrated more modernization and efficiency in operations.
+    - **Risks:** Heavy regulatory scrutiny, exposure to oil price swings, and high debt levels affecting financial stability.
+    
+15. **United Airlines Holdings, Inc. (UAL)**
+    - **Strengths:** Strong domestic and international network providing competitive advantage, loyalty programs, and effective cost-cutting measures.
+    - **Risks:** Vulnerability to fuel price spikes, economic downturns impacting travel demand, and regulatory restrictions.
+    
+16. **Vale S.A. (VALE)**
+    - **Strengths:** Leading iron ore producer with efficient production costs and diversified operations including nickel production.
+    - **Risks:** Commodity pricing volatility affecting financial health, regulatory and environmental scrutiny, and dependence on global market demand.
+    
+17. **Occidental Petroleum Corporation (OXY)**
+    - **Strengths:** Strong production profile and focus on operational efficiency and cost control.
+    - **Risks:** Exposure to fluctuating oil prices, environmental regulations, and political risks in operating regions.
+    
+18. **Vanguard FTSE Developed Markets Index Fund ETF Shares (VEA)**
+    - **Strengths:** Broad market diversification covering multiple developed market economies, low expense ratio benefits.
+    - **Risks:** Currency risk impacting returns, reliance on developed markets economic performance, and systematic market risks.
+    
+19. **The Technology Select Sector SPDR Fund (XLK)**
+    - **Strengths:** Focused exposure to U.S. technology sector, capturing growth potential through technology companies.
+    - **Risks:** Sector concentration risks, vulnerability to market corrections, and rapid technological advancements affecting specific companies.
+    
+20. **Vanguard Information Technology Index Fund ETF Shares (VGT)**
+    - **Strengths:** Diversified exposure to leading technology companies in the U.S., low-cost investment.
+    - **Risks:** Dependence on tech sector performance, the cyclical nature of technology stocks, and market volatility impacting valuations.
+
+This report highlights each asset's financial strengths and risks, all while ensuring alignment with a medium risk profile and long-term investment horizon.
+```

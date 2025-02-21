@@ -1,0 +1,7 @@
+- **Expected Return**: 14.75%
+- **Annualized Return**: 10.31%
+- **Volatility**: 14.14%
+- **Sharpe Ratio**: 1.08
+- **Risk Adjusted Return**: 0.59 (calculated against a 2% risk-free rate)
+
+This analysis shows that the optimized portfolio is projected to yield a return that is consistent with the investor's medium risk tolerance and long-term investment goals. The Sharpe Ratio indicates a favorable risk-adjusted return, reinforcing the portfolio's attractiveness for a long-term investment horizon.
