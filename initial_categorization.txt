@@ -1,53 +1,43 @@
 [
-    {
-        "source": "pymnts.com",
-        "title": "Standard Chartered Participates in Joint Venture to Issue Hong Kong Dollar-Backed Stablecoin",
-        "date": "2025-02-18 01:52",
-        "summary": "Standard Chartered Bank Hong Kong (SCBHK), Animoca Brands and HKT have agreed to form a joint venture to issue a stablecoin backed by the Hong Kong dollar. The new joint venture intends to apply for.",
-        "link": "https://www.pymnts.com/blockchain/2025/standard-chartered-participates-in-joint-venture-to-issue-hong-kong-dollar-backed-stablecoin/",
-        "topics": ["BLOCKCHAIN", "FINANCIAL MARKETS"],
-        "priority": "Medium",
-        "sentiment": "Positive"
-    },
-    {
-        "source": "OilPrice.com",
-        "title": "Global Iron Ore Price Remains Around $100 Per Ton",
-        "date": "2025-02-16 18:00",
-        "summary": "Via Metal Miner Predictions for iron ore prices in 2025 remain mostly mixed, but early signs in the new year indicate an upward trend, at least in Asian markets. According to a report by Reuters, o.",
-        "link": "https://oilprice.com/Metals/Commodities/Global-Iron-Ore-Price-Remains-Around-100-Per-Ton.html",
-        "topics": ["COMMODITIES", "FINANCIAL MARKETS"],
-        "priority": "Medium",
-        "sentiment": "Neutral"
-    },
-    {
-        "source": "Bloomberg",
-        "title": "Rise of dollar forwards builds risk for Asia’s central banks",
-        "date": "2025-02-16 13:26",
-        "summary": "Central banks in Asia use derivatives to protect currencies against a strong dollar, raising concerns for the future.",
-        "link": "https://www.bloomberg.com/news/articles/2025-02-16/rise-of-dollar-forwards-builds-risk-for-asia-s-central-banks",
-        "topics": ["FINANCIAL MARKETS"],
-        "priority": "High",
-        "sentiment": "Negative"
-    },
-    {
-        "source": "Post Magazine",
-        "title": "Trump’s ‘big stick diplomacy’ won’t go far in today’s world system",
-        "date": "2025-02-15 08:30",
-        "summary": "Conflicting monetary goals and budget constraints will undermine the administration’s ability to exert influence from a position of strength.",
-        "link": "https://www.scmp.com/opinion/world-opinion/article/3298494/trumps-big-stick-diplomacy-wont-go-far-todays-world-system",
-        "topics": ["POLITICS", "FINANCIAL MARKETS"],
-        "priority": "Medium",
-        "sentiment": "Negative"
-    },
-    {
-        "source": "Seeking Alpha",
-        "title": "BDC Weekly Review: Markets Care More About Income",
-        "date": "2025-02-15 02:58",
-        "summary": "Read here for an update on the key themes in BDCs' February performance, earnings insights, and market trends. Discover winners, losers, and dividend updates.",
-        "link": "https://seekingalpha.com/article/4758671-bdc-weekly-review-markets-care-more-about-income",
-        "topics": ["EARNINGS", "FINANCIAL MARKETS"],
-        "priority": "Medium",
-        "sentiment": "Positive"
-    }
+  {
+    "title": "‘This is not a time to be making big bets.’ This market pro is following Warren Buffett’s lead.",
+    "description": "Strategist David Rosenberg says ‘It’s a time to hunker down.’ Cash, defensive stocks and non-U.S. markets are the best choices now, he says.",
+    "source": "MarketWatch",
+    "date": "2025-03-03",
+    "url": "https://www.marketwatch.com/story/this-is-not-a-time-to-be-making-big-bets-this-market-pro-is-following-warren-buffetts-lead-22a32eeb",
+    "topic_tags": ["stocks", "investing", "market strategy"],
+    "priority_score": "high",
+    "preliminary_sentiment": "somewhat bullish"
+  },
+  {
+    "title": "The crypto law alphabet soup of the UAE",
+    "description": "From SCA and VARA to DMCC and ADGM, learn how the UAE’s acronym-filled regulatory framework shapes its position as a global crypto hub.",
+    "source": "Cointelegraph",
+    "date": "2025-03-03",
+    "url": "https://cointelegraph.com/news/the-crypto-law-alphabet-soup-of-the-uae",
+    "topic_tags": ["cryptocurrency", "regulation"],
+    "priority_score": "medium",
+    "preliminary_sentiment": "neutral"
+  },
+  {
+    "title": "CNBC Daily Open: Trump clashes on foreign policy, wields economic threat",
+    "description": "It might seem questionable for a country to impose tariffs on its biggest trading partners, especially when its economy is showing signs of shrinking.",
+    "source": "CNBC",
+    "date": "2025-03-03",
+    "url": "https://www.cnbc.com/2025/03/03/cnbc-daily-open-trumps-diplomatic-conflict-and-economic-assault.html",
+    "topic_tags": ["politics", "economic policy"],
+    "priority_score": "medium",
+    "preliminary_sentiment": "neutral"
+  },
+  {
+    "title": "Rising Bitcoin activity hints at market bottom, potential reversal",
+    "description": "Bitcoin’s growing active addresses may signal an incoming turning point for the crypto market after the latest correction.",
+    "source": "Cointelegraph",
+    "date": "2025-03-02",
+    "url": "https://cointelegraph.com/news/bitcoin-active-addresses-market-turning-point",
+    "topic_tags": ["cryptocurrency", "market trends"],
+    "priority_score": "high",
+    "preliminary_sentiment": "somewhat bullish"
+  }
 ]
 ```

@@ -56,7 +56,7 @@ class GoiasAnalysisCrew:
         return Agent(
             config=self.agents_config['strategy_coordinator'],
             verbose=True,
-            tools=[GoiasDataTool(), CountryAnalysisTool()],
+            tools=[CountryAnalysisTool(), GoiasDataTool()],
             llm="azure/gpt-4o-mini"
         )
 

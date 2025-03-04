@@ -1,22 +1,30 @@
-1. **General Motors Company (GM)**
-2. **Energy Transfer LP (ET)**
-3. **APA Corporation (APA)**
-4. **Kinross Gold Corporation (KGC)**
-5. **Laureate Education, Inc. (LAUR)**
-6. **Baker Hughes Company (BKR)**
-7. **Match Group, Inc. (MTCH)**
-8. **Kosmos Energy Ltd. (KOS)**
-9. **IAMGOLD Corporation (IAG)**
-10. **Synchrony Financial (SYF)**
-11. **Ford Motor Company (F)**
-12. **Banco Bradesco S.A. (BBD)**
-13. **Itaú Unibanco Holding S.A. (ITUB)**
-14. **Petróleo Brasileiro S.A. - Petrobras (PBR)**
-15. **United Airlines Holdings, Inc. (UAL)**
-16. **Vale S.A. (VALE)**
-17. **Occidental Petroleum Corporation (OXY)**
-18. **Vanguard FTSE Developed Markets Index Fund ETF Shares (VEA)**
-19. **The Technology Select Sector SPDR Fund (XLK)**
-20. **Vanguard Information Technology Index Fund ETF Shares (VGT)**
-
-These assets exhibit strong financial potential while aligning with the required risk profile and investment horizon.
+1. Altice USA, Inc. (ATUS)
+2. Companhia Siderúrgica Nacional (SID)
+3. Kosmos Energy Ltd. (KOS)
+4. Claritev Corporation (MPLN)
+5. Dole plc (DOLE)
+6. Atea Pharmaceuticals, Inc. (AVIR)
+7. Lithium Americas Corp. (LAC)
+8. Sonos, Inc. (SONO)
+9. Vimeo, Inc. (VMEO)
+10. GoPro, Inc. (GPRO)
+11. Inhibrx Biosciences, Inc. (INBX)
+12. Sono Group N.V. (SEVCF)
+13. Reysas Gayrimenkul Yatirim Ortakligi A.S. (RYGYF)
+14. Avance Gas Holding Ltd (AVACF)
+15. MODEC, Inc. (MDIKF)
+16. Chiyoda Corporation (CHYCF)
+17. Chiyoda Corporation (CHYCY)
+18. Standard Lithium Ltd. (SLI)
+19. QuantaSing Group Limited (QSG)
+20. Evergrande Property Services Group Limited (EVGPF)
+21. General Motors Company (GM)
+22. Energy Transfer LP (ET)
+23. APA Corporation (APA)
+24. Kinross Gold Corporation (KGC)
+25. Laureate Education, Inc. (LAUR)
+26. Baker Hughes Company (BKR)
+27. Match Group, Inc. (MTCH)
+28. IAMGOLD Corporation (IAG)
+29. Synchrony Financial (SYF)
+```

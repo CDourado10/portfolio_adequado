@@ -1,0 +1,23 @@
+2025-02-26 22:53:10,436 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Starting economic calendar tool execution
+2025-02-26 22:53:10,436 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Attempt 1 of 3 to get calendar data
+2025-02-26 22:53:14,745 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-02-26 22:54:16,507 - tools.financy.macro_economy.economic_calendar_tool - ERROR - Error getting data for timeFrame_thisWeek: Message: 
+
+2025-02-26 22:54:26,627 - tools.financy.macro_economy.economic_calendar_tool - ERROR - Error getting data for timeFrame_nextWeek: Message: 
+
+2025-02-26 22:54:29,247 - tools.financy.macro_economy.economic_calendar_tool - ERROR - Error getting calendar data: No calendar data was obtained
+2025-02-26 22:54:51,684 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Attempt 2 of 3 to get calendar data
+2025-02-26 22:54:55,764 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-02-26 22:55:19,272 - tools.financy.macro_economy.economic_calendar_tool - ERROR - Error getting data for timeFrame_thisWeek: Message: 
+
+2025-02-26 22:55:29,392 - tools.financy.macro_economy.economic_calendar_tool - ERROR - Error getting data for timeFrame_nextWeek: Message: 
+
+2025-02-26 22:55:31,989 - tools.financy.macro_economy.economic_calendar_tool - ERROR - Error getting calendar data: No calendar data was obtained
+2025-02-26 22:55:54,413 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Attempt 3 of 3 to get calendar data
+2025-02-26 22:56:02,594 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-02-26 22:56:28,410 - tools.financy.macro_economy.economic_calendar_tool - ERROR - Error getting data for timeFrame_thisWeek: Message: 
+
+2025-02-26 22:56:38,528 - tools.financy.macro_economy.economic_calendar_tool - ERROR - Error getting data for timeFrame_nextWeek: Message: 
+
+2025-02-26 22:56:41,154 - tools.financy.macro_economy.economic_calendar_tool - ERROR - Error getting calendar data: No calendar data was obtained
+2025-02-26 22:57:01,533 - tools.financy.macro_economy.economic_calendar_tool - ERROR - Error processing economic calendar: No calendar data was obtained

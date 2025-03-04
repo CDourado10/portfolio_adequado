@@ -1,0 +1,28 @@
+2025-02-28 21:59:43,121 - __main__ - DEBUG - Starting earnings calendar tool execution
+2025-02-28 21:59:43,121 - __main__ - DEBUG - Attempt 1 of 3 to get earnings data
+2025-02-28 21:59:47,542 - __main__ - DEBUG - Accessing URL: https://www.investing.com/earnings-calendar/
+2025-02-28 22:00:06,274 - __main__ - DEBUG - Processing timeframe: timeFrame_thisWeek
+2025-02-28 22:00:16,442 - __main__ - ERROR - Error processing timeframe timeFrame_thisWeek: Message: 
+
+2025-02-28 22:00:16,442 - __main__ - DEBUG - Processing timeframe: timeFrame_nextWeek
+2025-02-28 22:00:26,567 - __main__ - ERROR - Error processing timeframe timeFrame_nextWeek: Message: 
+
+2025-02-28 22:00:29,201 - __main__ - ERROR - Error getting earnings data: No earnings data was obtained from any timeframe
+2025-02-28 22:00:51,652 - __main__ - DEBUG - Attempt 2 of 3 to get earnings data
+2025-02-28 22:00:55,709 - __main__ - DEBUG - Accessing URL: https://www.investing.com/earnings-calendar/
+2025-02-28 22:01:09,729 - __main__ - DEBUG - Processing timeframe: timeFrame_thisWeek
+2025-02-28 22:01:19,845 - __main__ - ERROR - Error processing timeframe timeFrame_thisWeek: Message: 
+
+2025-02-28 22:01:19,846 - __main__ - DEBUG - Processing timeframe: timeFrame_nextWeek
+2025-02-28 22:01:29,969 - __main__ - ERROR - Error processing timeframe timeFrame_nextWeek: Message: 
+
+2025-02-28 22:01:32,580 - __main__ - ERROR - Error getting earnings data: No earnings data was obtained from any timeframe
+2025-02-28 22:01:55,060 - __main__ - DEBUG - Attempt 3 of 3 to get earnings data
+2025-02-28 22:01:59,133 - __main__ - DEBUG - Accessing URL: https://www.investing.com/earnings-calendar/
+2025-02-28 22:02:12,315 - __main__ - DEBUG - Processing timeframe: timeFrame_thisWeek
+2025-02-28 22:02:22,435 - __main__ - ERROR - Error processing timeframe timeFrame_thisWeek: Message: 
+
+2025-02-28 22:02:22,435 - __main__ - DEBUG - Processing timeframe: timeFrame_nextWeek
+2025-02-28 22:02:32,565 - __main__ - ERROR - Error processing timeframe timeFrame_nextWeek: Message: 
+
+2025-02-28 22:02:35,184 - __main__ - ERROR - Error getting earnings data: No earnings data was obtained from any timeframe

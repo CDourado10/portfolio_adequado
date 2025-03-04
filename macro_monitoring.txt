@@ -1,42 +1,67 @@
-```
-🌍 **Filtered Macroeconomic Report** 🌍
+**Filtered Macroeconomic Report**
+
+**Date:** 03/04/2025
 
 ---
 
-**Key Indicator Values and Changes:**
+### **Key Indicator Values and Changes**
 
-- **Inflation Rate (US)**: 🟢 3% (positive trend from 2.9%)
-- **Unemployment Rate (US)**: 🔴 4% (down from 4.1%)
-- **GDP Growth Rate (US)**: 🔴 2.3% (down significantly from 3.1%)
-- **Non-Farm Payrolls**: 🔴 143K (down from 307K, indicating a slowdown)
-- **GDP Annual Growth Rate (China)**: 🟢 5.4% (up from 4.6%)
-- **Business Confidence (China)**: 🔴 49.1 (a slight decrease)
-- **Balance of Trade (China)**: 🟢 105B (up from 97.31B)
+#### **United States**
+- **GDP Growth Rate:** 🔴 2.3% (previous: 3.1%)
+- **Inflation Rate:** 🟢 3% (previous: 2.9%)
+- **Unemployment Rate:** 🔴 4% (previous: 4.1%)
+- **Retail Sales MoM:** 🔴 -0.9% (previous: 0.7%)
+- **Consumer Confidence:** 🔴 64.7 (previous: 71.1)
+  
+#### **Euro Area**
+- **GDP Growth Rate:** 🔴 0% (previous: 0.4%)
+- **Inflation Rate:** 🔴 2.4% (previous: 2.5%)
+- **Unemployment Rate:** ⚪ 6.2% (no change)
+- **Retail Sales MoM:** 🔴 -0.2% (previous: 0%)
+- **Consumer Confidence:** 🟢 -13.6 (previous: -14.2)
 
----
-
-**Significant Deviations From Trends:**
-- **US inflation is rising**, exceeding earlier expectations and affecting Federal Reserve policies.
-- **US GDP is contracting**, showing slower growth.
-- **Chinese GDP growth** experience an upward trend, buoying expectations of recovery.
-
----
-
-**Important Economic Releases:**
-- **US Monthly Employment Report** (Feb 2025): indicated a concerning drop in job creation.
-- **China GDP Report** (Dec 2024): a solid improvement showing recovery.
-
----
-
-**Market Impact Assessment:**
-- Increased inflation in the US may lead to tighter monetary policy, affecting equity markets.
-- Mixed signals from China can contribute volatility, influencing global growth outlooks.
+#### **China**
+- **GDP Annual Growth Rate:** 🟢 5.4% (previous: 4.6%)
+- **Inflation Rate:** 🟢 0.5% (previous: 0.1%)
+- **Unemployment Rate:** 🟢 5.1% (previous: 5%)
+- **Retail Sales MoM:** 🔴 0.12% (previous: 0.16%)
+- **Business Confidence:** 🟢 50.2 (previous: 49.1)
 
 ---
 
-**Risk Indicators Status:**
-- **US Economy**: High risk due to inflation and slumping job numbers.
-- **China Economy**: Moderate risk; improvements in GDP but potential cracks in consumer sentiment.
+### **Significant Deviations from Trends**
+- **United States:**
+  - GDP growth has significantly decreased from the prior rate, indicating a possible economic slowdown.
+  - Unemployment is slightly down, but retail sales dropping could signal consumer weakness.
+
+- **Euro Area:**
+  - The GDP growth rate hit zero, a critical indicator of economic stagnation.
+  - Consumer confidence continues to show negative trends, reflecting poor consumer sentiment conditions.
+
+- **China:**
+  - Positive news with GDP growth and inflation rate improving, showing strength in the economy contrary to trends in the West.
+  
+---
+
+### **Important Economic Releases**
+- Upcoming releases to watch for in the U.S. include employment reports and inflation metrics, potentially influencing monetary policies.
+- Key indicators from the Euro Area will include future inflation reports and economic forecasts, crucial as the region needs a turnaround.
 
 ---
+
+### **Market Impact Assessment**
+- U.S. markets may experience volatility in reaction to declining GDP growth figures and retail sales, affecting stocks.
+- The Euro will be sensitive to any economic data that suggests recovery or further deterioration.
+- China's positive growth data may strengthen its currency and boost stock indices, attracting foreign investment.
+
+---
+
+### **Risk Indicators Status**
+- **United States:** Moderate risk due to decline in GDP and retail sales, signalling economic weakness.
+- **Euro Area:** High risk; stagnation could lead to recessionary pressures.
+- **China:** Low risk; shows strong recovery trends, suggesting a resilient economy.
+
+--- 
+
+This report highlights the significant changes and presents an analytical view to inform decision-making and assessments.
 ```

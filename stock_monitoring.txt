@@ -1,54 +1,108 @@
-# 📈 Stock Market Summary Report 📈
+**Stock Market Summary as of 03/04/2025**
 
----
+### **Index Performance**
+1. **US500**
+   - **Price**: 5,796.56
+   - **Daily Change**: 🔴 -0.91%
+   - **Weekly Change**: 🔴 -2.66%
+   - **Monthly Change**: 🔴 -4.37%
+   - **YTD Change**: 🔴 -1.45%
+   - **Yearly Change**: 🟢 +14.14%
 
-## **Index Performance:**
-**Overall Performance Overview of Major Indices:**
-- **US500** (US): 6,051.64 (🔴 -1.08% daily, 🟢 +2.89% YTD)
-- **US30** (US): 43,603.00 (🔴 -1.30% daily, 🟢 +2.49% YTD)
-- **US100** (US): 21,801.00 (🔴 -1.21% daily, 🟢 +3.76% YTD)
-- **JP225** (JP): 38,284.00 (🔴 -1.02% daily, 🔴 -4.04% YTD)
-- **GB100** (GB): 8,629.00 (🔴 -0.39% daily, 🟢 +5.58% YTD)
-- **DE40** (DE): 22,210.00 (🔴 -0.47% daily, 🟢 +11.56% YTD)
-- **FR40** (FR): 8,130.00 (🟢 +0.09% daily, 🟢 +10.15% YTD)
-- **IT40** (IT): 38,294.00 (🟢 +0.12% daily, 🟢 +12.01% YTD)
-- **ES35** (ES): 12,920.00 (🔴 -0.36% daily, 🟢 +11.43% YTD)
-- **ASX200** (AU): 8,254.00 (🔴 -0.83% daily, 🟢 +1.16% YTD)
-- **SHANGHAI** (CN): 3,379.00 (🟢 +0.85% daily, 🟢 +0.82% YTD)
-- **SENSEX** (IN): 75,311.00 (🔴 -0.56% daily, 🔴 -3.62% YTD)
-- **TSX** (CA): 25,282.00 (🔴 -0.91% daily, 🟢 +2.24% YTD)
-- **MOEX** (RU): 3,282.00 (🔴 -0.31% daily, 🟢 +13.85% YTD)
-- **IBOVESPA** (BR): 127,138.00 (🔴 -0.36% daily, 🟢 +5.70% YTD)
-- **IPC** (MX): 53,832.00 (🔴 -0.87% daily, 🟢 +8.65% YTD)
-- **NL25** (NL): 936.00 (🔴 -0.28% daily, 🟢 +6.52% YTD)
-- **CH20** (CH): 12,897.00 (🟢 +0.69% daily, 🟢 +11.17% YTD)
-- **SAALL** (ZA): 88,914.00 (🟢 +0.05% daily, 🟢 +5.73% YTD)
-- **STI** (SG): 3,930.00 (🟢 +0.06% daily, 🟢 +3.76% YTD)
-- **HK50** (HK): 23,496.00 (🟢 +4.07% daily, 🟢 +17.13% YTD)
-- **NZX 50** (NZ): 12,753.00 (🔴 -0.99% daily, 🔴 -2.73% YTD)
-- **EU50** (EA): 5,448.00 (🔴 -0.23% daily, 🟢 +11.28% YTD)
+2. **US30**
+   - **Price**: 42,651.00
+   - **Daily Change**: 🔴 -1.25%
+   - **Weekly Change**: 🔴 -2.22%
+   - **Monthly Change**: 🔴 -4.95%
+   - **YTD Change**: 🟢 +0.25%
+   - **Yearly Change**: 🟢 +10.54%
 
-## **Sector Movements:**
-- Overall bearish sentiment prevailing across major indices with consistent downward pressure.
-- Notable resilience in sectors like **IT**, **Utilities**, and **Consumer Staples**, which have shown some upward momentum despite overall market challenges.
-- **Energy and Financial services** sectors underperforming, reflecting broader economic concerns and tightening monetary policies.
+3. **US100**
+   - **Price**: 20,376.00
+   - **Daily Change**: 🔴 -0.24%
+   - **Weekly Change**: 🔴 -3.37%
+   - **Monthly Change**: 🔴 -5.92%
+   - **YTD Change**: 🔴 -3.03%
+   - **Yearly Change**: 🟢 +13.85%
 
-## **Volatility Measures:**
-- High volatility indicated particularly in the **US indices**, with movements of over 1% daily being commonplace.
-- The **JP225** experiencing significant YTD declines speaks to market uncertainty driven by external pressures such as economic data releases.
-- **HK50** shows remarkable recovery, with a strong +4.07% daily increase suggesting a reversal of recent bearish trends.
+4. **JP225**
+   - **Price**: 36,815.00
+   - **Daily Change**: 🔴 -2.57%
+   - **Weekly Change**: 🔴 -3.72%
+   - **Monthly Change**: 🔴 -5.19%
+   - **YTD Change**: 🔴 -7.72%
+   - **Yearly Change**: 🔴 -8.19%
 
-## **Market Breadth:**
-- Breadth readings suggesting weaker overall momentum with more indices showing negative than positive performance.
-- Generally, declining volumes on rally days indicating lack of conviction among buyers.
-- Market internals signal caution, with only a select few sectors showing strong breadth, particularly in defensive sectors.
+5. **GB100**
+   - **Price**: 8,793.00
+   - **Daily Change**: 🔴 -0.88%
+   - **Weekly Change**: 🟢 +1.43%
+   - **Monthly Change**: 🟢 +1.97%
+   - **YTD Change**: 🟢 +7.58%
+   - **Yearly Change**: 🟢 +15.00%
 
-## **Technical Signals:**
-- **Resistance levels** found in the retracement levels of various indices, indicating potential barriers to further upward movement.
-- **Support zones** being tested, particularly in the **US indices**, where breakouts or defense of key levels could dictate future trends.
-- **Broader bearish formations** observed in the Japanese and European markets could indicate prolonged periods of consolidation or bearish trends ahead.
+6. **DE40**
+   - **Price**: 22,600.00
+   - **Daily Change**: 🔴 -2.36%
+   - **Weekly Change**: 🟢 +0.85%
+   - **Monthly Change**: 🟢 +4.70%
+   - **YTD Change**: 🟢 +13.52%
+   - **Yearly Change**: 🟢 +27.69%
 
---- 
+7. **FR40**
+   - **Price**: 8,148.00
+   - **Daily Change**: 🔴 -0.63%
+   - **Weekly Change**: 🟢 +1.20%
+   - **Monthly Change**: 🟢 +3.25%
+   - **YTD Change**: 🟢 +10.40%
+   - **Yearly Change**: 🟢 +2.71%
 
-This report summarizes the performance, trends, and key indicators within the stock market landscape, offering vital information for decision-makers regarding current market conditions and future outlooks.
+8. **IT40**
+   - **Price**: 38,024.00
+   - **Daily Change**: 🔴 -2.67%
+   - **Weekly Change**: 🔴 -1.78%
+   - **Monthly Change**: 🟢 +3.94%
+   - **YTD Change**: 🟢 +11.23%
+   - **Yearly Change**: 🟢 +14.72%
+
+9. **ES35**
+   - **Price**: 13,164.00
+   - **Daily Change**: 🔴 -1.56%
+   - **Weekly Change**: 🟢 +0.36%
+   - **Monthly Change**: 🟢 +5.00%
+   - **YTD Change**: 🟢 +13.53%
+   - **Yearly Change**: 🟢 +30.12%
+
+10. **ASX200**
+    - **Price**: 8,095.00
+    - **Daily Change**: 🔴 -1.83%
+    - **Weekly Change**: 🔴 -1.90%
+    - **Monthly Change**: 🔴 -3.82%
+    - **YTD Change**: 🔴 -0.78%
+    - **Yearly Change**: 🟢 +4.80%
+
+11. **SHANGHAI**
+    - **Price**: 3,324.00
+    - **Daily Change**: 🟢 +0.22%
+    - **Weekly Change**: 🔴 -0.65%
+    - **Monthly Change**: 🟢 +2.93%
+    - **YTD Change**: 🔴 -0.82%
+    - **Yearly Change**: 🟢 +9.07%
+
+... [additional indices removed for brevity]
+
+### **Sector Movements**
+- **Positive momentum** in indices like **US500** and **US30** indicates resilience despite daily fluctuations.
+- **Sector analysis** should be reviewed closely for signs of rotation into **technology** from **commodities**, given the recent performance by **US100**.
+
+### **Volatility Measures**
+- Volatility diverse among indices, with upward shifts in tech-heavy indices reflecting investor uncertainty. Notably, **JP225** showed significant declines pointing towards heightened volatility.
+
+### **Market Breadth**
+- Mixed signals with texts showing predominately red performance across indices, barring a few notable countries like China with positive shifts in their index.
+
+### **Technical Signals**
+- Past performance indicates further potential market corrections may be on the horizon, especially in the face of macroeconomic pressures globally.
+
+This concludes the comprehensive stock market summary highlighting the performance of major indices, sector movements, volatility levels, market breadth, and technical signals.
 ```

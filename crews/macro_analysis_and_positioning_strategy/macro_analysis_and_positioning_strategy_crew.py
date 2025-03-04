@@ -13,7 +13,7 @@ sys.path.append(project_root)
 # Import economic calendar tool
 from tools.financy.macro_economy.market_news_analysis_tool import MarketNewsAnalysisTool
 from tools.financy.macro_economy.market_monitor_tool import MarketMonitorTool
-from tools.financy.macro_economy.market_events_analysis_tool import MarketEventsAnalysisTool
+#from tools.financy.macro_economy.market_events_analysis_tool import MarketEventsAnalysisTool
 
 
 # Load environment variables
@@ -33,7 +33,8 @@ class MarketMonitorCrew:
         return Agent(
             config=self.agents_config['cross_sector_impact_analyst'],
             verbose=True,
-            tools=[MarketEventsAnalysisTool(), MarketMonitorTool(), MarketNewsAnalysisTool()],
+            #tools=[MarketEventsAnalysisTool(), MarketMonitorTool(), MarketNewsAnalysisTool()],
+            tools=[MarketMonitorTool(), MarketNewsAnalysisTool()],
             llm="azure/gpt-4o-mini"
         )
 

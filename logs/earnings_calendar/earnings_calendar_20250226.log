@@ -1,0 +1,29 @@
+2025-02-26 22:57:19,168 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Starting earnings calendar tool execution
+2025-02-26 22:57:19,168 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Attempt 1 of 3 to get earnings data
+2025-02-26 22:57:23,200 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Accessing URL: https://www.investing.com/earnings-calendar/
+2025-02-26 22:58:56,715 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Processing timeframe: timeFrame_thisWeek
+2025-02-26 22:59:06,833 - tools.financy.macro_economy.earnings_calendar_tool - ERROR - Error processing timeframe timeFrame_thisWeek: Message: 
+
+2025-02-26 22:59:06,833 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Processing timeframe: timeFrame_nextWeek
+2025-02-26 22:59:16,953 - tools.financy.macro_economy.earnings_calendar_tool - ERROR - Error processing timeframe timeFrame_nextWeek: Message: 
+
+2025-02-26 22:59:19,328 - tools.financy.macro_economy.earnings_calendar_tool - ERROR - Error getting earnings data: No earnings data was obtained from any timeframe
+2025-02-26 22:59:41,730 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Attempt 2 of 3 to get earnings data
+2025-02-26 22:59:45,818 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Accessing URL: https://www.investing.com/earnings-calendar/
+2025-02-26 23:00:00,351 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Processing timeframe: timeFrame_thisWeek
+2025-02-26 23:00:10,480 - tools.financy.macro_economy.earnings_calendar_tool - ERROR - Error processing timeframe timeFrame_thisWeek: Message: 
+
+2025-02-26 23:00:10,480 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Processing timeframe: timeFrame_nextWeek
+2025-02-26 23:00:20,596 - tools.financy.macro_economy.earnings_calendar_tool - ERROR - Error processing timeframe timeFrame_nextWeek: Message: 
+
+2025-02-26 23:00:23,206 - tools.financy.macro_economy.earnings_calendar_tool - ERROR - Error getting earnings data: No earnings data was obtained from any timeframe
+2025-02-26 23:00:45,634 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Attempt 3 of 3 to get earnings data
+2025-02-26 23:00:49,703 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Accessing URL: https://www.investing.com/earnings-calendar/
+2025-02-26 23:01:25,236 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Processing timeframe: timeFrame_thisWeek
+2025-02-26 23:01:35,358 - tools.financy.macro_economy.earnings_calendar_tool - ERROR - Error processing timeframe timeFrame_thisWeek: Message: 
+
+2025-02-26 23:01:35,358 - tools.financy.macro_economy.earnings_calendar_tool - DEBUG - Processing timeframe: timeFrame_nextWeek
+2025-02-26 23:01:45,470 - tools.financy.macro_economy.earnings_calendar_tool - ERROR - Error processing timeframe timeFrame_nextWeek: Message: 
+
+2025-02-26 23:01:48,064 - tools.financy.macro_economy.earnings_calendar_tool - ERROR - Error getting earnings data: No earnings data was obtained from any timeframe
+2025-02-26 23:02:08,472 - tools.financy.macro_economy.earnings_calendar_tool - ERROR - Error processing earnings calendar: No earnings data was obtained from any timeframe

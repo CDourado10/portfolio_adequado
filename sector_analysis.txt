@@ -1,28 +1,34 @@
 Propostas por Setor:
 
-1. Agronegócio:
-   - Decisão de implementação: Implementar um programa de capacitação para pequenos produtores de soja e cana-de-açúcar com foco em técnicas de aumento de produtividade.
-   - Investimento necessário em reais: R$ 200,000.00
-   - Retorno esperado em percentual: Espera-se um aumento de 15% na produção de soja e cana até o final do ano.
-   - Etapas de implementação: 1) Identificação de produtores; 2) Desenvolvimento de material de capacitação; 3) Realização de workshops; 4) Acompanhamento da produção.
-   - KPIs de acompanhamento: Acompanhamento mensal da produção nas propriedades participantes e avaliação do custo por aumento de produção.
+1. **Agronegócio**:
+   - **Decisão de implementação**: Implementar um programa de capacitação e acesso a crédito para pequenos agricultores. Além disso, focar na melhoria da infraestrutura das estradas rurais para facilitar o escoamento da produção.
+   - **Investimento necessário**: R$ 200.000,00 para capacitação e adicionalmente R$ 1.000.000,00 para infraestrutura de transporte.
+   - **Retorno esperado**: Aumento em 20% da produção nos próximos 6 meses com o programa de capacitação e um ROI de 15% com as melhorias de infraestrutura em 12 meses.
+   - **Etapas de implementação**: 
+     1. Levantamento de necessidades de capacitação e definição de conteúdos (30 dias).
+     2. Realização de cursos e eventos de capacitação (30 dias).
+     3. Início das obras de infraestrutura (90 dias).
+   - **KPIs de acompanhamento**: Número de agricultores capacitados e percentual de aumento de produção; tempo de deslocamento da produção até mercados.
 
-2. Indústria:
-   - Ações específicas por segmento: Foco na revitalização do setor têxtil e metalúrgico.
-   - Custos detalhados: Investimento estimado em R$ 1,500,000.00 para modernização de maquinário e tecnologias.
-   - Impacto no emprego: Estima-se a criação de 500 novos empregos diretos e indiretos com a recuperação das atividades industriais.
-   - Cronograma de execução: 1) Diagnóstico das necessidades - 2 meses; 2) Implementação das tecnologias - 6 meses; 3) Resultados e ajustes - 3 meses.
+2. **Indústria**:
+   - **Ações específicas por segmento**: 
+     1. Melhorar processos de produção nas indústrias de transformação, focando em redução de desperdícios e aumento de eficiência.
+     2. Estabelecer parceria com universidades para projetos de pesquisa que visem inovação na produção.
+   - **Custos detalhados**: Aproximadamente R$ 500.000,00 para tecnologias de melhoria de processos e R$ 300.000,00 para parcerias com instituições.
+   - **Impacto no emprego**: Estima-se que as melhorias de processos possam gerar 200 novos postos de trabalho e fortalecer 400 postos existentes.
+   - **Cronograma de execução**: 
+     1. Análise de processos e identificação de melhorias (60 dias).
+     2. Implementação de novas tecnologias e treinamentos (90 dias).
+     3. Avaliação de impacto no emprego e produção (90 dias).
 
-3. Serviços:
-   - Medidas de modernização: Criação de um fundo de inovação para pequenas e médias empresas no setor de serviços.
-   - Investimentos em tecnologia: R$ 1,000,000.00 para o fundo.
-   - Metas de produtividade: Espera-se um ROI de 20% no primeiro ano.
-   - Prazos definidos: Implementação em 6 meses.
+3. **Serviços e Comércio**:
+   - **Medidas de modernização**: Implementar um sistema integrado de gestão para os setores de serviços e comércio, focando no e-commerce e no atendimento digital.
+   - **Investimentos em tecnologia**: R$ 300.000,00 para a aquisição de software e treinamento de equipe.
+   - **Metas de produtividade**: Aumentar as vendas online em 30% nos próximos 12 meses e reduzir o tempo de atendimento ao cliente em 30%.
+   - **Prazos definidos**: 
+     1. Implementação de sistema de gestão em 90 dias.
+     2. Treinamento de equipes e lançamento da plataforma e-commerce em 30 dias subsequentes.
+     3. Avaliação contínua e ajustes tecnológicos a cada 3 meses.
 
-4. Comércio:
-   - Medidas de modernização: Implantação de tecnologia para comércio eletrônico no setor de varejo.
-   - Investimentos necessários: R$ 500,000.00 para infraestrutura de e-commerce.
-   - Metas de produtividade: Aumento de 25% no volume de vendas online após implementação.
-   - Prazos definidos: Cronograma de 12 meses para implementação.
-
+Estas propostas visam não apenas corrigir deficiências atuais, mas também posicionar os setores da economia de Goiás para um crescimento sustentável e eficiente no futuro.
 ```

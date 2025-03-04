@@ -1,36 +1,24 @@
-Propostas de Decisao:
+Propostas de Decisão:
+1. **Decisões Imediatas (próximos 3 meses)**:
+   - **Ação específica**: Implementar um programa de capacitação e acesso a crédito para pequenos agricultores.
+   - **Custo estimado**: R$ 200.000,00.
+   - **Retorno esperado**: Aumento em 20% da produção nos próximos 6 meses.
+   - **Prazo de implementação**: 90 dias.
+   - **Métricas de acompanhamento**: Número de agricultores capacitados e percentual de aumento de produção.
 
-1. Decisoes Imediatas (proximos 3 meses):
-   - Ação específica para implementar: Implementar um programa de capacitação para pequenos produtores de soja e cana-de-açúcar com foco em técnicas de aumento de produtividade.
-   - Custo estimado em reais: R$ 200,000.00
-   - Retorno esperado em reais ou percentual: Espera-se um aumento de 15% na produção de soja e cana até o final do ano.
-   - Prazo de implementação em dias/meses: 3 meses
-   - Métricas de acompanhamento detalhadas: Acompanhamento mensal da produção nas propriedades participantes e avaliação do custo por aumento de produção.
+2. **Decisões de Curto Prazo (6-12 meses)**:
+   - **Ações priorizadas**:
+     1. Melhorar infraestrutura de transporte: Investimento em estradas rurais.
+     2. Parcerias público-privadas para fortalecer a indústria de alimentos.
+     3. Incentivos fiscais para empresas de comércio eletrônico.
+   - **Recursos necessários**: Aproximadamente R$ 1.000.000,00 para infraestrutura e R$ 500.000,00 para incentivos fiscais.
+   - **ROI esperado**: 15% em 12 meses.
+   - **Timeline de implementação**: 6-12 meses.
 
-2. Decisoes de Curto Prazo (6-12 meses):
-   - Lista de ações priorizadas:
-     1. Criação de um fundo de inovação para pequenas e médias empresas no setor de serviços.
-     2. Projeção de parcerias com empresas de logística para otimização do transporte no setor agrícola.
-     3. Implantação de tecnologia para comércio eletrônico no setor de varejo.
-   - Recursos necessários: R$ 1,000,000.00 para fundo; R$ 350,000.00 para parcerias; R$ 500,000.00 para tecnologia.
-   - ROI esperado por ação:
-     1. 20% no fundo de inovação em um ano.
-     2. Redução de 10% nos custos logísticos.
-     3. Aumento de 25% no volume de vendas online.
-   - Timeline de implementação: 
-     1. Fundo de inovação: 6 meses
-     2. Parcerias logísticas: 9 meses
-     3. Comércio eletrônico: 12 meses
-
-3. Decisoes de Medio Prazo (12-24 meses):
-   - Projetos estruturantes:
-     1. Desenvolvimento de infraestrutura de transporte para melhorar a conectividade entre produtores e mercados.
-     2. Criação de um hub de tecnologia agrícola que promova a inovação e a pesquisa no setor.
-   - Investimentos necessários:
-     1. R$ 30,000,000.00 para infraestrutura.
-     2. R$ 10,000,000.00 para hub tecnológico.
-   - Impacto projetado no PIB: Aumento de 0.5% no PIB regional devido à eficiência nas cadeias logísticas e ao fortalecimento de competências tecnológicas.
-   - Cronograma detalhado: 
-     1. Infraestrutura: 24 meses.
-     2. Hub de tecnologia: 18 meses.
-```
+3. **Decisões de Médio Prazo (12-24 meses)**:
+   - **Projetos estruturantes**:
+     1. Criação de um centro de inovação agrícola para pesquisa e desenvolvimento.
+     2. Expansão de cooperativas de agricultores para fortalecimento do comércio local.
+   - **Investimentos necessários**: R$ 2.500.000,00 para o centro de inovação, R$ 1.000.000,00 para cooperativas.
+   - **Impacto projetado no PIB**: Estimativa de aumento de 0.5% do PIB regional.
+   - **Cronograma detalhado**: 12-24 meses, divididos em fases de planejamento, implementação e avaliação.

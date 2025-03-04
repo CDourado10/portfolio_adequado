@@ -1,0 +1,8 @@
+2025-02-28 22:03:16,264 - __main__ - DEBUG - Starting economic calendar tool execution
+2025-02-28 22:03:16,264 - __main__ - DEBUG - Attempt 1 of 3 to get calendar data
+2025-02-28 22:03:20,391 - __main__ - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-02-28 22:03:49,536 - __main__ - ERROR - Error getting data for timeFrame_thisWeek: Message: 
+
+2025-02-28 22:03:59,664 - __main__ - ERROR - Error getting data for timeFrame_nextWeek: Message: 
+
+2025-02-28 22:04:02,298 - __main__ - ERROR - Error getting calendar data: No calendar data was obtained

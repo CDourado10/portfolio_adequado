@@ -75,8 +75,10 @@ class MasterPortfolioCrew:
 if __name__ == "__main__":
     crew = MasterPortfolioCrew()
     results = crew.crew().kickoff(inputs={
-        "risk_level": "medium",
+        "risk_level": "high",
         "investment_horizon": "long",
         "asset_types": "stocks, cryptocurrencies, etfs, commodities"
     })
+
+    
     print(results)

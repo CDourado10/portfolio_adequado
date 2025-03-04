@@ -1,27 +1,22 @@
 Propostas Fiscais:
+
 1. Receitas:
-   - Ação de implementação: Implementar um programa de auditoria de arrecadação de impostos, visando identificar e recuperar tributos não pagos, especialmente no setor de serviços e comércio.
-   - Impacto esperado em reais: R$ 15,000,000.00 com base na recuperação de 2% das receitas não arrecadadas.
-   - Prazo de implementação em dias: 90 dias.
-   - Custos operacionais em reais: R$ 500,000.00 para contratação de auditorias externas.
-   - Indicadores de monitoramento: Percentual de tributos recuperados sobre o total estimado, mensalmente.
+   - Ação de implementação: Revisão e atualização da legislação sobre taxas estaduais e municipais, visando aumentar a arrecadação sem onerar a população.
+   - Impacto esperado em reais: R$ 50.000.000,00 anuais.
+   - Prazo de implementação em dias: 120 dias.
+   - Custos operacionais em reais: R$ 150.000,00 (custo de análise e revisão).
+   - Indicadores de monitoramento: Aumento na arrecadação mensal de taxas e impostos.
 
 2. Despesas:
-   - Medidas de otimização: Revisão e renegociação de contratos públicos, com foco na redução de custos com serviços terceirizados e aquisição de bens.
-   - Economia prevista: R$ 10,000,000.00 anuais, através de uma redução de 15% nos contratos.
-   - Timeline de implementação: 120 dias para revisão completa e renegociação.
-   - Riscos e mitigações: Risco de resistência dos prestadores de serviços; mitigação através de comunicação clara e incentivos para continuidade.
+   - Medidas de otimização: Implementação de um programa de eficiência energética nas repartições públicas e revisão de contratos de serviços terceirizados.
+   - Economia prevista: R$ 25.000.000,00 anuais.
+   - Timeline de implementação: 180 dias para a implementação total do programa.
+   - Riscos e mitigações: Risco de resistência a mudanças - Mitigar através de capacitação e conscientização sobre os benefícios financeiros e ambientais do programa.
 
 3. Investimentos:
-   - Projetos prioritários: Desenvolvimento de um centro de inovação agrícola, focado em tecnologias que aumentam a produtividade e minimizam custos.
-   - Fontes de financiamento: Parcerias com setores privado e captação de recursos do governo federal, estimando valor total de R$ 12,000,000.00.
-   - Cronograma de desembolso: 36 meses, dividido em três fases de investimento a cada 12 meses.
-   - ROI projetado: Espera-se um retorno de 25% sobre o investimento em cinco anos, refletido no aumento da produção e eficiência do setor.
+   - Projetos prioritários: Criação de incentivos para startups e empresas de tecnologia, visando atrair investimentos e gerar empregos.
+   - Fontes de financiamento: Parcerias público-privadas e recursos do fundo de inovação do estado.
+   - Cronograma de desembolso: R$ 1.000.000,00 liberados em 3 parcelas ao longo de 12 meses.
+   - ROI projetado: 150% em 24 meses, considerando a geração de novos empregos e o aumento da arrecadação decorrente do crescimento das empresas.
 
-4. Indicadores de monitoramento: 
-   - Para as receitas, monitorar a variação percentual da arrecadação em comparação ao ano anterior.
-   - Para as despesas, acompanhar a redução percentual dos custos com contratos renegociados.
-   - Para os investimentos, analisar o retorno sobre o investimento anualmente, com relatórios de desempenho semestrais.
-
-Estas propostas têm como objetivo não apenas aumentarem a receita e reduzirem despesas, mas também garantirem investimentos estratégicos que apoiarão o desenvolvimento fiscal sustentável no estado de Goiás.
 ```

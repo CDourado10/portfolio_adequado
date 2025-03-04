@@ -1,44 +1,48 @@
-**Commodity Market Overview Report**
+### **Commodity Market Overview**
+---
+**Date:** 03/04/2025
+
+**1. Sector Performance:**
+   - **Energy Sector:** 
+     - Best Performer: Natural Gas (+7.89% Daily)
+     - Worst Performer: Uranium (-0.15% Daily)
+   - **Metals Sector:** 
+     - Best Performer: Gold (+0.64% Daily)
+     - Worst Performer: Lithium (-0.20% Daily)
+   - **Agricultural Sector:** 
+     - Best Performer: Coffee (+4.20% Daily)
+     - Worst Performer: Potatoes (-0.94% Daily)
+   - **Industrial Sector:** 
+     - Best Performer: Germanium (-1.25% Daily)
+     - Worst Performer: Soda Ash (0.00% Daily)
+   - **Livestock Sector:** 
+     - Best Performer: Eggs US (-0.13% Daily)
+     - Worst Performer: Lean Hogs (-1.84% Daily)
+   - **Index Sector:**
+     - Best Performer: EU Carbon Permits (+0.77% Daily)
+     - Worst Performer: Solar Energy Index (+3.17% Daily)
+   - **Electricity Sector:**
+     - Best Performer: Spain (-0.57% Daily)
+     - Worst Performer: France (-2.44% Daily)
+
+**2. Major Price Movements:**
+   - Natural Gas: 4.4473 USD/MMBtu (Daily: +7.89%)
+   - Gold: 2909.2 USD/t.oz (Daily: +0.64%)
+   - Coffee: 405.36 USd/Lbs (Daily: +4.20%)
+   - Eggs US: 8.16 USD/Dozen (Daily: -0.13%)
+
+**3. Supply/Demand Signals:**
+   - Positive trends in Natural Gas and Gold indicate strong demand amidst other sectors experiencing some volatility.
+   - Demand for Coffee remains strong, showcasing robust performance relative to agricultural paradigms.
+
+**4. Spread Analysis:**
+   - The strongest spread is noted in the performance of Natural Gas compared to Uranium, indicating significant market demand shifts.
+   - In metals, Gold continues to provide stability amidst volatility seen in Lithium.
+
+**5. Market Structure Changes:**
+   - Energy and agricultural commodities exhibit resilience suggesting a continued robust demand forecast while metals and livestock show mixed signals indicating potential shifts in supply chain stability.
+   - Fluctuations in the Electricity sector, particularly in Spain and France, may suggest upcoming structural adjustments in European energy markets.
 
 ---
-
-### Sector Performance:
-- **Energy**: 
-  - Natural gas shows strong performance with a price increase of +3.28% daily. 
-  - Uranium, however, struggles with a weekly decrease of -4.14%.
-- **Metals**: 
-  - Gold is resilient, with a monthly increase of +6.70%, while lithium is down -12.30% weekly.
-- **Agricultural**: 
-  - Coffee experiences a rise in monthly price by +15.75%, contrasting with potatoes which are down -21.21% weekly.
-- **Industrial**: 
-  - Germanium remains stable, but soda ash is declining (>4.95% monthly).
-- **Livestock**: 
-  - Eggs show robust demand (+4.53% weekly), while salmon drops sharply by -5.75%.
-- **Index**: 
-  - EU Carbon Permits maintain some stability despite being down -9.49% weekly.
-- **Electricity**: 
-  - Spain's electricity market faces turmoil, with prices down -60.36% weekly, while France is relatively stable.
-
-### Major Price Movements:
-- Key price gainers:
-  - **Natural Gas**: Up 3.28%
-  - **Coffee**: Up 15.75% monthly
-- Notable losses:
-  - **Potatoes**: Down 21.21%
-  - **Uranium**: Down 4.14% weekly
-
-### Supply/Demand Signals:
-- Increasing demand in **Natural Gas** and **Eggs** suggests a recovering market and heightened consumer need.
-- **Uranium** and **Salmon** face decreasing demand, indicating potential oversupply or changing consumer habits.
-
-### Spread Analysis:
-- **Natural Gas and Oil** trends indicate a robust inter-commodity spread, suggesting lucrative arbitrage opportunities.
-- Metals market indicates volatility with notable splits between gold’s performance and that of lithium.
-
-### Market Structure Changes:
-- The electricity sector shows drastic changes, especially in Spain, indicating supply chain disruptions or regulatory impacts.
-- Changes in performance across sectors suggest a realignment of investment strategies in response to fluctuating prices and demand dynamics.
-
---- 
-This report captures the multifaceted landscape of the commodity market, offering a thorough understanding of sector performances, price movements, and overarching market dynamics essential for strategic decision-making.
+This report serves as a comprehensive overview of the commodity markets, analyzing price movements combining both supply and demand signals, major sector performances, spread analyses, and predicting future market structures based on current observations.
 ```

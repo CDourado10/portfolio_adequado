@@ -1,6 +1,43 @@
-- **Optimized Assets:**
-  1. IVOV - Vanguard S&P Mid-Cap 400 Value Index Fund ETF Shares
-  2. SPLG - SPDR Portfolio S&P 500 ETF
+Optimized Asset Portfolio:
+1. **Dole plc (DOLE)**
+   - **Ticker:** DOLE
+   - **Sharpe Ratio:** 1.00
+   - **Max Drawdown:** N/A 
+   - **Annual Volatility:** 19.7%
+   - **Weight in Portfolio:** 33.9%
+   - **Volume:** 590,000 (30th percentile)
+   
+2. **Companhia Siderúrgica Nacional (SID)**
+   - **Ticker:** SID
+   - **Sharpe Ratio:** -1.35
+   - **Max Drawdown:** N/A 
+   - **Annual Volatility:** 37.1%
+   - **Weight in Portfolio:** 16.0%
+   - **Volume:** 2,250,000 (70th percentile)
+   
+3. **Altice USA, Inc. (ATUS)**
+   - **Ticker:** ATUS
+   - **Sharpe Ratio:** 0.35
+   - **Max Drawdown:** N/A 
+   - **Annual Volatility:** 52.7%
+   - **Weight in Portfolio:** 14.6%
+   - **Volume:** 3,070,000 (80th percentile)
+   
+4. **Atea Pharmaceuticals, Inc. (AVIR)**
+   - **Ticker:** AVIR
+   - **Sharpe Ratio:** -0.35
+   - **Max Drawdown:** N/A 
+   - **Annual Volatility:** 36.9%
+   - **Weight in Portfolio:** 8.8%
+   - **Volume:** 288,000 (20th percentile)
+   
+5. **Lithium Americas Corp. (LAC)**
+   - **Ticker:** LAC
+   - **Sharpe Ratio:** -0.38
+   - **Max Drawdown:** N/A 
+   - **Annual Volatility:** 64.7%
+   - **Weight in Portfolio:** 7.5%
+   - **Volume:** 5,520,000 (90th percentile)
 
-Both assets were selected based on their sharpe ratios and volatility, ensuring they align with the investment strategy while providing adequate liquidity and maintaining position sizing and diversification as per portfolio management guidelines.
+These selected assets are tailored to meet the high-risk, long-term investment profile while accounting for strict liquidity constraints, diversification, and performance metrics specified in the assessment.
 ```
