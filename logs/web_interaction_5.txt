@@ -1,0 +1,815 @@
+ SystemMessage 
+You are an AI agent designed to automate browser tasks. Your goal is to accomplish the ultimate task following the rules.
+
+# Input Format
+Task
+Previous steps
+Current URL
+Open Tabs
+Interactive Elements
+[index]<type>text</type>
+- index: Numeric identifier for interaction
+- type: HTML element type (button, input, etc.)
+- text: Element description
+Example:
+[33]<button>Submit Form</button>
+
+- Only elements with numeric indexes in [] are interactive
+- elements without [] provide only context
+
+# Response Rules
+1. RESPONSE FORMAT: You must ALWAYS respond with valid JSON in this exact format:
+{"current_state": {"evaluation_previous_goal": "Success|Failed|Unknown - Analyze the current elements and the image to check if the previous goals/actions are successful like intended by the task. Mention if something unexpected happened. Shortly state why/why not",
+"memory": "Description of what has been done and what you need to remember. Be very specific. Count here ALWAYS how many times you have done something and how many remain. E.g. 0 out of 10 websites analyzed. Continue with abc and xyz",
+"next_goal": "What needs to be done with the next immediate action"},
+"action":[{"one_action_name": {// action-specific parameter}}, // ... more actions in sequence]}
+
+2. ACTIONS: You can specify multiple actions in the list to be executed in sequence. But always specify only one action name per item. Use maximum {max_actions} actions per sequence.
+Common action sequences:
+- Form filling: [{"input_text": {"index": 1, "text": "username"}}, {"input_text": {"index": 2, "text": "password"}}, {"click_element": {"index": 3}}]
+- Navigation and extraction: [{"go_to_url": {"url": "https://example.com"}}, {"extract_content": {"goal": "extract the names"}}]
+- Actions are executed in the given order
+- If the page changes after an action, the sequence is interrupted and you get the new state.
+- Only provide the action sequence until an action which changes the page state significantly.
+- Try to be efficient, e.g. fill forms at once, or chain actions where nothing changes on the page
+- only use multiple actions if it makes sense.
+
+3. ELEMENT INTERACTION:
+- Only use indexes of the interactive elements
+- Elements marked with "[]Non-interactive text" are non-interactive
+
+4. NAVIGATION & ERROR HANDLING:
+- If no suitable elements exist, use other functions to complete the task
+- If stuck, try alternative approaches - like going back to a previous page, new search, new tab etc.
+- Handle popups/cookies by accepting or closing them
+- Use scroll to find elements you are looking for
+- If you want to research something, open a new tab instead of using the current tab
+- If captcha pops up, try to solve it - else try a different approach
+- If the page is not fully loaded, use wait action
+
+5. TASK COMPLETION:
+- Use the done action as the last action as soon as the ultimate task is complete
+- Dont use "done" before you are done with everything the user asked you, except you reach the last step of max_steps. 
+- If you reach your last step, use the done action even if the task is not fully finished. Provide all the information you have gathered so far. If the ultimate task is completly finished set success to true. If not everything the user asked for is completed set success in done to false!
+- If you have to do something repeatedly for example the task says for "each", or "for all", or "x times", count always inside "memory" how many times you have done it and how many remain. Don't stop until you have completed like the task asked you. Only call done after the last step.
+- Don't hallucinate actions
+- Make sure you include everything you found out for the ultimate task in the done text parameter. Do not just say you are done, but include the requested information of the task. 
+
+6. VISUAL CONTEXT:
+- When an image is provided, use it to understand the page layout
+- Bounding boxes with labels on their top right corner correspond to element indexes
+
+7. Form filling:
+- If you fill an input field and your action sequence is interrupted, most often something changed e.g. suggestions popped up under the field.
+
+8. Long tasks:
+- Keep track of the status and subresults in the memory. 
+
+9. Extraction:
+- If your task is to find information - call extract_content on the specific pages to get and store the information.
+Your responses must be always JSON with the specified format.
+
+ HumanMessage 
+Your ultimate task is: """Select the 10 most impactful events for the financial market in the next 7 days.""". If you achieved your ultimate task, stop everything and use the done action in the next step to complete the task. If not, continue as usual.
+
+ HumanMessage 
+Example output:
+
+ AIMessage 
+
+
+ ToolMessage 
+Browser started
+
+ HumanMessage 
+[Your task history memory starts here]
+
+ HumanMessage 
+Action result: 🔗  Opened new tab with https://tradingeconomics.com/earnings
+
+ AIMessage 
+
+
+ ToolMessage 
+
+
+ HumanMessage 
+Action result: 📄  Extracted from page
+: ```json
+{
+  "upcoming_financial_events": [
+    {
+      "date": "March 11, 2025",
+      "events": [
+        {
+          "company": "Ferguson",
+          "ticker": "FERG:LN",
+          "EPS": "4.09",
+          "consensus": "1.99",
+          "previous": "1.74",
+          "revenue": "14.55B",
+          "revenue_consensus": "7.09B",
+          "previous_revenue": "6.67B",
+          "marketCap": "$31.63B",
+          "fiscal_quarter": "Q2",
+          "time": "PM"
+        },
+        {
+          "company": "Volkswagen",
+          "ticker": "VOW3:GR",
+          "EPS": "3.46",
+          "consensus": "6.54",
+          "previous": "9.31",
+          "revenue": "87.377B",
+          "revenue_consensus": "83.34B",
+          "previous_revenue": "87.18B",
+          "marketCap": "$24.11B",
+          "fiscal_quarter": "Q4",
+          "time": "PM"
+        },
+        {
+          "company": "Dick's Sporting Goods",
+          "ticker": "DKS:US",
+          "EPS": "3.62",
+          "consensus": "3.48",
+          "previous": "3.85",
+          "revenue": "3.89B",
+          "revenue_consensus": "3.76B",
+          "previous_revenue": "3.88B",
+          "marketCap": "$16.3B",
+          "fiscal_quarter": "Q4",
+          "time": "AM"
+        },
+        {
+          "company": "Casey's General Stores",
+          "ticker": "CASY:US",
+          "EPS": "2.33",
+          "consensus": "2.03",
+          "previous": "2.33",
+          "revenue": "3.9B",
+          "revenue_consensus": "3.76B",
+          "previous_revenue": "3.33B",
+          "marketCap": "$14.34B",
+          "fiscal_quarter": "Q3",
+          "time": "PM"
+        },
+        {
+          "company": "Henkel",
+          "ticker": "HEN3:GR",
+          "EPS": "1.30",
+          "consensus": "1.30",
+          "previous": "1.21",
+          "revenue": "5.28B",
+          "revenue_consensus": "5.25B",
+          "previous_revenue": "5.32B",
+          "marketCap": "$13.86B",
+          "fiscal_quarter": "Q3",
+          "time": "PM"
+        }
+      ]
+    },
+    {
+      "date": "March 12, 2025",
+      "events": [
+        {
+          "company": "Adobe Systems",
+          "ticker": "ADBE:US",
+          "EPS": null,
+          "consensus": "4.97",
+          "previous": "4.48",
+          "revenue": null,
+          "revenue_consensus": "5.66B",
+          "previous_revenue": "5.18B",
+          "marketCap": "$192.32B",
+          "fiscal_quarter": "Q1",
+          "time": "PM"
+        },
+        {
+          "company": "Inditex",
+          "ticker": "ITX:SM",
+          "EPS": null,
+          "consensus": "0.44",
+          "previous": "0.41",
+          "revenue": null,
+          "revenue_consensus": "11.12B",
+          "previous_revenue": "10.34B",
+          "marketCap": "$166.75B",
+          "fiscal_quarter": "Q4",
+          "time": null
+        },
+        {
+          "company": "Crown Castle International",
+          "ticker": "CCI:US",
+          "EPS": null,
+          "consensus": "0.45",
+          "previous": "0.83",
+          "revenue": null,
+          "revenue_consensus": "1.64B",
+          "previous_revenue": "1.67B",
+          "marketCap": "$42.49B",
+          "fiscal_quarter": "Q4",
+          "time": "PM"
+        }
+      ]
+    }
+  ]
+}
+```
+
+ HumanMessage 
+Action error: Return a valid JSON object with the required fields.
+
+ AIMessage 
+
+
+ ToolMessage 
+
+
+ HumanMessage 
+Action result: 🔍  Scrolled down the page by 800 pixels
+
+ AIMessage 
+
+
+ ToolMessage 
+
+
+ HumanMessage 
+Action result: 🔍  Scrolled down the page by 800 pixels
+
+ HumanMessage 
+[Task history memory ends]
+[Current state starts here]
+The following is one-time information - if you need to remember it write it to memory:
+Current url: https://tradingeconomics.com/earnings
+Available tabs:
+[TabInfo(page_id=0, url='about:blank', title=''), TabInfo(page_id=1, url='https://tradingeconomics.com/earnings', title='Earnings Calendar')]
+Interactive elements from top layer of the current page inside the viewport:
+... 1600 pixels above - scroll or extract content to see more ...
+[0]<button />
+[1]<a />
+[2]<a Calendar/>
+[3]<a News/>
+[4]<a Markets/>
+[5]<a Indicators/>
+[6]<a Countries/>
+[7]<a Forecasts/>
+[8]<a Search/>
+[9]<input Search;text/>
+[10]<button />
+[11]<a button/>
+[12]<a Commodities/>
+[13]<a Indexes/>
+[14]<a Currencies/>
+[15]<a Crypto/>
+[16]<a Bonds/>
+[17]<a Earnings/>
+[18]<a Holidays/>
+[19]<a Cogna Educacao/>
+COGN3:BZ
+0.11
+[20]<a 0.05/>
+2.07B
+[21]<a 0.05/>
+$537.51M
+Q4
+Thursday Mar 13
+EPS
+Consensus
+Previous
+Revenue
+Consensus
+Previous
+MarketCap
+Fiscal
+Time
+[22]<a Enel/>
+ENEL:IM
+0.12
+[23]<a 0.15/>
+42.05B
+[24]<a 87.02B/>
+$77.26B
+Q4
+[25]<a Assicurazioni Generali/>
+G:IM
+0.94
+[26]<a 0.92/>
+48.18B
+[27]<a 22B/>
+$53.9B
+Q4
+[28]<a Hannover Rueck/>
+HNR1:GR
+4.78
+[29]<a 3.53/>
+6.41B
+[30]<a 5.84B/>
+$35.24B
+Q4
+AM
+[31]<a Wheaton Precious Metals/>
+WPM:CN
+0.46
+[32]<a 0.36/>
+399.37M
+[33]<a 313M/>
+$32.39B
+Q4
+PM
+[34]<a Dollar General/>
+DG:US
+1.50
+[35]<a 1.83/>
+10.26B
+[36]<a 9.9B/>
+$17.43B
+Q4
+AM
+[37]<a Ulta Salon Cosmetics Fragrance/>
+ULTA:US
+7.10
+[38]<a 8.08/>
+3.46B
+[39]<a 3.6B/>
+$16.63B
+Q4
+PM
+[40]<a DocuSign/>
+DOCU:US
+0.84
+[41]<a 0.76/>
+760.99M
+[42]<a 712.4M/>
+$16.17B
+Q4
+PM
+[43]<a Centrais Eletricas Brasileiras/>
+ELET3:BS
+0.96
+[44]<a 0.39/>
+10.58B
+[45]<a 10.28B/>
+$13.07B
+Q4
+[46]<a Empire Company/>
+EMPA:CN
+0.63
+[47]<a 0.62/>
+7.67B
+[48]<a 7.49B/>
+$7.34B
+Q3
+AM
+[49]<a Guangzhou Baiy/>
+600332:CH
+0.29
+[50]<a 0.34/>
+[51]<a 22.95B/>
+$5.29B
+Q4
+AM
+[52]<a Hugo Boss/>
+BOSS:GR
+1.05
+[53]<a 1.23/>
+1.19B
+[54]<a 1.18B/>
+$3.01B
+Q4
+AM
+[55]<a Deliveroo Holdings/>
+ROO:LN
+0.04
+[56]<a -0.02/>
+546.41M
+[57]<a 523M/>
+$2.94B
+H2
+AM
+[58]<a Weibo/>
+WB:US
+0.40
+[59]<a 0.31/>
+453.11M
+[60]<a 463.7M/>
+$2.6B
+Q4
+AM
+[61]<a Premium Brands/>
+PBH:CN
+1.06
+[62]<a 0.85/>
+1.6B
+[63]<a 1.55B/>
+$2.47B
+Q4
+PM
+[64]<a Semtech/>
+SMTC:US
+0.33
+[65]<a -0.06/>
+250.18M
+[66]<a 192.9M/>
+$2.04B
+Q4
+PM
+North West Company
+NWC:CN
+0.73
+0.78
+688.8M
+643.11M
+$1.54B
+Q4
+PM
+HelloFresh
+HFG:GR
+0.46
+0.01
+1.81B
+1.86B
+$1.53B
+Q4
+PM
+[67]<a Magazine Luiza/>
+MGLU3:BZ
+0.26
+[68]<a 0.01/>
+11.34B
+[69]<a 10.55B/>
+$1.05B
+Q4
+[70]<a New Flyer Industries/>
+NFI:CN
+0.05
+[71]<a -0.05/>
+856.12M
+[72]<a 792M/>
+$877.62M
+Q4
+PM
+[73]<a VAALCO Energy, Inc/>
+EGY:LN
+0.15
+[74]<a 0.41/>
+140.5M
+[75]<a 149.15M/>
+$576.11M
+Q4
+PM
+[76]<a Eztec Empreendimentos E Participacoes/>
+EZTC3:BZ
+0.39
+[77]<a 0.38/>
+358.81M
+[78]<a 337.9M/>
+$496.35M
+Q4
+[79]<a North American Construction/>
+NOA:US
+0.99
+[80]<a 0.87/>
+310.83M
+[81]<a 326.3M/>
+$444.2M
+Q4
+PM
+Friday Mar 14
+EPS
+Consensus
+Previous
+Revenue
+Consensus
+Previous
+MarketCap
+Fiscal
+Time
+[82]<a BMW/>
+BMW:GR
+2.91
+[83]<a 3.77/>
+42.4B
+[84]<a 42.97B/>
+$51.79B
+Q4
+AM
+[85]<a Daimler Truck Holding AG/>
+DTG:GR
+0.87
+[86]<a 1.48/>
+11.03B
+[87]<a 14.95B/>
+$36.05B
+Q4
+AM
+[88]<a Swiss Life Holding/>
+SLHN:SW
+22.70
+[89]<a 16.45/>
+8.21B
+$25.92B
+H2
+AM
+[90]<a Diasorin/>
+DIA:IM
+1.08
+[91]<a 1.11/>
+316.43M
+[92]<a 302M/>
+$5.78B
+Q4
+[93]<a Buckle/>
+BKE:US
+1.38
+[94]<a 1.59/>
+373.6M
+[95]<a 382.38M/>
+$1.89B
+Q4
+AM
+[96]<a Gogo/>
+GOGO:US
+0.06
+[97]<a 0.11/>
+97.28M
+[98]<a 97.81M/>
+$927.2M
+Q4
+AM
+Monday Mar 17
+EPS
+Consensus
+Previous
+Revenue
+Consensus
+Previous
+MarketCap
+Fiscal
+Time
+[99]<a WuXi AppTec/>
+603259:CH
+1.09
+[100]<a 0.76/>
+11.5B
+[101]<a 10.8B/>
+$21.3B
+Q4
+AM
+[102]<a Mtn/>
+MTN:SJ
+[103]<a 6.76/>
+[104]<a 108B/>
+$11.15B
+H2
+[105]<a Science Applications International/>
+SAIC:US
+2.07
+[106]<a 1.43/>
+1.81B
+[107]<a 1.74B/>
+$5.53B
+Q4
+AM
+[108]<a YDUQS Participacoes/>
+YDUQ3:BZ
+0.09
+[109]<a 0.38/>
+1.27B
+[110]<a 1.3B/>
+$525.5M
+Q3
+Tuesday Mar 18
+EPS
+Consensus
+Previous
+Revenue
+Consensus
+Previous
+MarketCap
+Fiscal
+Time
+[111]<a Computacenter/>
+CCC:LN
+1.08
+[112]<a 0.96/>
+3.77B
+$5.76B
+H2
+AM
+[113]<a Energisa/>
+ENGI11:BZ
+1.07
+[114]<a 1.35/>
+7.54B
+[115]<a 8.08B/>
+$2.73B
+Q4
+[116]<a New Hope Corporation/>
+NHC:AU
+0.35
+[117]<a 0.3/>
+1.09B
+[118]<a 0.86B/>
+$2.2B
+H1
+AM
+[119]<a IHS Holding/>
+IHS:US
+0.06
+[120]<a -1.36/>
+424.17M
+[121]<a 509.8M/>
+$1.07B
+Q4
+AM
+Wednesday Mar 19
+EPS
+Consensus
+Previous
+Revenue
+Consensus
+Previous
+MarketCap
+Fiscal
+Time
+[122]<a Tencent Holdings/>
+700:HK
+5.71
+[123]<a 4.54/>
+169.33B
+[124]<a 155.2B/>
+$614.42B
+Q4
+AM
+[125]<a PDD Holdings/>
+PDD:US
+19.86
+[126]<a 17.32/>
+115.04B
+[127]<a 88.88B/>
+$153.92B
+Q4
+PM
+[128]<a General Mills/>
+GIS:US
+0.98
+[129]<a 1.17/>
+5.02B
+[130]<a 5.1B/>
+$35.78B
+Q3
+AM
+[131]<a China United Network/>
+600050:CH
+0.02
+[132]<a 0.02/>
+193,879M
+[133]<a 90.91B/>
+$27.29B
+Q4
+AM
+[134]<a Vonovia/>
+VNA:GR
+0.37
+[135]<a 0.51/>
+811.89M
+[136]<a 837.4M/>
+$23.07B
+Q4
+AM
+[137]<a Power Of Canada/>
+POW:CN
+1.20
+[138]<a 0.84/>
+3.91B
+[139]<a 3.64B/>
+$19.92B
+Q4
+PM
+[140]<a Terna Rete Elettrica Nazionale/>
+TRN:IM
+0.11
+[141]<a 0.12/>
+1B
+[142]<a 940M/>
+$17.32B
+Q4
+[143]<a Snam/>
+SRG:IM
+0.08
+[144]<a 0.07/>
+1.62B
+[145]<a 1.14B/>
+$16.92B
+Q4
+[146]<a Fuyao Glass Indu/>
+600660:CH
+0.80
+[147]<a 0.58/>
+10.8B
+[148]<a 9.34B/>
+$15.77B
+Q4
+[149]<a Huazhu Limited/>
+HTHT:US
+2.32
+[150]<a 0.29/>
+5.68B
+[151]<a 786B/>
+$11.78B
+Q4
+PM
+[152]<a M&G/>
+MNG:LN
+0.12
+$6.62B
+H2
+[153]<a Kb Home/>
+KBH:US
+1.60
+[154]<a 1.76/>
+1.51B
+[155]<a 1.47B/>
+$4.78B
+Q1
+PM
+[156]<a Five Below/>
+FIVE:US
+3.37
+[157]<a 3.65/>
+1.38B
+[158]<a 1.34B/>
+$4.2B
+Q4
+AM
+[159]<a Shanghai Petrochemical/>
+600688:CH
+0.01
+[160]<a -0.06/>
+23.51B
+[161]<a 21.28B/>
+$3.3B
+Q4
+[162]<a Winnebago Industries/>
+WGO:US
+0.21
+[163]<a 0.93/>
+623.58M
+[164]<a 703.6M/>
+$1.02B
+Q2
+AM
+[165]<a Guess/>
+GES:US
+1.43
+[166]<a 2.01/>
+920.92M
+[167]<a 891M/>
+$533.6M
+Q4
+PM
+[168]<a Minerva/>
+BEEF3:BZ
+0.06
+[169]<a 0.48/>
+11.97B
+[170]<a 7.41B/>
+$476.3M
+Q4
+Indicators
+[171]<a Homepage/>
+[172]<a Countries/>
+[173]<a Indicators/>
+[174]<a Calendar/>
+Solutions
+[175]<a Data Subscriptions/>
+[176]<a API Access/>
+[177]<a Excel Add-In/>
+[178]<a Developer Account/>
+About Us
+[179]<a Customers/>
+[180]<a Careers/>
+[181]<a Investors/>
+[182]<a Advertisers/>
+[183]<a />
+[184]<a />
+[185]<img />
+... 702 pixels below - scroll or extract content to see more ...
+Current step: 5/100Current date and time: 2025-03-12 03:38
+
+ RESPONSE
+{
+  "current_state": {
+    "evaluation_previous_goal": "Success - Identified impactful financial events",
+    "memory": "Collected 9 impactful financial events so far, including those for March 14, 15, and 17. Need one more event to meet the goal.",
+    "next_goal": "Scroll to find the last impactful event."
+  },
+  "action": [
+    {
+      "scroll_down": {
+        "amount": 800
+      }
+    }
+  ]
+}

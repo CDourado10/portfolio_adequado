@@ -1,0 +1,31 @@
+2025-03-09 16:02:34,315 - __main__ - DEBUG - Starting economic calendar tool execution
+2025-03-09 16:02:34,315 - __main__ - DEBUG - Attempt 1 of 3 to get calendar data
+2025-03-09 16:02:38,659 - __main__ - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-03-09 16:03:03,873 - __main__ - ERROR - Error getting data for timeFrame_thisWeek: Message: 
+
+2025-03-09 16:03:13,988 - __main__ - ERROR - Error getting data for timeFrame_nextWeek: Message: 
+
+2025-03-09 16:03:16,805 - __main__ - ERROR - Error getting calendar data: No calendar data was obtained
+2025-03-09 16:03:39,161 - __main__ - DEBUG - Attempt 2 of 3 to get calendar data
+2025-03-09 16:03:43,263 - __main__ - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-03-09 16:04:12,664 - __main__ - ERROR - Error getting data for timeFrame_thisWeek: Message: 
+
+2025-03-09 16:04:22,790 - __main__ - ERROR - Error getting data for timeFrame_nextWeek: Message: 
+
+2025-03-09 16:04:25,430 - __main__ - ERROR - Error getting calendar data: No calendar data was obtained
+2025-03-09 16:04:47,777 - __main__ - DEBUG - Attempt 3 of 3 to get calendar data
+2025-03-09 16:04:51,921 - __main__ - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-03-09 16:05:17,369 - __main__ - ERROR - Error getting data for timeFrame_thisWeek: Message: 
+
+2025-03-09 16:05:27,501 - __main__ - ERROR - Error getting data for timeFrame_nextWeek: Message: 
+
+2025-03-09 16:05:30,209 - __main__ - ERROR - Error getting calendar data: No calendar data was obtained
+2025-03-09 16:05:50,610 - __main__ - ERROR - Error processing economic calendar: No calendar data was obtained
+2025-03-09 18:13:40,537 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Starting economic calendar tool execution
+2025-03-09 18:13:40,537 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Attempt 1 of 3 to get calendar data
+2025-03-09 18:13:44,707 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Accessing URL: https://tradingeconomics.com/calendar
+2025-03-09 18:13:53,037 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Data successfully obtained
+2025-03-09 18:31:33,887 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Starting economic calendar tool execution
+2025-03-09 18:31:33,887 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Attempt 1 of 3 to get calendar data
+2025-03-09 18:31:38,132 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Accessing URL: https://tradingeconomics.com/calendar
+2025-03-09 18:31:46,410 - tools.financy.macro_economy.economic_calendar_tool - DEBUG - Data successfully obtained

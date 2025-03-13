@@ -1,41 +1,59 @@
-{
-  "cleaned_news": [
+```json
+[
     {
-      "title": "‘This is not a time to be making big bets.’ This market pro is following Warren Buffett’s lead.",
-      "description": "Strategist David Rosenberg says ‘It’s a time to hunker down.’ Cash, defensive stocks and non-U.S. markets are the best choices now, he says.",
-      "source": "MarketWatch",
-      "date": "2025-03-03",
-      "url": "https://www.marketwatch.com/story/this-is-not-a-time-to-be-making-big-bets-this-market-pro-is-following-warren-buffetts-lead-22a32eeb",
-      "sentiment": "Somewhat-Bullish",
-      "reliability_score": 0.85
+        "source": "CoinDesk",
+        "title": "Bahrain-Regulated Crypto Exchange Enters $1B Tokenized Gold Market as RWA Demand Grows",
+        "date": "2025-03-11T18:08:00Z",
+        "summary": "Gold-backed tokens have enjoyed a resurgence in activity recently as gold prices hit record highs.",
+        "link": "https://www.coindesk.com/business/2025/03/11/bahrain-regulated-crypto-exchange-enters-usd1b-tokenized-gold-market-as-rwa-demand-grows",
+        "sentiment": "Bullish",
+        "sentiment_score": 0.261316,
+        "topics": ["CRYPTO", "GOLD"],
+        "reliability_score": 0.9
     },
     {
-      "title": "The crypto law alphabet soup of the UAE",
-      "description": "From SCA and VARA to DMCC and ADGM, learn how the UAE’s acronym-filled regulatory framework shapes its position as a global crypto hub.",
-      "source": "Cointelegraph",
-      "date": "2025-03-03",
-      "url": "https://cointelegraph.com/news/the-crypto-law-alphabet-soup-of-the-uae",
-      "sentiment": "Neutral",
-      "reliability_score": 0.75
+        "source": "MarketWatch",
+        "title": "Fed Chair Powell Confirms 'Wait And See' Approach To Rate Cuts",
+        "date": "2025-03-07T20:12:00Z",
+        "summary": "In an economy where everything is suddenly uncertain, the Federal Reserve is waiting to see how things shake out before making any big moves.",
+        "link": "https://www.investopedia.com/fed-chair-powell-confirms-wait-and-see-approach-to-rate-cuts-11693204",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.1,
+        "topics": ["MONETARY POLICY", "INTEREST RATES"],
+        "reliability_score": 0.85
     },
     {
-      "title": "CNBC Daily Open: Trump clashes on foreign policy, wields economic threat",
-      "description": "It might seem questionable for a country to impose tariffs on its biggest trading partners, especially when its economy is showing signs of shrinking.",
-      "source": "CNBC",
-      "date": "2025-03-03",
-      "url": "https://www.cnbc.com/2025/03/03/cnbc-daily-open-trumps-diplomatic-conflict-and-economic-assault.html",
-      "sentiment": "Neutral",
-      "reliability_score": 0.80
+        "source": "Cointelegraph",
+        "title": "Ether risks correction to $1.8K as ETF outflows, tariff fears continue",
+        "date": "2025-03-11T13:23:00Z",
+        "summary": "Ether is struggling to reverse a near three-month downtrend as macroeconomic concerns weigh on investor sentiment.",
+        "link": "https://cointelegraph.com/news/ether-1-8k-correction-global-tariff-fears-eth-etf-outflows",
+        "sentiment": "Bearish",
+        "sentiment_score": -0.218904,
+        "topics": ["CRYPTOS", "ETHEREUM"],
+        "reliability_score": 0.88
     },
     {
-      "title": "Rising Bitcoin activity hints at market bottom, potential reversal",
-      "description": "Bitcoin’s growing active addresses may signal an incoming turning point for the crypto market after the latest correction.",
-      "source": "Cointelegraph",
-      "date": "2025-03-02",
-      "url": "https://cointelegraph.com/news/bitcoin-active-addresses-market-turning-point",
-      "sentiment": "Somewhat-Bullish",
-      "reliability_score": 0.75
+        "source": "Decrypt",
+        "title": "President Trump's Solana Meme Coin Down 85% From Peak as Inflation Fears Slam Bitcoin",
+        "date": "2025-03-10T20:50:00Z",
+        "summary": "Not even the president’s meme coin is weathering the crypto market downturn, with TRUMP now down more than 85% from its all-time high.",
+        "link": "https://decrypt.co/309451/president-trump-solana-meme-coin-down-85",
+        "sentiment": "Bearish",
+        "sentiment_score": -0.15,
+        "topics": ["CRYPTO", "INFLATION"],
+        "reliability_score": 0.8
+    },
+    {
+        "source": "CoinDesk",
+        "title": "Bitcoin and Nasdaq Could Stabilize as Bull Positioning in Yen Appears Stretched",
+        "date": "2025-03-11T07:20:00Z",
+        "summary": "Stretched positioning and Japanese institutional activity could cap gains in the yen, paving the way for a bounce in Nasdaq and bitcoin.",
+        "link": "https://www.coindesk.com/markets/2025/03/11/bitcoin-and-nasdaq-could-stabilize-as-bull-positioning-in-japanese-yen-appears-stretched",
+        "sentiment": "Bullish",
+        "sentiment_score": 0.3,
+        "topics": ["BITCOIN", "NASDAQ"],
+        "reliability_score": 0.9
     }
-  ]
-}
+]
 ```

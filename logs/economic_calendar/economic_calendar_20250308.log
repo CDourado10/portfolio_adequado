@@ -1,0 +1,23 @@
+2025-03-08 23:13:52,067 - __main__ - DEBUG - Starting economic calendar tool execution
+2025-03-08 23:13:52,069 - __main__ - DEBUG - Attempt 1 of 3 to get calendar data
+2025-03-08 23:13:56,337 - __main__ - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-03-08 23:14:21,878 - __main__ - ERROR - Error getting data for timeFrame_thisWeek: Message: 
+
+2025-03-08 23:14:32,020 - __main__ - ERROR - Error getting data for timeFrame_nextWeek: Message: 
+
+2025-03-08 23:14:34,778 - __main__ - ERROR - Error getting calendar data: No calendar data was obtained
+2025-03-08 23:14:57,131 - __main__ - DEBUG - Attempt 2 of 3 to get calendar data
+2025-03-08 23:15:01,623 - __main__ - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-03-08 23:15:30,135 - __main__ - ERROR - Error getting data for timeFrame_thisWeek: Message: 
+
+2025-03-08 23:15:40,267 - __main__ - ERROR - Error getting data for timeFrame_nextWeek: Message: 
+
+2025-03-08 23:15:42,910 - __main__ - ERROR - Error getting calendar data: No calendar data was obtained
+2025-03-08 23:16:05,251 - __main__ - DEBUG - Attempt 3 of 3 to get calendar data
+2025-03-08 23:16:09,483 - __main__ - DEBUG - Accessing URL: https://investing.com/economic-calendar/
+2025-03-08 23:16:38,250 - __main__ - ERROR - Error getting data for timeFrame_thisWeek: Message: 
+
+2025-03-08 23:16:48,389 - __main__ - ERROR - Error getting data for timeFrame_nextWeek: Message: 
+
+2025-03-08 23:16:51,021 - __main__ - ERROR - Error getting calendar data: No calendar data was obtained
+2025-03-08 23:17:11,356 - __main__ - ERROR - Error processing economic calendar: No calendar data was obtained

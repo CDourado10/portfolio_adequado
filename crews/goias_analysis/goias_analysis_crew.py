@@ -13,6 +13,7 @@ sys.path.append(project_root)
 # Import tools
 from tools.financy.macro_economy.goias_data_tool import GoiasDataTool
 from tools.financy.macro_economy.country_analysis_tool import CountryAnalysisTool
+from tools.financy.macro_economy.macro_analysis_positioning_tool import MacroAnalysisPositioningTool
 
 # Load environment variables
 load_dotenv()
@@ -56,7 +57,7 @@ class GoiasAnalysisCrew:
         return Agent(
             config=self.agents_config['strategy_coordinator'],
             verbose=True,
-            tools=[CountryAnalysisTool(), GoiasDataTool()],
+            tools=[MacroAnalysisPositioningTool(), CountryAnalysisTool(), GoiasDataTool()],
             llm="azure/gpt-4o-mini"
         )
 

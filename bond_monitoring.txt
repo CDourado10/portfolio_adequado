@@ -1,29 +1,33 @@
-### Bond Market Summary as of 03/04/2025
-
-#### Key Yield Changes:
-- **Turkey**: Yield increased to **25.90%**, daily change of **+0.15%**.
-- **Russia**: Yield at **15.55%**, with a slight daily rise of **+0.03%**.
-- **Brazil**: Yield at **15.27%**, weekly increase of **+0.60%**.
-- **South Africa**: Yield stable at **10.43%**, daily increase of **+0.05%**.
-- **Mexico**: Yield increased to **9.79%**, with daily rising trend of **+0.32%**.
-- **United States**: Yield at **4.20%**, daily increase of **+0.038%**.
-
-#### Spread Analysis:
-- The spread between the highest yield (Turkey) and the U.S. 10-year note is significant at **21.70%**, indicating a high-risk premium in emerging markets.
-- Comparatively low spreads observed for developed nations, such as between Germany (2.50%) and the United States (4.20%).
-
-#### Curve Movements:
-- The yield curve for major emerging economies such as Turkey, Brazil, and Russia shows steepening behaviors, indicating increased risk.
-- Developed markets (U.S., Germany, Japan) demonstrate flattening curves, likely reflecting market uncertainty in economic outlook.
-
-#### Liquidity Conditions:
-- Emerging markets exhibit concerns over liquidity, particularly with Turkey showing significant yield risk.
-- The U.S. and other developed nations maintain relatively stable liquidity conditions, but increased volatility could be observed with upcoming economic data.
-
-#### Market Stress Indicators:
-- Moderate risk signals presented in the U.S. bonds due to GDP growth decline and retail sales drop.
-- High stress indicators are present in the Euro area, where stagnation signals create additional economic pressure.
-- Emerging markets display varying stress levels, with Turkey experiencing the highest due to both yield spikes and economic instability.
-
-This comprehensive analysis aims to inform decision-making and assessments regarding bond investment strategies and market expectations.
-```
+{
+  "Bond Market Summary": {
+    "Key Yield Changes and Levels": {
+      "Turkey": "26.0500% 🟢 +0.1100",
+      "Brazil": "14.8640% 🟢 +0.2110",
+      "Russia": "14.8100% 🟢 +0.1600",
+      "South Africa": "10.4900% 🟢 +0.0200",
+      "Mexico": "9.9540% 🟢 +0.4300",
+      "India": "6.7500% 🟢 +0.0090",
+      "United States": "4.3120% 🟢 +0.0030",
+      "Italy": "3.9365% 🟢 +0.0185",
+      "Germany": "2.8865% 🟢 +0.0145"
+    },
+    "Spread Analysis": {
+      "Turkey vs US": "21.7380% spread",
+      "Brazil vs US": "10.5520% spread",
+      "Russia vs US": "10.4980% spread",
+      "South Africa vs US": "6.1780% spread"
+    },
+    "Curve Movements": {
+      "Brazil": "Slight curve flattening observed due to decreased weekly yield.",
+      "Turkey": "Increasing yield suggests a steepening in the curve."
+    },
+    "Liquidity Conditions": {
+      "Overall": "Moderate liquidity with some signs of tightness in emerging markets.",
+      "United States": "Liquidity remains stable."
+    },
+    "Market Stress Indicators": {
+      "Turkey": "High yield indicating stress in the bond market.",
+      "Italy": "Improvement in yield suggests reduced market stress."
+    }
+  }
+}

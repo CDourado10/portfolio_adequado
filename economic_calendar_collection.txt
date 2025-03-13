@@ -1,0 +1,63 @@
+```
+Structured Economic Events Base:
+
+1. **Date:** March 12, 2025
+   - **Event:** US: MBA Mortgage Applications
+   - **Importance Level:** High
+   - **Market Expectations:** Increase in mortgage applications.
+   - **Indicator Historical Data:** Historically, an increase in applications suggests a bullish housing market.
+
+2. **Date:** March 12, 2025
+   - **Event:** JP: 20-Year JGB Auction
+   - **Importance Level:** Medium
+   - **Market Expectations:** Stable demand expected.
+   - **Indicator Historical Data:** Recent auctions have shown fluctuating levels of investor interest.
+
+3. **Date:** March 12, 2025
+   - **Event:** CA: BoC Press Conference
+   - **Importance Level:** Medium
+   - **Market Expectations:** Insights on monetary policy shifts.
+   - **Indicator Historical Data:** Past conferences have indicated future rate plans influencing CAD.
+
+4. **Date:** March 13, 2025
+   - **Event:** CA: BoC Interest Rate Decision
+   - **Importance Level:** High
+   - **Market Expectations:** Likely hold on rates.
+   - **Indicator Historical Data:** Rate changes historically lead to immediate impacts on CAD.
+
+5. **Date:** March 13, 2025
+   - **Event:** US: Monthly Budget Statement
+   - **Importance Level:** Medium
+   - **Market Expectations:** Higher deficit expected.
+   - **Indicator Historical Data:** Monthly budget trends have impacted investor sentiment.
+
+6. **Date:** March 19, 2025
+   - **Event:** JP: BoJ Interest Rate Decision
+   - **Importance Level:** High
+   - **Market Expectations:** Rate hold anticipated.
+   - **Indicator Historical Data:** Traditionally low rates have resulted in Yen depreciation.
+
+7. **Date:** March 19, 2025
+   - **Event:** US: Fed Interest Rate Decision
+   - **Importance Level:** High
+   - **Market Expectations:** Expected rate hike.
+   - **Indicator Historical Data:** Rate adjustments have historically affected USD strength.
+
+8. **Date:** March 19, 2025
+   - **Event:** US: FOMC Economic Projections
+   - **Importance Level:** High
+   - **Market Expectations:** Adjusted growth forecasts.
+   - **Indicator Historical Data:** Projections often lead to market volatility and significant trading shifts.
+
+9. **Date:** March 20, 2025
+   - **Event:** GB: BoE Interest Rate Decision
+   - **Importance Level:** High
+   - **Market Expectations:** Hold on current rates expected.
+   - **Indicator Historical Data:** Previous meetings have impacted GBP movements significantly.
+
+10. **Date:** March 21, 2025
+    - **Event:** RU: Interest Rate Decision
+    - **Importance Level:** High
+    - **Market Expectations:** Rate cut anticipated.
+    - **Indicator Historical Data:** Recent trends suggest cuts will weaken the Ruble.
+```

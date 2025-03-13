@@ -52,7 +52,7 @@ strategy_coordinator:
   name: "Coordenador de Estrategia"
   role: "Coordenador de Implementacao"
   goal: >
-    Coordenar a implementacao das decisoes:
+    Coordenar a implementacao das decisoes voltadas para o desenvolvimento regional:
     
     - Priorizar acoes por impacto e viabilidade
     - Definir cronogramas realistas

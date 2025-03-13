@@ -1,67 +1,75 @@
-**Filtered Macroeconomic Report**
-
-**Date:** 03/04/2025
-
----
-
-### **Key Indicator Values and Changes**
-
-#### **United States**
-- **GDP Growth Rate:** 🔴 2.3% (previous: 3.1%)
-- **Inflation Rate:** 🟢 3% (previous: 2.9%)
-- **Unemployment Rate:** 🔴 4% (previous: 4.1%)
-- **Retail Sales MoM:** 🔴 -0.9% (previous: 0.7%)
-- **Consumer Confidence:** 🔴 64.7 (previous: 71.1)
-  
-#### **Euro Area**
-- **GDP Growth Rate:** 🔴 0% (previous: 0.4%)
-- **Inflation Rate:** 🔴 2.4% (previous: 2.5%)
-- **Unemployment Rate:** ⚪ 6.2% (no change)
-- **Retail Sales MoM:** 🔴 -0.2% (previous: 0%)
-- **Consumer Confidence:** 🟢 -13.6 (previous: -14.2)
-
-#### **China**
-- **GDP Annual Growth Rate:** 🟢 5.4% (previous: 4.6%)
-- **Inflation Rate:** 🟢 0.5% (previous: 0.1%)
-- **Unemployment Rate:** 🟢 5.1% (previous: 5%)
-- **Retail Sales MoM:** 🔴 0.12% (previous: 0.16%)
-- **Business Confidence:** 🟢 50.2 (previous: 49.1)
-
----
-
-### **Significant Deviations from Trends**
-- **United States:**
-  - GDP growth has significantly decreased from the prior rate, indicating a possible economic slowdown.
-  - Unemployment is slightly down, but retail sales dropping could signal consumer weakness.
-
-- **Euro Area:**
-  - The GDP growth rate hit zero, a critical indicator of economic stagnation.
-  - Consumer confidence continues to show negative trends, reflecting poor consumer sentiment conditions.
-
-- **China:**
-  - Positive news with GDP growth and inflation rate improving, showing strength in the economy contrary to trends in the West.
-  
----
-
-### **Important Economic Releases**
-- Upcoming releases to watch for in the U.S. include employment reports and inflation metrics, potentially influencing monetary policies.
-- Key indicators from the Euro Area will include future inflation reports and economic forecasts, crucial as the region needs a turnaround.
-
----
-
-### **Market Impact Assessment**
-- U.S. markets may experience volatility in reaction to declining GDP growth figures and retail sales, affecting stocks.
-- The Euro will be sensitive to any economic data that suggests recovery or further deterioration.
-- China's positive growth data may strengthen its currency and boost stock indices, attracting foreign investment.
-
----
-
-### **Risk Indicators Status**
-- **United States:** Moderate risk due to decline in GDP and retail sales, signalling economic weakness.
-- **Euro Area:** High risk; stagnation could lead to recessionary pressures.
-- **China:** Low risk; shows strong recovery trends, suggesting a resilient economy.
-
---- 
-
-This report highlights the significant changes and presents an analytical view to inform decision-making and assessments.
-```
+{
+  "Filtered Macroeconomic Report": {
+    "Key Indicator Values": {
+      "United States": {
+        "GDP Growth Rate": "🔴 2.3%",
+        "Unemployment Rate": "🟢 4.1%",
+        "Inflation Rate": "🔴 2.8%"
+      },
+      "Euro Area": {
+        "GDP Growth Rate": "🔴 0%",
+        "Unemployment Rate": "⚪ 6.2%",
+        "Inflation Rate": "🔴 2.4%"
+      },
+      "China": {
+        "GDP Growth Rate": "🟢 1.6%",
+        "Unemployment Rate": "🟢 5.1%",
+        "Inflation Rate": "🔴 -0.7%"
+      }
+    },
+    "Significant Deviations from Trends": {
+      "United States": {
+        "GDP Growth Rate": "Decreased from 3.1% to 2.3%",
+        "Unemployment Rate": "Slightly increased from 4% to 4.1%",
+        "Inflation Rate": "Decreased from 3% to 2.8%"
+      },
+      "Euro Area": {
+        "GDP Growth Rate": "Decreased from 0.4% to 0%",
+        "Inflation Rate": "Decreased from 2.5% to 2.4%"
+      },
+      "China": {
+        "Inflation Rate": "Significantly decreased from 0.5% to -0.7%"
+      }
+    },
+    "Important Economic Releases": {
+      "United States": {
+        "Non Farm Payrolls": "🟢 151 Thousand",
+        "Retail Sales MoM": "🔴 -0.9%"
+      },
+      "Euro Area": {
+        "Business Confidence": "🟢 -0.74 points",
+        "Retail Sales MoM": "🔴 -0.3%"
+      },
+      "China": {
+        "Consumer Confidence": "🟢 86.4 points",
+        "Retail Sales MoM": "🔴 0.12%"
+      }
+    },
+    "Market Impact Assessment": {
+      "United States": {
+        "GDP decline may signal slower economic growth.",
+        "Inflation decrease could lead to changes in monetary policy."
+      },
+      "Euro Area": {
+        "Stagnant GDP growth indicates economic challenges and potential recession risks."
+      },
+      "China": {
+        "Decline in inflation could suggest a weakening demand."
+      }
+    },
+    "Risk Indicators Status": {
+      "United States": {
+        "Balance of Trade": "🔴 -131 USD Billion",
+        "Government Debt to GDP": "⚪ 122%"
+      },
+      "Euro Area": {
+        "Government Debt to GDP": "🔴 87.4%",
+        "Consumer Confidence": "🟢 -13.6 points"
+      },
+      "China": {
+        "Government Debt to GDP": "🟢 83.4%",
+        "Current Account": "🟢 1.5% of GDP"
+      }
+    }
+  }
+}

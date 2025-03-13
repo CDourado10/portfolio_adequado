@@ -21,3 +21,6 @@
 2025-02-16 05:13:45,092 - tools.financy.macro_economy.country_data_tool - INFO - Buscando dados para brazil em https://tradingeconomics.com/brazil/indicators
 2025-02-16 21:44:57,071 - tools.financy.macro_economy.country_data_tool - INFO - Buscando dados para brazil em https://tradingeconomics.com/brazil/indicators
 2025-02-18 19:57:12,774 - tools.financy.macro_economy.country_data_tool - INFO - Buscando dados para brazil em https://tradingeconomics.com/brazil/indicators
+2025-03-09 15:49:48,677 - __main__ - INFO - Buscando dados para brazil em https://tradingeconomics.com/brazil/indicators
+2025-03-09 15:50:12,231 - __main__ - INFO - Buscando dados para germany em https://tradingeconomics.com/germany/indicators
+2025-03-12 03:35:29,203 - tools.financy.macro_economy.country_data_tool - INFO - Buscando dados para brazil em https://tradingeconomics.com/brazil/indicators

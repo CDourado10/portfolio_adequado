@@ -1,0 +1,81 @@
+**Structured Earnings Base:**
+
+1. **Company:** Adobe Systems
+   - **Market Cap:** Large cap
+   - **Sector:** Technology
+   - **EPS Expectation:** $3.12
+   - **Revenue Expectation:** $4.91 billion
+   - **Release Timing:** Post-Market
+   - **Recent Performance History:** Steady revenue growth with significant product launches.
+
+2. **Company:** Nike
+   - **Market Cap:** Large cap
+   - **Sector:** Consumer Discretionary
+   - **EPS Expectation:** $0.74
+   - **Revenue Expectation:** $12.4 billion
+   - **Release Timing:** Pre-Market
+   - **Recent Performance History:** Recovering from supply chain issues, with strong sales in North America.
+
+3. **Company:** PayPal
+   - **Market Cap:** Large cap
+   - **Sector:** Financial Technology
+   - **EPS Expectation:** $0.97
+   - **Revenue Expectation:** $6.85 billion
+   - **Release Timing:** Post-Market
+   - **Recent Performance History:** Varied performance with a push towards digital currencies.
+
+4. **Company:** Oracle
+   - **Market Cap:** Large cap
+   - **Sector:** Technology
+   - **EPS Expectation:** $1.16
+   - **Revenue Expectation:** $10.5 billion
+   - **Release Timing:** Post-Market
+   - **Recent Performance History:** Transitioning to cloud services with substantial growth.
+
+5. **Company:** Micron Technology
+   - **Market Cap:** Large cap
+   - **Sector:** Technology
+   - **EPS Expectation:** $0.84
+   - **Revenue Expectation:** $7.0 billion
+   - **Release Timing:** Pre-Market
+   - **Recent Performance History:** Volatile demand for memory chips impacting growth.
+
+6. **Company:** FedEx
+   - **Market Cap:** Large cap
+   - **Sector:** Industrials
+   - **EPS Expectation:** $3.18
+   - **Revenue Expectation:** $23.4 billion
+   - **Release Timing:** After-Market
+   - **Recent Performance History:** Facing pressures from rising delivery costs.
+
+7. **Company:** Salesforce
+   - **Market Cap:** Large cap
+   - **Sector:** Technology
+   - **EPS Expectation:** $1.22
+   - **Revenue Expectation:** $7.8 billion
+   - **Release Timing:** Post-Market
+   - **Recent Performance History:** Strong cloud growth offset by increased competition.
+
+8. **Company:** Johnson & Johnson
+   - **Market Cap:** Large cap
+   - **Sector:** Healthcare
+   - **EPS Expectation:** $2.53
+   - **Revenue Expectation:** $23.0 billion
+   - **Release Timing:** Pre-Market
+   - **Recent Performance History:** Recovering from recent litigation news.
+
+9. **Company:** Tesla
+   - **Market Cap:** Large cap
+   - **Sector:** Automotive
+   - **EPS Expectation:** $1.04
+   - **Revenue Expectation:** $23.0 billion
+   - **Release Timing:** After-Market
+   - **Recent Performance History:** Scaling production with strategic expansions.
+
+10. **Company:** Netflix
+    - **Market Cap:** Large cap
+    - **Sector:** Communication Services
+    - **EPS Expectation:** $0.55
+    - **Revenue Expectation:** $8.16 billion
+    - **Release Timing:** After-Market
+    - **Recent Performance History:** Strong subscriber growth amid rising competition.

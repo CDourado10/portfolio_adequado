@@ -1,0 +1,398 @@
+date,time,country,event,reference,actual,previous,consensus,forecast,importance,url
+Monday March 10 2025,12:35 AM,JP,5-Year JGB Auction,,1.157%,0.982%,,N/A,0,/japan/5-year-note-yield
+Monday March 10 2025,02:00 AM,JP,Coincident Index Prel,JAN,116.2,116.1,,117,0,/japan/coincident-index
+Monday March 10 2025,02:00 AM,JP,Leading Economic Index Prel,JAN,108.0,107.9,108.4,108.7,0,/japan/leading-economic-index
+Monday March 10 2025,02:00 AM,KR,3-Year KTB Auction,,2.586%,2.615%,,N/A,0,/south-korea/3-year-note-yield
+Monday March 10 2025,03:00 AM,JP,Eco Watchers Survey Current,FEB,45.6,48.6,48.5,49,0,/japan/economy-watchers-survey
+Monday March 10 2025,03:00 AM,JP,Eco Watchers Survey Outlook,FEB,46.6,48.0,,48.6,0,/japan/economy-watchers-survey-outlook
+Monday March 10 2025,04:00 AM,DE,Balance of Trade,JAN,€16B,€20.7B,€21B,€21.5B,0,/germany/balance-of-trade
+Monday March 10 2025,04:00 AM,DE,Exports MoM,JAN,-2.5%,2.5%,,N/A,0,/germany/exports
+Monday March 10 2025,04:00 AM,DE,Industrial Production MoM,JAN,2%,-1.5%,1.5%,1.5%,0,/germany/industrial-production-mom
+Monday March 10 2025,04:00 AM,DE,Imports MoM,JAN,1.2%,1.6%,,N/A,0,/germany/imports
+Monday March 10 2025,04:00 AM,TR,Industrial Production YoY,JAN,1.2%,7%,,8.0%,0,/turkey/industrial-production
+Monday March 10 2025,04:00 AM,TR,Industrial Production MoM,JAN,-2.3%,5%,,-2.9%,0,/turkey/industrial-production-mom
+Monday March 10 2025,06:00 AM,IT,PPI MoM,JAN,,0.6%,,0.3%,0,/italy/producer-price-inflation-mom
+Monday March 10 2025,06:00 AM,IT,PPI YoY,JAN,,1.1%,,0.5%,0,/italy/producer-prices-change
+Monday March 10 2025,09:00 AM,MX,Consumer Confidence,FEB,,46.7,,46,0,/mexico/consumer-confidence
+Monday March 10 2025,10:00 AM,EA,ECB Nagel Speech,,,,N/A,N/A,0,/euro-area/interest-rate
+Monday March 10 2025,11:00 AM,FR,12-Month BTF Auction,,,2.239%,,N/A,0,/france/52-week-bill-yield
+Monday March 10 2025,11:00 AM,FR,3-Month BTF Auction,,,2.396%,,N/A,0,/france/3-month-bill-yield
+Monday March 10 2025,11:00 AM,FR,6-Month BTF Auction,,,2.339%,,N/A,0,/france/6-month-bill-yield
+Monday March 10 2025,12:00 PM,US,Consumer Inflation Expectations,FEB,,3%,,3.2%,0,/united-states/inflation-expectations
+Monday March 10 2025,12:30 PM,US,3-Month Bill Auction,,,4.210%,,N/A,0,/united-states/3-month-bill-yield
+Monday March 10 2025,12:30 PM,US,6-Month Bill Auction,,,4.135%,,N/A,0,/united-states/6-month-bill-yield
+Monday March 10 2025,08:30 PM,AU,Westpac Consumer Confidence Change,MAR,,0.1%,,-0.3%,0,/australia/consumer-confidence-mom
+Monday March 10 2025,08:30 PM,AU,Westpac Consumer Confidence Index,MAR,,92.2,,92,0,/australia/consumer-confidence
+Monday March 10 2025,08:30 PM,JP,Household Spending MoM,JAN,,2.3%,-1.9%,-0.4%,0,/japan/household-spending-mom
+Monday March 10 2025,08:30 PM,JP,Household Spending YoY,JAN,,2.7%,3.6%,3.6%,0,/japan/household-spending
+Monday March 10 2025,08:50 PM,JP,GDP Growth Annualized Final,Q4,,1.2%,,2.8%,0,/japan/gdp-growth-annualized
+Monday March 10 2025,08:50 PM,JP,GDP Growth Rate QoQ Final,Q4,,0.3%,0.7%,0.7%,0,/japan/gdp-growth
+Monday March 10 2025,08:50 PM,JP,GDP Capital Expenditure QoQ Final,Q4,,-0.1%,0.3%,0.5%,0,/japan/gross-fixed-capital-formation
+Monday March 10 2025,08:50 PM,JP,GDP External Demand QoQ Final,Q4,,-0.1%,0.7%,0.7%,0,/japan/gdp-external-demand-contribution
+Monday March 10 2025,08:50 PM,JP,GDP Price Index YoY Final,Q4,,2.4%,2.8%,2.8%,0,/japan/gdp-deflator
+Monday March 10 2025,08:50 PM,JP,GDP Private Consumption QoQ Final,Q4,,0.7%,0.1%,0.1%,0,/japan/consumer-spending
+Monday March 10 2025,09:01 PM,GB,BRC Retail Sales Monitor YoY,FEB,,2.5%,2.4%,2.3%,0,/united-kingdom/brc-retail-sales-monitor-yoy
+Monday March 10 2025,09:30 PM,AU,NAB Business Confidence,FEB,,4,,6,0,/australia/business-confidence
+Monday March 10 2025,,CN,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,,CN,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,,SA,Industrial Production YoY,JAN,,2.1%,,3.1%,0,/saudi-arabia/industrial-production
+Monday March 10 2025,,BR,BCB Focus Market Readout,,,,,N/A,0,/brazil/interest-rate
+Monday March 10 2025,,BR,Federal Tax Revenues,JAN,,BRL261.3B,,N/A,0,/brazil/government-revenues
+Monday March 10 2025,,AR,Tax Revenue,FEB,,ARS15032B,,N/A,0,/argentina/tax-revenue
+Monday March 10 2025,,EA,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,12:00 AM,ID,Consumer Confidence,FEB,,127.2,,127.5,0,/indonesia/consumer-confidence
+Monday March 10 2025,02:00 AM,SG,MAS 12-Week Bill Auction,,,2.78%,,N/A,0,/singapore/3-month-bill-yield
+Monday March 10 2025,02:00 AM,SG,MAS 4-Week Bill Auction,,,2.78%,,N/A,0,/singapore/1-month-bill-yield
+Monday March 10 2025,03:00 AM,JP,Machine Tool Orders YoY,FEB,,4.7%,4.7%,3.5%,0,/japan/machine-tool-orders
+Monday March 10 2025,04:00 AM,TR,Retail Sales MoM,JAN,,0.4%,,0.6%,0,/turkey/retail-sales
+Monday March 10 2025,04:00 AM,TR,Retail Sales YoY,JAN,,13.5%,,12.9%,0,/turkey/retail-sales-annual
+Monday March 10 2025,06:40 AM,ES,3-Month Letras Auction,,,2.431%,,N/A,0,/spain/3-month-bill-yield
+Monday March 10 2025,06:40 AM,ES,N/A,,,2.248%,N/A,N/A,0,N/A
+Monday March 10 2025,07:00 AM,US,NFIB Business Optimism Index,FEB,,102.8,101,102,0,/united-states/nfib-business-optimism-index
+Monday March 10 2025,07:30 AM,DE,2-Year Schatz Auction,,,2.14%,,N/A,0,/germany/2-year-note-yield
+Monday March 10 2025,09:00 AM,BR,Industrial Production MoM,JAN,,-0.3%,,0.6%,0,/brazil/industrial-production-mom
+Monday March 10 2025,09:00 AM,BR,Industrial Production YoY,JAN,,1.6%,,0.9%,0,/brazil/industrial-production
+Monday March 10 2025,10:55 AM,US,Redbook YoY,MAR/08,,6.6%,,N/A,0,/united-states/redbook-index
+Monday March 10 2025,11:00 AM,US,JOLTs Job Openings,JAN,,7.6M,7.71M,7.5M,0,/united-states/job-offers
+Monday March 10 2025,11:00 AM,US,JOLTs Job Quits,JAN,,3.197M,,3.21M,0,/united-states/job-quits
+Monday March 10 2025,11:15 AM,DE,Bundesbank Köhler-Geib Speech,,,,N/A,N/A,0,/germany/interest-rate
+Monday March 10 2025,12:30 PM,US,N/A,,,4.240%,N/A,N/A,0,N/A
+Monday March 10 2025,01:00 PM,US,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,02:00 PM,US,3-Year Note Auction,,,4.300%,,N/A,0,/united-states/3-year-note-yield
+Monday March 10 2025,05:30 PM,US,API Crude Oil Stock Change,MAR/07,,-1.455M,,N/A,0,/united-states/api-crude-oil-stock-change
+Monday March 10 2025,08:50 PM,JP,BSI Large Manufacturing QoQ,Q1,,6.3%,6.5%,8.0%,0,/japan/business-survey-index-large-manufacturing-firms
+Monday March 10 2025,08:50 PM,JP,PPI MoM,FEB,,0.3%,-0.1%,0%,0,/japan/producer-price-inflation-mom
+Monday March 10 2025,08:50 PM,JP,PPI YoY,FEB,,4.2%,4%,4.1%,0,/japan/producer-prices-change
+Monday March 10 2025,,CN,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,,ID,Car Sales YoY,FEB,,-11.3%,,-7%,0,/indonesia/car-registrations
+Monday March 10 2025,,TR,Auto Production YoY,FEB,,-2.8%,N/A,N/A,0,/turkey/car-production
+Monday March 10 2025,,TR,Auto Sales YoY,FEB,,-13.9%,,-14.0%,0,/turkey/total-vehicle-sales
+Monday March 10 2025,12:15 AM,ID,Retail Sales YoY,JAN,,1.8%,,0.4%,0,/indonesia/retail-sales-annual
+Monday March 10 2025,12:35 AM,JP,20-Year JGB Auction,,,2.028%,,N/A,0,/japan/20-year-bond-yield
+Monday March 10 2025,04:00 AM,TR,Current Account,JAN,,$-4.65B,,$-5.0B,0,/turkey/current-account
+Monday March 10 2025,05:00 AM,ES,Retail Sales MoM,JAN,,1.5%,,-0.3%,0,/spain/retail-sales
+Monday March 10 2025,05:00 AM,ES,Retail Sales YoY,JAN,,4%,,3.2%,0,/spain/retail-sales-annual
+Monday March 10 2025,05:45 AM,EA,ECB President Lagarde Speech,,,,N/A,N/A,0,/euro-area/interest-rate
+Monday March 10 2025,07:00 AM,GB,10-Year Treasury Gilt Auction,,,4.808%,,N/A,0,/united-kingdom/government-bond-yield
+Monday March 10 2025,07:10 AM,IT,12-Month BOT Auction,,,2.323%,,N/A,0,/italy/52-week-bill-yield
+Monday March 10 2025,07:30 AM,DE,10-Year Bund Auction,,,2.52%,,N/A,0,/germany/government-bond-yield
+Monday March 10 2025,07:30 AM,IN,Industrial Production YoY,JAN,,3.2%,3.5%,3.4%,0,/india/industrial-production
+Monday March 10 2025,07:30 AM,IN,Inflation Rate YoY,FEB,,4.31%,4%,4.2%,0,/india/inflation-cpi
+Monday March 10 2025,07:30 AM,IN,Manufacturing Production YoY,JAN,,3%,,3.1%,0,/india/manufacturing-production
+Monday March 10 2025,07:30 AM,IN,Inflation Rate MoM,FEB,,-0.97%,,0.5%,0,/india/inflation-rate-mom
+Monday March 10 2025,08:00 AM,US,MBA 30-Year Mortgage Rate,MAR/07,,6.73%,,N/A,0,/united-states/mortgage-rate
+Monday March 10 2025,08:00 AM,US,MBA Mortgage Applications,MAR/07,,20.4%,,N/A,0,/united-states/mortgage-applications
+Monday March 10 2025,08:00 AM,US,MBA Mortgage Market Index,MAR/07,,242.2,,N/A,0,/united-states/mba-mortgage-market-index
+Monday March 10 2025,08:00 AM,US,MBA Mortgage Refinance Index,MAR/07,,784.2,,N/A,0,/united-states/mba-mortgage-refinance-index
+Monday March 10 2025,08:00 AM,US,MBA Purchase Index,MAR/07,,144.5,,N/A,0,/united-states/mba-purchase-index
+Monday March 10 2025,08:30 AM,BR,Gross Debt to GDP,JAN,,76.1%,,76.2%,0,/brazil/gross-debt-to-gdp-
+Monday March 10 2025,08:30 AM,BR,Nominal Budget Balance,JAN,,BRL-80.372B,,BRL 19.0B,0,/brazil/government-budget-value
+Monday March 10 2025,09:00 AM,BR,Inflation Rate MoM,FEB,,0.16%,,1.1%,0,/brazil/inflation-rate-mom
+Monday March 10 2025,09:00 AM,BR,Inflation Rate YoY,FEB,,4.56%,,4.9%,0,/brazil/inflation-cpi
+Monday March 10 2025,09:30 AM,US,Core Inflation Rate MoM,FEB,,0.4%,0.3%,0.3%,0,/united-states/core-inflation-rate-mom
+Monday March 10 2025,09:30 AM,US,Core Inflation Rate YoY,FEB,,3.3%,3.2%,3.1%,0,/united-states/core-inflation-rate
+Monday March 10 2025,09:30 AM,US,Inflation Rate MoM,FEB,,0.5%,0.3%,0.3%,0,/united-states/inflation-rate-mom
+Monday March 10 2025,09:30 AM,US,Inflation Rate YoY,FEB,,3%,2.9%,2.9%,0,/united-states/inflation-cpi
+Monday March 10 2025,09:30 AM,US,CPI,FEB,,317.67,,319.3,0,/united-states/consumer-price-index-cpi
+Monday March 10 2025,09:30 AM,US,CPI s.a,FEB,,319.086,,320,0,/united-states/cpi-seasonally-adjusted
+Monday March 10 2025,10:00 AM,BR,Car Production MoM,FEB,,-7.7%,N/A,N/A,0,/brazil/car-production
+Monday March 10 2025,10:00 AM,BR,New Car Registrations MoM,FEB,,-33.5%,N/A,N/A,0,/brazil/car-registrations
+Monday March 10 2025,10:45 AM,CA,BoC Interest Rate Decision,,,3%,2.75%,2.75%,0,/canada/interest-rate
+Monday March 10 2025,10:45 AM,EA,ECB Nagel Speech,,,,N/A,N/A,0,/euro-area/interest-rate
+Monday March 10 2025,11:30 AM,CA,BoC Press Conference,,,,N/A,N/A,0,/canada/interest-rate
+Monday March 10 2025,11:30 AM,US,EIA Crude Oil Stocks Change,MAR/07,,3.614M,,N/A,0,/united-states/crude-oil-stocks-change
+Monday March 10 2025,11:30 AM,US,EIA Gasoline Stocks Change,MAR/07,,-1.433M,,N/A,0,/united-states/gasoline-stocks-change
+Monday March 10 2025,11:30 AM,US,EIA Crude Oil Imports Change,MAR/07,,-0.054M,,N/A,0,/united-states/crude-oil-imports
+Monday March 10 2025,11:30 AM,US,EIA Cushing Crude Oil Stocks Change,MAR/07,,1.124M,,N/A,0,/united-states/cushing-crude-oil-stocks
+Monday March 10 2025,11:30 AM,US,EIA Distillate Fuel Production Change,MAR/07,,-0.587M,,N/A,0,/united-states/distillate-fuel-production
+Monday March 10 2025,11:30 AM,US,EIA Distillate Stocks Change,MAR/07,,-1.318M,,N/A,0,/united-states/distillate-stocks
+Monday March 10 2025,11:30 AM,US,EIA Gasoline Production Change,MAR/07,,0.464M,,N/A,0,/united-states/gasoline-production
+Monday March 10 2025,11:30 AM,US,EIA Heating Oil Stocks Change,MAR/07,,-0.067M,,N/A,0,/united-states/heating-oil-stocks
+Monday March 10 2025,11:30 AM,US,EIA Refinery Crude Runs Change,MAR/07,,-0.346M,,N/A,0,/united-states/refinery-crude-runs
+Monday March 10 2025,12:15 PM,EA,ECB Lane Speech,,,,N/A,N/A,0,/euro-area/interest-rate
+Monday March 10 2025,12:30 PM,US,N/A,,,4.180%,N/A,N/A,0,N/A
+Monday March 10 2025,01:00 PM,RU,Inflation Rate MoM,FEB,,1.2%,0.8%,1.0%,0,/russia/inflation-rate-mom
+Monday March 10 2025,01:00 PM,RU,Inflation Rate YoY,FEB,,9.9%,10.1%,10.3%,0,/russia/inflation-cpi
+Monday March 10 2025,02:00 PM,US,10-Year Note Auction,,,4.632%,,N/A,0,/united-states/government-bond-yield
+Monday March 10 2025,03:00 PM,US,Monthly Budget Statement,FEB,,$-129B,$-315B,$-90.0B,0,/united-states/government-budget-value
+Monday March 10 2025,08:00 PM,KR,Unemployment Rate,FEB,,2.9%,,3.0%,0,/south-korea/unemployment-rate
+Monday March 10 2025,08:50 PM,JP,Foreign Bond Investment,MAR/08,,¥1514.2B,,N/A,0,/japan/foreign-bond-investment
+Monday March 10 2025,08:50 PM,JP,Stock Investment by Foreigners,MAR/08,,¥-708.3B,,N/A,0,/japan/foreign-stock-investment
+Monday March 10 2025,09:01 PM,GB,RICS House Price Balance,FEB,,22%,20%,20.0%,0,/united-kingdom/rics-house-price-balance
+Monday March 10 2025,09:30 PM,AU,Building Permits MoM Final,JAN,,0.7%,6.3%,6.3%,0,/australia/building-permits-mom
+Monday March 10 2025,09:30 PM,AU,Private House Approvals MoM Final,JAN,,-3.0%,1.1%,1.1%,0,/australia/private-house-approvals-
+Monday March 10 2025,11:30 PM,AU,RBA Jones Speech,,,,N/A,N/A,0,/australia/interest-rate
+Monday March 10 2025,,IN,Passenger Vehicles Sales YoY,FEB,,3.5%,,N/A,0,/india/total-vehicle-sales
+Monday March 10 2025,,OP,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,,ZA,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,02:00 AM,SG,6-Month T-Bill Auction,,,2.75%,,N/A,0,/singapore/6-month-bill-yield
+Monday March 10 2025,06:00 AM,FR,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,06:00 AM,DE,Bundesbank Köhler-Geib Speech,,,,N/A,N/A,0,/germany/interest-rate
+Monday March 10 2025,06:30 AM,ZA,Gold Production YoY,JAN,,-8.4%,,-6.0%,0,/south-africa/gold-production
+Monday March 10 2025,06:30 AM,ZA,Mining Production MoM,JAN,,-3.9%,,-2.8%,0,/south-africa/mining-production
+Monday March 10 2025,06:30 AM,ZA,Mining Production YoY,JAN,,-2.4%,,-3.0%,0,/south-africa/mining-production
+Monday March 10 2025,06:50 AM,EA,ECB de Guindos Speech,,,,N/A,N/A,0,/euro-area/interest-rate
+Monday March 10 2025,07:00 AM,EA,Industrial Production MoM,JAN,,-1.1%,0.8%,0.5%,0,/euro-area/industrial-production-mom
+Monday March 10 2025,07:00 AM,EA,Industrial Production YoY,JAN,,-2%,-1.1%,-1.7%,0,/euro-area/industrial-production
+Monday March 10 2025,07:10 AM,IT,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,08:00 AM,ZA,Manufacturing Production MoM,JAN,,-2.4%,,0.6%,0,/south-africa/industrial-production-mom
+Monday March 10 2025,08:00 AM,ZA,Manufacturing Production YoY,JAN,,-1.2%,,1.6%,0,/south-africa/industrial-production
+Monday March 10 2025,08:00 AM,TR,MPC Meeting Summary,,,,,N/A,0,/turkey/interest-rate
+Monday March 10 2025,08:30 AM,BR,Bank Lending MoM,JAN,,1.4%,,-0.3%,0,/brazil/loan-growth
+Monday March 10 2025,08:30 AM,TR,Foreign Exchange Reserves,MAR/07,,$94.76B,,N/A,0,/turkey/foreign-exchange-reserves
+Monday March 10 2025,09:00 AM,MX,Industrial Production MoM,JAN,,-1.4%,,0.3%,0,/mexico/industrial-production-mom
+Monday March 10 2025,09:00 AM,MX,Industrial Production YoY,JAN,,-2.7%,,0.4%,0,/mexico/industrial-production
+Monday March 10 2025,09:30 AM,CA,Building Permits MoM,JAN,,11%,-4.8%,-2.0%,0,/canada/building-permits-mom
+Monday March 10 2025,09:30 AM,US,PPI MoM,FEB,,0.4%,0.3%,0.3%,0,/united-states/producer-price-inflation-mom
+Monday March 10 2025,09:30 AM,US,Core PPI MoM,FEB,,0.3%,0.3%,0.2%,0,/united-states/core-producer-prices-mom
+Monday March 10 2025,09:30 AM,US,Initial Jobless Claims,MAR/08,,221K,225K,230.0K,0,/united-states/jobless-claims
+Monday March 10 2025,09:30 AM,US,Continuing Jobless Claims,MAR/01,,1897K,,1910.0K,0,/united-states/continuing-jobless-claims
+Monday March 10 2025,09:30 AM,US,Core PPI YoY,FEB,,3.6%,,3.5%,0,/united-states/core-producer-prices-yoy
+Monday March 10 2025,09:30 AM,US,Jobless Claims 4-week Average,MAR/08,,224.25K,,228.0K,0,/united-states/jobless-claims-4-week-average
+Monday March 10 2025,09:30 AM,US,PPI,FEB,,147.716,,148.1,0,/united-states/producer-prices
+Monday March 10 2025,09:30 AM,US,"PPI Ex Food, Energy and Trade MoM",FEB,,0.3%,,0.2%,0,/united-states/ppi-ex-food-energy-and-trade-services-mom
+Monday March 10 2025,09:30 AM,US,"PPI Ex Food, Energy and Trade YoY",FEB,,3.4%,,3.4%,0,/united-states/ppi-ex-food-energy-and-trade-services-yoy
+Monday March 10 2025,09:30 AM,US,PPI YoY,FEB,,3.5%,,3.4%,0,/united-states/producer-prices-change
+Monday March 10 2025,11:30 AM,US,EIA Natural Gas Stocks Change,MAR/07,,-80Bcf,,N/A,0,/united-states/natural-gas-stocks-change
+Monday March 10 2025,12:30 PM,US,4-Week Bill Auction,,,4.230%,,N/A,0,/united-states/4-week-bill-yield
+Monday March 10 2025,12:30 PM,US,8-Week Bill Auction,,,4.220%,,N/A,0,/united-states/8-week-bill-yield
+Monday March 10 2025,01:00 PM,CA,5-Year Bond Auction,,,2.849%,,N/A,0,/canada/5-year-note-yield
+Monday March 10 2025,01:00 PM,US,15-Year Mortgage Rate,MAR/13,,5.79%,,N/A,0,/united-states/15-year-mortgage-rate
+Monday March 10 2025,01:00 PM,US,30-Year Mortgage Rate,MAR/13,,6.63%,,N/A,0,/united-states/30-year-mortgage-rate
+Monday March 10 2025,02:00 PM,DE,Bundesbank Balz Speech,,,,N/A,N/A,0,/germany/interest-rate
+Monday March 10 2025,02:00 PM,US,30-Year Bond Auction,,,4.748%,,N/A,0,/united-states/30-year-bond-yield
+Monday March 10 2025,02:30 PM,EA,ECB de Galhau Speech,,,,N/A,N/A,0,/euro-area/interest-rate
+Monday March 10 2025,02:30 PM,EA,ECB Nagel Speech,,,,N/A,N/A,0,/euro-area/interest-rate
+Monday March 10 2025,05:30 PM,US,Fed Balance Sheet,MAR/12,,$6.76T,,N/A,0,/united-states/central-bank-balance-sheet
+Monday March 10 2025,06:00 PM,KR,Export Prices YoY,FEB,,8.5%,,9.0%,0,/south-korea/export-prices-yoy
+Monday March 10 2025,06:00 PM,KR,Import Prices YoY,FEB,,6.6%,,6.2%,0,/south-korea/import-prices-yoy
+Monday March 10 2025,,BR,10-Year NTN-F Auction,,,14.987%,,N/A,0,/brazil/government-bond-yield
+Monday March 10 2025,,BR,2-Year LTN Auction,,,14.782%,,N/A,0,/brazil/2-year-note-yield
+Monday March 10 2025,12:35 AM,JP,3-Month Bill Auction,,,0.3404%,,N/A,0,/japan/3-month-bill-yield
+Monday March 10 2025,02:00 AM,KR,N/A,,,2.570%,N/A,N/A,0,N/A
+Monday March 10 2025,04:00 AM,DE,Inflation Rate MoM Final,FEB,,-0.2%,0.4%,0.4%,0,/germany/inflation-rate-mom
+Monday March 10 2025,04:00 AM,DE,Inflation Rate YoY Final,FEB,,2.3%,2.3%,2.3%,0,/germany/inflation-cpi
+Monday March 10 2025,04:00 AM,DE,Wholesale Prices MoM,FEB,,0.9%,,0.4%,0,/germany/wholesale-prices-mom
+Monday March 10 2025,04:00 AM,DE,Wholesale Prices YoY,FEB,,0.9%,0.2%,1.4%,0,/germany/wholesale-prices-yoy
+Monday March 10 2025,04:00 AM,DE,Harmonised Inflation Rate MoM Final,FEB,,-0.2%,0.6%,0.6%,0,/germany/harmonised-inflation-rate-mom
+Monday March 10 2025,04:00 AM,DE,Harmonised Inflation Rate YoY Final,FEB,,2.8%,2.8%,2.8%,0,/germany/harmonised-inflation-rate-yoy
+Monday March 10 2025,04:00 AM,GB,GDP MoM,JAN,,0.4%,0.1%,0.1%,0,/united-kingdom/monthly-gdp-mom
+Monday March 10 2025,04:00 AM,GB,GDP 3-Month Avg,JAN,,0.1%,,0.3%,0,/united-kingdom/leading-economic-index
+Monday March 10 2025,04:00 AM,GB,Goods Trade Balance,JAN,,£-17.45B,£-17.1B,£-18.6B,0,/united-kingdom/goods-trade-balance
+Monday March 10 2025,04:00 AM,GB,Goods Trade Balance Non-EU,JAN,,£-6.1B,,£ -8.0B,0,/united-kingdom/goods-trade-balance-non-eu
+Monday March 10 2025,04:00 AM,GB,Industrial Production MoM,JAN,,0.5%,-0.1%,-0.3%,0,/united-kingdom/industrial-production-mom
+Monday March 10 2025,04:00 AM,GB,Manufacturing Production MoM,JAN,,0.7%,0%,-0.2%,0,/united-kingdom/manufacturing-production-mom
+Monday March 10 2025,04:00 AM,GB,Balance of Trade,JAN,,£-2.82B,,£-3.5B,0,/united-kingdom/balance-of-trade
+Monday March 10 2025,04:00 AM,GB,Construction Output YoY,JAN,,1.5%,,0.5%,0,/united-kingdom/construction-output
+Monday March 10 2025,04:00 AM,GB,GDP YoY,JAN,,1.5%,,1.2%,0,/united-kingdom/monthly-gdp-yoy
+Monday March 10 2025,04:00 AM,GB,Industrial Production YoY,JAN,,-1.9%,-0.9%,-0.7%,0,/united-kingdom/industrial-production
+Monday March 10 2025,04:00 AM,GB,Manufacturing Production YoY,JAN,,-1.4%,-0.8%,-0.6%,0,/united-kingdom/manufacturing-production
+Monday March 10 2025,04:45 AM,FR,Inflation Rate MoM Final,FEB,,0.2%,0%,0.0%,0,/france/inflation-rate-mom
+Monday March 10 2025,04:45 AM,FR,Inflation Rate YoY Final,FEB,,1.7%,0.8%,0.8%,0,/france/inflation-cpi
+Monday March 10 2025,04:45 AM,FR,Harmonised Inflation Rate MoM Final,FEB,,-0.2%,0%,0.0%,0,/france/harmonised-inflation-rate-mom
+Monday March 10 2025,04:45 AM,FR,Harmonised Inflation Rate YoY Final,FEB,,1.8%,0.9%,0.9%,0,/france/harmonised-inflation-rate-yoy
+Monday March 10 2025,05:00 AM,ES,Core Inflation Rate YoY Final,FEB,,2.4%,2.1%,2.1%,0,/spain/core-inflation-rate
+Monday March 10 2025,05:00 AM,ES,Harmonised Inflation Rate MoM Final,FEB,,-0.1%,0.4%,0.4%,0,/spain/harmonised-inflation-rate-mom
+Monday March 10 2025,05:00 AM,ES,Harmonised Inflation Rate YoY Final,FEB,,2.9%,2.9%,2.9%,0,/spain/harmonised-inflation-rate-yoy
+Monday March 10 2025,05:00 AM,ES,Inflation Rate MoM Final,FEB,,0.2%,0.4%,0.4%,0,/spain/inflation-rate-mom
+Monday March 10 2025,05:00 AM,ES,Inflation Rate YoY Final,FEB,,2.9%,3%,3.0%,0,/spain/inflation-cpi
+Monday March 10 2025,06:00 AM,IT,Industrial Production MoM,JAN,,-3.1%,1.2%,1.9%,0,/italy/industrial-production-mom
+Monday March 10 2025,06:00 AM,IT,Industrial Production YoY,JAN,,-7.1%,,-4.7%,0,/italy/industrial-production
+Monday March 10 2025,08:30 AM,IN,Bank Loan Growth YoY,FEB/28,,11.3%,,N/A,0,/india/loan-growth
+Monday March 10 2025,08:30 AM,IN,Deposit Growth YoY,FEB/28,,10.6%,,N/A,0,/india/deposit-growth
+Monday March 10 2025,08:30 AM,IN,Foreign Exchange Reserves,MAR/07,,$638.7B,,N/A,0,/india/foreign-exchange-reserves
+Monday March 10 2025,09:00 AM,BR,Retail Sales MoM,JAN,,-0.1%,,0.1%,0,/brazil/retail-sales
+Monday March 10 2025,09:00 AM,BR,PPI MoM,JAN,,1.48%,,0.4%,0,/brazil/producer-price-inflation-mom
+Monday March 10 2025,09:00 AM,BR,PPI YoY,JAN,,9.42%,,10.1%,0,/brazil/producer-prices-change
+Monday March 10 2025,09:00 AM,BR,Retail Sales YoY,JAN,,2%,,1.1%,0,/brazil/retail-sales-annual
+Monday March 10 2025,09:00 AM,GB,N/A,FEB,,0.3%,N/A,N/A,0,N/A
+Monday March 10 2025,09:30 AM,CA,Manufacturing Sales MoM Final,JAN,,0.3%,2%,2.0%,0,/canada/manufacturing-sales
+Monday March 10 2025,09:30 AM,CA,New Motor Vehicle Sales,JAN,,135.5K,,128.0K,0,/canada/car-registrations
+Monday March 10 2025,09:30 AM,CA,Wholesale Sales MoM Final,JAN,,-0.2%,1.8%,1.5%,0,/canada/wholesale-sales
+Monday March 10 2025,10:00 AM,RU,Balance of Trade,JAN,,$5.58B,,$4.2B,0,/russia/balance-of-trade
+Monday March 10 2025,10:15 AM,EA,ECB Cipollone Speech,,,,N/A,N/A,0,/euro-area/interest-rate
+Monday March 10 2025,10:45 AM,DE,Current Account,JAN,,€24.0B,,€19.5B,0,/germany/current-account
+Monday March 10 2025,11:00 AM,US,Michigan Consumer Sentiment Prel,MAR,,64.7,64,63.2,0,/united-states/consumer-confidence
+Monday March 10 2025,11:00 AM,US,Michigan 5 Year Inflation Expectations Prel,MAR,,3.5%,,3.6%,0,/united-states/michigan-5-year-inflation-expectations
+Monday March 10 2025,11:00 AM,US,Michigan Consumer Expectations Prel,MAR,,64,,63.5,0,/united-states/michigan-consumer-expectations
+Monday March 10 2025,11:00 AM,US,Michigan Current Conditions Prel,MAR,,65.7,,64.4,0,/united-states/michigan-current-economic-conditions
+Monday March 10 2025,11:00 AM,US,Michigan Inflation Expectations Prel,MAR,,4.3%,,4.4%,0,/united-states/michigan-inflation-expectations
+Monday March 10 2025,02:00 PM,US,Baker Hughes Oil Rig Count,MAR/14,,486,,N/A,0,/united-states/crude-oil-rigs
+Monday March 10 2025,02:00 PM,US,Baker Hughes Total Rigs Count,MAR/14,,592,,N/A,0,/united-states/total-rigs
+Monday March 10 2025,04:00 PM,AR,Inflation Rate MoM,FEB,,2.2%,,2.1%,0,/argentina/inflation-rate-mom
+Monday March 10 2025,04:00 PM,AR,Inflation Rate YoY,FEB,,84.5%,,80.0%,0,/argentina/inflation-cpi
+Monday March 10 2025,,CN,Vehicle Sales YoY,FEB,,-0.6%,N/A,N/A,0,/china/total-vehicle-sales
+Monday March 10 2025,,CN,New Yuan Loans,FEB,,CNY5130B,CNY1275B,CNY1800.0B,0,/china/banks-balance-sheet
+Monday March 10 2025,,CN,M2 Money Supply YoY,FEB,,7%,7%,7.2%,0,/china/money-supply-m2
+Monday March 10 2025,,CN,Outstanding Loan Growth YoY,FEB,,7.5%,7.4%,7.8%,0,/china/loan-growth
+Monday March 10 2025,,CN,Total Social Financing,FEB,,CNY7060B,CNY2500B,CNY1900.0B,0,/china/loans-to-private-sector
+Monday March 10 2025,,IN,Balance of Trade,FEB,,$-22.99B,,$-25.0B,0,/india/balance-of-trade
+Monday March 10 2025,,IN,Exports,FEB,,$36.43B,,N/A,0,/india/exports
+Monday March 10 2025,,IN,Imports,FEB,,$59.95B,,N/A,0,/india/imports
+Monday March 10 2025,09:40 PM,SG,Balance of Trade,FEB,,$2.93B,,$2.7B,0,/singapore/balance-of-trade
+Monday March 10 2025,10:30 PM,CN,House Price Index YoY,FEB,,-5%,,-4.7%,0,/china/housing-index
+Monday March 10 2025,11:00 PM,CN,Industrial Production YoY,JAN-FEB,,6.2%,,6.0%,0,/china/industrial-production
+Monday March 10 2025,11:00 PM,CN,Retail Sales YoY,JAN-FEB,,3.7%,,3.4%,0,/china/retail-sales-annual
+Monday March 10 2025,11:00 PM,CN,Fixed Asset Investment (YTD) YoY,JAN-FEB,,3.2%,,5.0%,0,/china/fixed-asset-investment
+Monday March 10 2025,11:00 PM,CN,Unemployment Rate,FEB,,5.1%,,5.1%,0,/china/unemployment-rate
+Monday March 10 2025,11:30 PM,SG,Unemployment Rate Final,Q4,,1.9%,1.9%,1.9%,0,/singapore/unemployment-rate
+Monday March 10 2025,,SA,Inflation Rate MoM,FEB,,0.3%,,0.2%,0,/saudi-arabia/inflation-rate-mom
+Monday March 10 2025,,SA,Inflation Rate YoY,FEB,,2%,,2.0%,0,/saudi-arabia/inflation-cpi
+Monday March 10 2025,,SA,Wholesale Prices YoY,FEB,,0.9%,,1.0%,0,/saudi-arabia/producer-prices-change
+Monday March 10 2025,01:00 AM,ID,Balance of Trade,FEB,,$3.45B,,$1.0B,0,/indonesia/balance-of-trade
+Monday March 10 2025,01:00 AM,ID,Exports YoY,FEB,,4.68%,,N/A,0,/indonesia/exports-yoy
+Monday March 10 2025,01:00 AM,ID,Imports YoY,FEB,,-2.67%,,N/A,0,/indonesia/imports-yoy
+Monday March 10 2025,02:00 AM,KR,10-Year KTB Auction,,,,,N/A,0,/south-korea/government-bond-yield
+Monday March 10 2025,03:30 AM,IN,WPI Food Index YoY,FEB,,7.47%,,N/A,0,/india/wpi-food-index-yoy
+Monday March 10 2025,03:30 AM,IN,WPI Fuel YoY,FEB,,,,N/A,0,/india/wpi-fuel-yoy
+Monday March 10 2025,03:30 AM,IN,WPI Inflation YoY,FEB,,2.31%,,N/A,0,/india/producer-prices-change
+Monday March 10 2025,03:30 AM,IN,WPI Manufacturing YoY,FEB,,2.51%,,2.8%,0,/india/wpi-manufacturing-yoy
+Monday March 10 2025,06:00 AM,IT,Inflation Rate MoM Final,FEB,,0.6%,0.2%,0.2%,0,/italy/inflation-rate-mom
+Monday March 10 2025,06:00 AM,IT,Inflation Rate YoY Final,FEB,,1.5%,1.7%,1.7%,0,/italy/inflation-cpi
+Monday March 10 2025,06:00 AM,IT,Harmonised Inflation Rate MoM Final,FEB,,-0.8%,0.1%,0.1%,0,/italy/harmonised-inflation-rate-mom
+Monday March 10 2025,06:00 AM,IT,Harmonised Inflation Rate YoY Final,FEB,,1.7%,1.7%,1.7%,0,/italy/harmonised-inflation-rate-yoy
+Monday March 10 2025,06:00 AM,ES,Balance of Trade,JAN,,€-4.12B,,€ -4.3B,0,/spain/balance-of-trade
+Monday March 10 2025,06:30 AM,ZA,Inflation Expectations,Q1,,4.5%,,N/A,0,/south-africa/inflation-expectations
+Monday March 10 2025,07:30 AM,DE,12-Month Bubill Auction,,,2.0958%,,N/A,0,/germany/52-week-bill-yield
+Monday March 10 2025,09:00 AM,BR,IBC-BR Economic Activity,JAN,,-0.7%,,N/A,0,/brazil/leading-economic-index
+Monday March 10 2025,09:15 AM,CA,Housing Starts,FEB,,239.7K,,245.0K,0,/canada/housing-starts
+Monday March 10 2025,09:30 AM,CA,Foreign Securities Purchases,JAN,,C$14.37B,,N/A,0,/canada/foreign-stock-investment
+Monday March 10 2025,09:30 AM,CA,Foreign Securities Purchases by Canadians,JAN,,C$3.77B,,N/A,0,/canada/investment-in-foreign-securities
+Monday March 10 2025,09:30 AM,US,Retail Sales MoM,FEB,,-0.9%,,0.5%,0,/united-states/retail-sales
+Monday March 10 2025,09:30 AM,US,NY Empire State Manufacturing Index,MAR,,5.7,,6,0,/united-states/ny-empire-state-manufacturing-index
+Monday March 10 2025,09:30 AM,US,Retail Sales Control Group MoM,FEB,,-0.8%,,N/A,0,/united-states/retail-sales-control-group
+Monday March 10 2025,09:30 AM,US,Retail Sales Ex Autos MoM,FEB,,-0.4%,,0.2%,0,/united-states/retail-sales-ex-autos
+Monday March 10 2025,09:30 AM,US,Retail Sales Ex Gas/Autos MoM,FEB,,-0.5%,,0.2%,0,/united-states/retail-sales-ex-gas-and-autos-mom
+Monday March 10 2025,09:30 AM,US,Retail Sales YoY,FEB,,4.2%,,3.5%,0,/united-states/retail-sales-annual
+Monday March 10 2025,11:00 AM,FR,12-Month BTF Auction,,,,,N/A,0,/france/52-week-bill-yield
+Monday March 10 2025,11:00 AM,FR,3-Month BTF Auction,,,,,N/A,0,/france/3-month-bill-yield
+Monday March 10 2025,11:00 AM,FR,6-Month BTF Auction,,,,,N/A,0,/france/6-month-bill-yield
+Monday March 10 2025,11:00 AM,US,Business Inventories MoM,JAN,,-0.2%,,-0.1%,0,/united-states/business-inventories
+Monday March 10 2025,11:00 AM,US,NAHB Housing Market Index,MAR,,42,,48,0,/united-states/nahb-housing-market-index
+Monday March 10 2025,11:00 AM,US,Retail Inventories Ex Autos MoM,JAN,,,,0.1%,0,/united-states/retail-inventories-ex-autos
+Monday March 10 2025,12:30 PM,US,3-Month Bill Auction,,,,,N/A,0,/united-states/3-month-bill-yield
+Monday March 10 2025,12:30 PM,US,6-Month Bill Auction,,,,,N/A,0,/united-states/6-month-bill-yield
+Monday March 10 2025,01:00 PM,US,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,08:20 PM,AU,RBA Hunter Speech,,,,N/A,N/A,0,/australia/interest-rate
+Monday March 10 2025,09:30 PM,SG,Non-Oil Exports MoM,FEB,,-3.3%,,5.5%,0,/singapore/exports-of-non-oil-domestic-exports-of
+Monday March 10 2025,09:30 PM,SG,Non-Oil Exports YoY,FEB,,-2.1%,,4.6%,0,/singapore/domestic-exports-of-non-oil-nodx-pctyoy
+Monday March 10 2025,,TR,Budget Balance,FEB,,TRY-139.26B,,N/A,0,/turkey/government-budget-value
+Monday March 10 2025,,BR,BCB Focus Market Readout,,,,,N/A,0,/brazil/interest-rate
+Monday March 10 2025,12:35 AM,JP,52-Week Bill Auction,,,0.6107%,,N/A,0,/japan/52-week-bill-yield
+Monday March 10 2025,01:30 AM,JP,Tertiary Industry Index MoM,JAN,,0.1%,,0.4%,0,/japan/tertiary-industry-index
+Monday March 10 2025,02:00 AM,SG,MAS 12-Week Bill Auction,,,,,N/A,0,/singapore/3-month-bill-yield
+Monday March 10 2025,02:00 AM,SG,MAS 4-Week Bill Auction,,,,,N/A,0,/singapore/1-month-bill-yield
+Monday March 10 2025,06:00 AM,IT,Balance of Trade,JAN,,€5.98B,,€3.6B,0,/italy/balance-of-trade
+Monday March 10 2025,07:00 AM,EA,Balance of Trade,JAN,,€15.5B,,€6.5B,0,/euro-area/balance-of-trade
+Monday March 10 2025,07:00 AM,EA,ZEW Economic Sentiment Index,MAR,,24.2,,28,0,/euro-area/zew-economic-sentiment-index
+Monday March 10 2025,07:00 AM,DE,ZEW Economic Sentiment Index,MAR,,26,,32,0,/germany/zew-economic-sentiment-index
+Monday March 10 2025,07:00 AM,DE,ZEW Current Conditions,MAR,,-88.5,,-92,0,/germany/zew-current-conditions
+Monday March 10 2025,07:00 AM,GB,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,09:30 AM,CA,Inflation Rate YoY,FEB,,1.9%,,N/A,0,/canada/inflation-cpi
+Monday March 10 2025,09:30 AM,CA,Core Inflation Rate YoY,FEB,,2.1%,,N/A,0,/canada/core-inflation-rate
+Monday March 10 2025,09:30 AM,CA,Inflation Rate MoM,FEB,,0.1%,,N/A,0,/canada/inflation-rate-mom
+Monday March 10 2025,09:30 AM,CA,Core Inflation Rate MoM,FEB,,0.4%,,N/A,0,/canada/core-inflation-rate-mom
+Monday March 10 2025,09:30 AM,CA,CPI Median YoY,FEB,,2.7%,,2.6%,0,/canada/cpi-median
+Monday March 10 2025,09:30 AM,CA,CPI Trimmed-Mean YoY,FEB,,2.7%,,2.6%,0,/canada/cpi-trimmed-mean
+Monday March 10 2025,09:30 AM,US,Building Permits Prel,FEB,,1.473M,,N/A,0,/united-states/building-permits
+Monday March 10 2025,09:30 AM,US,Housing Starts,FEB,,1.366M,,1.34M,0,/united-states/housing-starts
+Monday March 10 2025,09:30 AM,US,Building Permits MoM Prel,FEB,,-0.6%,,N/A,0,/united-states/building-permits-mom
+Monday March 10 2025,09:30 AM,US,Export Prices MoM,FEB,,1.3%,,0.9%,0,/united-states/export-prices-mom
+Monday March 10 2025,09:30 AM,US,Housing Starts MoM,FEB,,-9.8%,,-1.9%,0,/united-states/housing-starts-mom
+Monday March 10 2025,09:30 AM,US,Import Prices MoM,FEB,,0.3%,,0.5%,0,/united-states/import-prices-mom
+Monday March 10 2025,09:30 AM,US,Export Prices YoY,FEB,,2.7%,,3.0%,0,/united-states/export-prices-yoy
+Monday March 10 2025,09:30 AM,US,Import Prices YoY,FEB,,1.9%,,3.1%,0,/united-states/import-prices-yoy
+Monday March 10 2025,09:55 AM,US,Redbook YoY,MAR/15,,,,N/A,0,/united-states/redbook-index
+Monday March 10 2025,10:15 AM,US,Industrial Production MoM,FEB,,0.5%,,0.4%,0,/united-states/industrial-production-mom
+Monday March 10 2025,10:15 AM,US,Capacity Utilization,FEB,,77.8%,,77.7%,0,/united-states/capacity-utilization
+Monday March 10 2025,10:15 AM,US,Industrial Production YoY,FEB,,2%,,2.3%,0,/united-states/industrial-production
+Monday March 10 2025,10:15 AM,US,Manufacturing Production MoM,FEB,,-0.1%,,0.1%,0,/united-states/manufacturing-production-mom
+Monday March 10 2025,10:15 AM,US,Manufacturing Production YoY,FEB,,1%,,1.3%,0,/united-states/manufacturing-production
+Monday March 10 2025,11:00 AM,BR,Business Confidence,MAR,,49.1,,48.9,0,/brazil/business-confidence
+Monday March 10 2025,12:30 PM,US,52-Week Bill Auction,,,4.05%,,N/A,0,/united-states/52-week-bill-yield
+Monday March 10 2025,01:00 PM,RU,PPI MoM,FEB,,,,N/A,0,/russia/producer-price-inflation-mom
+Monday March 10 2025,01:00 PM,RU,PPI YoY,FEB,,9.7%,,10.3%,0,/russia/producer-prices-change
+Monday March 10 2025,02:00 PM,US,20-Year Bond Auction,,,4.83%,,N/A,0,/united-states/20-year-bond-yield
+Monday March 10 2025,05:30 PM,US,API Crude Oil Stock Change,MAR/14,,,,N/A,0,/united-states/api-crude-oil-stock-change
+Monday March 10 2025,08:50 PM,JP,Balance of Trade,FEB,,¥-2758.8B,,¥-600.0B,0,/japan/balance-of-trade
+Monday March 10 2025,08:50 PM,JP,Exports YoY,FEB,,7.2%,,N/A,0,/japan/exports-yoy
+Monday March 10 2025,08:50 PM,JP,Machinery Orders MoM,JAN,,,,N/A,0,/japan/machinery-orders
+Monday March 10 2025,08:50 PM,JP,Machinery Orders YoY,JAN,,,N/A,N/A,0,/japan/machinery-orders
+Monday March 10 2025,08:50 PM,JP,Imports YoY,FEB,,16.7%,,N/A,0,/japan/imports-yoy
+Monday March 10 2025,09:00 PM,AU,Westpac Leading Index MoM,FEB,,0.1%,,N/A,0,/australia/leading-economic-index
+Monday March 10 2025,,US,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,12:00 AM,JP,BoJ Interest Rate Decision,,,0.5%,,0.5%,0,/japan/interest-rate
+Monday March 10 2025,01:30 AM,JP,Capacity Utilization MoM,JAN,,-0.2%,,N/A,0,/japan/capacity-utilization
+Monday March 10 2025,01:30 AM,JP,Industrial Production MoM Final,JAN,,-0.2%,-1.1%,-1.1%,0,/japan/industrial-production-mom
+Monday March 10 2025,01:30 AM,JP,Industrial Production YoY Final,JAN,,-1.6%,,2.6%,0,/japan/industrial-production
+Monday March 10 2025,04:30 AM,ID,Interest Rate Decision,,,5.75%,,N/A,0,/indonesia/interest-rate
+Monday March 10 2025,04:30 AM,ID,Deposit Facility Rate,MAR,,,,N/A,0,/indonesia/deposit-interest-rate
+Monday March 10 2025,04:30 AM,ID,Lending Facility Rate,MAR,,,,N/A,0,/indonesia/lending-rate
+Monday March 10 2025,05:00 AM,ZA,Inflation Rate MoM,FEB,,,,N/A,0,/south-africa/inflation-rate-mom
+Monday March 10 2025,05:00 AM,ZA,Inflation Rate YoY,FEB,,3.2%,,N/A,0,/south-africa/inflation-cpi
+Monday March 10 2025,05:00 AM,ZA,Core Inflation Rate MoM,FEB,,0.2%,,N/A,0,/south-africa/core-inflation-rate-mom
+Monday March 10 2025,05:00 AM,ZA,Core Inflation Rate YoY,FEB,,3.5%,,N/A,0,/south-africa/core-inflation-rate
+Monday March 10 2025,07:00 AM,EA,Inflation Rate YoY Final,FEB,,2.5%,2.4%,2.4%,0,/euro-area/inflation-cpi
+Monday March 10 2025,07:00 AM,EA,Core Inflation Rate YoY Final,FEB,,2.7%,2.6%,2.6%,0,/euro-area/core-inflation-rate
+Monday March 10 2025,07:00 AM,EA,CPI Final,FEB,,126.72,127.32,127.32,0,/euro-area/consumer-price-index-cpi
+Monday March 10 2025,07:00 AM,EA,Inflation Rate MoM Final,FEB,,-0.3%,0.5%,0.5%,0,/euro-area/inflation-rate-mom
+Monday March 10 2025,07:00 AM,EA,Labour Cost Index YoY,Q4,,4.6%,N/A,N/A,0,/euro-area/labour-costs
+Monday March 10 2025,07:00 AM,EA,Wage Growth YoY,Q4,,4.4%,,4.0%,0,/euro-area/wage-growth
+Monday March 10 2025,07:30 AM,DE,30-Year Bund Auction,,,2.65%,,N/A,0,/germany/30-year-bond-yield
+Monday March 10 2025,08:00 AM,ZA,Retail Sales MoM,JAN,,-0.1%,,0.7%,0,/south-africa/retail-sales
+Monday March 10 2025,08:00 AM,ZA,Retail Sales YoY,JAN,,3.1%,,-1.8%,0,/south-africa/retail-sales-annual
+Monday March 10 2025,08:00 AM,US,MBA 30-Year Mortgage Rate,MAR/14,,,,N/A,0,/united-states/mortgage-rate
+Monday March 10 2025,08:00 AM,US,MBA Mortgage Applications,MAR/14,,,,N/A,0,/united-states/mortgage-applications
+Monday March 10 2025,08:00 AM,US,MBA Mortgage Market Index,MAR/14,,,,N/A,0,/united-states/mba-mortgage-market-index
+Monday March 10 2025,08:00 AM,US,MBA Mortgage Refinance Index,MAR/14,,,,N/A,0,/united-states/mba-mortgage-refinance-index
+Monday March 10 2025,08:00 AM,US,MBA Purchase Index,MAR/14,,,,N/A,0,/united-states/mba-purchase-index
+Monday March 10 2025,08:10 AM,EU,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,08:10 AM,EU,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,08:30 AM,IN,M3 Money Supply YoY,MAR/07,,,,N/A,0,/india/money-supply-m3
+Monday March 10 2025,09:00 AM,MX,Aggregate Demand QoQ,Q4,,1.2%,,1%,0,/mexico/gdp-aggregate-demand-qoq
+Monday March 10 2025,09:00 AM,MX,Aggregate Demand YoY,Q4,,,,2.1%,0,/mexico/gdp-aggregate-demand-yoy
+Monday March 10 2025,11:30 AM,US,EIA Crude Oil Stocks Change,MAR/14,,,,N/A,0,/united-states/crude-oil-stocks-change
+Monday March 10 2025,11:30 AM,US,EIA Gasoline Stocks Change,MAR/14,,,,N/A,0,/united-states/gasoline-stocks-change
+Monday March 10 2025,11:30 AM,US,EIA Crude Oil Imports Change,MAR/14,,,,N/A,0,/united-states/crude-oil-imports
+Monday March 10 2025,11:30 AM,US,EIA Cushing Crude Oil Stocks Change,MAR/14,,,,N/A,0,/united-states/cushing-crude-oil-stocks
+Monday March 10 2025,11:30 AM,US,EIA Distillate Fuel Production Change,MAR/14,,,,N/A,0,/united-states/distillate-fuel-production
+Monday March 10 2025,11:30 AM,US,EIA Distillate Stocks Change,MAR/14,,,,N/A,0,/united-states/distillate-stocks
+Monday March 10 2025,11:30 AM,US,EIA Gasoline Production Change,MAR/14,,,,N/A,0,/united-states/gasoline-production
+Monday March 10 2025,11:30 AM,US,EIA Heating Oil Stocks Change,MAR/14,,,,N/A,0,/united-states/heating-oil-stocks
+Monday March 10 2025,11:30 AM,US,EIA Refinery Crude Runs Change,MAR/14,,,,N/A,0,/united-states/refinery-crude-runs
+Monday March 10 2025,12:30 PM,US,N/A,,,4.180%,N/A,N/A,0,N/A
+Monday March 10 2025,03:00 PM,US,Fed Interest Rate Decision,,,4.5%,,4.5%,0,/united-states/interest-rate
+Monday March 10 2025,03:00 PM,US,FOMC Economic Projections,,,,N/A,N/A,0,/united-states/interest-rate
+Monday March 10 2025,03:00 PM,US,Interest Rate Projection - 1st Yr,,,3.9%,N/A,N/A,0,/united-states/interest-rate
+Monday March 10 2025,03:00 PM,US,Interest Rate Projection - 2nd Yr,,,3.4%,N/A,N/A,0,/united-states/interest-rate
+Monday March 10 2025,03:00 PM,US,Interest Rate Projection - Current,,,4.4%,N/A,N/A,0,/united-states/interest-rate
+Monday March 10 2025,03:00 PM,US,Interest Rate Projection - Longer,,,3%,N/A,N/A,0,/united-states/interest-rate
+Monday March 10 2025,03:30 PM,US,Fed Press Conference,,,,N/A,N/A,0,/united-states/interest-rate
+Monday March 10 2025,04:00 PM,AR,Balance of Trade,FEB,,$142M,,$400.0M,0,/argentina/balance-of-trade
+Monday March 10 2025,04:00 PM,AR,Full Year GDP Growth,2024,,,,-3.4%,0,/argentina/full-year-gdp-growth
+Monday March 10 2025,04:00 PM,AR,GDP Growth Rate QoQ,Q4,,3.9%,,-1%,0,/argentina/gdp-growth
+Monday March 10 2025,04:00 PM,AR,GDP Growth Rate YoY,Q4,,-2.1%,,-1.6%,0,/argentina/gdp-growth-annual
+Monday March 10 2025,05:00 PM,US,Net Long-term TIC Flows,JAN,,$72B,,N/A,0,/united-states/net-long-term-tic-flows
+Monday March 10 2025,05:00 PM,US,Foreign Bond Investment,JAN,,$-49.7B,,N/A,0,/united-states/foreign-bond-investment
+Monday March 10 2025,05:00 PM,US,Overall Net Capital Flows,JAN,,$87.1B,,N/A,0,/united-states/capital-flows
+Monday March 10 2025,06:30 PM,BR,Interest Rate Decision,,,13.25%,,14.25%,0,/brazil/interest-rate
+Monday March 10 2025,09:30 PM,AU,Employment Change,FEB,,44K,,N/A,0,/australia/employment-change
+Monday March 10 2025,09:30 PM,AU,Full Time Employment Chg,FEB,,54.1K,,N/A,0,/australia/full-time-employment
+Monday March 10 2025,09:30 PM,AU,Unemployment Rate,FEB,,4.1%,,N/A,0,/australia/unemployment-rate
+Monday March 10 2025,09:30 PM,AU,Part Time Employment Chg,FEB,,-10.1K,,N/A,0,/australia/part-time-employment
+Monday March 10 2025,09:30 PM,AU,Participation Rate,FEB,,67.3%,,N/A,0,/australia/labor-force-participation-rate
+Monday March 10 2025,10:15 PM,CN,Loan Prime Rate 1Y,,,3.1%,,3.1%,0,/china/interest-rate
+Monday March 10 2025,10:15 PM,CN,Loan Prime Rate 5Y,MAR,,3.6%,,3.6%,0,/china/loan-prime-rate-5y
+Monday March 10 2025,,AR,Leading Indicator MoM,FEB,,1.12%,,0.8%,0,/argentina/leading-economic-index
+Monday March 10 2025,,EU,N/A,,,,N/A,N/A,0,N/A
+Monday March 10 2025,12:00 AM,ID,M2 Money Supply YoY,FEB,,5.9%,N/A,N/A,0,/indonesia/money-supply-m2
+Monday March 10 2025,01:00 AM,ID,Tourist Arrivals YoY,JAN,,8.72%,,N/A,0,/indonesia/tourist-arrivals
+Monday March 10 2025,04:00 AM,DE,PPI YoY,FEB,,0.5%,,1.0%,0,/germany/producer-prices-change
+Monday March 10 2025,04:00 AM,DE,PPI MoM,FEB,,-0.1%,,0.1%,0,/germany/producer-price-inflation-mom
+Monday March 10 2025,04:00 AM,GB,Unemployment Rate,JAN,,4.4%,,4.4%,0,/united-kingdom/unemployment-rate
+Monday March 10 2025,04:00 AM,GB,Average Earnings incl. Bonus (3Mo/Yr),JAN,,6%,,5.9%,0,/united-kingdom/wage-growth
+Monday March 10 2025,04:00 AM,GB,Employment Change,JAN,,107K,,N/A,0,/united-kingdom/employment-change
+Monday March 10 2025,04:00 AM,GB,Average Earnings excl. Bonus (3Mo/Yr),JAN,,5.9%,,5.9%,0,/united-kingdom/average-earnings-excluding-bonus
+Monday March 10 2025,04:00 AM,GB,HMRC Payrolls Change,FEB,,21K,,N/A,0,/united-kingdom/non-farm-payrolls
+Monday March 10 2025,04:00 AM,GB,Claimant Count Change,FEB,,22K,,N/A,0,/united-kingdom/claimant-count-change
+Monday March 10 2025,04:20 AM,ID,Loan Growth YoY,FEB,,10.27%,,N/A,0,/indonesia/loan-growth

@@ -1,33 +1,19 @@
-```
-**Currency Market Report - Date: 03/04/2025**
+**Currency Market Report:**
+- **Major Pair Movements:**
+  - EURUSD: Daily Move 🟢 +0.01%
+  - GBPUSD: Daily Move 🟢 +0.03%
+  - USDJPY: Daily Move 🟢 +0.03% but monthly decline 🔴 -2.72%
 
----
+- **Volatility Levels:**
+  - Significant volatility seen in USDJPY. 
+  - Moderate fluctuations in USDTRY due to geopolitical factors.
 
-### **1. Major Pair Movements**
-- **EURUSD**: Price at **1.0572** (🔴 -2.61% Yearly), Daily Change: 🔵 +0.82%
-- **GBPUSD**: Price at **1.2759** (🟢 +0.44% Yearly), Daily Change: 🔵 +0.46%
-- **AUDUSD**: Price at **0.6221** (🔴 -4.33% Yearly), Daily Change: 🔴 -0.06%
-- **NZDUSD**: Price at **0.5628** (🔴 -8.16% Yearly), Daily Change: 🔵 +0.12%
-- **USDJPY**: Price at **148.9470** (🔴 -0.73% Yearly), Daily Change: 🔴 -0.37%
-- **USDCNY**: Price at **7.2676** (🟢 +0.79% Yearly), Daily Change: 🔴 -0.48%
+- **Trend Analysis:**
+  - Positive trends observed in EUR, GBP, and BRL.
+  - Declines in USD signify potential impacts from upcoming Fed announcements.
 
-### **2. Volatility Levels**
-- The volatility levels for major pairs indicate activity, particularly with the **USDBRL** showing substantial daily volatility (+3.28%) reflecting emerging market sensitivity and risk. 
-- Overall, currency pairs like EUR/USD and GBP/USD are exhibiting moderate volatility with positive daily movements providing early bullish sentiments.
+- **Intervention Signals:**
+  - Increasing rates in USDTRY suggest potential governmental interventions.
 
-### **3. Trend Analysis**
-- **EURUSD** and **GBPUSD** show uptrends compared to their previous months. Conversely, **AUDUSD** and **NZDUSD** demonstrate downtrends indicating potential weakness in the commodities against the USD.
-- The **DXY (US Dollar Index)** is trending downwards (🔴 -0.59%) this week, possibly reflecting weakening in the dollar versus major currencies.
-
-### **4. Intervention Signals**
-- Currencies in emerging markets (notably **USDBRL** and **USDTRY**) reflect large fluctuations and signals for potential central bank interventions to stabilize their currencies.
-- The **USDCNY** has shown slight volatility, indicating the People's Bank of China might be monitoring the currency closely to intervene if necessary.
-
-### **5. Risk Sentiment Indicators**
-- Risk sentiments are mixed; moderate on pairs like **EURUSD** and **GBPUSD**, reflecting stable conditions in their respective markets.
-- High risk is noted in pairs related to emerging markets (particularly **USDBRL** and **USDTRY**) due to greater daily changes and economic uncertainty.
-
----
-
-This report summarizes the real-time currency market dynamics for major and emerging currency pairs, providing insights on current movements, volatility, trends, potential interventions by central banks, and the corresponding risk sentiment in the markets. Monitoring and analyzing these factors will enhance decision-making for trading and economic strategies.
-```
+- **Risk Sentiment Indicators:**
+  - Overall risk sentiment remains high with positive movements in stable currencies contrasted against emerging markets.

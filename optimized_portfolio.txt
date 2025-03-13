@@ -1,0 +1,27 @@
+{
+  "Observation": {
+    "Portfolio Metrics": {
+      "Initial Value": "$ 100,000.00",
+      "Final Value": "$ 140,491.59",
+      "Total Return": "37.62%",
+      "Annualized Return": "12.43%",
+      "Annualized Volatility": "19.01%",
+      "Semideviation": "11.06%",
+      "Sortino Ratio": "1.41",
+      "Maximum Drawdown": "14.88%"
+    },
+    "Recommended Allocation": {
+      "AAPL": {
+        "Weight": "50.00%",
+        "Investment": "$ 50,000.00",
+        "Volume": "$ 7,989,348,592.49"
+      },
+      "AMZN": {
+        "Weight": "50.00%",
+        "Investment": "$ 50,000.00",
+        "Volume": "$ 9,243,173,572.30"
+      }
+    }
+  }
+}
+```

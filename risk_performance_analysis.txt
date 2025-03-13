@@ -1,0 +1,30 @@
+**Optimized Portfolio Risk and Return Metrics**
+
+1. **Portfolio Overview**
+   - **Initial Value**: $100,000.00
+   - **Final Value**: $140,491.59
+   - **Total Return**: 37.62%
+   - **Annualized Return**: 12.43%
+   - **Annualized Volatility**: 19.01%
+   - **Sortino Ratio**: 1.41
+   - **Maximum Drawdown**: 14.88%
+
+2. **Recommended Allocation**
+   - **AAPL**:
+     - Weight: 50.00%
+     - Investment: $50,000.00
+   - **AMZN**:
+     - Weight: 50.00%
+     - Investment: $50,000.00
+
+3. **Calculated Metrics**
+   - **Expected Return**: 11.40%
+   - **Volatility**: 31.45%
+   - **Sharpe Ratio**: 0.30
+
+4. **Risk Adjustment for Long-Term Investment Horizon**
+   - The metrics calculated above have been evaluated for consistency with a long-term investment perspective. 
+   - The expected return aligns with a long-term growth objective, although the volatility indicates a higher risk than the portfolio's annualized return suggests.
+   - The Sharpe Ratio of 0.30 reflects reasonable risk-adjusted returns, but does indicate the potential for further optimization.
+
+These metrics collectively provide insight into the performance expectations of the portfolio. They suggest that while the expected return is in line with long-term investment goals, adjustments might be necessary to better manage volatility and improve the overall risk-adjusted performance, particularly for a higher-risk tolerance investor.

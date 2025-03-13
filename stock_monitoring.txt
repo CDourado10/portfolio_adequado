@@ -1,108 +1,43 @@
-**Stock Market Summary as of 03/04/2025**
+**Stock Market Summary**
 
-### **Index Performance**
-1. **US500**
-   - **Price**: 5,796.56
-   - **Daily Change**: 🔴 -0.91%
-   - **Weekly Change**: 🔴 -2.66%
-   - **Monthly Change**: 🔴 -4.37%
-   - **YTD Change**: 🔴 -1.45%
-   - **Yearly Change**: 🟢 +14.14%
+- **Index Performance:**
+  - **US500:** 🟢 +0.14% (5,607.26)
+  - **US30:** 🟢 +0.09% (41,389.00)
+  - **US100:** 🟢 +0.14% (19,624.00)
+  - **JP225:** 🟢 +1.13% (37,235.00)
+  - **GB100:** 🟢 +0.53% (8,541.00)
+  - **DE40:** 🔴 -0.24% (22,621.00)
+  - **FR40:** 🟢 +0.59% (7,989.00)
+  - **IT40:** 🟢 +1.61% (38,307.00)
+  - **ES35:** 🔴 -0.57% (12,804.00)
+  - **ASX200:** 🔴 -0.52% (7,746.00)
+  - **SHANGHAI:** 🔴 -0.23% (3,372.00)
+  - **SENSEX:** 🔴 -0.10% (74,030.00)
+  - **TSX:** ⚪ 0.00% (24,423.00)
+  - **MOEX:** 🔴 -0.53% (3,184.00)
+  - **IBOVESPA:** 🟢 +0.29% (123,864.00)
+  - **IPC:** 🟢 +1.03% (52,041.00)
+  - **NL25:** 🟢 +1.07% (899.00)
+  - **CH20:** 🟢 +1.39% (12,868.00)
+  - **SAALL:** 🔴 -0.27% (86,854.00)
+  - **STI:** 🔴 -0.16% (3,827.00)
+  - **HK50:** 🟢 +0.05% (23,611.00)
+  - **NZX 50:** 🟢 +0.16% (12,269.00)
+  - **EU50:** 🔴 -0.23% (5,349.00)
 
-2. **US30**
-   - **Price**: 42,651.00
-   - **Daily Change**: 🔴 -1.25%
-   - **Weekly Change**: 🔴 -2.22%
-   - **Monthly Change**: 🔴 -4.95%
-   - **YTD Change**: 🟢 +0.25%
-   - **Yearly Change**: 🟢 +10.54%
+- **Sector Movements:**
+  - The technology sector (represented by US100) remained stable with a positive change.
+  - The energy sector (ASX200) faced downward pressure, indicating possible market challenges.
+  - Financial sectors (JP225 and US30) showed resilience with growth despite market volatility.
 
-3. **US100**
-   - **Price**: 20,376.00
-   - **Daily Change**: 🔴 -0.24%
-   - **Weekly Change**: 🔴 -3.37%
-   - **Monthly Change**: 🔴 -5.92%
-   - **YTD Change**: 🔴 -3.03%
-   - **Yearly Change**: 🟢 +13.85%
+- **Volatility Measures:**
+  - The indices displayed mixed volatility levels, with **JP225** and **IBOVESPA** indicating strong upward movements contrasting against sectors like **ASX200** experiencing downward pressure.
+  - Metrics indicate increased volatility in global markets, particularly in emerging economies correlated with currency fluctuations.
 
-4. **JP225**
-   - **Price**: 36,815.00
-   - **Daily Change**: 🔴 -2.57%
-   - **Weekly Change**: 🔴 -3.72%
-   - **Monthly Change**: 🔴 -5.19%
-   - **YTD Change**: 🔴 -7.72%
-   - **Yearly Change**: 🔴 -8.19%
+- **Market Breadth:**
+  - Market breadth indicators reveal a divergence, where more indices are underperforming compared to few indices showing strength.
+  - Notable breadth is seen in markets like **IT40** and **HK50**, suggesting that sector rotation is playing out with certain regions benefitting.
 
-5. **GB100**
-   - **Price**: 8,793.00
-   - **Daily Change**: 🔴 -0.88%
-   - **Weekly Change**: 🟢 +1.43%
-   - **Monthly Change**: 🟢 +1.97%
-   - **YTD Change**: 🟢 +7.58%
-   - **Yearly Change**: 🟢 +15.00%
-
-6. **DE40**
-   - **Price**: 22,600.00
-   - **Daily Change**: 🔴 -2.36%
-   - **Weekly Change**: 🟢 +0.85%
-   - **Monthly Change**: 🟢 +4.70%
-   - **YTD Change**: 🟢 +13.52%
-   - **Yearly Change**: 🟢 +27.69%
-
-7. **FR40**
-   - **Price**: 8,148.00
-   - **Daily Change**: 🔴 -0.63%
-   - **Weekly Change**: 🟢 +1.20%
-   - **Monthly Change**: 🟢 +3.25%
-   - **YTD Change**: 🟢 +10.40%
-   - **Yearly Change**: 🟢 +2.71%
-
-8. **IT40**
-   - **Price**: 38,024.00
-   - **Daily Change**: 🔴 -2.67%
-   - **Weekly Change**: 🔴 -1.78%
-   - **Monthly Change**: 🟢 +3.94%
-   - **YTD Change**: 🟢 +11.23%
-   - **Yearly Change**: 🟢 +14.72%
-
-9. **ES35**
-   - **Price**: 13,164.00
-   - **Daily Change**: 🔴 -1.56%
-   - **Weekly Change**: 🟢 +0.36%
-   - **Monthly Change**: 🟢 +5.00%
-   - **YTD Change**: 🟢 +13.53%
-   - **Yearly Change**: 🟢 +30.12%
-
-10. **ASX200**
-    - **Price**: 8,095.00
-    - **Daily Change**: 🔴 -1.83%
-    - **Weekly Change**: 🔴 -1.90%
-    - **Monthly Change**: 🔴 -3.82%
-    - **YTD Change**: 🔴 -0.78%
-    - **Yearly Change**: 🟢 +4.80%
-
-11. **SHANGHAI**
-    - **Price**: 3,324.00
-    - **Daily Change**: 🟢 +0.22%
-    - **Weekly Change**: 🔴 -0.65%
-    - **Monthly Change**: 🟢 +2.93%
-    - **YTD Change**: 🔴 -0.82%
-    - **Yearly Change**: 🟢 +9.07%
-
-... [additional indices removed for brevity]
-
-### **Sector Movements**
-- **Positive momentum** in indices like **US500** and **US30** indicates resilience despite daily fluctuations.
-- **Sector analysis** should be reviewed closely for signs of rotation into **technology** from **commodities**, given the recent performance by **US100**.
-
-### **Volatility Measures**
-- Volatility diverse among indices, with upward shifts in tech-heavy indices reflecting investor uncertainty. Notably, **JP225** showed significant declines pointing towards heightened volatility.
-
-### **Market Breadth**
-- Mixed signals with texts showing predominately red performance across indices, barring a few notable countries like China with positive shifts in their index.
-
-### **Technical Signals**
-- Past performance indicates further potential market corrections may be on the horizon, especially in the face of macroeconomic pressures globally.
-
-This concludes the comprehensive stock market summary highlighting the performance of major indices, sector movements, volatility levels, market breadth, and technical signals.
-```
+- **Technical Signals:**
+  - Majority of major indices displayed bullish trends in the short term, but several indices like **DE40** and **ASX200** indicated bearish patterns in the immediate and monthly outlook.
+  - Technical signals suggest traders are cautious, with resistance levels being tested across several major indices.

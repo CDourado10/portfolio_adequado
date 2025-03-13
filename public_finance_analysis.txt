@@ -1,22 +1,20 @@
 Propostas Fiscais:
 
 1. Receitas:
-   - Ação de implementação: Revisão e atualização da legislação sobre taxas estaduais e municipais, visando aumentar a arrecadação sem onerar a população.
-   - Impacto esperado em reais: R$ 50.000.000,00 anuais.
-   - Prazo de implementação em dias: 120 dias.
-   - Custos operacionais em reais: R$ 150.000,00 (custo de análise e revisão).
-   - Indicadores de monitoramento: Aumento na arrecadação mensal de taxas e impostos.
+   - Ação de implementação: Proposta de incentivos fiscais para empresas do setor de tecnologia.
+   - Impacto esperado em reais: Estimativa de R$ 2.000.000,00 adicionais em receita anual devido à atração de novos negócios.
+   - Prazo de implementação em dias: 90 dias.
+   - Custos operacionais em reais: R$ 100.000,00 para campanhas de divulgação e consultoria.
+   - Indicadores de monitoramento: Acompanhar a quantidade de novas empresas registradas no setor e a receita gerada.
 
 2. Despesas:
-   - Medidas de otimização: Implementação de um programa de eficiência energética nas repartições públicas e revisão de contratos de serviços terceirizados.
-   - Economia prevista: R$ 25.000.000,00 anuais.
-   - Timeline de implementação: 180 dias para a implementação total do programa.
-   - Riscos e mitigações: Risco de resistência a mudanças - Mitigar através de capacitação e conscientização sobre os benefícios financeiros e ambientais do programa.
+   - Medidas de otimização: Revisão de contratos de prestação de serviços e renegociação de tarifas.
+   - Economia prevista: Redução de R$ 5.000.000,00 em despesas anuais.
+   - Timeline de implementação: 60 dias para identificação e renegociação.
+   - Riscos e mitigação: Potencial resistência de prestadores de serviços, mitigado por cláusulas contratuais e alternativas de mercado.
 
 3. Investimentos:
-   - Projetos prioritários: Criação de incentivos para startups e empresas de tecnologia, visando atrair investimentos e gerar empregos.
-   - Fontes de financiamento: Parcerias público-privadas e recursos do fundo de inovação do estado.
-   - Cronograma de desembolso: R$ 1.000.000,00 liberados em 3 parcelas ao longo de 12 meses.
-   - ROI projetado: 150% em 24 meses, considerando a geração de novos empregos e o aumento da arrecadação decorrente do crescimento das empresas.
-
-```
+   - Projetos prioritários: Desenvolvimento de um projeto de energias renováveis.
+   - Fontes de financiamento: Parcerias público-privadas e fundos de investimento em infraestrutura.
+   - Cronograma de desembolso: R$ 4.000.000,00 para fase inicial em 12 meses.
+   - ROI projetado: Aumento de 10% na eficiência energética e 1% no PIB regional após a implementação.

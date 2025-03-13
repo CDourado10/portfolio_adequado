@@ -1,24 +1,24 @@
 Propostas de Decisão:
-1. **Decisões Imediatas (próximos 3 meses)**:
-   - **Ação específica**: Implementar um programa de capacitação e acesso a crédito para pequenos agricultores.
-   - **Custo estimado**: R$ 200.000,00.
-   - **Retorno esperado**: Aumento em 20% da produção nos próximos 6 meses.
-   - **Prazo de implementação**: 90 dias.
-   - **Métricas de acompanhamento**: Número de agricultores capacitados e percentual de aumento de produção.
 
-2. **Decisões de Curto Prazo (6-12 meses)**:
-   - **Ações priorizadas**:
-     1. Melhorar infraestrutura de transporte: Investimento em estradas rurais.
-     2. Parcerias público-privadas para fortalecer a indústria de alimentos.
-     3. Incentivos fiscais para empresas de comércio eletrônico.
-   - **Recursos necessários**: Aproximadamente R$ 1.000.000,00 para infraestrutura e R$ 500.000,00 para incentivos fiscais.
-   - **ROI esperado**: 15% em 12 meses.
-   - **Timeline de implementação**: 6-12 meses.
+1. Decisões Imediatas (próximos 3 meses):
+   - Ação específica para implementar: Capacitação e assistência técnica para pequenos agricultores na produção de alimentos.
+   - Custo estimado em reais: R$ 200.000,00.
+   - Retorno esperado em reais ou percentual: Aumento de 15% na produção de hortaliças.
+   - Prazo de implementação em dias/meses: 3 meses.
+   - Métricas de acompanhamento detalhadas: Monitorar a produção mensal de hortaliças e realizar pesquisa de satisfação com os agricultores capacitados.
 
-3. **Decisões de Médio Prazo (12-24 meses)**:
-   - **Projetos estruturantes**:
-     1. Criação de um centro de inovação agrícola para pesquisa e desenvolvimento.
-     2. Expansão de cooperativas de agricultores para fortalecimento do comércio local.
-   - **Investimentos necessários**: R$ 2.500.000,00 para o centro de inovação, R$ 1.000.000,00 para cooperativas.
-   - **Impacto projetado no PIB**: Estimativa de aumento de 0.5% do PIB regional.
-   - **Cronograma detalhado**: 12-24 meses, divididos em fases de planejamento, implementação e avaliação.
+2. Decisões de Curto Prazo (6-12 meses):
+   - Lista de ações priorizadas:
+     1. Proposta de incentivos fiscais para empresas do setor de tecnologia.
+     2. Parcerias público-privadas para construção de infraestrutura logística.
+   - Recursos necessários: Aproximadamente R$ 1.500.000,00.
+   - ROI esperado por ação: 20% de aumento na geração de novos empregos e R$ 2.000.000,00 em receita adicional para o estado.
+   - Timeline de implementação: Ações devem ser iniciadas em 6 meses e concluídas em 12 meses.
+
+3. Decisões de Médio Prazo (12-24 meses):
+   - Projetos estruturantes:
+     1. Criação de um centro de inovação e incubação de startups.
+     2. Desenvolvimento de um projeto de energias renováveis.
+   - Investimentos necessários: R$ 5.000.000,00 para o centro de inovação e R$ 4.000.000,00 para energias renováveis.
+   - Impacto projetado no PIB: Aumento de 0,5% no PIB regional.
+   - Cronograma detalhado: Estabelecer prazos de 12 meses para a infraestrutura do centro de inovação e 24 meses para a execução do projeto de energias renováveis.

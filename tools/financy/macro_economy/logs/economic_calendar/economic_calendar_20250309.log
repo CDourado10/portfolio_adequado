@@ -1,0 +1,8 @@
+2025-03-09 19:57:19,163 - __main__ - DEBUG - Starting economic calendar tool execution
+2025-03-09 19:57:19,163 - __main__ - DEBUG - Attempt 1 of 3 to get calendar data
+2025-03-09 19:57:23,305 - __main__ - DEBUG - Accessing URL: https://tradingeconomics.com/calendar
+2025-03-09 19:57:44,547 - __main__ - DEBUG - Data successfully obtained
+2025-03-09 23:33:54,132 - __main__ - DEBUG - Starting economic calendar tool execution
+2025-03-09 23:33:54,132 - __main__ - DEBUG - Attempt 1 of 3 to get calendar data
+2025-03-09 23:33:58,383 - __main__ - DEBUG - Accessing URL: https://tradingeconomics.com/calendar
+2025-03-09 23:34:18,973 - __main__ - DEBUG - Data successfully obtained

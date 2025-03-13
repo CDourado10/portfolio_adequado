@@ -1,0 +1,9 @@
+2025-03-11 18:53:05,006 - __main__ - DEBUG - Starting earnings calendar tool execution
+2025-03-11 18:53:05,006 - __main__ - DEBUG - Attempt 1 of 3 to get earnings data
+2025-03-11 18:53:09,197 - __main__ - DEBUG - Accessing URL: https://www.investing.com/earnings-calendar/
+2025-03-11 18:53:23,899 - __main__ - DEBUG - Processing timeframe: timeFrame_thisWeek
+2025-03-11 18:53:34,066 - __main__ - ERROR - Error processing timeframe timeFrame_thisWeek: Message: 
+
+2025-03-11 18:53:34,067 - __main__ - DEBUG - Processing timeframe: timeFrame_nextWeek
+2025-03-11 18:53:44,181 - __main__ - ERROR - Error processing timeframe timeFrame_nextWeek: Message: 
+

@@ -1,0 +1,6 @@
+date,time,country_code,country,event,reference,actual,previous,revised,consensus,forecast,category,symbol,event_id,url,actual_raw,actual_numeric,previous_raw,previous_numeric,revised_raw,revised_numeric,consensus_raw,consensus_numeric,forecast_raw,forecast_numeric
+2025-03-19,03:00 AM,JP,japan,BoJ Interest Rate Decision,,,0.5%,,,0.5%,interest rate,BOJDTR,389597,https://tradingeconomics.com/japan/interest-rate,,,0.5%,0.005,,,,,0.5%,0.005
+2025-03-19,06:00 PM,US,united states,Fed Interest Rate Decision,,,4.5%,,,4.5%,interest rate,FDTR,389354,https://tradingeconomics.com/united-states/interest-rate,,,4.5%,0.045,,,,,4.5%,0.045
+2025-03-19,06:00 PM,US,united states,FOMC Economic Projections,,,,,,,interest rate,,389525,https://tradingeconomics.com/united-states/interest-rate,,,,,,,,,,
+2025-03-19,06:30 PM,US,united states,Fed Press Conference,,,,,,,interest rate,,389515,https://tradingeconomics.com/united-states/interest-rate,,,,,,,,,,
+2025-03-20,12:00 PM,GB,united kingdom,BoE Interest Rate Decision,,,4.5%,,,4.5%,interest rate,UKBRBASE,389453,https://tradingeconomics.com/united-kingdom/interest-rate,,,4.5%,0.045,,,,,4.5%,0.045

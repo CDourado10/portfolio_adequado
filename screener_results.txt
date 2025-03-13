@@ -1,30 +1,25 @@
-1. Altice USA, Inc. (ATUS)
-2. Companhia Siderúrgica Nacional (SID)
-3. Kosmos Energy Ltd. (KOS)
-4. Claritev Corporation (MPLN)
-5. Dole plc (DOLE)
-6. Atea Pharmaceuticals, Inc. (AVIR)
-7. Lithium Americas Corp. (LAC)
-8. Sonos, Inc. (SONO)
-9. Vimeo, Inc. (VMEO)
-10. GoPro, Inc. (GPRO)
-11. Inhibrx Biosciences, Inc. (INBX)
-12. Sono Group N.V. (SEVCF)
-13. Reysas Gayrimenkul Yatirim Ortakligi A.S. (RYGYF)
-14. Avance Gas Holding Ltd (AVACF)
-15. MODEC, Inc. (MDIKF)
-16. Chiyoda Corporation (CHYCF)
-17. Chiyoda Corporation (CHYCY)
-18. Standard Lithium Ltd. (SLI)
-19. QuantaSing Group Limited (QSG)
-20. Evergrande Property Services Group Limited (EVGPF)
-21. General Motors Company (GM)
-22. Energy Transfer LP (ET)
-23. APA Corporation (APA)
-24. Kinross Gold Corporation (KGC)
-25. Laureate Education, Inc. (LAUR)
-26. Baker Hughes Company (BKR)
-27. Match Group, Inc. (MTCH)
-28. IAMGOLD Corporation (IAG)
-29. Synchrony Financial (SYF)
-```
+[
+    {"Name": "JPMorgan BetaBuilders U.S. Equity ETF", "Ticker": "BBUS"},
+    {"Name": "SPDR Portfolio S&P 500 ETF", "Ticker": "SPLG"},
+    {"Name": "Vanguard Mortgage-Backed Securities Index Fund ETF Shares", "Ticker": "VMBS"},
+    {"Name": "Vanguard Short-Term Corporate Bond Index Fund ETF Shares", "Ticker": "VCSH"},
+    {"Name": "Schwab U.S. TIPS ETF", "Ticker": "SCHP"},
+    {"Name": "Vanguard Long-Term Corporate Bond Index Fund ETF Shares", "Ticker": "VCLT"},
+    {"Name": "General Motors Company", "Ticker": "GM"},
+    {"Name": "Energy Transfer LP", "Ticker": "ET"},
+    {"Name": "APA Corporation", "Ticker": "APA"},
+    {"Name": "Kinross Gold Corporation", "Ticker": "KGC"},
+    {"Name": "Laureate Education, Inc.", "Ticker": "LAUR"},
+    {"Name": "Baker Hughes Company", "Ticker": "BKR"},
+    {"Name": "Match Group, Inc.", "Ticker": "MTCH"},
+    {"Name": "Kosmos Energy Ltd.", "Ticker": "KOS"},
+    {"Name": "IAMGOLD Corporation", "Ticker": "IAG"},
+    {"Name": "Synchrony Financial", "Ticker": "SYF"},
+    {"Name": "Mattel, Inc.", "Ticker": "MAT"},
+    {"Name": "AGNC Investment Corp.", "Ticker": "AGNC"},
+    {"Name": "Pembina Pipeline Corporation", "Ticker": "PBA"},
+    {"Name": "Jazz Pharmaceuticals plc", "Ticker": "JAZZ"},
+    {"Name": "Invesco MSCI USA ETF", "Ticker": "PBUS"},
+    {"Name": "Vanguard Total World Stock Index Fund ETF Shares", "Ticker": "VT"},
+    {"Name": "Victoria Gold Corp.", "Ticker": "VGCX"}
+]
