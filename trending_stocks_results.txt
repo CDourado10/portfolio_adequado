@@ -1,19 +1,10 @@
-Here is a report on trending assets suitable for inclusion in the portfolio based on a medium risk level and long-term investment horizon:
-
-1. **JPMorgan BetaBuilders U.S. Equity ETF** - Ticker: BBUS
-2. **SPDR Portfolio S&P 500 ETF** - Ticker: SPLG
-3. **Vanguard Mortgage-Backed Securities Index Fund ETF Shares** - Ticker: VMBS
-4. **Vanguard Short-Term Corporate Bond Index Fund ETF Shares** - Ticker: VCSH
-5. **Schwab U.S. TIPS ETF** - Ticker: SCHP
-6. **Vanguard Long-Term Corporate Bond Index Fund ETF Shares** - Ticker: VCLT
-7. **General Motors Company** - Ticker: GM
-8. **Energy Transfer LP** - Ticker: ET
-9. **Baker Hughes Company** - Ticker: BKR
-10. **Match Group, Inc.** - Ticker: MTCH
-11. **Synchrony Financial** - Ticker: SYF
-12. **AGNC Investment Corp.** - Ticker: AGNC
-13. **Pembina Pipeline Corporation** - Ticker: PBA
-14. **Invesco MSCI USA ETF** - Ticker: PBUS
-15. **Vanguard Total World Stock Index Fund ETF Shares** - Ticker: VT
-
-These assets are selected based on their characteristics and potential for long-term growth while maintaining a medium risk profile. They represent a mix of ETFs and stable companies that can offer good appreciation potential.
+1. Grayscale Bitcoin Trust ETF (GBTC) - Symbol: GBTC
+2. MicroSectors FANG+ Index 2X Leveraged ETN (FNGO) - Symbol: FNGO
+3. Invesco Solar ETF (TAN) - Symbol: TAN
+4. Invesco WilderHill Clean Energy ETF (PBW) - Symbol: PBW
+5. First Trust NASDAQ Clean Edge Green Energy Index Fund (QCLN) - Symbol: QCLN
+6. ARK Genomic Revolution ETF (ARKG) - Symbol: ARKG
+7. ARK Next Generation Internet ETF (ARKW) - Symbol: ARKW
+8. ARK Innovation ETF (ARKK) - Symbol: ARKK
+9. Invesco Global Clean Energy ETF (PBD) - Symbol: PBD
+10. iShares Global Clean Energy ETF (ICLN) - Symbol: ICLN

@@ -1,19 +1,52 @@
-**Currency Market Report:**
-- **Major Pair Movements:**
-  - EURUSD: Daily Move 🟢 +0.01%
-  - GBPUSD: Daily Move 🟢 +0.03%
-  - USDJPY: Daily Move 🟢 +0.03% but monthly decline 🔴 -2.72%
+**Currency Market Report**
 
-- **Volatility Levels:**
-  - Significant volatility seen in USDJPY. 
-  - Moderate fluctuations in USDTRY due to geopolitical factors.
+**Date:** March 14, 2025
 
-- **Trend Analysis:**
-  - Positive trends observed in EUR, GBP, and BRL.
-  - Declines in USD signify potential impacts from upcoming Fed announcements.
+**1. Major Pair Movements:**
+- **EURUSD:** 
+  - Current Price: 1.0876
+  - Daily Movement: 🟢 +0.22%
+  - YTD Movement: 🟢 +5.00%
 
-- **Intervention Signals:**
-  - Increasing rates in USDTRY suggest potential governmental interventions.
+- **GBPUSD:** 
+  - Current Price: 1.2925
+  - Daily Movement: 🔴 -0.20%
+  - YTD Movement: 🟢 +3.24%
 
-- **Risk Sentiment Indicators:**
-  - Overall risk sentiment remains high with positive movements in stable currencies contrasted against emerging markets.
+- **AUDUSD:** 
+  - Current Price: 0.6322
+  - Daily Movement: 🟢 +0.58%
+  - YTD Movement: 🟢 +2.14%
+
+- **USDJPY:** 
+  - Current Price: 148.4940
+  - Daily Movement: 🟢 +0.46%
+  - YTD Movement: 🔴 -5.63%
+
+- **USDCNY:** 
+  - Current Price: 7.2394
+  - Daily Movement: 🔴 -0.12%
+  - YTD Movement: 🔴 -1.34% 
+
+- **USDCAD:** 
+  - Current Price: 1.4388
+  - Daily Movement: 🔴 -0.36%
+  - YTD Movement: 🟢 +0.07%
+
+**2. Volatility Levels:**
+- The pairs display mixed volatility with significant positive shifts in emerging market currencies like AUDUSD and NZDUSD. Major pairs like EURUSD demonstrated stability with slight positive shifts, while USDJPY showed negative volatility, indicating risk.
+
+**3. Trend Analysis:**
+- Overall, the trend appears cautious with many major pairs showing incremental changes. EURUSD remains robust, strengthening against the dollar. Emerging markets like AUD and NZD demonstrate resilience, influenced by local economic conditions. Conversely, USDJPY and USDCNY are showing weakness amid international tensions.
+
+**4. Intervention Signals:**
+- Recent movements in USDCNY and USDCAD suggest potential market interventions, particularly from Chinese authorities aimed at stabilizing yuan volatility. Moreover, USDJPY's movement highlights Japan's monetary policy adjustments in response to inflationary pressures.
+
+**5. Risk Sentiment Indicators:**
+- Current assessments reflect an overall cautious market sentiment:
+  - **Risk Indicators:** 
+     - Bond yields are in a downward trend (🔴).
+     - Currency stability remains neutral (⚪).
+     - Stock market indicators show moderate growth (🟢).
+
+The findings underscore a cautious yet optimistic outlook, with central banks potentially influencing movements in vulnerable currencies. Continued monitoring in the coming days will be pivotal to assess ongoing trends.

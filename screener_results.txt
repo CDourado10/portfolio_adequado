@@ -1,25 +1,43 @@
-[
-    {"Name": "JPMorgan BetaBuilders U.S. Equity ETF", "Ticker": "BBUS"},
-    {"Name": "SPDR Portfolio S&P 500 ETF", "Ticker": "SPLG"},
-    {"Name": "Vanguard Mortgage-Backed Securities Index Fund ETF Shares", "Ticker": "VMBS"},
-    {"Name": "Vanguard Short-Term Corporate Bond Index Fund ETF Shares", "Ticker": "VCSH"},
-    {"Name": "Schwab U.S. TIPS ETF", "Ticker": "SCHP"},
-    {"Name": "Vanguard Long-Term Corporate Bond Index Fund ETF Shares", "Ticker": "VCLT"},
-    {"Name": "General Motors Company", "Ticker": "GM"},
-    {"Name": "Energy Transfer LP", "Ticker": "ET"},
-    {"Name": "APA Corporation", "Ticker": "APA"},
-    {"Name": "Kinross Gold Corporation", "Ticker": "KGC"},
-    {"Name": "Laureate Education, Inc.", "Ticker": "LAUR"},
-    {"Name": "Baker Hughes Company", "Ticker": "BKR"},
-    {"Name": "Match Group, Inc.", "Ticker": "MTCH"},
-    {"Name": "Kosmos Energy Ltd.", "Ticker": "KOS"},
-    {"Name": "IAMGOLD Corporation", "Ticker": "IAG"},
-    {"Name": "Synchrony Financial", "Ticker": "SYF"},
-    {"Name": "Mattel, Inc.", "Ticker": "MAT"},
-    {"Name": "AGNC Investment Corp.", "Ticker": "AGNC"},
-    {"Name": "Pembina Pipeline Corporation", "Ticker": "PBA"},
-    {"Name": "Jazz Pharmaceuticals plc", "Ticker": "JAZZ"},
-    {"Name": "Invesco MSCI USA ETF", "Ticker": "PBUS"},
-    {"Name": "Vanguard Total World Stock Index Fund ETF Shares", "Ticker": "VT"},
-    {"Name": "Victoria Gold Corp.", "Ticker": "VGCX"}
-]
+Here are the promising investment assets based on historical performance, aligned with low-risk and long-term investment strategies:
+
+1. **Grayscale Bitcoin Trust ETF (GBTC)**
+   - **Last Price:** $66.97
+   - **Market Capitalization:** $46,368,018,432
+
+2. **MicroSectors FANG+ Index 2X Leveraged ETN (FNGO)**
+   - **Last Price:** $74.48
+   - **Market Capitalization:** N/A
+
+3. **Invesco Solar ETF (TAN)**
+   - **Last Price:** $32.47
+   - **Market Capitalization:** N/A
+
+4. **Invesco WilderHill Clean Energy ETF (PBW)**
+   - **Last Price:** $16.83
+   - **Market Capitalization:** $96,259,064
+
+5. **First Trust NASDAQ Clean Edge Green Energy Index Fund (QCLN)**
+   - **Last Price:** $29.23
+   - **Market Capitalization:** N/A
+
+6. **ARK Genomic Revolution ETF (ARKG)**
+   - **Last Price:** $22.82
+   - **Market Capitalization:** N/A
+
+7. **ARK Next Generation Internet ETF (ARKW)**
+   - **Last Price:** $96.16
+   - **Market Capitalization:** N/A
+
+8. **ARK Innovation ETF (ARKK)**
+   - **Last Price:** $49.20
+   - **Market Capitalization:** N/A
+
+9. **Invesco Global Clean Energy ETF (PBD)**
+   - **Last Price:** $11.42
+   - **Market Capitalization:** N/A
+
+10. **iShares Global Clean Energy ETF (ICLN)**
+   - **Last Price:** $11.61
+   - **Market Capitalization:** N/A
+
+These assets have demonstrated strong performance potentials and show promise for long-term investment, aligning with low-risk profiles.

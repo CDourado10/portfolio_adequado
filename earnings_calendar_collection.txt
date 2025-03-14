@@ -1,81 +1,32 @@
-**Structured Earnings Base:**
+Structured earnings base:
 
-1. **Company:** Adobe Systems
-   - **Market Cap:** Large cap
-   - **Sector:** Technology
-   - **EPS Expectation:** $3.12
-   - **Revenue Expectation:** $4.91 billion
-   - **Release Timing:** Post-Market
-   - **Recent Performance History:** Steady revenue growth with significant product launches.
+1. **Companies Ordered by Market Cap**
+   - **Tencent Holdings** (700:HK)
+     - EPS: 5.71, Consensus: 4.54, Revenue: 169.33B, MarketCap: $602.35B, Release Timing: Pre-market
+   - **PDD Holdings** (PDD:US)
+     - EPS: 19.86, Consensus: 17.32, Revenue: 115.04B, MarketCap: $159.38B, Release Timing: Post-market
+   - **Enel** (ENEL:IM)
+     - EPS: 0.11, Consensus: 0.12, Revenue: 21.313B, MarketCap: $76.78B, Release Timing: Pre-market
+   - **Assicurazioni Generali** (G:IM)
+     - EPS: 1.29, Consensus: 0.94, Revenue: 22.39B, MarketCap: $54.05B, Release Timing: Pre-market
+   - **BMW** (BMW:GR)
+     - EPS: 2.41, Consensus: 2.91, Revenue: 36.42B, MarketCap: $50.56B, Release Timing: Pre-market
+   - **Daimler Truck Holding AG** (DTG:GR)
+     - Consensus: 0.87, Previous: 1.48, MarketCap: $34.44B, Release Timing: Pre-market
+   - **General Mills** (GIS:US)
+     - EPS: 0.98, Consensus: 1.17, Revenue: 5.02B, MarketCap: $33.96B, Release Timing: Pre-market
+   - **Williams Sonoma** (WSM:US)
+     - Consensus: 2.90, Previous: 5.44, Revenue: 2.34B, MarketCap: $10.77B, Release Timing: Post-market
+   - **WuXi AppTec** (603259:CH)
+     - Consensus: 1.09, Previous: 0.76, Revenue: 11.5B, MarketCap: $21.08B, Release Timing: Pre-market
+   - **Computacenter** (CCC:LN)
+     - Consensus: 1.08, Previous: 0.96, Revenue: 3.77B, MarketCap: $5.55B, Release Timing: Post-market
 
-2. **Company:** Nike
-   - **Market Cap:** Large cap
-   - **Sector:** Consumer Discretionary
-   - **EPS Expectation:** $0.74
-   - **Revenue Expectation:** $12.4 billion
-   - **Release Timing:** Pre-Market
-   - **Recent Performance History:** Recovering from supply chain issues, with strong sales in North America.
+2. **EPS and Revenue Expectations**
+   - Companies have varied expectations for EPS and revenue, with some showing positive growth while others face declines.
 
-3. **Company:** PayPal
-   - **Market Cap:** Large cap
-   - **Sector:** Financial Technology
-   - **EPS Expectation:** $0.97
-   - **Revenue Expectation:** $6.85 billion
-   - **Release Timing:** Post-Market
-   - **Recent Performance History:** Varied performance with a push towards digital currencies.
+3. **Release Timing**
+   - Most companies are reporting results pre-market, while others are scheduled for post-market releases.
 
-4. **Company:** Oracle
-   - **Market Cap:** Large cap
-   - **Sector:** Technology
-   - **EPS Expectation:** $1.16
-   - **Revenue Expectation:** $10.5 billion
-   - **Release Timing:** Post-Market
-   - **Recent Performance History:** Transitioning to cloud services with substantial growth.
-
-5. **Company:** Micron Technology
-   - **Market Cap:** Large cap
-   - **Sector:** Technology
-   - **EPS Expectation:** $0.84
-   - **Revenue Expectation:** $7.0 billion
-   - **Release Timing:** Pre-Market
-   - **Recent Performance History:** Volatile demand for memory chips impacting growth.
-
-6. **Company:** FedEx
-   - **Market Cap:** Large cap
-   - **Sector:** Industrials
-   - **EPS Expectation:** $3.18
-   - **Revenue Expectation:** $23.4 billion
-   - **Release Timing:** After-Market
-   - **Recent Performance History:** Facing pressures from rising delivery costs.
-
-7. **Company:** Salesforce
-   - **Market Cap:** Large cap
-   - **Sector:** Technology
-   - **EPS Expectation:** $1.22
-   - **Revenue Expectation:** $7.8 billion
-   - **Release Timing:** Post-Market
-   - **Recent Performance History:** Strong cloud growth offset by increased competition.
-
-8. **Company:** Johnson & Johnson
-   - **Market Cap:** Large cap
-   - **Sector:** Healthcare
-   - **EPS Expectation:** $2.53
-   - **Revenue Expectation:** $23.0 billion
-   - **Release Timing:** Pre-Market
-   - **Recent Performance History:** Recovering from recent litigation news.
-
-9. **Company:** Tesla
-   - **Market Cap:** Large cap
-   - **Sector:** Automotive
-   - **EPS Expectation:** $1.04
-   - **Revenue Expectation:** $23.0 billion
-   - **Release Timing:** After-Market
-   - **Recent Performance History:** Scaling production with strategic expansions.
-
-10. **Company:** Netflix
-    - **Market Cap:** Large cap
-    - **Sector:** Communication Services
-    - **EPS Expectation:** $0.55
-    - **Revenue Expectation:** $8.16 billion
-    - **Release Timing:** After-Market
-    - **Recent Performance History:** Strong subscriber growth amid rising competition.
+4. **Recent Company History**
+   - Recent performance varies, with notable fluctuations observed in the EPS figures and revenue projections based on past trends.

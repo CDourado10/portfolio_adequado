@@ -1,43 +1,50 @@
-**Stock Market Summary**
+## Stock Market Summary (as of March 14, 2025)
 
-- **Index Performance:**
-  - **US500:** 🟢 +0.14% (5,607.26)
-  - **US30:** 🟢 +0.09% (41,389.00)
-  - **US100:** 🟢 +0.14% (19,624.00)
-  - **JP225:** 🟢 +1.13% (37,235.00)
-  - **GB100:** 🟢 +0.53% (8,541.00)
-  - **DE40:** 🔴 -0.24% (22,621.00)
-  - **FR40:** 🟢 +0.59% (7,989.00)
-  - **IT40:** 🟢 +1.61% (38,307.00)
-  - **ES35:** 🔴 -0.57% (12,804.00)
-  - **ASX200:** 🔴 -0.52% (7,746.00)
-  - **SHANGHAI:** 🔴 -0.23% (3,372.00)
-  - **SENSEX:** 🔴 -0.10% (74,030.00)
-  - **TSX:** ⚪ 0.00% (24,423.00)
-  - **MOEX:** 🔴 -0.53% (3,184.00)
-  - **IBOVESPA:** 🟢 +0.29% (123,864.00)
-  - **IPC:** 🟢 +1.03% (52,041.00)
-  - **NL25:** 🟢 +1.07% (899.00)
-  - **CH20:** 🟢 +1.39% (12,868.00)
-  - **SAALL:** 🔴 -0.27% (86,854.00)
-  - **STI:** 🔴 -0.16% (3,827.00)
-  - **HK50:** 🟢 +0.05% (23,611.00)
-  - **NZX 50:** 🟢 +0.16% (12,269.00)
-  - **EU50:** 🔴 -0.23% (5,349.00)
+### Index Performance:
+1. **US500**: 
+   - **Current Price**: 5,616.70 
+   - **Daily Change**: 🟢 +1.72% 
+   - **YTD Change**: 🔴 -4.50%
+   
+2. **US30**: 
+   - **Current Price**: 41,367.00 
+   - **Daily Change**: 🟢 +1.36% 
+   - **YTD Change**: 🔴 -2.77%
+   
+3. **US100**: 
+   - **Current Price**: 19,612.00 
+   - **Daily Change**: 🟢 +2.01% 
+   - **YTD Change**: 🔴 -6.66%
+   
+4. **JP225**: 
+   - **Current Price**: 37,566.00 
+   - **Daily Change**: 🟢 +2.11% 
+   - **YTD Change**: 🔴 -5.84%
+   
+5. **DE40**: 
+   - **Current Price**: 22,952.00 
+   - **Daily Change**: 🟢 +1.70% 
+   - **YTD Change**: 🟢 +15.28%
 
-- **Sector Movements:**
-  - The technology sector (represented by US100) remained stable with a positive change.
-  - The energy sector (ASX200) faced downward pressure, indicating possible market challenges.
-  - Financial sectors (JP225 and US30) showed resilience with growth despite market volatility.
+6. **Additional Major Indices**: 
+   - Notable rises in **IT40**: 🟢 +2.22% and **IBOVESPA**: 🟢 +2.25%.
 
-- **Volatility Measures:**
-  - The indices displayed mixed volatility levels, with **JP225** and **IBOVESPA** indicating strong upward movements contrasting against sectors like **ASX200** experiencing downward pressure.
-  - Metrics indicate increased volatility in global markets, particularly in emerging economies correlated with currency fluctuations.
+### Sector Movements:
+- The market is showing a **cautious optimism**, with indices such as **DE40**, **IT40**, and **IBOVESPA** showing resilience in the face of overall mixed performances.
+- Performance is varied, with sectors such as Technology and Energy showing positive trends particularly in North America and Europe.
 
-- **Market Breadth:**
-  - Market breadth indicators reveal a divergence, where more indices are underperforming compared to few indices showing strength.
-  - Notable breadth is seen in markets like **IT40** and **HK50**, suggesting that sector rotation is playing out with certain regions benefitting.
+### Volatility Measures:
+- Daily volatility appears contained but varies by index, with **US100** showing higher volatility (+2.01% daily) compared to others indicating stronger investor activity.
+- The overall market sentiment suggests cautions due to mixed weekly and monthly performances.
 
-- **Technical Signals:**
-  - Majority of major indices displayed bullish trends in the short term, but several indices like **DE40** and **ASX200** indicated bearish patterns in the immediate and monthly outlook.
-  - Technical signals suggest traders are cautious, with resistance levels being tested across several major indices.
+### Market Breadth:
+- Positive breadth is supported by indices like **US500**, **US30**, and **DE40**, indicating a potential improvement in market health as reflected by daily rises across major indices.
+- Caution for indices such as **SENSEX** and **ASX200** suggests sector-specific pressures that may affect growth.
+
+### Technical Signals:
+- Most indices exhibit signals of short-term upward trends, particularly those with recent daily gains, indicating a correction phase after recent weekly declines.
+- The considerable positive moves in Eastern markets such as **HK50** (🟢 +2.96%) highlight the potential for continued recovery in Asia.
+
+---
+
+This summary reflects the latest market dynamics, capturing key performance indicators, sectoral shifts, volatility, breadth, and technical signals relevant for traders and analysts. Continual monitoring is advised for ongoing assessment of market conditions as economic indicators evolve.

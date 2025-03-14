@@ -1,50 +1,30 @@
-```
-**Commodity Market Overview**
+### Commodity Market Overview (As of March 14, 2025)
 
-**Sector Performance:**
-- **Energy:**
-  - Best Performer: Natural Gas (4.0269 USD/MMBtu) - Daily change: 🔴 -1.40%
-  - Worst Performer: Uranium (63.95 USD/Lbs) - Daily change: 🔴 -0.70%
-  
-- **Metals:**
-  - Best Performer: Gold (2940.27 USD/t.oz) - Daily change: 🟢 +0.08%
-  - Worst Performer: Lithium (74900.0 CNY/T) - Daily change: ⚪ 0.00%
+#### Sector Performance
+- **Energy Sector**: Mixed performance with natural gas seeing a sharp decline of **-2.15%**, while uranium had a slight increase. The YTD performance for natural gas is positive (+10.73%).
+- **Metals Sector**: Gold has maintained stability with a minor decline (-0.21%) while lithium continues to see a downward trend overall.
+- **Agricultural Sector**: Coffee exhibited significant fluctuations with a robust YTD increase (+18.80%), whereas potatoes are suffering from a substantial decline (-36.67%).
+- **Industrial Sector**: Germanium remained steady with no change, but the overall sector is reflecting declining prices.
+- **Livestock Sector**: Eggs in the US show a major decline (-5.42%) affecting their yearly performance negatively.
+- **Index Sector**: EU Carbon Permits showed a rebound (+1.41%), contrasting with the negative trends in Containerized Freight Index (-8.14%).
+- **Electricity Sector**: Spain’s electricity market has witnessed fluctuations with an extreme decline in daily performance (-48.38%), showcasing volatility.
 
-- **Agricultural:**
-  - Best Performer: Coffee (390.82 USd/Lbs) - Daily change: 🔴 -1.62%
-  - Worst Performer: Potatoes (21.6 EUR/100KG) - Daily change: 🔴 -2.70%
+#### Major Price Movements
+- **Natural Gas**: Currently priced at **4.0227 USD/MMBtu**, with significant YTD gains.
+- **Gold**: Price remains at **2980.12 USD/t.oz**, reflecting slight fluctuation.
+- **Coffee**: Currently observed at **380.75 USd/Lbs**, showcasing resilient performance.
+- **Carbon Permits**: Currently positioned at **70.6 EUR**, highlighted by the recent upticks in moving averages.
 
-- **Industrial:**
-  - Best Performer: Germanium (15450.0 CNY/Kg) - Daily change: ⚪ 0.00%
-  - Worst Performer: Soda Ash (1512.0 CNY/T) - Daily change: ⚪ 0.00%
+#### Supply/Demand Signals
+- The demand for **natural gas** is holding steady due to seasonal consumption trends, despite daily fluctuations. Coffee is currently experiencing heightened demand, countering its recent price pressures.
+- There are indications of a decrease in **potato** supply due to adverse weather conditions affecting yield predictions.
 
-- **Livestock:**
-  - Best Performer: Eggs US (5.18 USD/Dozen) - Daily change: 🔴 -6.10%
-  - Worst Performer: Eggs CH (3312.0 CNY/T) - Daily change: ⚪ 0.00%
+#### Spread Analysis
+- **Natural Gas vs. Uranium**: A notable decline in natural gas prices contrasts with minor fluctuations in uranium offerings. This reflects shifting investor sentiment towards energy diversification.
+- **Coffee and Potatoes Spread**: With coffee recovering, its spread against declining potato prices indicates a shift in consumer focus, showcasing resilient demand in the agricultural sector.
 
-- **Index:**
-  - Best Performer: EU Carbon Permits (69.62 EUR) - Daily change: 🟢 +2.02%
-  - Worst Performer: Solar Energy Index (32.01 USD) - Daily change: 🔴 -1.20%
+#### Market Structure Changes
+- The energy sector is responding cautiously due to recent fluctuations in natural gas pricing and stable gold values. Additionally, the livestock markets are undergoing structural shifts as consumer preferences impact pricing significantly.
+- The industrial metals sector is showing flattening prices amid high volatility while the electricity markets are experiencing contrasting signals impacting overall energy strategies.
 
-- **Electricity:**
-  - Best Performer: Spain (111.73 EUR/MWh) - Daily change: 🟢 +20.06%
-  - Worst Performer: France (62.75 EUR/MWh) - Daily change: 🔴 -1.95%
-
-**Major Price Movements:**
-- Significant price decreases in Eggs US (-6.10%) and Uranium (-0.70%).
-- Notable increases in EU Carbon Permits (+2.02%) and Gold (+0.08%).
-
-**Supply/Demand Signals:**
-- Natural gas shows a slight decline, indicating potential oversupply as indicated by the price movement.
-- Coffee shows a significant overall YTD increase (+103.55%), highlighting strong demand.
-
-**Spread Analysis:**
-- Inter-commodity spreads were noted within the agricultural sector, specifically between coffee and potatoes, with coffee significantly outperforming.
-
-**Market Structure Changes:**
-- The electricity market shows notable volatility with a significant increase in Spain (+20.06%), suggesting a shift in demand dynamics.
-- The declining price of uranium may indicate structural changes within the energy sector focused on nuclear alternatives.
-
-**Final Observation:**
-Across the commodity sectors, energy and livestock faced downward price pressures while metals, particularly gold, continued to represent a stable investment amidst the ongoing market fluctuations.
-```
+This comprehensive overview underscores the cautious sentiment across commodity sectors while highlighting critical areas of resilience and volatility as the market continues to adapt to changing economic conditions.

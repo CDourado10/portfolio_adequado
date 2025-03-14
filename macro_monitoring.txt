@@ -1,74 +1,111 @@
 {
-  "Filtered Macroeconomic Report": {
-    "Key Indicator Values": {
+  "macroeconomic_report": {
+    "key_indicators": {
       "United States": {
-        "GDP Growth Rate": "🔴 2.3%",
-        "Unemployment Rate": "🟢 4.1%",
-        "Inflation Rate": "🔴 2.8%"
+        "GDP_Growth_Rate": {
+          "current": "2.3 percent",
+          "previous": "3.1 percent",
+          "significant_deviation": "🔴"
+        },
+        "Unemployment_Rate": {
+          "current": "4.1 percent",
+          "previous": "4 percent",
+          "significant_deviation": "🟢"
+        },
+        "Inflation_Rate": {
+          "current": "2.8 percent",
+          "previous": "3 percent",
+          "significant_deviation": "🔴"
+        },
+        "Manufacturing_PMI": {
+          "current": "52.7 points",
+          "previous": "51.2 points",
+          "significant_deviation": "🟢"
+        },
+        "Consumer_Confidence": {
+          "current": "57.9 points",
+          "previous": "64.7 points",
+          "significant_deviation": "🔴"
+        }
       },
       "Euro Area": {
-        "GDP Growth Rate": "🔴 0%",
-        "Unemployment Rate": "⚪ 6.2%",
-        "Inflation Rate": "🔴 2.4%"
+        "GDP_Growth_Rate": {
+          "current": "0 percent",
+          "previous": "0.4 percent",
+          "significant_deviation": "🔴"
+        },
+        "Unemployment_Rate": {
+          "current": "6.2 percent",
+          "previous": "6.2 percent",
+          "significant_deviation": "⚪"
+        },
+        "Inflation_Rate": {
+          "current": "2.4 percent",
+          "previous": "2.5 percent",
+          "significant_deviation": "🔴"
+        },
+        "Manufacturing_PMI": {
+          "current": "47.6 points",
+          "previous": "46.6 points",
+          "significant_deviation": "🟢"
+        },
+        "Consumer_Confidence": {
+          "current": "-13.6 points",
+          "previous": "-14.2 points",
+          "significant_deviation": "🟢"
+        }
       },
       "China": {
-        "GDP Growth Rate": "🟢 1.6%",
-        "Unemployment Rate": "🟢 5.1%",
-        "Inflation Rate": "🔴 -0.7%"
+        "GDP_Growth_Rate": {
+          "current": "1.6 percent",
+          "previous": "1.3 percent",
+          "significant_deviation": "🟢"
+        },
+        "Unemployment_Rate": {
+          "current": "5.1 percent",
+          "previous": "5 percent",
+          "significant_deviation": "🟢"
+        },
+        "Inflation_Rate": {
+          "current": "-0.7 percent",
+          "previous": "0.5 percent",
+          "significant_deviation": "🔴"
+        },
+        "Manufacturing_PMI": {
+          "current": "50.8 points",
+          "previous": "50.1 points",
+          "significant_deviation": "🟢"
+        },
+        "Consumer_Confidence": {
+          "current": "86.4 points",
+          "previous": "86.2 points",
+          "significant_deviation": "🟢"
+        }
       }
     },
-    "Significant Deviations from Trends": {
-      "United States": {
-        "GDP Growth Rate": "Decreased from 3.1% to 2.3%",
-        "Unemployment Rate": "Slightly increased from 4% to 4.1%",
-        "Inflation Rate": "Decreased from 3% to 2.8%"
+    "important_economic_releases": [
+      {
+        "release": "Non Farm Payrolls",
+        "date": "Feb/25",
+        "impact": "Positive"
       },
-      "Euro Area": {
-        "GDP Growth Rate": "Decreased from 0.4% to 0%",
-        "Inflation Rate": "Decreased from 2.5% to 2.4%"
+      {
+        "release": "Retail Sales MoM",
+        "date": "Jan/25",
+        "impact": "Negative"
       },
-      "China": {
-        "Inflation Rate": "Significantly decreased from 0.5% to -0.7%"
+      {
+        "release": "Consumer Confidence",
+        "date": "Mar/25",
+        "impact": "Negative"
       }
-    },
-    "Important Economic Releases": {
-      "United States": {
-        "Non Farm Payrolls": "🟢 151 Thousand",
-        "Retail Sales MoM": "🔴 -0.9%"
-      },
-      "Euro Area": {
-        "Business Confidence": "🟢 -0.74 points",
-        "Retail Sales MoM": "🔴 -0.3%"
-      },
-      "China": {
-        "Consumer Confidence": "🟢 86.4 points",
-        "Retail Sales MoM": "🔴 0.12%"
-      }
-    },
-    "Market Impact Assessment": {
-      "United States": {
-        "GDP decline may signal slower economic growth.",
-        "Inflation decrease could lead to changes in monetary policy."
-      },
-      "Euro Area": {
-        "Stagnant GDP growth indicates economic challenges and potential recession risks."
-      },
-      "China": {
-        "Decline in inflation could suggest a weakening demand."
-      }
-    },
-    "Risk Indicators Status": {
-      "United States": {
-        "Balance of Trade": "🔴 -131 USD Billion",
-        "Government Debt to GDP": "⚪ 122%"
-      },
-      "Euro Area": {
-        "Government Debt to GDP": "🔴 87.4%",
-        "Consumer Confidence": "🟢 -13.6 points"
-      },
-      "China": {
-        "Government Debt to GDP": "🟢 83.4%",
-        "Current Account": "🟢 1.5% of GDP"
+    ],
+    "market_impact_assessment": {
+      "overall_market_trend": "Cautious",
+      "risk_indicators": {
+        "bond_yields": "🔴",
+        "currency_stability": "⚪",
+        "stock_market": "🟢"
       }
     }
   }

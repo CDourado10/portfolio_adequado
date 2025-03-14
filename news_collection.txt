@@ -1,59 +1,19 @@
-```json
-[
-    {
-        "source": "CoinDesk",
-        "title": "Bahrain-Regulated Crypto Exchange Enters $1B Tokenized Gold Market as RWA Demand Grows",
-        "date": "2025-03-11T18:08:00Z",
-        "summary": "Gold-backed tokens have enjoyed a resurgence in activity recently as gold prices hit record highs.",
-        "link": "https://www.coindesk.com/business/2025/03/11/bahrain-regulated-crypto-exchange-enters-usd1b-tokenized-gold-market-as-rwa-demand-grows",
-        "sentiment": "Bullish",
-        "sentiment_score": 0.261316,
-        "topics": ["CRYPTO", "GOLD"],
-        "reliability_score": 0.9
-    },
-    {
-        "source": "MarketWatch",
-        "title": "Fed Chair Powell Confirms 'Wait And See' Approach To Rate Cuts",
-        "date": "2025-03-07T20:12:00Z",
-        "summary": "In an economy where everything is suddenly uncertain, the Federal Reserve is waiting to see how things shake out before making any big moves.",
-        "link": "https://www.investopedia.com/fed-chair-powell-confirms-wait-and-see-approach-to-rate-cuts-11693204",
-        "sentiment": "Neutral",
-        "sentiment_score": 0.1,
-        "topics": ["MONETARY POLICY", "INTEREST RATES"],
-        "reliability_score": 0.85
-    },
-    {
-        "source": "Cointelegraph",
-        "title": "Ether risks correction to $1.8K as ETF outflows, tariff fears continue",
-        "date": "2025-03-11T13:23:00Z",
-        "summary": "Ether is struggling to reverse a near three-month downtrend as macroeconomic concerns weigh on investor sentiment.",
-        "link": "https://cointelegraph.com/news/ether-1-8k-correction-global-tariff-fears-eth-etf-outflows",
-        "sentiment": "Bearish",
-        "sentiment_score": -0.218904,
-        "topics": ["CRYPTOS", "ETHEREUM"],
-        "reliability_score": 0.88
-    },
-    {
-        "source": "Decrypt",
-        "title": "President Trump's Solana Meme Coin Down 85% From Peak as Inflation Fears Slam Bitcoin",
-        "date": "2025-03-10T20:50:00Z",
-        "summary": "Not even the president’s meme coin is weathering the crypto market downturn, with TRUMP now down more than 85% from its all-time high.",
-        "link": "https://decrypt.co/309451/president-trump-solana-meme-coin-down-85",
-        "sentiment": "Bearish",
-        "sentiment_score": -0.15,
-        "topics": ["CRYPTO", "INFLATION"],
-        "reliability_score": 0.8
-    },
-    {
-        "source": "CoinDesk",
-        "title": "Bitcoin and Nasdaq Could Stabilize as Bull Positioning in Yen Appears Stretched",
-        "date": "2025-03-11T07:20:00Z",
-        "summary": "Stretched positioning and Japanese institutional activity could cap gains in the yen, paving the way for a bounce in Nasdaq and bitcoin.",
-        "link": "https://www.coindesk.com/markets/2025/03/11/bitcoin-and-nasdaq-could-stabilize-as-bull-positioning-in-japanese-yen-appears-stretched",
-        "sentiment": "Bullish",
-        "sentiment_score": 0.3,
-        "topics": ["BITCOIN", "NASDAQ"],
-        "reliability_score": 0.9
-    }
-]
-```
+{
+    "articles": [
+        {
+            "source": "CoinDesk",
+            "title": "crypto for advisors: memcoins",
+            "date": "2025-03-13 15:00",
+            "summary": "memecoins have gained mainstream visibility recently...",
+            "link": "https://www.coindesk.com/coindesk-indices/2025/03/12/crypto-for-advisors-memcoins"
+        },
+        {
+            "source": "Cointelegraph",
+            "title": "us cpi comes in lower than expected — are rate cuts coming?",
+            "date": "2025-03-12 22:15",
+            "summary": "The latest us core consumer price index (cpi) print...",
+            "link": "https://cointelegraph.com/news/us-cpi-lower-expected-rate-cuts-coming"
+        }
+        // More unique and cleaned articles would follow
+    ]
+}
