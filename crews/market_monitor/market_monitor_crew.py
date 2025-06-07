@@ -35,7 +35,7 @@ class MarketMonitorCrew:
             config=self.agents_config['monitor_coordinator'],
             verbose=True,
             tools=[MacroMonitorTool(), BondMonitorTool(), CurrencyMonitorTool(), CommodityMonitorTool(), StockMarketMonitorTool(), CryptoMonitorTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -43,7 +43,7 @@ class MarketMonitorCrew:
         return Agent(
             config=self.agents_config['market_integrator'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @task

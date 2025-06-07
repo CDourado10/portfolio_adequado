@@ -2282,3 +2282,61 @@ AttributeError: 'GoiasDataTool' object has no attribute '_add_national_compariso
 2025-03-12 03:34:46,486 - tools.financy.macro_economy.goias_data_tool - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\comparacao_nacional.csv
 2025-03-12 03:34:53,727 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise para categorias: [<DataCategory.FINANCAS_PUBLICAS: 'financas_publicas'>]
 2025-03-12 03:34:53,730 - tools.financy.macro_economy.goias_data_tool - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\comparacao_nacional.csv
+2025-03-14 13:47:00,313 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-03-14 13:47:00,313 - __main__ - INFO - Iniciando análise para categorias: [<DataCategory.TODOS: 'todos'>]
+2025-03-14 13:47:00,323 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-03-14 13:47:00,333 - __main__ - ERROR - Erro ao processar dados de inflação: 'Variação_Mensal_%'
+2025-03-14 13:47:00,333 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-03-14 13:47:00,346 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\101-abate-animais-goias.csv
+2025-03-14 13:47:00,361 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-03-14 13:47:00,365 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-03-14 13:47:00,385 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-03-14 13:47:00,398 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-03-14 13:47:00,398 - __main__ - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\comparacao_nacional.csv
+2025-03-14 13:47:00,399 - __main__ - INFO - Iniciando análise para categorias: ['pib', 'industria']
+2025-03-14 13:47:00,400 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-03-14 13:47:00,401 - __main__ - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\comparacao_nacional.csv
+2025-03-14 13:49:09,117 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-03-14 13:49:09,117 - __main__ - INFO - Iniciando análise para categorias: [<DataCategory.TODOS: 'todos'>]
+2025-03-14 13:49:09,120 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-03-14 13:49:09,121 - __main__ - ERROR - Erro ao processar dados de inflação: 'Variação_Mensal_%'
+2025-03-14 13:49:09,121 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-03-14 13:49:09,124 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\101-abate-animais-goias.csv
+2025-03-14 13:49:09,126 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-03-14 13:49:09,127 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-03-14 13:49:09,129 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-03-14 13:49:09,131 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-03-14 13:49:09,133 - __main__ - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\comparacao_nacional.csv
+2025-03-14 13:49:09,133 - __main__ - INFO - Iniciando análise para categorias: ['pib', 'industria']
+2025-03-14 13:49:09,135 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-03-14 13:49:09,136 - __main__ - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\comparacao_nacional.csv
+2025-03-14 13:50:11,462 - __main__ - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-03-14 13:50:11,462 - __main__ - INFO - Iniciando análise para categorias: [<DataCategory.TODOS: 'todos'>]
+2025-03-14 13:50:11,464 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-03-14 13:50:11,467 - __main__ - ERROR - Erro ao processar dados de inflação: 'Variação_Mensal_%'
+2025-03-14 13:50:11,467 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-03-14 13:50:11,469 - __main__ - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\101-abate-animais-goias.csv
+2025-03-14 13:50:11,471 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-03-14 13:50:11,472 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-03-14 13:50:11,475 - __main__ - ERROR - Erro ao processar dados de comércio exterior: 'Produto'
+2025-03-14 13:50:11,479 - __main__ - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-03-14 13:50:11,479 - __main__ - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\comparacao_nacional.csv
+2025-03-14 13:50:11,480 - __main__ - INFO - Iniciando análise para categorias: ['pib', 'industria']
+2025-03-14 13:50:11,480 - __main__ - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-03-14 13:50:11,482 - __main__ - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\comparacao_nacional.csv
+2025-03-14 13:52:48,861 - tools.financy.macro_economy.goias_data_tool - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-03-14 13:52:48,864 - tools.financy.macro_economy.goias_data_tool - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-03-14 13:52:48,865 - tools.financy.macro_economy.goias_data_tool - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-03-14 13:52:48,867 - tools.financy.macro_economy.goias_data_tool - INFO - Diretório CSV: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables
+2025-03-14 13:53:00,182 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise para categorias: [<DataCategory.PIB: 'pib'>, <DataCategory.INDUSTRIA: 'industria'>, <DataCategory.COMERCIO: 'comercio'>, <DataCategory.AGRICULTURA: 'agricultura'>]
+2025-03-14 13:53:00,184 - tools.financy.macro_economy.goias_data_tool - ERROR - Erro ao processar dados do PIB: 'Tipo'
+2025-03-14 13:53:00,188 - tools.financy.macro_economy.goias_data_tool - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-03-14 13:53:00,188 - tools.financy.macro_economy.goias_data_tool - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-03-14 13:53:00,189 - tools.financy.macro_economy.goias_data_tool - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\comparacao_nacional.csv
+2025-03-14 13:53:13,764 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise para categorias: [<DataCategory.AGRICULTURA: 'agricultura'>, <DataCategory.INDUSTRIA: 'industria'>, <DataCategory.SERVICOS: 'servicos'>, <DataCategory.COMERCIO: 'comercio'>]
+2025-03-14 13:53:13,764 - tools.financy.macro_economy.goias_data_tool - ERROR - Arquivo vazio: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\90-producao-graos-goias-centro-oeste-brasil.csv
+2025-03-14 13:53:13,771 - tools.financy.macro_economy.goias_data_tool - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-03-14 13:53:13,773 - tools.financy.macro_economy.goias_data_tool - ERROR - Erro ao processar dados de empresas e serviços: 'Indicador'
+2025-03-14 13:53:13,775 - tools.financy.macro_economy.goias_data_tool - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\comparacao_nacional.csv
+2025-03-14 13:53:21,870 - tools.financy.macro_economy.goias_data_tool - INFO - Iniciando análise para categorias: [<DataCategory.FINANCAS_PUBLICAS: 'financas_publicas'>]
+2025-03-14 13:53:21,873 - tools.financy.macro_economy.goias_data_tool - ERROR - Arquivo não encontrado: C:\Users\belac_odysseus\Documents\Projetos\consultor_financeiro\dados_goias\csv_tables\comparacao_nacional.csv

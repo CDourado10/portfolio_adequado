@@ -33,7 +33,7 @@ class FinancialAdvisor:
             config=self.agents_config['macro_analyst'],
             verbose=True,
             tools=[MacroDataTool(), GlobalEconomicAnalysisTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -42,7 +42,7 @@ class FinancialAdvisor:
             config=self.agents_config['asset_researcher'],
             verbose=True,
             tools=[SerperDevTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -51,7 +51,7 @@ class FinancialAdvisor:
             config=self.agents_config['portfolio_optimizer'],
             verbose=True,
             tools=[PortfolioOptimizerTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -60,7 +60,7 @@ class FinancialAdvisor:
             config=self.agents_config['long_short_analyst'],
             verbose=True,
             tools=[AssetDataTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -68,7 +68,7 @@ class FinancialAdvisor:
         return Agent(
             config=self.agents_config['report_specialist'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @task

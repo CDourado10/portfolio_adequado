@@ -1,4 +1,4 @@
-from langchain_openai import AzureChatOpenAI
+from langchain_openai import ChatOpenAI
 from browser_use import Agent, BrowserConfig, Browser
 from dotenv import load_dotenv
 import os
@@ -23,7 +23,7 @@ class EconomicCalendarTool(BaseTool):
             async def main():
 
                 config = BrowserConfig(
-                    headless=True,
+                    headless=False,
                     disable_security=True
                 )
 
@@ -35,7 +35,7 @@ class EconomicCalendarTool(BaseTool):
                 agent = Agent(
                     task="Select the 10 most impactful events for the financial market in the next 7 days.",
                     initial_actions=initial_actions,
-                    llm=AzureChatOpenAI(model="gpt-4o-mini", api_version="2024-10-21", api_key=os.getenv("AZURE_API_KEY"), azure_endpoint=os.getenv("AZURE_API_BASE")),
+                    llm=ChatOpenAI(model="gpt-4.1", api_key=os.getenv("OPENAI_API_KEY")),
                     #planner_llm=AzureChatOpenAI(model="gpt-4o-mini", api_version="2024-10-21", api_key=os.getenv("AZURE_API_KEY"), azure_endpoint=os.getenv("AZURE_API_BASE")),
                     browser=browser,
                     #use_vision=True,

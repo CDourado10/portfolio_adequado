@@ -43,7 +43,7 @@ class PortfolioOptimizationAdvisor:
             config=self.agents_config['macro_analyst'],
             verbose=True,
             tools=[MacroAnalysisPositioningTool(), GlobalEconomicAnalysisTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -52,7 +52,7 @@ class PortfolioOptimizationAdvisor:
             config=self.agents_config['asset_researcher'],
             verbose=True,
             tools=[AssetDataTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -61,7 +61,7 @@ class PortfolioOptimizationAdvisor:
             config=self.agents_config['portfolio_optimizer'],
             verbose=True,
             tools=[PortfolioOptimizerTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -69,7 +69,7 @@ class PortfolioOptimizationAdvisor:
         return Agent(
             config=self.agents_config['report_specialist'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @task

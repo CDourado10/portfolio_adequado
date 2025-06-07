@@ -1,30 +1,92 @@
-### Commodity Market Overview (As of March 14, 2025)
+**Comprehensive Commodity Market Overview – 06/07/2025 15:10 (Trading Economics Data)**
 
-#### Sector Performance
-- **Energy Sector**: Mixed performance with natural gas seeing a sharp decline of **-2.15%**, while uranium had a slight increase. The YTD performance for natural gas is positive (+10.73%).
-- **Metals Sector**: Gold has maintained stability with a minor decline (-0.21%) while lithium continues to see a downward trend overall.
-- **Agricultural Sector**: Coffee exhibited significant fluctuations with a robust YTD increase (+18.80%), whereas potatoes are suffering from a substantial decline (-36.67%).
-- **Industrial Sector**: Germanium remained steady with no change, but the overall sector is reflecting declining prices.
-- **Livestock Sector**: Eggs in the US show a major decline (-5.42%) affecting their yearly performance negatively.
-- **Index Sector**: EU Carbon Permits showed a rebound (+1.41%), contrasting with the negative trends in Containerized Freight Index (-8.14%).
-- **Electricity Sector**: Spain’s electricity market has witnessed fluctuations with an extreme decline in daily performance (-48.38%), showcasing volatility.
+---
+### 1. Sector Performance Overview
 
-#### Major Price Movements
-- **Natural Gas**: Currently priced at **4.0227 USD/MMBtu**, with significant YTD gains.
-- **Gold**: Price remains at **2980.12 USD/t.oz**, reflecting slight fluctuation.
-- **Coffee**: Currently observed at **380.75 USd/Lbs**, showcasing resilient performance.
-- **Carbon Permits**: Currently positioned at **70.6 EUR**, highlighted by the recent upticks in moving averages.
+- **Energy:**
+  - **Natural Gas** was the strongest daily and YTD performer in sector, surging 2.91% on the day, up nearly 10% weekly, +4.5% monthly, and +29.7% year-on-year as global supply fears and possible northern hemisphere restocking drive demand. Weakest: **Coal**, down 0.14% daily, +6.2% monthly but -16.3% YTD, -21.2% YoY on persistent decarbonization and fading Asian demand impulses.
+  - **Market Structure:** Volatility persists; natural gas/coal spread widens sharply YTD as energy transition accelerates.
 
-#### Supply/Demand Signals
-- The demand for **natural gas** is holding steady due to seasonal consumption trends, despite daily fluctuations. Coffee is currently experiencing heightened demand, countering its recent price pressures.
-- There are indications of a decrease in **potato** supply due to adverse weather conditions affecting yield predictions.
+- **Metals:**
+  - **Gold** remains in a strong uptrend YTD (+26.1%), despite minor daily correction (-1.28%). It leads the sector on the back of safe-haven, central bank buying, and geopolitical/fiscal worries. **Lithium** posts the worst returns, flat on the day, but -19.8% YTD and -40.7% YoY as oversupply from China and EV battery demand disappointment weigh.
+  - **Market Structure:** Flight-to-quality in monetary metals (gold/silver) contrasts with collapse in battery metals prices (lithium/cobalt). Gold/lithium spread at all-time highs.
 
-#### Spread Analysis
-- **Natural Gas vs. Uranium**: A notable decline in natural gas prices contrasts with minor fluctuations in uranium offerings. This reflects shifting investor sentiment towards energy diversification.
-- **Coffee and Potatoes Spread**: With coffee recovering, its spread against declining potato prices indicates a shift in consumer focus, showcasing resilient demand in the agricultural sector.
+- **Agricultural:**
+  - **Coffee** is the largest gainer for the year (+59%) and is up ~12% YTD, amid extreme weather (drought/frost), export flow disruptions, and speculative buying. Weakest: **Potatoes**, -2.1% daily and a severe -68% YTD/-76% YoY, reflecting massive oversupply and weak European/UK end-market demand.
+  - **Market Structure:** Spreads between soft commodity leaders (coffee/cocoa) and laggards (grains, potatoes) are near decade highs.
 
-#### Market Structure Changes
-- The energy sector is responding cautiously due to recent fluctuations in natural gas pricing and stable gold values. Additionally, the livestock markets are undergoing structural shifts as consumer preferences impact pricing significantly.
-- The industrial metals sector is showing flattening prices amid high volatility while the electricity markets are experiencing contrasting signals impacting overall energy strategies.
+- **Industrial:**
+  - **Germanium** (critical for semiconductors) rises +48.5% YoY despite a soft YTD (-14.5%), likely on strategic reserve builds and tech sector recovery hopes. **Soda Ash** slumps -13.1% YTD, reflecting softening global glass and chemical demand.
+  - **Market Structure:** Disparity between scarce metals (germanium, rare earths) and bulk industrials (soda ash, fertilizer) widens, as forward market structure positions for tech supply chain tightening.
 
-This comprehensive overview underscores the cautious sentiment across commodity sectors while highlighting critical areas of resilience and volatility as the market continues to adapt to changing economic conditions.
+- **Livestock:**
+  - **Beef** shows stable performance, slightly down YTD but +44.5% YoY, reflecting restricted supply (drought/US herd reduction policies), while **Salmon** is the steepest decliner (-14.3% daily, -24.5% YTD) due to Scandinavian oversupply and export weakness.
+  - **Spread:** Beef/salmon and beef/hog ratios extend in favor of land animal proteins.
+
+- **Index (Freight & Energy):**
+  - **Nuclear Energy Index** rallies +1.8% daily, +26.7% monthly, +25.6% YTD, confirming institutional rotation into clean/base load energy, backed by recent policy signals. **Containerized Freight Index** jumps 8% daily, +67% monthly, but remains negative YTD. High volatility and recent spike hint at acute bottlenecks (possibly Red Sea, Asia-Europe) despite generally soft shipping rates.
+  - **Market Structure:** Freight/energy intercommodity spreads show logistics pressures building amid recoveries in select trade lanes.
+
+- **Electricity:**
+  - **Italy** electricity prices soar +31.8% weekly (+4.9% monthly) after ranging softness YTD, likely on heatwave/supply stress news. **France** electricity recovers less/flat, both countries remain negative YTD due to earlier gas normalization and strong renewables output.
+  - **Spread:** Italy/France power price spread sharply increased, a possible sign of regional grid bottlenecks or asymmetric weather shocks.
+
+---
+
+### 2. Major Price Movements and Inter-Commodity Spread Analysis
+
+- **Best Multi-sector Performers (YTD/Year):** Gold (+26% YTD, +44% YoY), Coffee (+11.5% YTD, +59% YoY), Germanium (+48% YoY), Beef (+44% YoY), Nuclear Energy Index (+25.6% YTD).
+- **Worst Performers:** Potatoes (-68% YTD), Lithium (-19.8% YTD), Coal (-16.3% YTD), Salmon (-24.5% YTD), Soda Ash (-13.1% YTD).
+
+- **Spreads of Note:**
+  - **Gold/Lithium**: Historic divergence, gold continues climbing while lithium collapses.
+  - **Natural Gas/Coal**: Gas outperformance widens environmentally-driven spread.
+  - **Coffee/Potatoes**: Margin for soft-commodity traders at multiyear extremes.
+  - **Beef/Salmon**: Persistent protein inflation in land-based, marine proteins oversupplied.
+
+---
+
+### 3. Supply/Demand Signals and Market Structure Changes
+
+- **Energy:** Strong upward price momentum for natural gas, particularly in US/Europe, signals rising demand or tightening supply (storage rebuilds, geopolitical tensions), while persistent coal decline reflects decarbonization and substitute pressure.
+- **Metals:** Gold surge reflects global macro-hedging and uncertainty. Collapsing lithium hints at demand disappointment in EV and supply excess, especially China-driven. Market structure: Fast migration to gold as a global risk/monetary hedge.
+- **Agriculture:** Crop-specific dynamics dominate — coffee faces crop loss and logistics issues, while potatoes face supply gut and demand collapse.
+- **Industrial Commodities:** Scarce/high-tech metals outperform, bulk/legacy chemicals lag.
+- **Freight/Electricity:** Volatility and sharp moves in container rates suggest renewed logistical constraints; divergent power prices reflect regional strains and infrastructure bottlenecks.
+
+---
+
+### 4. Risks and Actionable Intelligence for Stakeholders
+
+- **Hedging/Allocation:** Broad, secular move into safe havens (gold, select ags, and energy) versus ongoing collapse in cyclical and over-supplied commodities (coal, lithium, soda ash, potatoes, salmon).
+- **Supply Chain:** Freight and electricity price spikes point to cross-sectoral transmission risks; hedgers should brace for logistics cost shocks.
+- **Inter-market Pricing:** Persistent spread expansions between sustainable/clean and legacy/dirty commodities highlight major rotation risks for producers and traders.
+- **Market Structure:** Backwardations in energy and gold, contangos in lithium/coal, signal speculative and industrial flows rapidly rebalancing; positioning risk is high for consensus trades in collapsing sectors.
+
+---
+
+### 5. Executive Sector Table (Selection)
+
+| Sector       | Leader (YTD)   | Laggard (YTD) | YTD Leader % | YTD Laggard % |
+|--------------|----------------|---------------|--------------|--------------|
+| Energy       | Natural Gas    | Coal          | +4.2%        | -16.3%       |
+| Metals       | Gold           | Lithium       | +26.1%       | -19.8%       |
+| Agricultural | Coffee         | Potatoes      | +11.5%       | -67.8%       |
+| Industrial   | Germanium      | Soda Ash      | +48.5%*      | -13.1%       |
+| Livestock    | Beef           | Salmon        | +44.5%*      | -24.5%       |
+| Index        | Nuclear Energy | Freight (Cont.)| +25.6%      | -8.9%        |
+| Electricity  | Italy          | France        | -17.2%       | -9.3%        |
+
+\* YoY value for Germanium/Beef due to negative YTD
+
+---
+
+## **In Summary:**
+- Commodity markets in 2025 bifurcate sharply: energy and critical metals rally, with natural gas and gold the big winners; traditional bulk and cyclical sectors (coal, lithium, potatoes, soda ash, salmon) face deep structural declines.
+- Spreads between clean/safe haven and cyclical commodities reach multiyear highs, reshaping risk management and portfolio strategy.
+- Supply/demand tensions are intensifying in energy, ags, selected metals, while oversupply dominates industrials and marine protein.
+- Freight and regional electricity volatility may represent new systemic risks.
+- Stakeholders should remain vigilant for further spread volatility and use cross-sectoral hedging; forward allocations should overweight gold, nat gas, critical rare earths, softs leaders, and underweight over-supplied/cyclical losers.
+
+---
+**Report prepared and validated by: Market Tools Coordinator, as of 06/07/2025 15:10**

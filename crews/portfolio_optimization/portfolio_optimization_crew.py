@@ -36,7 +36,7 @@ class PortfolioOptimizationCrew:
         return Agent(
             config=self.agents_config['portfolio_crew_manager'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -45,7 +45,7 @@ class PortfolioOptimizationCrew:
         return Agent(
             config=self.agents_config['portfolio_optimization_strategist'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -59,7 +59,7 @@ class PortfolioOptimizationCrew:
                 MediumRiskShortTermTool(), MediumRiskMediumTermTool(), MediumRiskLongTermTool(),
                 HighRiskShortTermTool(), HighRiskMediumTermTool(), HighRiskLongTermTool()
             ],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -69,7 +69,7 @@ class PortfolioOptimizationCrew:
             config=self.agents_config['risk_performance_analyst'],
             verbose=True,
             allow_code_execution=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -78,7 +78,7 @@ class PortfolioOptimizationCrew:
         return Agent(
             config=self.agents_config['portfolio_report_manager'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
 

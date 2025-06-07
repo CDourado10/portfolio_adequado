@@ -1,6 +1,6 @@
 from crewai.tools import BaseTool
 from pydantic import BaseModel
-from yahooquery.utils.screeners import SCREENERS
+from yahooquery.constants import SCREENERS
 
 
 class ValidScreenersToolInput(BaseModel):

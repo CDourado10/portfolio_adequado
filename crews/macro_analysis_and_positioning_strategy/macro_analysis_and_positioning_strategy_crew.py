@@ -35,7 +35,7 @@ class MarketMonitorCrew:
             verbose=True,
             tools=[MarketEventsAnalysisTool(), MarketMonitorTool(), MarketNewsAnalysisTool()],
             #tools=[MarketMonitorTool(), MarketNewsAnalysisTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -43,7 +43,7 @@ class MarketMonitorCrew:
         return Agent(
             config=self.agents_config['global_intelligence_director'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @task

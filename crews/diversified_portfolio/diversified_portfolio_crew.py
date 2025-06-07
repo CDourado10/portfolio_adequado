@@ -36,7 +36,7 @@ class PortfolioOptimizationCrew:
             config=self.agents_config['macro_analysis_expert'],
             verbose=True,
             tools=[MacroAnalysisPositioningTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -45,7 +45,7 @@ class PortfolioOptimizationCrew:
             config=self.agents_config['screener_researcher'],
             verbose=True,
             tools=[ScreenerTool(), ValidScreenersTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -54,7 +54,7 @@ class PortfolioOptimizationCrew:
             config=self.agents_config['trending_stocks_researcher'],
             verbose=True,
             tools=[TrendingStocksTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -63,7 +63,7 @@ class PortfolioOptimizationCrew:
             config=self.agents_config['asset_analyst'],
             verbose=True,
             tools=[TickerTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -71,7 +71,7 @@ class PortfolioOptimizationCrew:
         return Agent(
             config=self.agents_config['asset_selection_manager'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -80,7 +80,7 @@ class PortfolioOptimizationCrew:
             config=self.agents_config['portfolio_optimizer'],
             verbose=True,
             tools=[HierarchicalPortfolioTool(), ExchangesTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -89,7 +89,7 @@ class PortfolioOptimizationCrew:
             config=self.agents_config['portfolio_validator'],
             verbose=True,
             tools=[HierarchicalPortfolioTool(), ExchangesTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     # 🔹 Define Tasks

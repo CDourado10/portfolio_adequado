@@ -1,112 +1,150 @@
-{
-  "macroeconomic_report": {
-    "key_indicators": {
-      "United States": {
-        "GDP_Growth_Rate": {
-          "current": "2.3 percent",
-          "previous": "3.1 percent",
-          "significant_deviation": "🔴"
-        },
-        "Unemployment_Rate": {
-          "current": "4.1 percent",
-          "previous": "4 percent",
-          "significant_deviation": "🟢"
-        },
-        "Inflation_Rate": {
-          "current": "2.8 percent",
-          "previous": "3 percent",
-          "significant_deviation": "🔴"
-        },
-        "Manufacturing_PMI": {
-          "current": "52.7 points",
-          "previous": "51.2 points",
-          "significant_deviation": "🟢"
-        },
-        "Consumer_Confidence": {
-          "current": "57.9 points",
-          "previous": "64.7 points",
-          "significant_deviation": "🔴"
-        }
-      },
-      "Euro Area": {
-        "GDP_Growth_Rate": {
-          "current": "0 percent",
-          "previous": "0.4 percent",
-          "significant_deviation": "🔴"
-        },
-        "Unemployment_Rate": {
-          "current": "6.2 percent",
-          "previous": "6.2 percent",
-          "significant_deviation": "⚪"
-        },
-        "Inflation_Rate": {
-          "current": "2.4 percent",
-          "previous": "2.5 percent",
-          "significant_deviation": "🔴"
-        },
-        "Manufacturing_PMI": {
-          "current": "47.6 points",
-          "previous": "46.6 points",
-          "significant_deviation": "🟢"
-        },
-        "Consumer_Confidence": {
-          "current": "-13.6 points",
-          "previous": "-14.2 points",
-          "significant_deviation": "🟢"
-        }
-      },
-      "China": {
-        "GDP_Growth_Rate": {
-          "current": "1.6 percent",
-          "previous": "1.3 percent",
-          "significant_deviation": "🟢"
-        },
-        "Unemployment_Rate": {
-          "current": "5.1 percent",
-          "previous": "5 percent",
-          "significant_deviation": "🟢"
-        },
-        "Inflation_Rate": {
-          "current": "-0.7 percent",
-          "previous": "0.5 percent",
-          "significant_deviation": "🔴"
-        },
-        "Manufacturing_PMI": {
-          "current": "50.8 points",
-          "previous": "50.1 points",
-          "significant_deviation": "🟢"
-        },
-        "Consumer_Confidence": {
-          "current": "86.4 points",
-          "previous": "86.2 points",
-          "significant_deviation": "🟢"
-        }
-      }
-    },
-    "important_economic_releases": [
-      {
-        "release": "Non Farm Payrolls",
-        "date": "Feb/25",
-        "impact": "Positive"
-      },
-      {
-        "release": "Retail Sales MoM",
-        "date": "Jan/25",
-        "impact": "Negative"
-      },
-      {
-        "release": "Consumer Confidence",
-        "date": "Mar/25",
-        "impact": "Negative"
-      }
-    ],
-    "market_impact_assessment": {
-      "overall_market_trend": "Cautious",
-      "risk_indicators": {
-        "bond_yields": "🔴",
-        "currency_stability": "⚪",
-        "stock_market": "🟢"
-      }
-    }
-  }
-}
+---
+# Filtered Macroeconomic Report  
+### As of: 06/07/2025 15:07 (Trading Economics Data)  
+---
+
+## 1. Key Indicator Values & Significant Changes
+
+### United States (23 Indicators)
+- **GDP Growth Rate:** -0.2% (🔴 sharply down from 2.4%) — significant quarterly deceleration.
+- **GDP Annual Growth Rate:** 2.1% (🔴 lower from 2.5%)  
+- **Unemployment Rate:** 4.2% (⚪ unchanged)
+- **Non Farm Payrolls:** 139K (🔴 down from 147K)
+- **Inflation Rate YoY:** 2.3% (🔴 down from 2.4%)
+- **Inflation Rate MoM:** 0.2% (🟢 improved from -0.1%)
+- **Interest Rate:** 4.5% (⚪ stable)
+- **Balance of Trade:** -$61.62B (🟢 improved from -$138B, sharp reversal, strong positive move)
+- **Current Account:** -$304B (🟢 improvement)
+- **Current Account to GDP:** -3.9% (🔴 wider gap from -3.3%)
+- **Government Debt/GDP:** 124% (🟢 up from 122%)
+- **Government Budget:** -6.2% (🔴 deficit increasing from -5.4%)
+- **Business Confidence:** 48.5 (🔴 down from 48.7)
+- **Manufacturing PMI:** 52 (🟢 up from 50.2)
+- **Non-Manufacturing PMI:** 49.9 (🔴 down from 51.6, contraction territory)
+- **Services PMI:** 53.7 (🟢 up from 50.8)
+- **Consumer Confidence:** 52.2 (⚪ unchanged)
+- **Retail Sales MoM:** 0.1% (🔴 steep drop from 1.7%)
+- **Building Permits:** 1422K (🔴 down from 1481K)
+- **Corporate Tax Rate:** 21% (⚪ unchanged)
+- **Personal Income Tax Rate:** 37% (⚪ unchanged)
+- **Stock Market:** 6000 pts (🟢 up from 5939)
+
+**Significant deviations:**  
+- GDP growth enters negative; trade balance posts historic improvement; budget and current account deficits widening; PMIs mixed; sharply slower payrolls and retail sales.
+
+---
+
+### Euro Area (20 Key Indicators)
+- **GDP Growth Rate:** 0.6% (🟢 up from 0.3%)
+- **GDP Annual Growth Rate:** 1.5% (🟢 up from 1.2%)
+- **Unemployment Rate:** 6.2% (🔴 slightly improved from 6.3%)
+- **Inflation Rate YoY:** 1.9% (🔴 down from 2.2%)
+- **Inflation Rate MoM:** 0% (🔴 down from 0.6%)
+- **Interest Rate:** 2.15% (🔴 down from 2.4% - official rate CUT)
+- **Balance of Trade:** €36.88B (🟢 up from €24.77B — record high surplus)
+- **Current Account:** €60.1B (🟢 up from €38.6B)
+- **Current Account to GDP:** 2.8% (🟢 up from 1.7%)
+- **Government Debt/GDP:** 87.4% (🟢 slight up)
+- **Government Budget:** -3.1% (🟢 improved from -3.5%)
+- **Business Confidence:** -0.55 (🟢 marginal gain from -0.66)
+- **Manufacturing PMI:** 49.4 (🟢 up from 49)
+- **Services PMI:** 49.7 (🔴 down from 50.1)
+- **Consumer Confidence:** -15.2 (🟢 improvement)
+- **Retail Sales MoM:** 0.1% (🔴 down from 0.4%)
+- **Corporate Tax Rate:** 23% (⚪ stable)
+- **Personal Income Tax Rate:** 41.8% (🔴 lower from 42.7%)
+- **Stock Market:** 5428 pts (🟢 up from 5407)
+
+**Significant deviations:**  
+- Stronger GDP, trade, & current account data; ECB cuts rates; inflation moderates sharply; services dip; consumer & business sentiment recovers.
+
+---
+
+### China (22 Key Indicators)
+- **GDP Growth Rate:** 1.2% (🔴 down from 1.6%)
+- **GDP Annual Growth Rate:** 5.4% (⚪ unchanged)
+- **Unemployment Rate:** 5.1% (🔴 down from 5.2%)
+- **Inflation Rate YoY:** -0.1% (⚪ flat, deflation remains)
+- **Inflation Rate MoM:** 0.1% (🟢 improved from -0.4%)
+- **Interest Rate:** 3% (🔴 down from 3.1%)
+- **Cash Reserve Ratio:** 7.5% (🔴 down from 8%)
+- **Balance of Trade:** $96.18B (🔴 down from $103B, still strong)
+- **Current Account:** 1656B CNY (🟢 record improvement)
+- **Current Account to GDP:** 2.2% (🟢 up from 1.5%)
+- **Government Debt/GDP:** 88.3% (🟢 rise from 82%)
+- **Government Budget:** -5.8% (🟢 improvement from -7.4%)
+- **Business Confidence:** 49.5 (🟢 up from 49)
+- **Manufacturing PMI:** 48.3 (🔴 down from 50.4 — contraction)
+- **Non-Manufacturing PMI:** 50.3 (🔴 down from 50.4)
+- **Services PMI:** 51.1 (🟢 up from 50.7)
+- **Consumer Confidence:** 87.5 (🔴 lower from 88.4)
+- **Retail Sales MoM:** 0.24% (🔴 softer from 0.47%)
+- **Corporate Tax Rate:** 25% (⚪ unchanged)
+- **Personal Income Tax Rate:** 45% (⚪ unchanged)
+- **Stock Market:** 3385 pts (🟢 marginal gain)
+
+**Significant deviations:**  
+- GDP & manufacturing decelerate; persistent deflation; looser monetary policy (interest & reserve ratio cuts); improvement in government budget.
+
+---
+
+## 2. Important Economic Releases Highlighted
+- **US:** Negative surprise: GDP contraction, weaker payrolls and retail sales, big trade shock improvement.  
+- **Euro Area:** Recent ECB rate cut, better GDP numbers, historic trade/current account surplus, sharp inflation drop.  
+- **China:** PBoC easings; deflation persists; manufacturing contraction; record current account rise.
+
+---
+
+## 3. Market Impact Assessment
+- **US:**  
+  - **Equities:** Holding up, near highs (~6000 pts).
+  - **Bonds/Currency:** Likely expectations for Fed to pause/consider cuts if contraction persists.
+  - **FX:** Possible weakening on growth scare, but large balance of trade improvement is supportive.
+  - **Risks:** Stagflation risk rising (stalled GDP, still positive inflation); fiscal risks given growing deficit, debt.
+
+- **Euro Area:**  
+  - **Equities:** Advancing, market-friendly ECB rate cut.
+  - **Bonds/FX:** Relief rally on inflation peaking; currency implications neutral currently.
+  - **Risks:** Disinflation drift may challenge return to target; budgets still in deficit but improving.
+
+- **China:**  
+  - **Equities:** Gaining modestly.
+  - **Bonds:** Lower yields with easing.
+  - **Currency:** Slightly weaker.
+  - **Risks:** Deflation risk, manufacturing contraction signal growth headwinds despite policy support.
+
+---
+
+## 4. Evaluation of Risk Indicators
+- **Global Growth:** US GDP flashing red; China slows; Euro Area recovers.
+- **Inflation:** Global inflation cooling or negative (China in deflation); potential for rate cut cycles everywhere.
+- **Employment:** Steady in US/China; falling slightly in Euro Area.
+- **Government Finance:** Deficits remain high globally, but improvements in trade/current accounts offer brief relief.
+- **Sentiment:** Consumer and business confidence generally stable/slightly up in Europe/China, subdued in the US.
+
+---
+
+## Executive Summary Table
+
+| Region      | GDP Trend | Inflation | Unemployment | Policy | Trade Balance         | Fiscal Risk       | Sentiment      | Market Impact                    |
+|-------------|-----------|-----------|--------------|--------|----------------------|-------------------|----------------|----------------------------------|
+| US          | 🔴        | 🔴        | ⚪           | ⚪     | 🟢 (historic jump)    | 🔴 (Def/Gap wider)| 🔴             | Bonds/FX volatility; equities steady |
+| Euro Area   | 🟢        | 🔴        | 🔴           | 🔴     | 🟢                    | ⚪                | 🟢             | Rally risk; easing policy        |
+| China       | 🔴        | ⚪        | 🔴           | 🔴     | 🔴 (still large)      | 🟢                | 🔴             | Lower yields, risk bias lower    |
+
+---
+
+**Major Market-moving Trend Deviations:**
+- US GDP contraction.
+- Euro Area returns to GDP growth with record trade surplus, rate cut.
+- China: Persistent deflation, decelerating growth; major monetary easing.
+- Employment generally stable, but risks building for future weakness if manufacturing PMIs stay below 50.
+- Global fiscal backdrops remain stretched — risk if growth does not recover.
+- Inflation recedes, opening door for further policy easing globally.
+
+---
+
+**Conclusion:**  
+The global macroeconomic picture presents mixed signals: European growth recovers, the US enters contraction, and China struggles with deflation/weak manufacturing. Downside growth risks are prominent; inflation and policy cycles are turning dovish. Financial markets remain resilient for now, but macro headwinds warrant close monitoring of early-warning indicators.
+
+---

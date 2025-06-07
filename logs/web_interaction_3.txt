@@ -97,96 +97,294 @@ Action result: 🔗  Opened new tab with https://tradingeconomics.com/earnings
 Action result: 📄  Extracted from page
 : ```json
 {
-  "impactful_financial_events": [
+  "events_next_7_days": [
     {
-      "date": "March 13",
-      "company": "Enel",
-      "ticker": "ENEL:IM",
-      "EPS": 0.11,
-      "consensus": 0.12,
-      "previous": 0.15,
-      "revenue": "21.313B",
-      "marketCap": "$76.78B"
+      "date": "Friday Jun 6",
+      "company": "ABM Industries",
+      "ticker": "ABM:US",
+      "eps_consensus": "0.8687",
+      "eps_previous": "0.87",
+      "eps_reported": "0.86",
+      "revenue_consensus": "2.07B",
+      "revenue_previous": "2B",
+      "revenue_reported": "2.1B",
+      "market_cap": "$2.9B",
+      "fiscal_period": "Q2",
+      "time": "AM"
     },
     {
-      "date": "March 13",
-      "company": "Assicurazioni Generali",
-      "ticker": "G:IM",
-      "EPS": 1.29,
-      "consensus": 0.94,
-      "previous": 0.92,
-      "revenue": "22.39B",
-      "marketCap": "$54.05B"
+      "date": "Monday Jun 9",
+      "company": "Casey's General Stores",
+      "ticker": "CASY:US",
+      "eps_consensus": "2.03",
+      "eps_previous": "2.34",
+      "revenue_consensus": "3.95B",
+      "revenue_previous": "3.6B",
+      "market_cap": "$16.94B",
+      "fiscal_period": "Q4",
+      "time": "PM"
     },
     {
-      "date": "March 14",
-      "company": "BMW",
-      "ticker": "BMW:GR",
-      "EPS": 2.41,
-      "consensus": 2.91,
-      "previous": 3.77,
-      "revenue": "36.42B",
-      "marketCap": "$50.56B"
+      "date": "Monday Jun 9",
+      "company": "Assura",
+      "ticker": "AGR:LN",
+      "eps_previous": "0.02",
+      "revenue_previous": "84.6M",
+      "market_cap": "$1.63B",
+      "fiscal_period": "H2"
     },
     {
-      "date": "March 14",
-      "company": "Daimler Truck Holding AG",
-      "ticker": "DTG:GR",
-      "EPS": null,
-      "consensus": 0.87,
-      "previous": 1.48,
-      "revenue": null,
-      "marketCap": "$34.44B"
+      "date": "Monday Jun 9",
+      "company": "PayPoint",
+      "ticker": "PAY:LN",
+      "eps_consensus": "0.48",
+      "eps_previous": "0.4135",
+      "revenue_consensus": "109.07M",
+      "revenue_previous": "48.04M",
+      "market_cap": "$625.68M",
+      "fiscal_period": "H2"
     },
     {
-      "date": "March 14",
-      "company": "Williams Sonoma",
-      "ticker": "WSM:US",
-      "EPS": null,
-      "consensus": 2.90,
-      "previous": 5.44,
-      "revenue": "2.34B",
-      "marketCap": "$10.77B"
+      "date": "Tuesday Jun 10",
+      "company": "J.M. Smucker",
+      "ticker": "SJM:US",
+      "eps_consensus": "2.24",
+      "eps_previous": "2.66",
+      "revenue_consensus": "2.18B",
+      "revenue_previous": "2.21B",
+      "market_cap": "$12.33B",
+      "fiscal_period": "Q4",
+      "time": "AM"
     },
     {
-      "date": "March 17",
-      "company": "WuXi AppTec",
-      "ticker": "603259:CH",
-      "EPS": null,
-      "consensus": 1.09,
-      "previous": 0.76,
-      "revenue": "11.5B",
-      "marketCap": "$21.08B"
+      "date": "Tuesday Jun 10",
+      "company": "GameStop",
+      "ticker": "GME:US",
+      "eps_consensus": "0.04",
+      "eps_previous": "-0.12",
+      "revenue_consensus": "754.23M",
+      "revenue_previous": "0.882B",
+      "market_cap": "$8.16B",
+      "fiscal_period": "Q1",
+      "time": "PM"
     },
     {
-      "date": "March 18",
-      "company": "Computacenter",
-      "ticker": "CCC:LN",
-      "EPS": null,
-      "consensus": 1.08,
-      "previous": 0.96,
-      "revenue": "3.77B",
-      "marketCap": "$5.55B"
+      "date": "Tuesday Jun 10",
+      "company": "North West Company",
+      "ticker": "NWC:CN",
+      "eps_consensus": "0.6",
+      "eps_previous": "0.57",
+      "revenue_consensus": "648.2M",
+      "revenue_previous": "617.5M",
+      "market_cap": "$1.93B",
+      "fiscal_period": "Q1",
+      "time": "PM"
     },
     {
-      "date": "March 19",
-      "company": "Tencent Holdings",
-      "ticker": "700:HK",
-      "EPS": null,
-      "consensus": 5.71,
-      "previous": 4.54,
-      "revenue": "169.33B",
-      "marketCap": "$602.35B"
+      "date": "Tuesday Jun 10",
+      "company": "Oxford Instruments",
+      "ticker": "OXIG:LN",
+      "eps_consensus": "0.595",
+      "eps_previous": "0.57",
+      "revenue_consensus": "275.7M",
+      "market_cap": "$1.63B",
+      "fiscal_period": "H2",
+      "time": "AM"
     },
     {
-      "date": "March 19",
-      "company": "PDD Holdings",
-      "ticker": "PDD:US",
-      "EPS": null,
-      "consensus": 19.86,
-      "previous": 17.32,
-      "revenue": "115.04B",
-      "marketCap": "$159.38B"
+      "date": "Tuesday Jun 10",
+      "company": "Telkom SOC",
+      "ticker": "TKG:SJ",
+      "eps_previous": "1.81",
+      "revenue_previous": "21.452B",
+      "market_cap": "$954.6M",
+      "fiscal_period": "H2"
+    },
+    {
+      "date": "Tuesday Jun 10",
+      "company": "GB",
+      "ticker": "GBG:LN",
+      "eps_consensus": "0.00",
+      "revenue_consensus": "150.25M",
+      "market_cap": "$859.21M",
+      "fiscal_period": "H2",
+      "time": "AM"
+    },
+    {
+      "date": "Tuesday Jun 10",
+      "company": "Tatton Asset Management",
+      "ticker": "TAM:LN",
+      "eps_consensus": "0.127",
+      "eps_previous": "0.12",
+      "revenue_consensus": "21.7M",
+      "revenue_previous": "19.30M",
+      "market_cap": "$541.51M",
+      "fiscal_period": "H2",
+      "time": "AM"
+    },
+    {
+      "date": "Wednesday Jun 11",
+      "company": "Oracle",
+      "ticker": "ORCL:US",
+      "eps_consensus": "1.64",
+      "eps_previous": "1.63",
+      "revenue_consensus": "15.58B",
+      "revenue_previous": "14.3B",
+      "market_cap": "$358.02B",
+      "fiscal_period": "Q4",
+      "time": "PM"
+    },
+    {
+      "date": "Wednesday Jun 11",
+      "company": "Inditex",
+      "ticker": "ITX:SM",
+      "eps_consensus": "0.4299",
+      "eps_previous": "0.42",
+      "revenue_consensus": "8.48B",
+      "revenue_previous": "8.15B",
+      "market_cap": "$165.72B",
+      "fiscal_period": "Q1"
+    },
+    {
+      "date": "Wednesday Jun 11",
+      "company": "Dollarama",
+      "ticker": "DOL:CN",
+      "eps_consensus": "0.8327",
+      "eps_previous": "0.77",
+      "revenue_consensus": "1.5B",
+      "revenue_previous": "1.41B",
+      "market_cap": "$34.82B",
+      "fiscal_period": "Q1",
+      "time": "AM"
+    },
+    {
+      "date": "Wednesday Jun 11",
+      "company": "Oxford Industries",
+      "ticker": "OXM:US",
+      "eps_consensus": "1.98",
+      "eps_previous": "2.42",
+      "revenue_consensus": "383.54M",
+      "revenue_previous": "398.18M",
+      "market_cap": "$675.8M",
+      "fiscal_period": "Q1",
+      "time": "PM"
+    },
+    {
+      "date": "Thursday Jun 12",
+      "company": "Adobe Systems",
+      "ticker": "ADBE:US",
+      "eps_consensus": "4.97",
+      "eps_previous": "4.48",
+      "revenue_consensus": "5.8B",
+      "revenue_previous": "5.31B",
+      "market_cap": "$153.08B",
+      "fiscal_period": "Q2",
+      "time": "PM"
+    },
+    {
+      "date": "Thursday Jun 12",
+      "company": "Kroger",
+      "ticker": "KR:US",
+      "eps_consensus": "1.45",
+      "eps_previous": "1.43",
+      "revenue_consensus": "45.28B",
+      "revenue_previous": "45.27B",
+      "market_cap": "$50.63B",
+      "fiscal_period": "Q1",
+      "time": "AM"
+    },
+    {
+      "date": "Thursday Jun 12",
+      "company": "Restoration Hardware",
+      "ticker": "RH:US",
+      "eps_consensus": "-0.0693",
+      "eps_previous": "-0.40",
+      "revenue_consensus": "818.06M",
+      "revenue_previous": "727M",
+      "market_cap": "$3.31B",
+      "fiscal_period": "Q1",
+      "time": "PM"
+    }
+  ],
+  "top_10_most_impactful_events": [
+    {
+      "company": "Oracle",
+      "ticker": "ORCL:US",
+      "market_cap": "$358.02B",
+      "date": "Wednesday Jun 11",
+      "fiscal_period": "Q4",
+      "timing": "PM"
+    },
+    {
+      "company": "Inditex",
+      "ticker": "ITX:SM",
+      "market_cap": "$165.72B",
+      "date": "Wednesday Jun 11",
+      "fiscal_period": "Q1"
+    },
+    {
+      "company": "Adobe Systems",
+      "ticker": "ADBE:US",
+      "market_cap": "$153.08B",
+      "date": "Thursday Jun 12",
+      "fiscal_period": "Q2",
+      "timing": "PM"
+    },
+    {
+      "company": "Kroger",
+      "ticker": "KR:US",
+      "market_cap": "$50.63B",
+      "date": "Thursday Jun 12",
+      "fiscal_period": "Q1",
+      "timing": "AM"
+    },
+    {
+      "company": "Dollarama",
+      "ticker": "DOL:CN",
+      "market_cap": "$34.82B",
+      "date": "Wednesday Jun 11",
+      "fiscal_period": "Q1",
+      "timing": "AM"
+    },
+    {
+      "company": "J.M. Smucker",
+      "ticker": "SJM:US",
+      "market_cap": "$12.33B",
+      "date": "Tuesday Jun 10",
+      "fiscal_period": "Q4",
+      "timing": "AM"
+    },
+    {
+      "company": "GameStop",
+      "ticker": "GME:US",
+      "market_cap": "$8.16B",
+      "date": "Tuesday Jun 10",
+      "fiscal_period": "Q1",
+      "timing": "PM"
+    },
+    {
+      "company": "Casey's General Stores",
+      "ticker": "CASY:US",
+      "market_cap": "$16.94B",
+      "date": "Monday Jun 9",
+      "fiscal_period": "Q4",
+      "timing": "PM"
+    },
+    {
+      "company": "ABM Industries",
+      "ticker": "ABM:US",
+      "market_cap": "$2.9B",
+      "date": "Friday Jun 6",
+      "fiscal_period": "Q2",
+      "timing": "AM"
+    },
+    {
+      "company": "Restoration Hardware",
+      "ticker": "RH:US",
+      "market_cap": "$3.31B",
+      "date": "Thursday Jun 12",
+      "fiscal_period": "Q1",
+      "timing": "PM"
     }
   ]
 }
@@ -201,7 +399,7 @@ Available tabs:
 [TabInfo(page_id=0, url='about:blank', title=''), TabInfo(page_id=1, url='https://tradingeconomics.com/earnings', title='Earnings Calendar')]
 Interactive elements from top layer of the current page inside the viewport:
 [Start of page]
-[0]<button />
+[0]<button TradingEconomcis Menu/>
 [1]<a />
 [2]<a Calendar/>
 [3]<a News/>
@@ -211,22 +409,26 @@ Interactive elements from top layer of the current page inside the viewport:
 [7]<a Forecasts/>
 [8]<a Search/>
 [9]<input text;Search/>
-[10]<button />
-[11]<a button/>
-[12]<a Commodities/>
-[13]<a Indexes/>
-[14]<a Shares/>
-[15]<a Currencies/>
-[16]<a Crypto/>
-[17]<a Bonds/>
-[18]<a Earnings/>
-[19]<a Holidays/>
-[20]<button Countries/>
-[21]<button Recent/>
-[22]<button Impact/>
-[23]<a Export/>
-[24]<a API/>
-Thursday Mar 13
+[10]<a button;User Menu/>
+[11]<a Commodities/>
+[12]<a Indexes/>
+[13]<a Shares/>
+[14]<a Currencies/>
+[15]<a Crypto/>
+[16]<a Bonds/>
+[17]<a Earnings/>
+[18]<a Holidays/>
+[19]<iframe ;Advertisement;3rd party ad content>SafeFrame Container
+https://ad.doubleclick.net/ddm/trackimp/N433007.3665442DV3601/B33493584.418920115;dc_trk_aid=611418371;dc_trk_cid=233842350;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=0;gdpr_consent=;ltd=;dc_tdv=1?/>
+[20]<a />
+[21]<img />
+[22]<div button/>
+[23]<button Select countries>Countries/>
+[24]<button Recent/>
+[25]<button Select Importance>Impact/>
+[26]<a Export/>
+[27]<a API/>
+Friday Jun 6
 EPS
 Consensus
 Previous
@@ -236,365 +438,118 @@ Previous
 MarketCap
 Fiscal
 Time
-[25]<a Enel/>
-ENEL:IM
-[26]<a 0.11/>
-0.12
-[27]<a 0.15/>
-[28]<a 21.313B/>
-[29]<a 26.031B/>
-$76.78B
-Q4
-[30]<a Assicurazioni Generali/>
-G:IM
-[31]<a 1.29/>
-0.94
-[32]<a 0.92/>
-[33]<a 22.39B/>
-48.18B
-[34]<a 22B/>
-$54.05B
-Q4
-[35]<a Hannover Rueck/>
-HNR1:GR
-[36]<a 4.45/>
-4.78
-[37]<a 3.53/>
-6.41B
-[38]<a 5.84B/>
-$35.9B
+[28]<a Link to ABM Industries page.>ABM Industries/>
+ABM:US
+[29]<a Link to ABM Industries page.>0.86/>
+0.8687
+[30]<a Link to ABM Industries page.>0.87/>
+[31]<a Link to ABM Industries page.>2.1B/>
+2.07B
+[32]<a Link to ABM Industries page.>2B/>
+$2.9B
+Q2
+AM
+Monday Jun 9
+EPS
+Consensus
+Previous
+Revenue
+Consensus
+Previous
+MarketCap
+Fiscal
+Time
+[33]<a Link to Casey>Casey's General Stores/>
+CASY:US
+2.03
+[34]<a Link to Casey>2.34/>
+3.95B
+[35]<a Link to Casey>3.6B/>
+$16.94B
 Q4
 PM
-[39]<a Wheaton Precious Metals/>
-WPM:CN
-[40]<a 0.44/>
-0.46
-[41]<a 0.36/>
-[42]<a 380.52M/>
-399.37M
-[43]<a 313M/>
-$33.31B
+[36]<a Link to Assura                                                                           page.>Assura/>
+AGR:LN
+[37]<a Link to Assura                                                                           page.>0.02/>
+[38]<a Link to Assura                                                                           page.>84.6M/>
+$1.63B
+H2
+[39]<a Link to PayPoint page.>PayPoint/>
+PAY:LN
+0.48
+[40]<a Link to PayPoint page.>0.4135/>
+109.07M
+[41]<a Link to PayPoint page.>48.04M/>
+$625.68M
+H2
+Tuesday Jun 10
+EPS
+Consensus
+Previous
+Revenue
+Consensus
+Previous
+MarketCap
+Fiscal
+Time
+[42]<a Link to J.M. Smucker page.>J.M. Smucker/>
+SJM:US
+2.24
+[43]<a Link to J.M. Smucker page.>2.66/>
+2.18B
+[44]<a Link to J.M. Smucker page.>2.21B/>
+$12.33B
 Q4
 AM
-[44]<a Dollar General/>
-DG:US
-[45]<a 1.68/>
-1.50
-[46]<a 1.83/>
-[47]<a 10.3B/>
-10.26B
-[48]<a 9.9B/>
-$17.34B
-Q4
-AM
-[49]<a DocuSign/>
-DOCU:US
-[50]<a 0.86/>
-0.84
-[51]<a 0.76/>
-[52]<a 776.3M/>
-760.99M
-[53]<a 712.4M/>
-$15.59B
-Q4
-PM
-[54]<a Ulta Salon Cosmetics Fragrance/>
-ULTA:US
-[55]<a 8.46/>
-7.10
-[56]<a 8.08/>
-[57]<a 3.5B/>
-3.46B
-[58]<a 3.6B/>
-$15.48B
-Q4
-PM
-[59]<a Centrais Eletricas Brasileiras/>
-ELET3:BS
-[60]<a 0.75/>
-0.96
-[61]<a 0.39/>
-[62]<a 9.58B/>
-10.58B
-[63]<a 10.28B/>
-$13.55B
-Q4
-[64]<a Empire Company/>
-EMPA:CN
-[65]<a 0.62/>
-0.63
-[66]<a 0.62/>
-[67]<a 7.73B/>
-7.67B
-[68]<a 7.49B/>
-$7.15B
-Q3
-AM
-[69]<a Guangzhou Baiy/>
-600332:CH
-[70]<a 0.30/>
-0.29
-[71]<a 0.34/>
-[72]<a 22.95B/>
-$5.28B
-Q4
-AM
-[73]<a Hugo Boss/>
-BOSS:GR
-[74]<a 0.77/>
-1.05
-[75]<a 1.23/>
-[76]<a 1.25B/>
-1.19B
-[77]<a 1.18B/>
-$2.8B
-Q4
-PM
-[78]<a Deliveroo Holdings/>
-ROO:LN
+[45]<a Link to GameStop page.>GameStop/>
+GME:US
 0.04
-[79]<a -0.02/>
-[80]<a 545M/>
-546.41M
-[81]<a 523M/>
-$2.75B
-H2
-AM
-[82]<a Weibo/>
-WB:US
-[83]<a 0.40/>
-0.40
-[84]<a 0.31/>
-[85]<a 456.8M/>
-453.11M
-[86]<a 463.7M/>
-$2.61B
-Q4
-AM
-[87]<a Semtech/>
-SMTC:US
-[88]<a 0.40/>
-0.33
-[89]<a -0.06/>
-[90]<a 251M/>
-250.18M
-[91]<a 192.9M/>
-$2.14B
-Q4
+[46]<a Link to GameStop page.>-0.12/>
+754.23M
+[47]<a Link to GameStop page.>0.882B/>
+$8.16B
+Q1
 PM
-[92]<a North West Company/>
+[48]<a Link to North West Company page.>North West Company/>
 NWC:CN
-0.73
-[93]<a 0.78/>
-688.8M
-[94]<a 643.11M/>
-$1.54B
-Q4
+0.6
+[49]<a Link to North West Company page.>0.57/>
+648.2M
+[50]<a Link to North West Company page.>617.5M/>
+$1.93B
+Q1
 PM
-[95]<a Magazine Luiza/>
-MGLU3:BZ
-[96]<a 0.22/>
-0.26
-[97]<a 0.01/>
-[98]<a 11.07B/>
-11.34B
-[99]<a 10.55B/>
-$1.08B
-Q4
-[100]<a New Flyer Industries/>
-NFI:CN
-[101]<a 0.11/>
-0.05
-[102]<a -0.05/>
-[103]<a 837M/>
-856.12M
-[104]<a 792M/>
-$908.06M
-Q4
-AM
-[105]<a VAALCO Energy, Inc/>
-EGY:LN
-0.15
-[106]<a 0.41/>
-140.5M
-[107]<a 149.15M/>
-$576.87M
-Q4
-PM
-[108]<a Eztec Empreendimentos E Participacoes/>
-EZTC3:BZ
-[109]<a 0.46/>
-0.39
-[110]<a 0.38/>
-[111]<a 394.32M/>
-358.81M
-[112]<a 337.9M/>
-$501.03M
-Q4
-Friday Mar 14
-EPS
-Consensus
-Previous
-Revenue
-Consensus
-Previous
-MarketCap
-Fiscal
-Time
-[113]<a BMW/>
-BMW:GR
-[114]<a 2.41/>
-2.91
-[115]<a 3.77/>
-[116]<a 36.42B/>
-42.4B
-[117]<a 42.97B/>
-$50.56B
-Q4
-PM
-[118]<a Daimler Truck Holding AG/>
-DTG:GR
-0.87
-[119]<a 1.48/>
-11.03B
-[120]<a 14.95B/>
-$34.44B
-Q4
-AM
-[121]<a Swiss Life Holding/>
-SLHN:SW
-22.70
-[122]<a 16.45/>
-8.21B
-$26.33B
+[51]<a Link to Oxford Instruments page.>Oxford Instruments/>
+OXIG:LN
+0.595
+[52]<a Link to Oxford Instruments page.>0.57/>
+275.7M
+$1.63B
 H2
 AM
-[123]<a Williams Sonoma/>
-WSM:US
-2.90
-[124]<a 5.44/>
-2.34B
-[125]<a 2.28B/>
-$10.77B
-Q4
-AM
-[126]<a Diasorin/>
-DIA:IM
-1.08
-[127]<a 1.11/>
-316.43M
-[128]<a 302M/>
-$5.74B
-Q4
-[129]<a Buckle/>
-BKE:US
-[130]<a 1.53/>
-1.38
-[131]<a 1.59/>
-[132]<a 379.19M/>
-373.6M
-[133]<a 382.38M/>
-$1.81B
-Q4
-AM
-[134]<a Gogo/>
-GOGO:US
-[135]<a -0.22/>
-0.06
-[136]<a 0.11/>
-[137]<a 137.8M/>
-97.28M
-[138]<a 97.81M/>
-$883.7M
-Q4
-AM
-Monday Mar 17
-EPS
-Consensus
-Previous
-Revenue
-Consensus
-Previous
-MarketCap
-Fiscal
-Time
-[139]<a WuXi AppTec/>
-603259:CH
-1.09
-[140]<a 0.76/>
-11.5B
-[141]<a 10.8B/>
-$21.08B
-Q4
-AM
-[142]<a Mtn/>
-MTN:SJ
-[143]<a 6.76/>
-[144]<a 108B/>
-$10.97B
+[53]<a Link to Telkom SOC page.>Telkom SOC/>
+TKG:SJ
+[54]<a Link to Telkom SOC page.>1.81/>
+[55]<a Link to Telkom SOC page.>21.452B/>
+$954.6M
 H2
-Science Applications International
-SAIC:US
-2.07
-1.43
-1.81B
-1.74B
-$5.42B
-Q4
+[56]<a Link to GB page.>GB/>
+GBG:LN
+0.00
+150.25M
+$859.21M
+H2
 AM
-[145]<a YDUQS Participacoes/>
-YDUQ3:BZ
-0.09
-[146]<a 0.38/>
-1.27B
-[147]<a 1.3B/>
+[57]<a Link to Tatton Asset Management page.>Tatton Asset Management/>
+TAM:LN
+0.127
+[58]<a Link to Tatton Asset Management page.>0.12/>
+21.7M
+[59]<a Link to Tatton Asset Management page.>19.30M/>
 $541.51M
-Q3
-Tuesday Mar 18
-EPS
-Consensus
-Previous
-Revenue
-Consensus
-Previous
-MarketCap
-Fiscal
-Time
-[148]<a Computacenter/>
-CCC:LN
-1.08
-[149]<a 0.96/>
-3.77B
-$5.55B
 H2
 AM
-[150]<a Energisa/>
-ENGI11:BZ
-1.07
-[151]<a 1.35/>
-7.54B
-[152]<a 8.08B/>
-$2.84B
-Q4
-[153]<a New Hope Corporation/>
-NHC:AU
-0.35
-[154]<a 0.3/>
-1.09B
-[155]<a 0.86B/>
-$1.99B
-H1
-AM
-[156]<a IHS Holding/>
-IHS:US
-0.06
-[157]<a -1.36/>
-424.17M
-[158]<a 509.8M/>
-$1.07B
-Q4
-AM
-Wednesday Mar 19
+Wednesday Jun 11
 EPS
 Consensus
 Previous
@@ -604,98 +559,129 @@ Previous
 MarketCap
 Fiscal
 Time
-[159]<a Tencent Holdings/>
-700:HK
-5.71
-[160]<a 4.54/>
-169.33B
-[161]<a 155.2B/>
-$602.35B
-Q4
-AM
-[162]<a PDD Holdings/>
-PDD:US
-19.86
-[163]<a 17.32/>
-115.04B
-[164]<a 88.88B/>
-$159.38B
+[60]<a Link to Oracle page.>Oracle/>
+ORCL:US
+1.64
+[61]<a Link to Oracle page.>1.63/>
+15.58B
+[62]<a Link to Oracle page.>14.3B/>
+$358.02B
 Q4
 PM
-[165]<a General Mills/>
-GIS:US
-0.98
-[166]<a 1.17/>
-5.02B
-[167]<a 5.1B/>
-$33.96B
-Q3
+[63]<a Link to Inditex page.>Inditex/>
+ITX:SM
+0.4299
+[64]<a Link to Inditex page.>0.42/>
+8.48B
+[65]<a Link to Inditex page.>8.15B/>
+$165.72B
+Q1
+[66]<a Link to Dollarama page.>Dollarama/>
+DOL:CN
+0.8327
+[67]<a Link to Dollarama page.>0.77/>
+1.5B
+[68]<a Link to Dollarama page.>1.41B/>
+$34.82B
+Q1
 AM
-[168]<a China United Network/>
-600050:CH
-0.02
-[169]<a 0.02/>
-193,879M
-[170]<a 90.91B/>
-$26.89B
-Q4
-AM
-[171]<a Vonovia/>
-VNA:GR
-0.37
-[172]<a 0.51/>
-811.89M
-[173]<a 837.4M/>
-$22.98B
-Q4
-AM
-[174]<a Power Of Canada/>
-POW:CN
-1.20
-[175]<a 0.84/>
-3.91B
-[176]<a 3.64B/>
-$20.03B
-Q4
+[69]<a Link to Oxford Industries page.>Oxford Industries/>
+OXM:US
+1.98
+[70]<a Link to Oxford Industries page.>2.42/>
+383.54M
+[71]<a Link to Oxford Industries page.>398.18M/>
+$675.8M
+Q1
 PM
-[177]<a Terna Rete Elettrica Nazionale/>
-TRN:IM
-0.11
-[178]<a 0.12/>
-1B
-[179]<a 940M/>
-$17.14B
-Q4
-[180]<a Snam/>
-SRG:IM
-0.08
-[181]<a 0.07/>
-1.62B
-[182]<a 1.14B/>
-$16.7B
-Q4
-[183]<a Fuyao Glass Indu/>
-600660:CH
-0.80
-[184]<a 0.58/>
-10.8B
-[185]<a 9.34B/>
-$16.28B
-Q4
-... 2407 pixels below - scroll or extract content to see more ...
-Current step: 2/100Current date and time: 2025-03-14 12:26
+Thursday Jun 12
+EPS
+Consensus
+Previous
+Revenue
+Consensus
+Previous
+MarketCap
+Fiscal
+Time
+[72]<a Link to Adobe Systems page.>Adobe Systems/>
+ADBE:US
+4.97
+[73]<a Link to Adobe Systems page.>4.48/>
+5.8B
+[74]<a Link to Adobe Systems page.>5.31B/>
+$153.08B
+Q2
+PM
+[75]<a Link to Kroger page.>Kroger/>
+KR:US
+1.45
+[76]<a Link to Kroger page.>1.43/>
+45.28B
+[77]<a Link to Kroger page.>45.27B/>
+$50.63B
+Q1
+AM
+[78]<a Link to Restoration Hardware page.>Restoration Hardware/>
+RH:US
+-0.0693
+[79]<a Link to Restoration Hardware page.>-0.40/>
+818.06M
+[80]<a Link to Restoration Hardware page.>727M/>
+$3.31B
+Q1
+PM
+Indicators
+[81]<a Homepage/>
+[82]<a Countries/>
+[83]<a Indicators/>
+[84]<a Calendar/>
+[85]<a Forecasts/>
+[86]<a Ratings/>
+Solutions
+[87]<a Data Subscriptions/>
+[88]<a API Access/>
+[89]<a Excel Add-In/>
+[90]<a Developer Account/>
+[91]<a Documentation/>
+[92]<a Pricing/>
+About Us
+[93]<a Customers/>
+[94]<a Careers/>
+[95]<a Investors/>
+[96]<a Advertisers/>
+[97]<a About us/>
+[98]<a Privacy/>
+[99]<a IOs app on Apple/>
+[100]<img />
+[101]<a Android app on Google Play/>
+[102]<img />
+[103]<a English/>
+[104]<a Español/>
+[105]<a Português/>
+[106]<a Deutsch/>
+[107]<a Italiano/>
+[108]<a Polski/>
+[109]<a Русский/>
+[110]<a Türkçe/>
+[111]<a Farsi/>
+[112]<a 简体中文/>
+[113]<a 日本語/>
+[114]<a 한국어/>
+... 652 pixels below - scroll or extract content to see more ...
+Current step: 2/100Current date and time: 2025-06-07 15:01
 
  RESPONSE
 {
   "current_state": {
-    "evaluation_previous_goal": "Success - I successfully extracted the impactful financial events for the next 7 days.",
-    "memory": "I extracted a list of 10 impactful financial events for the upcoming week. Items identified: 10. Complete list ready for review.",
-    "next_goal": "Prepare to present the information found."
+    "evaluation_previous_goal": "Success - The extraction of all major upcoming financial events and sorting by likely market impact is complete. The most impactful events have been identified, featuring large-cap companies with high global relevance and earnings influence.",
+    "memory": "Ultimate task achieved. 1/1: Selected the 10 most impactful financial market events in the next 7 days, prioritizing by market cap, sector, earnings relevance, and company significance.",
+    "next_goal": "Finish the task: Output the 10 most impactful events for the financial market in the next week."
   },
   "action": [
     {
       "done": {
-        "text": "I have extracted the 10 most impactful financial events for the financial market in the next 7 days. Here they are:\n\n1. **March 13** - **Enel** (ENEL:IM) - EPS: 0.11, Consensus: 0.12, Previous: 0.15, Revenue: 21.313B, MarketCap: $76.78B\n2. **March 13** - **Assicurazioni Generali** (G:IM) - EPS: 1.29, Consensus: 0.94, Previous: 0.92, Revenue: 22.39B, MarketCap: $54.05B\n3. **March 14** - **BMW** (BMW:GR) - EPS: 2.41, Consensus: 2.91, Previous: 3.77, Revenue: 36.42B, MarketCap: $50.56B\n4. **March 14** - **Daimler Truck Holding AG** (DTG:GR) - Consensus: 0.87, Previous: 1.48, MarketCap: $34.44B\n5. **March 14** - **Williams Sonoma** (WSM:US) - Consensus: 2.90, Previous: 5.44, Revenue: 2.34B, MarketCap: $10.77B\n6. **March 17** - **WuXi AppTec** (603259:CH) - Consensus: 1.09, Previous: 0.76, Revenue: 11.5B, MarketCap: $21.08B\n7. **March 18** - **Computacenter** (CCC:LN) - Consensus: 1.08, Previous: 0.96, Revenue: 3.77B, MarketCap: $5.55B\n8. **March 19** - **Tencent Holdings** (700:HK) - Consensus: 5.71, Previous: 4.54, Revenue: 169.33B, MarketCap: $602.35B\n9. **March 19** - **PDD Holdings** (PDD:US) - Consensus: 19.86, Previous: 17.32, Revenue: 115.04B, MarketCap: $159.38B\n10. **March 18** - **General Mills** (GIS:US) - Consensus: 0.98, Previous: 1.17, Revenue: 5.02B, MarketCap: $33.96B.\n\nTask completion status: Success.",
+        "text": "The 10 most impactful events for the financial market in the next 7 days are:\n\n1. Oracle (ORCL:US), Market Cap: $358.02B, Q4 Earnings, Wednesday Jun 11 PM\n2. Inditex (ITX:SM), Market Cap: $165.72B, Q1 Earnings, Wednesday Jun 11\n3. Adobe Systems (ADBE:US), Market Cap: $153.08B, Q2 Earnings, Thursday Jun 12 PM\n4. Kroger (KR:US), Market Cap: $50.63B, Q1 Earnings, Thursday Jun 12 AM\n5. Dollarama (DOL:CN), Market Cap: $34.82B, Q1 Earnings, Wednesday Jun 11 AM\n6. Casey's General Stores (CASY:US), Market Cap: $16.94B, Q4 Earnings, Monday Jun 9 PM\n7. J.M. Smucker (SJM:US), Market Cap: $12.33B, Q4 Earnings, Tuesday Jun 10 AM\n8. GameStop (GME:US), Market Cap: $8.16B, Q1 Earnings, Tuesday Jun 10 PM\n9. Restoration Hardware (RH:US), Market Cap: $3.31B, Q1 Earnings, Thursday Jun 12 PM\n10. ABM Industries (ABM:US), Market Cap: $2.9B, Q2 Earnings, Friday Jun 6 AM\n\nSelection was based on market capitalization, sector influence, and the significance of their earnings to the financial markets over the coming week.",
         "success": true
       }
     }

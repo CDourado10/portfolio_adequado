@@ -33,7 +33,7 @@ if __name__ == "__main__":
     trending_stocks_tool = TrendingStocksTool()
     
     # Executar a ferramenta
-    result = trending_stocks_tool._run("Brazil")
+    result = trending_stocks_tool._run("United States")
     
     # Exibir resultado
     print(result)

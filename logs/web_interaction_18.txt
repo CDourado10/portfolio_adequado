@@ -85,7 +85,7 @@ Browser started
 [Your task history memory starts here]
 
  HumanMessage 
-Action result: 🔗  Opened new tab with https://tradingeconomics.com/calendar
+Action result: 🔗  Opened new tab with https://tradingeconomics.com/earnings
 
  AIMessage 
 
@@ -97,194 +97,134 @@ Action result: 🔗  Opened new tab with https://tradingeconomics.com/calendar
 Action result: 📄  Extracted from page
 : ```json
 {
-  "March_11_2025": {
-    "events": [
-      {
-        "time": "12:00 AM",
-        "country": "Indonesia",
-        "event": "Car Sales YoY (FEB)",
-        "actual": "2.2%",
-        "previous": "-11.3%",
-        "consensus": "-7%"
-      },
-      {
-        "time": "12:00 AM",
-        "country": "Indonesia",
-        "event": "Consumer Confidence (FEB)",
-        "actual": "126.4",
-        "previous": "127.2",
-        "consensus": "127.5"
-      },
-      {
-        "time": "02:00 AM",
-        "country": "Singapore",
-        "event": "MAS 12-Week Bill Auction",
-        "actual": "2.62%",
-        "previous": "2.78%"
-      },
-      {
-        "time": "02:00 AM",
-        "country": "Singapore",
-        "event": "MAS 4-Week Bill Auction",
-        "actual": "2.63%",
-        "previous": "2.78%"
-      },
-      {
-        "time": "03:00 AM",
-        "country": "Japan",
-        "event": "Machine Tool Orders YoY (FEB)",
-        "actual": "3.5%",
-        "previous": "4.7%",
-        "consensus": "4.7%"
-      },
-      {
-        "time": "04:00 AM",
-        "country": "Turkey",
-        "event": "Retail Sales MoM (JAN)",
-        "actual": "2%",
-        "previous": "0.8%",
-        "consensus": "0.6%"
-      },
-      {
-        "time": "04:00 AM",
-        "country": "Turkey",
-        "event": "Retail Sales YoY (JAN)",
-        "actual": "12.5%",
-        "previous": "14%",
-        "consensus": "12.9%"
-      },
-      {
-        "time": "04:15 AM",
-        "country": "China",
-        "event": "Vehicle Sales YoY (FEB)",
-        "actual": "34.4%",
-        "previous": "-0.6%",
-        "consensus": "2.0%"
-      },
-      {
-        "time": "07:00 AM",
-        "country": "US",
-        "event": "NFIB Business Optimism Index (FEB)",
-        "actual": "100.7",
-        "previous": "102.8",
-        "consensus": "101"
-      },
-      {
-        "time": "11:00 AM",
-        "country": "US",
-        "event": "JOLTs Job Openings (JAN)",
-        "actual": "7.74M",
-        "previous": "7.508M",
-        "consensus": "7.63M"
-      },
-      {
-        "time": "11:00 AM",
-        "country": "US",
-        "event": "JOLTs Job Quits (JAN)",
-        "actual": "3.266M",
-        "previous": "3.095M",
-        "consensus": "3.21M"
-      },
-      {
-        "time": "01:00 PM",
-        "country": "US",
-        "event": "WASDE Report"
-      },
-      {
-        "time": "02:00 PM",
-        "country": "US",
-        "event": "3-Year Note Auction",
-        "actual": "3.908%",
-        "previous": "4.300%"
-      },
-      {
-        "time": "08:50 PM",
-        "country": "Japan",
-        "event": "PPI MoM (FEB)",
-        "actual": "0.0%",
-        "previous": "0.3%",
-        "consensus": "-0.1%"
-      }
-    ]
-  },
-  "March_12_2025": {
-    "events": [
-      {
-        "time": "12:35 AM",
-        "country": "Japan",
-        "event": "20-Year JGB Auction",
-        "actual": "2.278%",
-        "previous": "2.028%"
-      },
-      {
-        "time": "04:00 AM",
-        "country": "Turkey",
-        "event": "Current Account (JAN)",
-        "actual": "$-4.65B",
-        "previous": "[$-5.0B]"
-      },
-      {
-        "time": "05:00 AM",
-        "country": "Spain",
-        "event": "Retail Sales MoM (JAN)",
-        "actual": "1.5%",
-        "previous": "[-0.3%]"
-      },
-      {
-        "time": "05:00 AM",
-        "country": "Spain",
-        "event": "Retail Sales YoY (JAN)",
-        "actual": "4%",
-        "previous": "[3.2%]"
-      },
-      {
-        "time": "07:30 AM",
-        "country": "Germany",
-        "event": "10-Year Bund Auction",
-        "actual": "2.52%"
-      },
-      {
-        "time": "07:30 AM",
-        "country": "India",
-        "event": "Industrial Production YoY (JAN)",
-        "actual": "3.2%",
-        "previous": "[3.5%]"
-      },
-      {
-        "time": "09:00 AM",
-        "country": "Brazil",
-        "event": "Inflation Rate MoM (FEB)",
-        "actual": "0.16%",
-        "previous": "[1.3%]"
-      },
-      {
-        "time": "09:00 AM",
-        "country": "Brazil",
-        "event": "Inflation Rate YoY (FEB)",
-        "actual": "4.56%",
-        "previous": "[5%]"
-      },
-      {
-        "time": "09:30 AM",
-        "country": "US",
-        "event": "Core Inflation Rate MoM (FEB)",
-        "actual": "0.4%",
-        "previous": "[0.3%]"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Crude Oil Stocks Change (MAR/07)",
-        "actual": "3.614M"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Gasoline Stocks Change (MAR/07)",
-        "actual": "-1.433M"
-      }
-    ]
-  }
+  "earnings_events": [
+    {
+      "date": "Jun 2",
+      "company": "Campbell Soup",
+      "EPS": "0.73",
+      "revenue": "2.48B",
+      "market_cap": "$10.19B"
+    },
+    {
+      "date": "Jun 2",
+      "company": "Science Applications International",
+      "EPS": "1.92",
+      "revenue": "1.88B",
+      "market_cap": "$5.29B"
+    },
+    {
+      "date": "Jun 3",
+      "company": "CrowdStrike Holdings",
+      "EPS": "0.66",
+      "revenue": "1.1B",
+      "market_cap": "$94.17B"
+    },
+    {
+      "date": "Jun 3",
+      "company": "Ferguson",
+      "EPS": "2.61",
+      "revenue": "7.79B",
+      "market_cap": "$32.87B"
+    },
+    {
+      "date": "Jun 3",
+      "company": "Dollar General",
+      "EPS": "1.46",
+      "revenue": "10.26B",
+      "market_cap": "$20.07B"
+    },
+    {
+      "date": "Jun 4",
+      "company": "Dollar Tree",
+      "EPS": "1.49",
+      "revenue": "7.85B",
+      "market_cap": "$16.44B"
+    },
+    {
+      "date": "Jun 4",
+      "company": "MongoDB",
+      "EPS": "0.66",
+      "revenue": "528.39M",
+      "market_cap": "$11.45B"
+    },
+    {
+      "date": "Jun 4",
+      "company": "Descartes Systems",
+      "EPS": "0.62",
+      "revenue": "242.63M",
+      "market_cap": "$8.82B"
+    },
+    {
+      "date": "Jun 4",
+      "company": "PVH",
+      "EPS": "2.40",
+      "revenue": "1.93B",
+      "market_cap": "$4.07B"
+    },
+    {
+      "date": "Jun 4",
+      "company": "Thor Industries",
+      "EPS": "1.76",
+      "revenue": "2.6B",
+      "market_cap": "$3.65B"
+    },
+    {
+      "date": "Jun 5",
+      "company": "Broadcom",
+      "EPS": "1.57",
+      "revenue": "14.95B",
+      "market_cap": "$812.23B"
+    },
+    {
+      "date": "Jun 5",
+      "company": "Lululemon Athletica",
+      "EPS": "2.72",
+      "revenue": "2.4B",
+      "market_cap": "$30.29B"
+    },
+    {
+      "date": "Jun 5",
+      "company": "DocuSign",
+      "EPS": "0.8113",
+      "revenue": "749.19M",
+      "market_cap": "$15.4B"
+    },
+    {
+      "date": "Jun 6",
+      "company": "ABM Industries",
+      "EPS": "0.8687",
+      "revenue": "2.07B",
+      "market_cap": "$2.86B"
+    },
+    {
+      "date": "Jun 9",
+      "company": "Casey's General Stores",
+      "EPS": "2.03",
+      "revenue": "3.95B",
+      "market_cap": "$16.94B"
+    },
+    {
+      "date": "Jun 10",
+      "company": "J.M. Smucker",
+      "EPS": "2.24",
+      "revenue": "2.18B",
+      "market_cap": "$12.33B"
+    },
+    {
+      "date": "Jun 10",
+      "company": "GameStop",
+      "EPS": "0.04",
+      "revenue": "754.23M",
+      "market_cap": "$8.16B"
+    },
+    {
+      "date": "Jun 10",
+      "company": "Oxford Instruments",
+      "EPS": "0.595",
+      "revenue": "275.7M",
+      "market_cap": "$1.63B"
+    }
+  ]
 }
 ```
 
@@ -295,1225 +235,7 @@ Action result: 📄  Extracted from page
 
 
  HumanMessage 
-Action result: 🔙  Navigated back
-
- AIMessage 
-
-
- ToolMessage 
-
-
- HumanMessage 
-Action result: 🔗  Opened new tab with https://tradingeconomics.com/calendar
-
- AIMessage 
-
-
- ToolMessage 
-
-
- HumanMessage 
-Action result: 📄  Extracted from page
-: ```json
-{
-  "events": {
-    "March 11, 2025": [
-      {
-        "time": "12:00 AM",
-        "country": "ID",
-        "event": "Car Sales YoY",
-        "actual": "2.2%",
-        "previous": "-11.3%",
-        "consensus": "-7%"
-      },
-      {
-        "time": "12:00 AM",
-        "country": "ID",
-        "event": "Consumer Confidence",
-        "actual": "126.4",
-        "previous": "127.2",
-        "consensus": "127.5"
-      },
-      {
-        "time": "02:00 AM",
-        "country": "SG",
-        "event": "MAS 12-Week Bill Auction",
-        "actual": "2.62%",
-        "previous": "2.78%"
-      },
-      {
-        "time": "02:00 AM",
-        "country": "SG",
-        "event": "MAS 4-Week Bill Auction",
-        "actual": "2.63%",
-        "previous": "2.78%"
-      },
-      {
-        "time": "03:00 AM",
-        "country": "JP",
-        "event": "Machine Tool Orders YoY",
-        "actual": "3.5%",
-        "previous": "4.7%",
-        "consensus": "4.7%"
-      },
-      {
-        "time": "04:00 AM",
-        "country": "TR",
-        "event": "Retail Sales MoM",
-        "actual": "2%",
-        "previous": "0.8%",
-        "consensus": "0.6%"
-      },
-      {
-        "time": "04:00 AM",
-        "country": "TR",
-        "event": "Retail Sales YoY",
-        "actual": "12.5%",
-        "previous": "14%",
-        "consensus": "12.9%"
-      },
-      {
-        "time": "04:15 AM",
-        "country": "CN",
-        "event": "Vehicle Sales YoY",
-        "actual": "34.4%",
-        "previous": "-0.6%",
-        "consensus": "2.0%"
-      },
-      {
-        "time": "06:40 AM",
-        "country": "ES",
-        "event": "3-Month Letras Auction",
-        "actual": "2.359%",
-        "previous": "2.431%"
-      },
-      {
-        "time": "06:40 AM",
-        "country": "ES",
-        "event": "9-Month Letras Auction",
-        "actual": "2.269%",
-        "previous": "2.248%"
-      },
-      {
-        "time": "07:00 AM",
-        "country": "US",
-        "event": "NFIB Business Optimism Index",
-        "actual": "100.7",
-        "previous": "102.8",
-        "consensus": "101"
-      },
-      {
-        "time": "07:30 AM",
-        "country": "DE",
-        "event": "2-Year Schatz Auction",
-        "actual": "2.22%",
-        "previous": "2.14%"
-      },
-      {
-        "time": "09:00 AM",
-        "country": "BR",
-        "event": "Industrial Production MoM",
-        "actual": "0%",
-        "previous": "-0.3%",
-        "consensus": "0.5%"
-      },
-      {
-        "time": "09:00 AM",
-        "country": "BR",
-        "event": "Industrial Production YoY",
-        "actual": "1.4%",
-        "previous": "1.4%",
-        "consensus": "2.3%"
-      },
-      {
-        "time": "10:00 AM",
-        "country": "US",
-        "event": "Redbook YoY",
-        "actual": "5.7%",
-        "previous": "6.6%"
-      },
-      {
-        "time": "11:00 AM",
-        "country": "US",
-        "event": "JOLTs Job Openings",
-        "actual": "7.74M",
-        "previous": "7.508M",
-        "consensus": "7.63M"
-      },
-      {
-        "time": "11:00 AM",
-        "country": "US",
-        "event": "JOLTs Job Quits",
-        "actual": "3.266M",
-        "previous": "3.095M",
-        "consensus": "3.21M"
-      },
-      {
-        "time": "11:15 AM",
-        "country": "DE",
-        "event": "Bundesbank Köhler-Geib Speech"
-      },
-      {
-        "time": "12:30 PM",
-        "country": "US",
-        "event": "6-Week Bill Auction",
-        "actual": "4.235%",
-        "previous": "4.240%"
-      },
-      {
-        "time": "01:00 PM",
-        "country": "US",
-        "event": "WASDE Report"
-      },
-      {
-        "time": "02:00 PM",
-        "country": "US",
-        "event": "3-Year Note Auction",
-        "actual": "3.908%",
-        "previous": "4.300%"
-      },
-      {
-        "time": "05:30 PM",
-        "country": "US",
-        "event": "API Crude Oil Stock Change",
-        "actual": "4.247M",
-        "previous": "-1.455M",
-        "consensus": "2.1M"
-      },
-      {
-        "time": "08:50 PM",
-        "country": "JP",
-        "event": "BSI Large Manufacturing QoQ",
-        "actual": "-2.4%",
-        "previous": "6.3%",
-        "consensus": "6.5%"
-      },
-      {
-        "time": "08:50 PM",
-        "country": "JP",
-        "event": "PPI MoM",
-        "actual": "0.0%",
-        "previous": "0.3%",
-        "consensus": "-0.1%"
-      },
-      {
-        "time": "08:50 PM",
-        "country": "JP",
-        "event": "PPI YoY",
-        "actual": "4%",
-        "previous": "4.2%",
-        "consensus": "4%"
-      },
-      {
-        "time": "09:00 PM",
-        "country": "KR",
-        "event": "Unemployment Rate",
-        "actual": "2.7%",
-        "previous": "2.9%",
-        "consensus": "3.0%"
-      },
-      {
-        "time": "N/A",
-        "country": "CN",
-        "event": "National People’s Congress"
-      },
-      {
-        "time": "N/A",
-        "country": "BR",
-        "event": "Federal Tax Revenues",
-        "actual": "BRL261.3B"
-      }
-    ],
-    "March 12, 2025": [
-      {
-        "time": "12:35 AM",
-        "country": "JP",
-        "event": "20-Year JGB Auction",
-        "actual": "2.278%",
-        "previous": "2.028%"
-      },
-      {
-        "time": "04:00 AM",
-        "country": "TR",
-        "event": "Current Account",
-        "actual": "$-4.65B",
-        "previous": "$-5.0B"
-      },
-      {
-        "time": "05:00 AM",
-        "country": "ES",
-        "event": "Retail Sales MoM",
-        "actual": "1.5%",
-        "previous": "-0.3%"
-      },
-      {
-        "time": "05:00 AM",
-        "country": "ES",
-        "event": "Retail Sales YoY",
-        "actual": "4%",
-        "previous": "3.2%"
-      },
-      {
-        "time": "05:45 AM",
-        "country": "EA",
-        "event": "ECB President Lagarde Speech"
-      },
-      {
-        "time": "07:00 AM",
-        "country": "GB",
-        "event": "10-Year Treasury Gilt Auction"
-      },
-      {
-        "time": "07:10 AM",
-        "country": "IT",
-        "event": "12-Month BOT Auction"
-      },
-      {
-        "time": "07:30 AM",
-        "country": "DE",
-        "event": "10-Year Bund Auction"
-      },
-      {
-        "time": "07:30 AM",
-        "country": "IN",
-        "event": "Industrial Production YoY",
-        "actual": "3.2%",
-        "previous": "3.5%"
-      },
-      {
-        "time": "07:30 AM",
-        "country": "IN",
-        "event": "Inflation Rate YoY",
-        "actual": "4.31%",
-        "previous": "4%"
-      },
-      {
-        "time": "07:30 AM",
-        "country": "IN",
-        "event": "Manufacturing Production YoY",
-        "actual": "3%",
-        "previous": "3.1%"
-      },
-      {
-        "time": "07:30 AM",
-        "country": "IN",
-        "event": "Inflation Rate MoM",
-        "actual": "-0.97%",
-        "previous": "0.5%"
-      },
-      {
-        "time": "08:00 AM",
-        "country": "US",
-        "event": "MBA 30-Year Mortgage Rate"
-      },
-      {
-        "time": "08:00 AM",
-        "country": "US",
-        "event": "MBA Mortgage Applications"
-      },
-      {
-        "time": "08:00 AM",
-        "country": "US",
-        "event": "MBA Mortgage Market Index"
-      },
-      {
-        "time": "08:00 AM",
-        "country": "US",
-        "event": "MBA Mortgage Refinance Index"
-      },
-      {
-        "time": "08:00 AM",
-        "country": "US",
-        "event": "MBA Purchase Index"
-      },
-      {
-        "time": "09:00 AM",
-        "country": "BR",
-        "event": "Inflation Rate MoM",
-        "actual": "0.16%",
-        "previous": "1.3%"
-      },
-      {
-        "time": "09:00 AM",
-        "country": "BR",
-        "event": "Inflation Rate YoY",
-        "actual": "4.56%",
-        "previous": "5%"
-      },
-      {
-        "time": "09:30 AM",
-        "country": "US",
-        "event": "Core Inflation Rate MoM",
-        "actual": "0.4%",
-        "previous": "0.3%"
-      },
-      {
-        "time": "09:30 AM",
-        "country": "US",
-        "event": "Core Inflation Rate YoY",
-        "actual": "3.3%",
-        "previous": "3.2%"
-      },
-      {
-        "time": "09:30 AM",
-        "country": "US",
-        "event": "Inflation Rate MoM",
-        "actual": "0.5%",
-        "previous": "0.3%"
-      },
-      {
-        "time": "09:30 AM",
-        "country": "US",
-        "event": "Inflation Rate YoY",
-        "actual": "3%",
-        "previous": "2.9%"
-      },
-      {
-        "time": "09:30 AM",
-        "country": "US",
-        "event": "CPI",
-        "actual": "317.67",
-        "previous": "319.22"
-      },
-      {
-        "time": "09:30 AM",
-        "country": "US",
-        "event": "CPI s.a",
-        "actual": "319.086",
-        "previous": "320"
-      },
-      {
-        "time": "10:00 AM",
-        "country": "BR",
-        "event": "Car Production MoM",
-        "actual": "-7.7%"
-      },
-      {
-        "time": "10:00 AM",
-        "country": "BR",
-        "event": "New Car Registrations MoM",
-        "actual": "-33.5%"
-      },
-      {
-        "time": "10:45 AM",
-        "country": "CA",
-        "event": "BoC Interest Rate Decision",
-        "actual": "3%"
-      },
-      {
-        "time": "10:45 AM",
-        "country": "EA",
-        "event": "ECB Nagel Speech"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "CA",
-        "event": "BoC Press Conference"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Crude Oil Stocks Change",
-        "actual": "3.614M"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Gasoline Stocks Change",
-        "actual": "-1.433M"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Crude Oil Imports Change"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Cushing Crude Oil Stocks Change"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Distillate Fuel Production Change"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Distillate Stocks Change"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Gasoline Production Change"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Heating Oil Stocks Change"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Refinery Crude Runs Change"
-      },
-      {
-        "time": "12:15 PM",
-        "country": "EA",
-        "event": "ECB Lane Speech"
-      },
-      {
-        "time": "12:30 PM",
-        "country": "US",
-        "event": "17-Week Bill Auction"
-      },
-      {
-        "time": "01:00 PM",
-        "country": "RU",
-        "event": "Inflation Rate MoM",
-        "actual": "1.2%",
-        "previous": "0.8%"
-      },
-      {
-        "time": "01:00 PM",
-        "country": "RU",
-        "event": "Inflation Rate YoY",
-        "actual": "9.9%",
-        "previous": "10.1%"
-      },
-      {
-        "time": "02:00 PM",
-        "country": "US",
-        "event": "10-Year Note Auction"
-      },
-      {
-        "time": "03:00 PM",
-        "country": "US",
-        "event": "Monthly Budget Statement",
-        "actual": "$-129B",
-        "previous": "$-303.2B"
-      },
-      {
-        "time": "08:50 PM",
-        "country": "JP",
-        "event": "Foreign Bond Investment",
-        "actual": "¥1514.2B"
-      },
-      {
-        "time": "08:50 PM",
-        "country": "JP",
-        "event": "Stock Investment by Foreigners",
-        "actual": "¥-708.3B"
-      },
-      {
-        "time": "09:01 PM",
-        "country": "GB",
-        "event": "RICS House Price Balance",
-        "actual": "22%"
-      },
-      {
-        "time": "09:30 PM",
-        "country": "AU",
-        "event": "Building Permits MoM Final",
-        "actual": "0.7%"
-      },
-      {
-        "time": "09:30 PM",
-        "country": "AU",
-        "event": "Private House Approvals MoM Final",
-        "actual": "-3.0%"
-      },
-      {
-        "time": "11:30 PM",
-        "country": "AU",
-        "event": "RBA Jones Speech"
-      },
-      {
-        "time": "N/A",
-        "country": "ID",
-        "event": "Retail Sales YoY",
-        "actual": "1.8%"
-      },
-      {
-        "time": "N/A",
-        "country": "TR",
-        "event": "Auto Production YoY",
-        "actual": "-2.8%"
-      },
-      {
-        "time": "N/A",
-        "country": "TR",
-        "event": "Auto Sales YoY",
-        "actual": "-13.9%"
-      },
-      {
-        "time": "N/A",
-        "country": "IN",
-        "event": "Passenger Vehicles Sales YoY",
-        "actual": "3.5%"
-      },
-      {
-        "time": "N/A",
-        "country": "OP",
-        "event": "OPEC Monthly Report"
-      },
-      {
-        "time": "N/A",
-        "country": "ZA",
-        "event": "Annual Budget Speech"
-      },
-      {
-        "time": "N/A",
-        "country": "AR",
-        "event": "Tax Revenue",
-        "actual": "ARS15032B"
-      }
-    ]
-  }
-}
-```
-
- AIMessage 
-
-
- ToolMessage 
-
-
- HumanMessage 
-Action result: 🔙  Navigated back
-
- AIMessage 
-
-
- ToolMessage 
-
-
- HumanMessage 
-Action result: 🔗  Opened new tab with https://tradingeconomics.com/calendar
-
- AIMessage 
-
-
- ToolMessage 
-
-
- HumanMessage 
-Action result: 📄  Extracted from page
-: ```json
-{
-  "events": {
-    "March 11, 2025": [
-      {
-        "time": "12:00 AM",
-        "country": "ID",
-        "event": "Car Sales YoY",
-        "actual": "2.2%",
-        "previous": "-11.3%",
-        "forecast": "-7%"
-      },
-      {
-        "time": "12:00 AM",
-        "country": "ID",
-        "event": "Consumer Confidence",
-        "actual": "126.4",
-        "previous": "127.2",
-        "forecast": "127.5"
-      },
-      {
-        "time": "02:00 AM",
-        "country": "SG",
-        "event": "MAS 12-Week Bill Auction",
-        "actual": "2.62%",
-        "previous": "2.78%"
-      },
-      {
-        "time": "02:00 AM",
-        "country": "SG",
-        "event": "MAS 4-Week Bill Auction",
-        "actual": "2.63%",
-        "previous": "2.78%"
-      },
-      {
-        "time": "03:00 AM",
-        "country": "JP",
-        "event": "Machine Tool Orders YoY",
-        "actual": "3.5%",
-        "previous": "4.7%",
-        "forecast": "4.7%"
-      },
-      {
-        "time": "04:00 AM",
-        "country": "TR",
-        "event": "Retail Sales MoM",
-        "actual": "2%",
-        "previous": "0.8%",
-        "forecast": "0.6%"
-      },
-      {
-        "time": "04:00 AM",
-        "country": "TR",
-        "event": "Retail Sales YoY",
-        "actual": "12.5%",
-        "previous": "14%",
-        "forecast": "12.9%"
-      },
-      {
-        "time": "04:15 AM",
-        "country": "CN",
-        "event": "Vehicle Sales YoY",
-        "actual": "34.4%",
-        "previous": "-0.6%",
-        "forecast": "2.0%"
-      },
-      {
-        "time": "06:40 AM",
-        "country": "ES",
-        "event": "3-Month Letras Auction",
-        "actual": "2.359%",
-        "previous": "2.431%"
-      },
-      {
-        "time": "06:40 AM",
-        "country": "ES",
-        "event": "9-Month Letras Auction",
-        "actual": "2.269%",
-        "previous": "2.248%"
-      },
-      {
-        "time": "07:00 AM",
-        "country": "US",
-        "event": "NFIB Business Optimism Index",
-        "actual": "100.7",
-        "previous": "102.8",
-        "forecast": "101"
-      },
-      {
-        "time": "07:30 AM",
-        "country": "DE",
-        "event": "2-Year Schatz Auction",
-        "actual": "2.22%",
-        "previous": "2.14%"
-      },
-      {
-        "time": "09:00 AM",
-        "country": "BR",
-        "event": "Industrial Production MoM",
-        "actual": "0%",
-        "previous": "-0.3%",
-        "forecast": "0.5%"
-      },
-      {
-        "time": "09:00 AM",
-        "country": "BR",
-        "event": "Industrial Production YoY",
-        "actual": "1.4%",
-        "previous": "1.4%",
-        "forecast": "2.3%"
-      },
-      {
-        "time": "10:00 AM",
-        "country": "US",
-        "event": "Redbook YoY",
-        "actual": "5.7%",
-        "previous": "6.6%"
-      },
-      {
-        "time": "11:00 AM",
-        "country": "US",
-        "event": "JOLTs Job Openings",
-        "actual": "7.74M",
-        "previous": "7.508M",
-        "forecast": "7.63M"
-      },
-      {
-        "time": "11:00 AM",
-        "country": "US",
-        "event": "JOLTs Job Quits",
-        "actual": "3.266M",
-        "previous": "3.095M",
-        "forecast": "3.21M"
-      },
-      {
-        "time": "11:15 AM",
-        "country": "DE",
-        "event": "Bundesbank Köhler-Geib Speech"
-      },
-      {
-        "time": "12:30 PM",
-        "country": "US",
-        "event": "6-Week Bill Auction",
-        "actual": "4.235%",
-        "previous": "4.240%"
-      },
-      {
-        "time": "01:00 PM",
-        "country": "US",
-        "event": "WASDE Report"
-      },
-      {
-        "time": "02:00 PM",
-        "country": "US",
-        "event": "3-Year Note Auction",
-        "actual": "3.908%",
-        "previous": "4.300%"
-      },
-      {
-        "time": "05:30 PM",
-        "country": "US",
-        "event": "API Crude Oil Stock Change",
-        "actual": "4.247M",
-        "previous": "-1.455M",
-        "forecast": "2.1M"
-      },
-      {
-        "time": "08:50 PM",
-        "country": "JP",
-        "event": "BSI Large Manufacturing QoQ",
-        "actual": "-2.4%",
-        "previous": "6.3%",
-        "forecast": "6.5%"
-      },
-      {
-        "time": "08:50 PM",
-        "country": "JP",
-        "event": "PPI MoM",
-        "actual": "0.0%",
-        "previous": "0.3%",
-        "forecast": "-0.1%"
-      },
-      {
-        "time": "08:50 PM",
-        "country": "JP",
-        "event": "PPI YoY",
-        "actual": "4%",
-        "previous": "4.2%",
-        "forecast": "4%"
-      },
-      {
-        "time": "09:00 PM",
-        "country": "KR",
-        "event": "Unemployment Rate",
-        "actual": "2.7%",
-        "previous": "2.9%"
-      },
-      {
-        "time": "CN",
-        "event": "National People’s Congress"
-      },
-      {
-        "time": "BR",
-        "event": "Federal Tax Revenues",
-        "actual": "BRL261.3B"
-      }
-    ],
-    "March 12, 2025": [
-      {
-        "time": "12:35 AM",
-        "country": "JP",
-        "event": "20-Year JGB Auction",
-        "actual": "2.278%",
-        "previous": "2.028%"
-      },
-      {
-        "time": "04:00 AM",
-        "country": "TR",
-        "event": "Current Account",
-        "actual": "$-4.65B",
-        "previous": "$-5.0B"
-      },
-      {
-        "time": "05:00 AM",
-        "country": "ES",
-        "event": "Retail Sales MoM",
-        "actual": "1.5%",
-        "previous": "-0.3%"
-      },
-      {
-        "time": "05:00 AM",
-        "country": "ES",
-        "event": "Retail Sales YoY",
-        "actual": "4%",
-        "previous": "3.2%"
-      },
-      {
-        "time": "05:45 AM",
-        "country": "EA",
-        "event": "ECB President Lagarde Speech"
-      },
-      {
-        "time": "07:00 AM",
-        "country": "GB",
-        "event": "10-Year Treasury Gilt Auction",
-        "actual": "4.808%"
-      },
-      {
-        "time": "07:10 AM",
-        "country": "IT",
-        "event": "12-Month BOT Auction",
-        "actual": "2.323%"
-      },
-      {
-        "time": "07:30 AM",
-        "country": "DE",
-        "event": "10-Year Bund Auction",
-        "actual": "2.52%"
-      },
-      {
-        "time": "07:30 AM",
-        "country": "IN",
-        "event": "Industrial Production YoY",
-        "actual": "3.2%",
-        "previous": "3.5%"
-      },
-      {
-        "time": "07:30 AM",
-        "country": "IN",
-        "event": "Inflation Rate YoY",
-        "actual": "4.31%",
-        "previous": "4%"
-      },
-      {
-        "time": "07:30 AM",
-        "country": "IN",
-        "event": "Manufacturing Production YoY",
-        "actual": "3%",
-        "previous": "3.1%"
-      },
-      {
-        "time": "07:30 AM",
-        "country": "IN",
-        "event": "Inflation Rate MoM",
-        "actual": "-0.97%",
-        "previous": "0.5%"
-      },
-      {
-        "time": "08:00 AM",
-        "country": "US",
-        "event": "MBA 30-Year Mortgage Rate",
-        "actual": "6.73%"
-      },
-      {
-        "time": "08:00 AM",
-        "country": "US",
-        "event": "MBA Mortgage Applications",
-        "actual": "20.4%"
-      },
-      {
-        "time": "08:00 AM",
-        "country": "US",
-        "event": "MBA Mortgage Market Index",
-        "actual": "242.2"
-      },
-      {
-        "time": "08:00 AM",
-        "country": "US",
-        "event": "MBA Mortgage Refinance Index",
-        "actual": "784.2"
-      },
-      {
-        "time": "08:00 AM",
-        "country": "US",
-        "event": "MBA Purchase Index",
-        "actual": "144.5"
-      },
-      {
-        "time": "09:00 AM",
-        "country": "BR",
-        "event": "Inflation Rate MoM",
-        "actual": "0.16%",
-        "previous": "1.3%"
-      },
-      {
-        "time": "09:00 AM",
-        "country": "BR",
-        "event": "Inflation Rate YoY",
-        "actual": "4.56%",
-        "previous": "5%"
-      },
-      {
-        "time": "09:30 AM",
-        "country": "US",
-        "event": "Core Inflation Rate MoM",
-        "actual": "0.4%",
-        "previous": "0.3%"
-      },
-      {
-        "time": "09:30 AM",
-        "country": "US",
-        "event": "Core Inflation Rate YoY",
-        "actual": "3.3%",
-        "previous": "3.2%"
-      },
-      {
-        "time": "09:30 AM",
-        "country": "US",
-        "event": "Inflation Rate MoM",
-        "actual": "0.5%",
-        "previous": "0.3%"
-      },
-      {
-        "time": "09:30 AM",
-        "country": "US",
-        "event": "Inflation Rate YoY",
-        "actual": "3%",
-        "previous": "2.9%"
-      },
-      {
-        "time": "09:30 AM",
-        "country": "US",
-        "event": "CPI",
-        "actual": "317.67",
-        "previous": "319.22"
-      },
-      {
-        "time": "09:30 AM",
-        "country": "US",
-        "event": "CPI s.a",
-        "actual": "319.086",
-        "previous": "320"
-      },
-      {
-        "time": "10:00 AM",
-        "country": "BR",
-        "event": "Car Production MoM",
-        "actual": "-7.7%"
-      },
-      {
-        "time": "10:00 AM",
-        "country": "BR",
-        "event": "New Car Registrations MoM",
-        "actual": "-33.5%"
-      },
-      {
-        "time": "10:45 AM",
-        "country": "CA",
-        "event": "BoC Interest Rate Decision",
-        "actual": "3%"
-      },
-      {
-        "time": "10:45 AM",
-        "country": "EA",
-        "event": "ECB Nagel Speech"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "CA",
-        "event": "BoC Press Conference"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Crude Oil Stocks Change",
-        "actual": "3.614M"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Gasoline Stocks Change",
-        "actual": "-1.433M"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Crude Oil Imports Change",
-        "actual": "-0.054M"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Cushing Crude Oil Stocks Change",
-        "actual": "1.124M"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Distillate Fuel Production Change",
-        "actual": "-0.587M"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Distillate Stocks Change",
-        "actual": "-1.318M"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Gasoline Production Change",
-        "actual": "0.464M"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Heating Oil Stocks Change",
-        "actual": "-0.067M"
-      },
-      {
-        "time": "11:30 AM",
-        "country": "US",
-        "event": "EIA Refinery Crude Runs Change",
-        "actual": "-0.346M"
-      },
-      {
-        "time": "12:15 PM",
-        "country": "EA",
-        "event": "ECB Lane Speech"
-      },
-      {
-        "time": "12:30 PM",
-        "country": "US",
-        "event": "17-Week Bill Auction",
-        "actual": "4.180%"
-      },
-      {
-        "time": "01:00 PM",
-        "country": "RU",
-        "event": "Inflation Rate MoM",
-        "actual": "1.2%",
-        "previous": "0.8%"
-      },
-      {
-        "time": "01:00 PM",
-        "country": "RU",
-        "event": "Inflation Rate YoY",
-        "actual": "9.9%",
-        "previous": "10.1%"
-      },
-      {
-        "time": "02:00 PM",
-        "country": "US",
-        "event": "10-Year Note Auction",
-        "actual": "4.632%"
-      },
-      {
-        "time": "03:00 PM",
-        "country": "US",
-        "event": "Monthly Budget Statement",
-        "actual": "$-129B",
-        "previous": "$-303.2B"
-      },
-      {
-        "time": "08:50 PM",
-        "country": "JP",
-        "event": "Foreign Bond Investment",
-        "actual": "¥1514.2B"
-      },
-      {
-        "time": "08:50 PM",
-        "country": "JP",
-        "event": "Stock Investment by Foreigners",
-        "actual": "¥-708.3B"
-      },
-      {
-        "time": "09:01 PM",
-        "country": "GB",
-        "event": "RICS House Price Balance",
-        "actual": "22%",
-        "previous": "20%"
-      },
-      {
-        "time": "09:30 PM",
-        "country": "AU",
-        "event": "Building Permits MoM Final",
-        "actual": "0.7%",
-        "previous": "6.3%"
-      },
-      {
-        "time": "09:30 PM",
-        "country": "AU",
-        "event": "Private House Approvals MoM Final",
-        "actual": "-3.0%",
-        "previous": "1.1%"
-      },
-      {
-        "time": "11:30 PM",
-        "country": "AU",
-        "event": "RBA Jones Speech"
-      },
-      {
-        "time": "ID",
-        "event": "Retail Sales YoY",
-        "actual": "1.8%",
-        "previous": "0.4%"
-      },
-      {
-        "time": "TR",
-        "event": "Auto Production YoY",
-        "actual": "-2.8%"
-      },
-      {
-        "time": "TR",
-        "event": "Auto Sales YoY",
-        "actual": "-13.9%",
-        "previous": "-14.0%"
-      },
-      {
-        "time": "IN",
-        "event": "Passenger Vehicles Sales YoY",
-        "actual": "3.5%"
-      },
-      {
-        "time": "OP",
-        "event": "OPEC Monthly Report"
-      },
-      {
-        "time": "ZA",
-        "event": "Annual Budget Speech"
-      },
-      {
-        "time": "AR",
-        "event": "Tax Revenue",
-        "actual": "ARS15032B"
-      }
-    ]
-  }
-}
-```
-
- AIMessage 
-
-
- ToolMessage 
-
-
- HumanMessage 
-Action result: 🔍  Scrolled down the page by 1000 pixels
-
- AIMessage 
-
-
- ToolMessage 
-
-
- HumanMessage 
-Action result: 🔍  Scrolled down the page by 1000 pixels
-
- AIMessage 
-
-
- ToolMessage 
-
-
- HumanMessage 
-Action result: 🔍  Scrolled up the page by 1000 pixels
-
- AIMessage 
-
-
- ToolMessage 
-
-
- HumanMessage 
-Action result: 🕒  Waiting for 3 seconds
-
- AIMessage 
-
-
- ToolMessage 
-
-
- HumanMessage 
-Action result: ⌨️  Input Select the 10 most impactful events for March 11 and 12, 2025 into index 8
+Action result: ⌨️  Input impactful events into index 9
 
  AIMessage 
 
@@ -1531,7 +253,7 @@ Action error: Error executing action input_text: Failed to input text into index
 
 
  HumanMessage 
-Action result: ⌨️  Input Summarize and list the 10 most impactful events for the financial market for March 11 and 12, 2025. into index 3
+Action result: 🔍  Scrolled down the page by 200 pixels
 
  AIMessage 
 
@@ -1540,7 +262,7 @@ Action result: ⌨️  Input Summarize and list the 10 most impactful events for
 
 
  HumanMessage 
-Action result: 🔍  Scrolled down the page by 500 pixels
+Action result: 🔍  Scrolled down the page by 200 pixels
 
  AIMessage 
 
@@ -1549,464 +271,597 @@ Action result: 🔍  Scrolled down the page by 500 pixels
 
 
  HumanMessage 
-Action result: 🔍  Scrolled down the page by 500 pixels
+Action result: 🔍  Scrolled to text: Friday Jun 6
+
+ AIMessage 
+
+
+ ToolMessage 
+
+
+ HumanMessage 
+Action result: 🔍  Scrolled down the page by 200 pixels
+
+ AIMessage 
+
+
+ ToolMessage 
+
+
+ HumanMessage 
+Action result: 🔍  Scrolled down the page by 200 pixels
+
+ AIMessage 
+
+
+ ToolMessage 
+
+
+ HumanMessage 
+Action result: 🖱️  Clicked button with index 10: Bonds
+
+ AIMessage 
+
+
+ ToolMessage 
+
+
+ HumanMessage 
+Action result: 🔍  Scrolled down the page by 200 pixels
+
+ AIMessage 
+
+
+ ToolMessage 
+
+
+ HumanMessage 
+Action result: 📄  Extracted from page
+: ```json
+{
+  "goal": "Analyze bond yields and their potential impact on financial markets",
+  "bond_yields": {
+    "data": [
+      {
+        "country": "United States",
+        "yield": 4.4540,
+        "date": "Jun/03",
+        "day_change": 0.0040,
+        "weekly_change": 0.01,
+        "monthly_change": 0.11,
+        "YTD": -0.12,
+        "YoY": 0.12
+      },
+      {
+        "country": "United Kingdom",
+        "yield": 4.6700,
+        "date": "Jun/02",
+        "day_change": 0.0210,
+        "weekly_change": -0.01,
+        "monthly_change": 0.15,
+        "YTD": 0.10,
+        "YoY": 0.45
+      },
+      {
+        "country": "Japan",
+        "yield": 1.5160,
+        "date": "Jun/03",
+        "day_change": 0.0067,
+        "weekly_change": 0.05,
+        "monthly_change": 0.25,
+        "YTD": 0.42,
+        "YoY": 0.48
+      },
+      {
+        "country": "Germany",
+        "yield": 2.5225,
+        "date": "Jun/02",
+        "day_change": 0.0145,
+        "weekly_change": -0.04,
+        "monthly_change": 0.00,
+        "YTD": 0.16,
+        "YoY": -0.06
+      },
+      {
+        "country": "Brazil",
+        "yield": 14.0750,
+        "date": "Jun/02",
+        "day_change": 0.0500,
+        "weekly_change": -0.11,
+        "monthly_change": -0.06,
+        "YTD": -1.07,
+        "YoY": 2.21
+      },
+      {
+        "country": "Turkey",
+        "yield": 31.2300,
+        "date": "Jun/02",
+        "day_change": 0.0900,
+        "weekly_change": 0.44,
+        "monthly_change": -0.85,
+        "YTD": 4.04,
+        "YoY": 5.41
+      },
+      {
+        "country": "Canada",
+        "yield": 3.2260,
+        "date": "Jun/02",
+        "day_change": 0.0280,
+        "weekly_change": -0.10,
+        "monthly_change": 0.04,
+        "YTD": -0.01,
+        "YoY": -0.29
+      },
+      {
+        "country": "India",
+        "yield": 6.2830,
+        "date": "Jun/02",
+        "day_change": 0.0310,
+        "weekly_change": 0.04,
+        "monthly_change": -0.04,
+        "YTD": -0.51,
+        "YoY": -0.66
+      }
+    ]
+  },
+  "analysis": {
+    "financial_market_impact": {
+      "general_trend": "Currently, bond yields show a mixed trend across different countries, suggesting varied economic conditions. High yields in developing markets such as Turkey and Brazil indicate higher risk and potential inflation concerns, which could lead to volatility in financial markets. Meanwhile, stable lower yields in developed markets may reflect a safer investment climate, influencing capital flows towards these economies.",
+      "strategic_insights": [
+        {
+          "insight": "Investors in markets with rising yields may require higher risk premiums, leading to a reassessment of asset values across equities and fixed income."
+        },
+        {
+          "insight": "Countries with stable or declining yields could attract more investment as they represent a lower risk, potentially leading to stronger domestic currencies and impacting international trade dynamics."
+        },
+        {
+          "insight": "Emerging markets with high yields may face challenges in attracting foreign investment unless they can demonstrate stable economic policies and inflation control."
+        }
+      ]
+    }
+  }
+}
+```
+
+ AIMessage 
+
+
+ ToolMessage 
+
+
+ HumanMessage 
+Action result: 🔍  Scrolled down the page by 200 pixels
+
+ AIMessage 
+
+
+ ToolMessage 
+
+
+ HumanMessage 
+Action result: 🔍  Scrolled up the page by 200 pixels
+
+ AIMessage 
+
+
+ ToolMessage 
+
+
+ HumanMessage 
+Action result: 🔍  Scrolled up the page by 200 pixels
+
+ AIMessage 
+
+
+ ToolMessage 
+
+
+ HumanMessage 
+Action result: 🔍  Scrolled down the page by 200 pixels
+
+ AIMessage 
+
+
+ ToolMessage 
+
+
+ HumanMessage 
+Action result: 🔍  Scrolled down the page by 200 pixels
 
  HumanMessage 
 [Task history memory ends]
 [Current state starts here]
 The following is one-time information - if you need to remember it write it to memory:
-Current url: https://tradingeconomics.com/calendar
+Current url: https://tradingeconomics.com/bonds
 Available tabs:
-[TabInfo(page_id=0, url='about:blank', title=''), TabInfo(page_id=1, url='about:blank', title=''), TabInfo(page_id=2, url='about:blank', title=''), TabInfo(page_id=3, url='https://tradingeconomics.com/calendar', title='Economic Calendar')]
+[TabInfo(page_id=0, url='about:blank', title=''), TabInfo(page_id=1, url='https://tradingeconomics.com/bonds', title='Bond Yields by Country - Quotes - Prices')]
 Interactive elements from top layer of the current page inside the viewport:
-... 2000 pixels above - scroll or extract content to see more ...
+... 400 pixels above - scroll or extract content to see more ...
 [0]<button />
 [1]<a />
-[2]<a Search/>
-[3]<input text;Search/>
-[4]<button />
-[5]<a button/>
-[6]<a Commodities/>
-[7]<a Indexes/>
-[8]<a Currencies/>
-[9]<a Crypto/>
-[10]<a Bonds/>
-[11]<a Earnings/>
-[12]<a Holidays/>
-Wednesday March 12 2025
-Actual
-Previous
-Consensus
-Forecast
-08:00 AM
-US
-[13]<a MBA Mortgage Applications/>
-MAR/07
-20.4%
-[14]<a />
-08:00 AM
-US
-[15]<a MBA Mortgage Market Index/>
-MAR/07
-242.2
-[16]<a />
-08:00 AM
-US
-[17]<a MBA Mortgage Refinance Index/>
-MAR/07
-784.2
-[18]<a />
-08:00 AM
-US
-[19]<a MBA Purchase Index/>
-MAR/07
-144.5
-[20]<a />
-09:00 AM
-BR
-[21]<a Inflation Rate MoM/>
-FEB
+[2]<a Calendar/>
+[3]<a News/>
+[4]<a Indicators/>
+[5]<a Countries/>
+[6]<a Forecasts/>
+[7]<a Search/>
+[8]<input Search;text/>
+[9]<a button/>
+[10]<a Commodities/>
+[11]<a Indexes/>
+[12]<a Shares/>
+[13]<a Currencies/>
+[14]<a Crypto/>
+[15]<a Bonds/>
+[16]<a Earnings/>
+[17]<a Holidays/>
+[18]<iframe ;3rd party ad content;Advertisement>SafeFrame Container/>
+[19]<a Join Trading Economics
+Access millions of economics indicators plus stock quotes, commodity prices, bonds, currencies and crypto
+Get Started/>
+[20]<a Commodities/>
+[21]<a Indexes/>
+[22]<a Shares/>
+[23]<a Currencies/>
+[24]<a Crypto/>
+[25]<a Bonds/>
+[26]<a false>Export/>
+[27]<button Yields/>
+[28]<a Geomap>Map/>
+[29]<a Scatter/>
+[30]<a Correlations/>
+[31]<a Forecasts/>
+Major10Y
+Yield
+Day
+Weekly
+Monthly
+YTD
+YoY
+Date
+[32]<a United States/>
+4.4520
+0.002
+0.01%
+0.11%
+-0.12%
+0.12%
+23:23
+[33]<a United Kingdom/>
+4.6700
+0.0210
+-0.01%
+0.15%
+0.10%
+0.45%
+Jun/02
+Japan
+1.5160
+0.0067
+0.05%
+0.25%
+0.42%
+0.48%
+Jun/03
+Australia
+4.3110
+0.0040
+-0.01%
+0.04%
+-0.06%
+-0.01%
+Jun/03
+Germany
+2.5225
+0.0145
+-0.04%
+0.00%
 0.16%
-[22]<a 1.3%/>
-[23]<a 1.1%/>
-[24]<a />
-09:00 AM
-BR
-[25]<a Inflation Rate YoY/>
-FEB
-4.56%
-[26]<a 5%/>
-[27]<a 4.9%/>
-[28]<a />
-09:30 AM
-US
-[29]<a Core Inflation Rate MoM/>
-FEB
-0.4%
-[30]<a 0.3%/>
-[31]<a 0.3%/>
-[32]<a />
-09:30 AM
-US
-[33]<a Core Inflation Rate YoY/>
-FEB
-3.3%
-[34]<a 3.2%/>
-[35]<a 3.1%/>
-[36]<a />
-09:30 AM
-US
-[37]<a Inflation Rate MoM/>
-FEB
-0.5%
-[38]<a 0.3%/>
-[39]<a 0.3%/>
-[40]<a />
-09:30 AM
-US
-[41]<a Inflation Rate YoY/>
-FEB
-3%
-[42]<a 2.9%/>
-[43]<a 2.9%/>
-[44]<a />
-09:30 AM
-US
-[45]<a CPI/>
-FEB
-317.67
-[46]<a 319.22/>
-[47]<a 319.3/>
-[48]<a />
-09:30 AM
-US
-[49]<a CPI s.a/>
-FEB
-319.086
-[50]<a 320/>
-[51]<a />
-10:00 AM
-BR
-[52]<a Car Production MoM/>
-FEB
--7.7%
-3.%
-10:00 AM
-BR
-[53]<a New Car Registrations MoM/>
-FEB
--33.5%
-5.8%
-10:45 AM
-CA
-[54]<a BoC Interest Rate Decision/>
-3%
-[55]<a 2.75%/>
-[56]<a 2.75%/>
-[57]<a />
-10:45 AM
-EA
-[58]<a ECB Nagel Speech/>
-11:30 AM
-CA
-[59]<a BoC Press Conference/>
-11:30 AM
-US
-EIA Crude Oil Stocks Change
-MAR/07
-3.614M
-2.1M
-11:30 AM
-US
-EIA Gasoline Stocks Change
-MAR/07
--1.433M
--2.5M
-11:30 AM
-US
-EIA Crude Oil Imports Change
-MAR/07
--0.054M
-11:30 AM
-US
-[60]<a EIA Cushing Crude Oil Stocks Change/>
-MAR/07
-1.124M
-[61]<a />
-11:30 AM
-US
-[62]<a EIA Distillate Fuel Production Change/>
-MAR/07
--0.587M
-[63]<a />
-11:30 AM
-US
-[64]<a EIA Distillate Stocks Change/>
-MAR/07
--1.318M
-[65]<a -1.4M/>
-[66]<a />
-11:30 AM
-US
-[67]<a EIA Gasoline Production Change/>
-MAR/07
-0.464M
-[68]<a />
-11:30 AM
-US
-[69]<a EIA Heating Oil Stocks Change/>
-MAR/07
--0.067M
-[70]<a />
-11:30 AM
-US
-[71]<a EIA Refinery Crude Runs Change/>
-MAR/07
--0.346M
-[72]<a />
-12:15 PM
-EA
-[73]<a ECB Lane Speech/>
-12:30 PM
-US
-17-Week Bill Auction
-4.180%
-01:00 PM
-RU
-[74]<a Inflation Rate MoM/>
-FEB
-1.2%
-[75]<a 0.8%/>
-[76]<a 1.0%/>
-[77]<a />
-01:00 PM
-RU
-[78]<a Inflation Rate YoY/>
-FEB
-9.9%
-[79]<a 10.1%/>
-[80]<a 10.3%/>
-[81]<a />
-02:00 PM
-US
-[82]<a 10-Year Note Auction/>
-4.632%
-[83]<a />
-03:00 PM
-US
-[84]<a Monthly Budget Statement/>
-FEB
-$-129B
-[85]<a $-303.2B/>
-[86]<a $-290.0B/>
-[87]<a />
-08:50 PM
-JP
-[88]<a Foreign Bond Investment/>
-MAR/08
-¥1514.2B
-[89]<a />
-08:50 PM
-JP
-[90]<a Stock Investment by Foreigners/>
-MAR/08
-¥-708.3B
-[91]<a />
-09:01 PM
-GB
-[92]<a RICS House Price Balance/>
-FEB
-22%
-[93]<a 20%/>
-[94]<a 20.0%/>
-[95]<a />
-09:30 PM
-AU
-[96]<a Building Permits MoM Final/>
-JAN
-0.7%
-[97]<a 6.3%/>
-[98]<a 6.3%/>
-[99]<a />
-09:30 PM
-AU
-[100]<a Private House Approvals MoM Final/>
-JAN
--3.0%
-[101]<a 1.1%/>
-[102]<a 1.1%/>
-[103]<a />
-11:30 PM
-AU
-[104]<a RBA Jones Speech/>
-ID
-[105]<a Retail Sales YoY/>
-JAN
-1.8%
-[106]<a 0.4%/>
-[107]<a />
-TR
-[108]<a Auto Production YoY/>
-FEB
--2.8%
--3.0%
-TR
-[109]<a Auto Sales YoY/>
-FEB
--13.9%
-[110]<a -14.0%/>
-[111]<a />
-IN
-[112]<a Passenger Vehicles Sales YoY/>
-FEB
-3.5%
-[113]<a />
-OP
-OPEC Monthly Report
-ZA
-Annual Budget Speech
-AR
-[114]<a Tax Revenue/>
-FEB
-ARS15032B
-[115]<a />
-Thursday March 13 2025
-Actual
-Previous
-Consensus
-Forecast
-02:00 AM
-SG
-[116]<a 6-Month T-Bill Auction/>
-2.75%
-[117]<a />
-06:00 AM
-FR
-IEA Oil Market Report
-06:00 AM
-DE
-[118]<a Bundesbank Köhler-Geib Speech/>
-06:30 AM
-ZA
-[119]<a Gold Production YoY/>
-JAN
--8.4%
-[120]<a -6.0%/>
-[121]<a />
-06:30 AM
-ZA
-[122]<a Mining Production MoM/>
-JAN
--3.9%
-[123]<a -2.8%/>
-[124]<a />
-06:30 AM
-ZA
-[125]<a Mining Production YoY/>
-JAN
--2.4%
-[126]<a -3.0%/>
-[127]<a />
-06:50 AM
-EA
-[128]<a ECB de Guindos Speech/>
-07:00 AM
-EA
-[129]<a Industrial Production MoM/>
-JAN
--1.1%
-[130]<a 0.6%/>
-[131]<a 0.9%/>
-[132]<a />
-07:00 AM
-EA
-[133]<a Industrial Production YoY/>
-JAN
--2%
-[134]<a -0.9%/>
-[135]<a -1.2%/>
-[136]<a />
-07:10 AM
-IT
-[137]<a 15-Year BTP Auction/>
-3.57%
-07:10 AM
-IT
-[138]<a 30-Year BTP Auction/>
-3.94%
-[139]<a />
-07:10 AM
-IT
-[140]<a 3-Year BTP Auction/>
-2.52%
-07:10 AM
-IT
-BTP Green Auction
-4.181%
-08:00 AM
-ZA
-[141]<a Manufacturing Production MoM/>
-JAN
--2.4%
-[142]<a 0.6%/>
-[143]<a />
-08:00 AM
-ZA
-[144]<a Manufacturing Production YoY/>
-JAN
--1.2%
-[145]<a 1.6%/>
-[146]<a />
-08:00 AM
-TR
-[147]<a MPC Meeting Summary/>
-08:30 AM
-BR
-[148]<a Bank Lending MoM/>
-JAN
-1.4%
-[149]<a -0.3%/>
-[150]<a />
-08:30 AM
-TR
-[151]<a Foreign Exchange Reserves/>
-MAR/07
-$94.76B
-[152]<a />
-09:00 AM
-MX
-[153]<a Industrial Production MoM/>
-JAN
--1.4%
-[154]<a 0.2%/>
-[155]<a 0.3%/>
-[156]<a />
-09:00 AM
-MX
-[157]<a Industrial Production YoY/>
-JAN
--2.7%
-[158]<a -1.8%/>
-[159]<a -2.0%/>
-[160]<a />
-09:30 AM
-CA
-[161]<a Building Permits MoM/>
-JAN
-11%
-[162]<a -5%/>
-[163]<a -2.0%/>
-[164]<a />
-09:30 AM
-US
-[165]<a PPI MoM/>
-FEB
-0.4%
-[166]<a 0.3%/>
-[167]<a 0.3%/>
-[168]<a />
-09:30 AM
-US
-[169]<a Core PPI MoM/>
-FEB
-0.3%
-[170]<a 0.3%/>
-[171]<a 0.2%/>
-[172]<a />
-... 12374 pixels below - scroll or extract content to see more ...
-Current step: 17/100Current date and time: 2025-03-12 01:17
+-0.06%
+Jun/02
+[34]<a Brazil/>
+14.0750
+0.0500
+-0.11%
+-0.06%
+-1.07%
+2.21%
+Jun/02
+[35]<a Russia/>
+15.4100
+0.1000
+-0.51%
+-0.48%
+0.19%
+0.35%
+Jun/02
+[36]<a India/>
+6.2830
+0.0310
+0.04%
+-0.04%
+-0.51%
+-0.66%
+Jun/02
+[37]<a Canada/>
+3.2260
+0.0280
+-0.10%
+0.04%
+-0.01%
+-0.29%
+Jun/02
+[38]<a Italy/>
+3.5060
+0.0230
+-0.05%
+-0.10%
+-0.01%
+-0.39%
+Jun/02
+[39]<a France/>
+3.1935
+0.0290
+-0.04%
+-0.04%
+0.00%
+0.13%
+Jun/02
+[40]<a South Africa/>
+10.1900
+0.0500
+-0.28%
+-0.42%
+1.16%
+-0.65%
+Jun/02
+[41]<a Switzerland/>
+0.2530
+0.0505
+-0.12%
+-0.17%
+0.00%
+-0.63%
+Jun/02
+[42]<a Mexico/>
+9.3580
+0.0380
+-0.06%
+-0.07%
+-1.06%
+-0.96%
+Jun/02
+[43]<a Netherlands/>
+2.7410
+0.0280
+-0.04%
+-0.01%
+0.15%
+-0.12%
+Jun/02
+[44]<a New Zealand/>
+4.6370
+0.0110
+0.04%
+0.13%
+0.21%
+-0.11%
+Jun/03
+[45]<a Portugal/>
+2.9865
+0.0105
+-0.07%
+-0.06%
+0.15%
+-0.18%
+Jun/02
+[46]<a South Korea/>
+2.8010
+0.0100
+0.03%
+0.20%
+-0.07%
+-0.74%
+Jun/02
+[47]<a Spain/>
+3.1140
+0.0175
+-0.06%
+-0.06%
+0.05%
+-0.19%
+Jun/02
+[48]<a Greece/>
+3.2800
+0.0300
+-0.03%
+-0.08%
+0.08%
+-0.35%
+Jun/02
+[49]<a Turkey/>
+31.2300
+0.0900
+0.44%
+-0.85%
+4.04%
+5.41%
+Jun/02
+Europe
+Yield
+Day
+Weekly
+Monthly
+YTD
+YoY
+Date
+[50]<a United Kingdom/>
+4.6700
+0.0210
+-0.01%
+0.15%
+0.10%
+0.45%
+Jun/02
+[51]<a Germany/>
+2.5225
+0.0145
+-0.04%
+0.00%
+0.16%
+-0.06%
+Jun/02
+[52]<a Russia/>
+15.4100
+0.1000
+-0.51%
+-0.48%
+0.19%
+0.35%
+Jun/02
+[53]<a Italy/>
+3.5060
+0.0230
+-0.05%
+-0.10%
+-0.01%
+-0.39%
+Jun/02
+[54]<a France/>
+3.1935
+0.0290
+-0.04%
+-0.04%
+0.00%
+0.13%
+Jun/02
+[55]<a Switzerland/>
+0.2530
+0.0505
+-0.12%
+-0.17%
+0.00%
+-0.63%
+Jun/02
+[56]<a Turkey/>
+31.2300
+0.0900
+0.44%
+-0.85%
+4.04%
+5.41%
+Jun/02
+[57]<a Finland/>
+2.9660
+0.0140
+-0.05%
+0.16%
+0.21%
+-0.06%
+Jun/02
+[58]<a Lithuania/>
+3.2220
+0.0090
+0.05%
+0.00%
+-0.01%
+-0.55%
+Jun/02
+[59]<a Netherlands/>
+2.7410
+0.0280
+-0.04%
+-0.01%
+0.15%
+-0.12%
+Jun/02
+[60]<a Norway/>
+4.0525
+0.0545
+-0.05%
+0.20%
+0.20%
+0.35%
+Jun/02
+[61]<a Poland/>
+5.4400
+0.0800
+-0.13%
+0.08%
+-0.43%
+-0.19%
+Jun/02
+[62]<a Portugal/>
+2.9865
+0.0105
+-0.07%
+-0.06%
+0.15%
+-0.18%
+Jun/02
+[63]<a Romania/>
+7.6300
+0.1800
+0.18%
+-0.24%
+0.29%
+0.92%
+Jun/02
+[64]<a Slovakia/>
+3.4195
+0.0040
+-0.06%
+-0.01%
+0.22%
+-0.15%
+Jun/02
+[65]<a Slovenia/>
+3.0590
+0.0010
+-0.08%
+-0.02%
+0.03%
+-0.14%
+Jun/02
+[66]<a Spain/>
+3.1140
+0.0175
+-0.06%
+-0.06%
+0.05%
+-0.19%
+Jun/02
+[67]<a Sweden/>
+2.3100
+0.0055
+-0.06%
+-0.05%
+-0.02%
+-0.06%
+Jun/02
+[68]<a Greece/>
+3.2800
+0.0300
+-0.03%
+-0.08%
+0.08%
+-0.35%
+Jun/02
+×
+... 2950 pixels below - scroll or extract content to see more ...
+Current step: 17/100Current date and time: 2025-06-02 23:23
 
  RESPONSE
 {
   "current_state": {
-    "evaluation_previous_goal": "Unknown - The analysis of impactful events must be confirmed before proceeding with finalization.",
-    "memory": "I have visualized and compiled essential details to finalize the most impactful events for the financial market from the calendar.",
-    "next_goal": "Select and confirm the list of 10 impactful events."
+    "evaluation_previous_goal": "Unknown - Finalizing impactful events analysis",
+    "memory": "Gathering data on bond yields while processing earnings events for market impact.",
+    "next_goal": "Finish the final synthesis of the top impactful events."
   },
   "action": [
     {
       "scroll_down": {
-        "amount": 500
+        "amount": 200
       }
     }
   ]

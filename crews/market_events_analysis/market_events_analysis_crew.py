@@ -30,7 +30,7 @@ class MarketEventsAnalysisCrew:
             config=self.agents_config['calendar_data_processor'],
             verbose=True,
             tools=[EconomicCalendarTool(), EarningsCalendarTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -38,7 +38,7 @@ class MarketEventsAnalysisCrew:
         return Agent(
             config=self.agents_config['economic_events_analyst'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -46,7 +46,7 @@ class MarketEventsAnalysisCrew:
         return Agent(
             config=self.agents_config['corporate_events_analyst'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -54,7 +54,7 @@ class MarketEventsAnalysisCrew:
         return Agent(
             config=self.agents_config['market_integrator'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @task

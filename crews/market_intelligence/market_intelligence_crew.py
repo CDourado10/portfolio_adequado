@@ -30,7 +30,7 @@ class MarketNewsAnalysisCrew:
             config=self.agents_config['news_preprocessor'],
             verbose=True,
             tools=[MultiSourceMarketNews(), TopicalNewsAnalyzer()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -38,7 +38,7 @@ class MarketNewsAnalysisCrew:
         return Agent(
             config=self.agents_config['market_news_analyst'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @task

@@ -33,7 +33,7 @@ class MarketMonitorCrew:
             config=self.agents_config['macro_events_specialist'],
             verbose=True,
             tools=[MarketEventsAnalysisTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -42,7 +42,7 @@ class MarketMonitorCrew:
             config=self.agents_config['market_dynamics_analyst'],
             verbose=True,
             tools=[MarketMonitorTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -51,7 +51,7 @@ class MarketMonitorCrew:
             config=self.agents_config['sentiment_trends_analyst'],
             verbose=True,
             tools=[MarketNewsAnalysisTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -59,7 +59,7 @@ class MarketMonitorCrew:
         return Agent(
             config=self.agents_config['cross_sector_impact_analyst'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -67,7 +67,7 @@ class MarketMonitorCrew:
         return Agent(
             config=self.agents_config['global_intelligence_director'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @task

@@ -32,7 +32,7 @@ class AssetExplorationCrew:
         return Agent(
             config=self.agents_config['crew_manager'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -41,7 +41,7 @@ class AssetExplorationCrew:
             config=self.agents_config['screener_researcher'],
             verbose=True,
             tools=[ScreenerTool(), ValidScreenersTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -50,7 +50,7 @@ class AssetExplorationCrew:
             config=self.agents_config['trending_stocks_researcher'],
             verbose=True,
             tools=[TrendingStocksTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -59,7 +59,7 @@ class AssetExplorationCrew:
             config=self.agents_config['asset_analyst'],
             verbose=True,
             tools=[TickerTool(), ExchangesTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -68,7 +68,7 @@ class AssetExplorationCrew:
             config=self.agents_config['portfolio_reduction_specialist'],
             verbose=True,
             tools=[PortfolioReductionTool(), ScreenerTool(), ValidScreenersTool()],
-            llm="azure/gpt-4o-mini",
+            llm="gpt-4.1",
             max_iter=250
         )
 

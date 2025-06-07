@@ -97,321 +97,132 @@ Action result: 🔗  Opened new tab with https://tradingeconomics.com/earnings
 Action result: 📄  Extracted from page
 : ```json
 {
-  "financial_events": [
+  "earnings_events": [
     {
-      "date": "March 13",
-      "company": "Enel",
-      "eps": {
-        "value": 0.11,
-        "consensus": 0.12,
-        "previous": 0.15
-      },
-      "revenue": {
-        "value": "21.313B",
-        "consensus": null,
-        "previous": "26.031B"
-      },
-      "market_cap": "$76.78B"
+      "date": "Jun 2",
+      "company": "Campbell Soup",
+      "EPS": "0.73",
+      "revenue": "2.48B",
+      "market_cap": "$10.19B"
     },
     {
-      "date": "March 13",
-      "company": "Assicurazioni Generali",
-      "eps": {
-        "value": 1.29,
-        "consensus": 0.94,
-        "previous": 0.92
-      },
-      "revenue": {
-        "value": "22.39B",
-        "consensus": 48.18B,
-        "previous": "22B"
-      },
-      "market_cap": "$54.05B"
-    },
-    {
-      "date": "March 13",
-      "company": "Hannover Rueck",
-      "eps": {
-        "value": 4.45,
-        "consensus": 4.78,
-        "previous": 3.53
-      },
-      "revenue": {
-        "value": null,
-        "consensus": "6.41B",
-        "previous": "5.84B"
-      },
-      "market_cap": "$35.9B"
-    },
-    {
-      "date": "March 13",
-      "company": "Wheaton Precious Metals",
-      "eps": {
-        "value": 0.44,
-        "consensus": 0.46,
-        "previous": 0.36
-      },
-      "revenue": {
-        "value": "380.52M",
-        "consensus": "399.37M",
-        "previous": "313M"
-      },
-      "market_cap": "$33.31B"
-    },
-    {
-      "date": "March 13",
-      "company": "Dollar General",
-      "eps": {
-        "value": 1.68,
-        "consensus": 1.50,
-        "previous": 1.83
-      },
-      "revenue": {
-        "value": "10.3B",
-        "consensus": "10.26B",
-        "previous": "9.9B"
-      },
-      "market_cap": "$17.34B"
-    },
-    {
-      "date": "March 13",
-      "company": "DocuSign",
-      "eps": {
-        "value": 0.86,
-        "consensus": 0.84,
-        "previous": 0.76
-      },
-      "revenue": {
-        "value": "776.3M",
-        "consensus": "760.99M",
-        "previous": "712.4M"
-      },
-      "market_cap": "$15.59B"
-    },
-    {
-      "date": "March 13",
-      "company": "Ulta Salon Cosmetics Fragrance",
-      "eps": {
-        "value": 8.46,
-        "consensus": 7.10,
-        "previous": 8.08
-      },
-      "revenue": {
-        "value": "3.5B",
-        "consensus": "3.46B",
-        "previous": "3.6B"
-      },
-      "market_cap": "$15.48B"
-    },
-    {
-      "date": "March 13",
-      "company": "Centrais Eletricas Brasileiras",
-      "eps": {
-        "value": 0.75,
-        "consensus": 0.96,
-        "previous": 0.39
-      },
-      "revenue": {
-        "value": "9.58B",
-        "consensus": "10.58B",
-        "previous": "10.28B"
-      },
-      "market_cap": "$13.55B"
-    },
-    {
-      "date": "March 13",
-      "company": "Empire Company",
-      "eps": {
-        "value": 0.62,
-        "consensus": 0.63,
-        "previous": 0.62
-      },
-      "revenue": {
-        "value": "7.73B",
-        "consensus": "7.67B",
-        "previous": "7.49B"
-      },
-      "market_cap": "$7.15B"
-    },
-    {
-      "date": "March 14",
-      "company": "BMW",
-      "eps": {
-        "value": 2.41,
-        "consensus": 2.91,
-        "previous": 3.77
-      },
-      "revenue": {
-        "value": "36.42B",
-        "consensus": "42.4B",
-        "previous": "42.97B"
-      },
-      "market_cap": "$50.56B"
-    },
-    {
-      "date": "March 14",
-      "company": "Daimler Truck Holding AG",
-      "eps": {
-        "value": null,
-        "consensus": 0.87,
-        "previous": 1.48
-      },
-      "revenue": {
-        "value": null,
-        "consensus": "11.03B",
-        "previous": "14.95B"
-      },
-      "market_cap": "$34.44B"
-    },
-    {
-      "date": "March 14",
-      "company": "Swiss Life Holding",
-      "eps": {
-        "value": null,
-        "consensus": 22.70,
-        "previous": 16.45
-      },
-      "revenue": {
-        "value": null,
-        "consensus": "8.21B",
-        "previous": null
-      },
-      "market_cap": "$26.33B"
-    },
-    {
-      "date": "March 14",
-      "company": "Williams Sonoma",
-      "eps": {
-        "value": null,
-        "consensus": 2.90,
-        "previous": 5.44
-      },
-      "revenue": {
-        "value": null,
-        "consensus": "2.34B",
-        "previous": "2.28B"
-      },
-      "market_cap": "$10.77B"
-    },
-    {
-      "date": "March 17",
-      "company": "WuXi AppTec",
-      "eps": {
-        "value": null,
-        "consensus": 1.09,
-        "previous": 0.76
-      },
-      "revenue": {
-        "value": null,
-        "consensus": "11.5B",
-        "previous": "10.8B"
-      },
-      "market_cap": "$21.08B"
-    },
-    {
-      "date": "March 17",
+      "date": "Jun 2",
       "company": "Science Applications International",
-      "eps": {
-        "value": null,
-        "consensus": 2.07,
-        "previous": 1.43
-      },
-      "revenue": {
-        "value": null,
-        "consensus": "1.81B",
-        "previous": "1.74B"
-      },
-      "market_cap": "$5.42B"
+      "EPS": "1.92",
+      "revenue": "1.88B",
+      "market_cap": "$5.29B"
     },
     {
-      "date": "March 18",
-      "company": "Computacenter",
-      "eps": {
-        "value": null,
-        "consensus": 1.08,
-        "previous": 0.96
-      },
-      "revenue": {
-        "value": null,
-        "consensus": "3.77B",
-        "previous": null
-      },
-      "market_cap": "$5.55B"
+      "date": "Jun 3",
+      "company": "CrowdStrike Holdings",
+      "EPS": "0.66",
+      "revenue": "1.1B",
+      "market_cap": "$94.17B"
     },
     {
-      "date": "March 18",
-      "company": "Energisa",
-      "eps": {
-        "value": null,
-        "consensus": 1.07,
-        "previous": 1.35
-      },
-      "revenue": {
-        "value": null,
-        "consensus": "7.54B",
-        "previous": "8.08B"
-      },
-      "market_cap": "$2.84B"
+      "date": "Jun 3",
+      "company": "Ferguson",
+      "EPS": "2.61",
+      "revenue": "7.79B",
+      "market_cap": "$32.87B"
     },
     {
-      "date": "March 18",
-      "company": "New Hope Corporation",
-      "eps": {
-        "value": null,
-        "consensus": 0.35,
-        "previous": 0.3
-      },
-      "revenue": {
-        "value": null,
-        "consensus": "1.09B",
-        "previous": "0.86B"
-      },
-      "market_cap": "$1.99B"
+      "date": "Jun 3",
+      "company": "Dollar General",
+      "EPS": "1.46",
+      "revenue": "10.26B",
+      "market_cap": "$20.07B"
     },
     {
-      "date": "March 19",
-      "company": "Tencent Holdings",
-      "eps": {
-        "value": null,
-        "consensus": 5.71,
-        "previous": 4.54
-      },
-      "revenue": {
-        "value": null,
-        "consensus": "169.33B",
-        "previous": "155.2B"
-      },
-      "market_cap": "$602.35B"
+      "date": "Jun 4",
+      "company": "Dollar Tree",
+      "EPS": "1.49",
+      "revenue": "7.85B",
+      "market_cap": "$16.44B"
     },
     {
-      "date": "March 19",
-      "company": "PDD Holdings",
-      "eps": {
-        "value": null,
-        "consensus": 19.86,
-        "previous": 17.32
-      },
-      "revenue": {
-        "value": null,
-        "consensus": "115.04B",
-        "previous": "88.88B"
-      },
-      "market_cap": "$159.38B"
+      "date": "Jun 4",
+      "company": "MongoDB",
+      "EPS": "0.66",
+      "revenue": "528.39M",
+      "market_cap": "$11.45B"
     },
     {
-      "date": "March 19",
-      "company": "General Mills",
-      "eps": {
-        "value": null,
-        "consensus": 0.98,
-        "previous": 1.17
-      },
-      "revenue": {
-        "value": null,
-        "consensus": "5.02B",
-        "previous": "5.1B"
-      },
-      "market_cap": "$33.96B"
+      "date": "Jun 4",
+      "company": "Descartes Systems",
+      "EPS": "0.62",
+      "revenue": "242.63M",
+      "market_cap": "$8.82B"
+    },
+    {
+      "date": "Jun 4",
+      "company": "PVH",
+      "EPS": "2.40",
+      "revenue": "1.93B",
+      "market_cap": "$4.07B"
+    },
+    {
+      "date": "Jun 4",
+      "company": "Thor Industries",
+      "EPS": "1.76",
+      "revenue": "2.6B",
+      "market_cap": "$3.65B"
+    },
+    {
+      "date": "Jun 5",
+      "company": "Broadcom",
+      "EPS": "1.57",
+      "revenue": "14.95B",
+      "market_cap": "$812.23B"
+    },
+    {
+      "date": "Jun 5",
+      "company": "Lululemon Athletica",
+      "EPS": "2.72",
+      "revenue": "2.4B",
+      "market_cap": "$30.29B"
+    },
+    {
+      "date": "Jun 5",
+      "company": "DocuSign",
+      "EPS": "0.8113",
+      "revenue": "749.19M",
+      "market_cap": "$15.4B"
+    },
+    {
+      "date": "Jun 6",
+      "company": "ABM Industries",
+      "EPS": "0.8687",
+      "revenue": "2.07B",
+      "market_cap": "$2.86B"
+    },
+    {
+      "date": "Jun 9",
+      "company": "Casey's General Stores",
+      "EPS": "2.03",
+      "revenue": "3.95B",
+      "market_cap": "$16.94B"
+    },
+    {
+      "date": "Jun 10",
+      "company": "J.M. Smucker",
+      "EPS": "2.24",
+      "revenue": "2.18B",
+      "market_cap": "$12.33B"
+    },
+    {
+      "date": "Jun 10",
+      "company": "GameStop",
+      "EPS": "0.04",
+      "revenue": "754.23M",
+      "market_cap": "$8.16B"
+    },
+    {
+      "date": "Jun 10",
+      "company": "Oxford Instruments",
+      "EPS": "0.595",
+      "revenue": "275.7M",
+      "market_cap": "$1.63B"
     }
   ]
 }
@@ -424,10 +235,7 @@ Action result: 📄  Extracted from page
 
 
  HumanMessage 
-Action result: 🔗  Opened new tab with https://google.com
-
- HumanMessage 
-Action result: 🔍  Searched for "impact of earnings reports on stock market" in Google
+Action result: ⌨️  Input impactful events into index 9
 
  AIMessage 
 
@@ -436,81 +244,403 @@ Action result: 🔍  Searched for "impact of earnings reports on stock market" i
 
 
  HumanMessage 
-Action result: 🖱️  Clicked button with index 24:
-
- HumanMessage 
-Action result: Something new appeared after action 1 / 3
+Action error: Error executing action input_text: Failed to input text into index 8
 
  HumanMessage 
 [Task history memory ends]
 [Current state starts here]
 The following is one-time information - if you need to remember it write it to memory:
-Current url: https://www.investopedia.com/terms/e/earnings-announcement.asp
+Current url: https://tradingeconomics.com/earnings
 Available tabs:
-[TabInfo(page_id=0, url='about:blank', title=''), TabInfo(page_id=1, url='https://tradingeconomics.com/earnings', title='Earnings Calendar'), TabInfo(page_id=2, url='https://www.investopedia.com/terms/e/earnings-announcement.asp', title='Earnings Announcement: Definition and Impact on Market')]
+[TabInfo(page_id=0, url='about:blank', title=''), TabInfo(page_id=1, url='https://tradingeconomics.com/earnings', title='Earnings Calendar')]
 Interactive elements from top layer of the current page inside the viewport:
 [Start of page]
-[0]<a Investopedia Homepage/>
-[1]<a Investing/>
-[2]<a Simulator/>
-[3]<a Banking/>
-[4]<a Personal Finance/>
-[5]<a Economy/>
-[6]<a News/>
-[7]<a Reviews/>
-[8]<a Live/>
-[9]<button search/>
-[10]<iframe Advertisement;google_ads_iframe_3865/ddm.investopedia.com/tier1/other/business_0;3rd party ad content/>
-[11]<a />
-[12]<img />
-[13]<a Corporate Finance/>
-Financial statements: Balance, income, cash flow, and equity
-Earnings Announcement: Definition and Impact on Market
-By
-[14]<div Full Bio
-James Chen, CMT is an expert trader, investment adviser, and global market strategist.
-Learn about our
-editorial policies/>
-[15]<a James Chen/>
-Updated May 31, 2021
-Reviewed by
-[16]<a Charles Potters/>
-[17]<img />
-Investopedia / Paige McLaughlin
-What Is an Earnings Announcement?
-An earnings announcement is an official public statement of a company's profitability for a specific period, typically a quarter or a year. An earnings announcement occurs on a specific date during
-[18]<a earnings season/>
-and is preceded by
-[19]<a earnings estimates/>
-issued by
-[20]<a equity analysts/>
-. If a company has been profitable leading up to the announcement, its share price will usually increase up to and slightly after the information is released. Because earnings announcements can have such a prominent effect on the market, they are often considered when
-[21]<a predicting the next day's open/>
-.
-Key Takeaways:
-An earnings announcement is an official public statement of a company's profitability, usually issued on a quarterly basis.
-Earnings accouncements have an effect on the share price, which will move up or down depending on the company's performance.
-Analysts estimate how the company will perform, but these expectations can rapidly adjust up or down in the days leading up to the announcement.
-Understanding Earnings Announcements
-The data in the announcements must be accurate, according to
-[22]<a Securities and Exchange Commission/>
-[23]<iframe ;Advertisement;3rd party ad content>SafeFrame Container/>
-[24]<a />
-[25]<img />
-... 4696 pixels below - scroll or extract content to see more ...
-Current step: 4/100Current date and time: 2025-03-14 12:10
+[0]<button />
+[1]<a />
+[2]<a Search/>
+[3]<input Search;text/>
+[4]<a button/>
+[5]<a Commodities/>
+[6]<a Indexes/>
+[7]<a Shares/>
+[8]<a Currencies/>
+[9]<a Crypto/>
+[10]<a Bonds/>
+[11]<a Earnings/>
+[12]<a Holidays/>
+[13]<iframe ;3rd party ad content;Advertisement>SafeFrame Container
+https://ad.doubleclick.net/ddm/trackimp/N433007.3665442DV3601/B33493584.418913929;dc_trk_aid=611483157;dc_trk_cid=233841387;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1?/>
+[14]<a />
+[15]<img />
+[16]<div button/>
+[17]<button Countries/>
+[18]<button Recent/>
+[19]<button Impact/>
+[20]<a Export/>
+[21]<a API/>
+Monday Jun 2
+EPS
+Consensus
+Previous
+Revenue
+Consensus
+Previous
+MarketCap
+Fiscal
+Time
+[22]<a Campbell Soup/>
+CPB:US
+[23]<a 0.73/>
+0.6529
+[24]<a 0.75/>
+[25]<a 2.48B/>
+2.43B
+[26]<a 2.37B/>
+$10.19B
+Q3
+AM
+[27]<a Science Applications International/>
+SAIC:US
+[28]<a 1.92/>
+2.16
+[29]<a 1.92/>
+[30]<a 1.88B/>
+1.88B
+[31]<a 1.85B/>
+$5.29B
+Q1
+AM
+Tuesday Jun 3
+EPS
+Consensus
+Previous
+Revenue
+Consensus
+Previous
+MarketCap
+Fiscal
+Time
+[32]<a CrowdStrike Holdings/>
+CRWD:US
+0.66
+[33]<a 0.93/>
+1.1B
+[34]<a 921M/>
+$94.17B
+Q1
+PM
+[35]<a Ferguson/>
+FERG:LN
+2.61
+[36]<a 2.32/>
+7.79B
+[37]<a 7.31B/>
+$32.87B
+Q3
+PM
+[38]<a Dollar General/>
+DG:US
+1.46
+[39]<a 1.65/>
+10.26B
+[40]<a 9.91B/>
+$20.07B
+Q1
+AM
+[41]<a Hewlett Packard/>
+HPE:US
+0.3221
+[42]<a 0.42/>
+7.46B
+[43]<a 7.2B/>
+$19.31B
+Q2
+PM
+[44]<a Guidewire Software/>
+GWRE:US
+0.4146
+[45]<a 0.26/>
+286.33M
+[46]<a 240.7M/>
+$15.95B
+Q3
+PM
+[47]<a Donaldson/>
+DCI:US
+0.945
+[48]<a 0.92/>
+936.84M
+[49]<a 927.9M/>
+$7.51B
+Q3
+AM
+[50]<a NIO/>
+NIO:US
+-2.51
+[51]<a -2.39/>
+12.51B
+[52]<a 9.91B/>
+$7.47B
+Q1
+AM
+[53]<a International Distribution Services/>
+IDS:LN
+0.00
+[54]<a 0.28/>
+6.99B
+[55]<a 6.82B/>
+$4.16B
+H2
+[56]<a Assura/>
+AGR:LN
+[57]<a 0.02/>
+[58]<a 84.6M/>
+$1.63B
+H2
+[59]<a Solaria Energia Y/>
+SLR:SM
+[60]<a 0.14/>
+[61]<a 40.02M/>
+$944.71M
+Q1
+[62]<a PayPoint/>
+PAY:LN
+0.48
+[63]<a 0.4135/>
+109.07M
+[64]<a 48.04M/>
+$626.51M
+H2
+Wednesday Jun 4
+EPS
+Consensus
+Previous
+Revenue
+Consensus
+Previous
+MarketCap
+Fiscal
+Time
+[65]<a Dollar Tree/>
+DLTR:US
+1.49
+[66]<a 1.43/>
+7.85B
+[67]<a 7.63B/>
+$16.44B
+Q1
+AM
+[68]<a MongoDB/>
+MDB:US
+0.66
+[69]<a 0.51/>
+528.39M
+[70]<a 450.6M/>
+$11.45B
+Q1
+PM
+[71]<a Descartes Systems/>
+DSG:CN
+0.62
+[72]<a 0.4/>
+242.63M
+[73]<a 151.3M/>
+$8.82B
+Q1
+PM
+[74]<a PVH/>
+PVH:US
+2.40
+[75]<a 2.45/>
+1.93B
+[76]<a 1.93B/>
+$4.07B
+Q1
+PM
+[77]<a Thor Industries/>
+THO:US
+1.76
+[78]<a 2.13/>
+2.6B
+[79]<a 2.8B/>
+$3.65B
+Q3
+AM
+[80]<a Five Below/>
+FIVE:US
+0.48
+[81]<a 0.60/>
+897.14M
+[82]<a 811.9M/>
+$3.54B
+Q1
+PM
+Paragon Banking Group
+PAG:LN
+0.37
+649M
+$2.09B
+H1
+AM
+[83]<a North West Company/>
+NWC:CN
+0.6
+[84]<a 0.57/>
+648.2M
+[85]<a 617.5M/>
+$1.93B
+Q1
+PM
+[86]<a Greif/>
+GEF:US
+1.12
+[87]<a 0.82/>
+1.42B
+[88]<a 1.37B/>
+$1.32B
+Q2
+PM
+[89]<a Verint Systems/>
+VRNT:US
+0.3383
+[90]<a 0.59/>
+195.03M
+[91]<a 221.28M/>
+$1B
+Q1
+PM
+[92]<a Transcontinental/>
+TCLA:CN
+0.5483
+[93]<a 0.52/>
+662.31M
+[94]<a 683.2M/>
+$924.02M
+Q2
+PM
+[95]<a Canaccord Genuity/>
+CF:CN
+0.2175
+[96]<a 0.15/>
+461.63M
+[97]<a 409.28M/>
+$601.21M
+Q4
+PM
+Thursday Jun 5
+EPS
+Consensus
+Previous
+Revenue
+Consensus
+Previous
+MarketCap
+Fiscal
+Time
+[98]<a Broadcom/>
+AVGO:US
+1.57
+[99]<a 10.96/>
+14.95B
+[100]<a 12.49B/>
+$812.23B
+Q2
+PM
+[101]<a Lululemon Athletica/>
+LULU:US
+2.72
+[102]<a 2.54/>
+2.4B
+[103]<a 2.21B/>
+$30.29B
+Q1
+PM
+[104]<a DocuSign/>
+DOCU:US
+0.8113
+[105]<a 0.82/>
+749.19M
+[106]<a 709.6M/>
+$15.4B
+Q1
+PM
+[107]<a Sekisui House/>
+1928:JP
+90.31
+[108]<a 77.83/>
+1,053.04B
+[109]<a 777.05B/>
+$14.76B
+Q1
+AM
+[110]<a Wise/>
+WISE:LN
+0.1965
+[111]<a 0.17/>
+726.41M
+[112]<a 277.2M/>
+$14.46B
+H2
+AM
+[113]<a Ciena/>
+CIEN:US
+0.5093
+[114]<a 0.27/>
+1.09B
+[115]<a 910.8M/>
+$8.53B
+Q2
+AM
+[116]<a Saputo/>
+SAP:CN
+0.377
+[117]<a 0.37/>
+4.74B
+[118]<a 4.55B/>
+$7.84B
+Q4
+PM
+[119]<a Toro/>
+TTC:US
+1.38
+[120]<a 1.40/>
+1.35B
+[121]<a 1.35B/>
+$6.95B
+Q2
+AM
+[122]<a Vail Resorts/>
+MTN:US
+10.17
+[123]<a 9.54/>
+1.31B
+[124]<a 1.28B/>
+$5.2B
+Q3
+PM
+[125]<a Restoration Hardware/>
+RH:US
+-0.0693
+[126]<a -0.40/>
+818.06M
+[127]<a 727M/>
+$3.41B
+Q1
+PM
+... 1627 pixels below - scroll or extract content to see more ...
+Current step: 4/100Current date and time: 2025-06-02 23:22
 
  RESPONSE
 {
   "current_state": {
-    "evaluation_previous_goal": "Success - Opened relevant article on earnings announcements",
-    "memory": "Accessed an article on Investopedia that discusses earnings announcements and their impact. Need to analyze and summarize key points. Next goal is to read and extract insight from this article about earnings announcements.",
-    "next_goal": "Extract key insights from the article."
+    "evaluation_previous_goal": "Unknown - Encountered an issue inputting text",
+    "memory": "Attempted to input analysis criteria for impactful events. Need to change my approach to analyze directly from extracted data.",
+    "next_goal": "Manually analyze the extracted earnings data and summarize the 10 most impactful events."
   },
   "action": [
     {
       "scroll_down": {
-        "amount": 300
+        "amount": 200
       }
     }
   ]

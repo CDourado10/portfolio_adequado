@@ -1,19 +1,112 @@
-{
-    "articles": [
-        {
-            "source": "CoinDesk",
-            "title": "crypto for advisors: memcoins",
-            "date": "2025-03-13 15:00",
-            "summary": "memecoins have gained mainstream visibility recently...",
-            "link": "https://www.coindesk.com/coindesk-indices/2025/03/12/crypto-for-advisors-memcoins"
-        },
-        {
-            "source": "Cointelegraph",
-            "title": "us cpi comes in lower than expected — are rate cuts coming?",
-            "date": "2025-03-12 22:15",
-            "summary": "The latest us core consumer price index (cpi) print...",
-            "link": "https://cointelegraph.com/news/us-cpi-lower-expected-rate-cuts-coming"
-        }
-        // More unique and cleaned articles would follow
-    ]
-}
+[
+  {
+    "title": "Kargo Raises $18.4 Million To Develop AI-Powered Products For Supply Chains",
+    "description": "Kargo raised $18.4 million to develop new artificial intelligence (AI)-powered products that connect supply chain data to help with inventory management. The company currently offers products that connect logistics information with inventory optimization.",
+    "source": "Pymnts.com",
+    "date": "2025-06-06T17:54:00Z",
+    "link": "http://www.pymnts.com/news/investment-tracker/2025/kargo-raises-18-4-million-to-develop-ai-powered-products-for-supply-chains/",
+    "reliabilityScore": 0.85,
+    "sentiment": "Bullish",
+    "sentimentScore": 0.44,
+    "topics": ["Supply Chain", "Artificial Intelligence", "Investment", "Logistics", "Technology"]
+  },
+  {
+    "title": "Avax Surges 6% After Musk-Trump Dispute Sell-Off",
+    "description": "Buyers show strong accumulation patterns at key support levels despite broader market uncertainty following market reaction to a feud between Elon Musk and Donald Trump.",
+    "source": "Coindesk",
+    "date": "2025-06-06T15:33:00Z",
+    "link": "https://www.coindesk.com/markets/2025/06/06/avax-surges-6-after-musk-trump-dispute-sell-off",
+    "reliabilityScore": 0.93,
+    "sentiment": "Somewhat-Bullish",
+    "sentimentScore": 0.26,
+    "topics": ["Cryptocurrency", "AVAX", "Market Trends", "Stocks"]
+  },
+  {
+    "title": "Jim Cramer Analyzes Stocks That Recently Hit New 52-Week Highs",
+    "description": "CNBC's Jim Cramer suggested looking at stocks that recently hit new 52-week highs to understand market trends and themes.",
+    "source": "CNBC",
+    "date": "2025-06-05T23:06:00Z",
+    "link": "https://www.cnbc.com/2025/06/05/jim-cramer-analyzes-stocks-that-recently-hit-new-52-week-highs.html",
+    "reliabilityScore": 0.95,
+    "sentiment": "Neutral",
+    "sentimentScore": 0.10,
+    "topics": ["Stocks", "Market Trends", "Investment"]
+  },
+  {
+    "title": "Oro Labs Adds AI Agent Builder To Procurement Orchestration Platform",
+    "description": "Oro Labs added new agentic artificial intelligence capabilities to its intake management and procurement orchestration platform. These additions include pre-built AI agents as well.",
+    "source": "Pymnts.com",
+    "date": "2025-06-05T19:30:00Z",
+    "link": "http://www.pymnts.com/news/artificial-intelligence/2025/oro-labs-adds-ai-agent-builder-procurement-orchestration-platform/",
+    "reliabilityScore": 0.85,
+    "sentiment": "Bullish",
+    "sentimentScore": 0.46,
+    "topics": ["Artificial Intelligence", "Procurement", "Supply Chain", "Technology"]
+  },
+  {
+    "title": "Leveraged Bitcoin Longs On Bitfinex Weakest Since December And It Could Mean Rally Time",
+    "description": "Leveraged bitcoin longs on Bitfinex have dropped to their lowest since December, suggesting a bullish trend for Bitcoin.",
+    "source": "Coindesk",
+    "date": "2025-06-05T13:04:00Z",
+    "link": "https://www.coindesk.com/markets/2025/06/05/leveraged-bitcoin-longs-on-bitfinex-weakest-since-december-and-it-could-mean-rally-time",
+    "reliabilityScore": 0.93,
+    "sentiment": "Bullish",
+    "sentimentScore": 0.48,
+    "topics": ["Bitcoin", "Cryptocurrency", "Market Analysis"]
+  },
+  {
+    "title": "What Are $300K Bitcoin Call Options, And Why Are Traders Buying Them Like Lottery Tickets?",
+    "description": "Traders are betting big on Bitcoin soaring to $300,000 by the end of June 2025, but is this bold options strategy a smart move or a high-risk gamble?",
+    "source": "Cointelegraph",
+    "date": "2025-06-04T14:55:00Z",
+    "link": "https://cointelegraph.com/explained/what-are-300k-bitcoin-call-options-and-why-are-traders-buying-them-like-lottery-tickets",
+    "reliabilityScore": 0.87,
+    "sentiment": "Neutral",
+    "sentimentScore": 0.12,
+    "topics": ["Bitcoin", "Options", "Cryptocurrency", "Derivatives"]
+  },
+  {
+    "title": "JPMorgan Chase Appoints Marianne Lake To Head Overseas Consumer Banking",
+    "description": "JPMorgan Chase has reportedly given Marianne Lake, the head of its consumer and community banking division, the additional responsibility of overseeing its overseas consumer banking arm and strategy.",
+    "source": "Pymnts.com",
+    "date": "2025-06-03T19:47:00Z",
+    "link": "http://www.pymnts.com/personnel/2025/report-jpmorgan-chase-appoints-marianne-lake-to-head-overseas-consumer-banking/",
+    "reliabilityScore": 0.89,
+    "sentiment": "Bullish",
+    "sentimentScore": 0.39,
+    "topics": ["JPMorgan", "Banking", "Personnel", "Finance"]
+  },
+  {
+    "title": "Bitcoin Taps $106K Liquidity As Bulls Defend Price With $260M Bid",
+    "description": "BTC price action is already hunting liquidity immediately above price as support thickens, but market analysis doubts that new highs will come this week.",
+    "source": "Cointelegraph",
+    "date": "2025-06-03T15:11:00Z",
+    "link": "https://cointelegraph.com/news/bitcoin-160k-liquidity-bulls-defend-price-260m-in-place",
+    "reliabilityScore": 0.87,
+    "sentiment": "Neutral",
+    "sentimentScore": 0.09,
+    "topics": ["Bitcoin", "Liquidity", "Cryptocurrency", "Market Analysis"]
+  },
+  {
+    "title": "The Fed's Word Of The Day: 'Uncertainty'",
+    "description": "In recent speeches and appearances by policymakers at the Federal Reserve, one word in particular has been a central theme: 'uncertainty.'",
+    "source": "Investopedia",
+    "date": "2025-06-03T21:05:00Z",
+    "link": "https://www.investopedia.com/the-fed-s-word-of-the-day-uncertainty-11747606",
+    "reliabilityScore": 0.90,
+    "sentiment": "Neutral",
+    "sentimentScore": 0.07,
+    "topics": ["Federal Reserve", "Economy", "Monetary Policy"]
+  },
+  {
+    "title": "House Democrats Claim SEC Is Denying Them Key Info On Crypto Bill",
+    "description": "Democrats say the agency refuses to provide them needed analysis of a crypto bill, but has given this support to Republicans, in a partisan escalation.",
+    "source": "Decrypt",
+    "date": "2025-06-03T22:03:00Z",
+    "link": "https://decrypt.co/323521/house-democrats-claim-sec-denying-key-info-crypto-bill",
+    "reliabilityScore": 0.92,
+    "sentiment": "Bearish",
+    "sentimentScore": -0.19,
+    "topics": ["Regulation", "SEC", "Cryptocurrency", "Legislation", "Politics"]
+  }
+]

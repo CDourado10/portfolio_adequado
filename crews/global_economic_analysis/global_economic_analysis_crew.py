@@ -30,7 +30,7 @@ class GlobalEconomicAnalysisCrew:
             config=self.agents_config['monetary_analyst'],
             verbose=True,
             tools=[EconomicCalendarTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -39,7 +39,7 @@ class GlobalEconomicAnalysisCrew:
             config=self.agents_config['macro_analyst'],
             verbose=True,
             tools=[EconomicCalendarTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -48,7 +48,7 @@ class GlobalEconomicAnalysisCrew:
             config=self.agents_config['impact_analyst'],
             verbose=True,
             tools=[EconomicCalendarTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @task

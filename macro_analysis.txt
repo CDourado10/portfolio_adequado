@@ -1,71 +1,200 @@
-**Economic Events Analysis Report**
+Detailed Analytical Report on Economic Events – Next Week
 
-**Event Overview:**  
-This report analyzes significant economic events occurring from October 30, 2023, to November 3, 2023. Each event is assessed based on variations against market expectations, contextual considerations, historical impacts, and interdependencies with other indicators.
+1. US Inflation Rate (YoY) – May (June 11, 09:30 AM ET)
+
+Variation Assessment:
+- Market expectations: Headline CPI YoY at 3.4%; MoM at 0.1%. 
+- Historical: Apr: 3.4% (YoY), 0.3% (MoM); Mar: 3.5% (YoY), 0.4% (MoM).
+- Context: Continued moderation in MoM prints; YoY stable, no acceleration.
+
+Indicator Context:
+- CPI is the primary inflation gauge for setting Fed policy.
+- The lower MoM expectation (0.1% vs. previous 0.3%) suggests markets anticipate abating price pressures, possibly due to base effects or recent commodity stagnation.
+- Stable YoY readings indicate entrenched inflationary pressures above the Fed’s 2% target, but no evidence of reacceleration.
+
+Typical Observed Impacts:
+- Inline or below-expectation prints historically result in risk-on moves (higher equities, weaker USD, falling Treasury yields).
+- Surprises to the upside, especially in MoM, tend to spark risk-off moves (falling equities, stronger USD, higher yields).
+- MoM readings are especially market sensitive as they capture very recent inflation dynamics.
+
+Correlated Indicators:
+- Closely linked to Core CPI, PPI, and consumer confidence indicators.
+- Consistent moderation supports dovish Fed pivot expectations.
+- CPI surprise often affects US Dollar Index (DXY), gold, and S&P 500 futures in real time.
+
+2. G7 Summit (June 13, All day)
+Variation Assessment:
+- No direct economic print; key is tone/consensus on geopolitical or macro themes.
+
+Indicator Context:
+- Frequently a venue for coordination (e.g., on sanctions, taxes, fiscal support) that can manifest in sudden FX or equity market volatility.
+- This year’s agenda (Ukraine, global growth, inflation) puts focus on any sign of unified intervention/support and any trade or sanctions signals.
+
+Typical Observed Impacts:
+- Major statements can lead to abrupt USD, EUR, GBP moves and shifts in global equity sentiment.
+- Absence of coordinated action generally means muted market impact; sharp statements on trade, Russia/Ukraine or inflation have historically driven safe-haven flows.
+- Greater risk to currencies and sovereign bonds than day-to-day economic data.
+
+Correlated Indicators:
+- FX volatility indices (e.g., JPMorgan G7 Vol Index), oil/gold prices (under geopolitical stress).
+- Secondary impacts on global risk proxies (e.g., S&P 500, Eurostoxx, EMFX basket).
+
+3. US Initial Jobless Claims – Week of June 7 (June 12, 09:30 AM ET)
+
+Variation Assessment:
+- Consensus: 225k new claims, steadily rising from 215k in mid-May to 220k last week.
+- Upward trend over last four weeks, but still below recessionary levels (>300k).
+
+Indicator Context:
+- Early weekly read on labor market health.
+- Increases above 250K typically signal turning points for labor markets; steady sub-250k is considered expansionary/stable.
+- Weak labor prints would reinforce dovish Fed path.
+
+Typical Observed Impacts:
+- Few thousand claims above/below consensus rarely sway markets unless confirmed by a trend.
+- Sharp increases may trigger Treasury rallies and risk-off, declines support equity markets.
+- Market more sensitive now due to labor’s role in sticky service inflation.
+
+Correlated Indicators:
+- Non-farm payrolls, JOLTS quits/hiring rates, Michigan Sentiment’s jobs component.
+- A sustained drift above 230-240k would raise recession alarms when paired with falling payrolls.
+
+4. US PPI (YoY & MoM) – May (June 12, 09:30 AM ET)
+
+Variation Assessment:
+- Market expects 2.5% YoY, 0.2% MoM (vs. April 2.2% YoY, 0.5% MoM).
+- Signals acceleration in YoY but moderation in MoM data.
+
+Indicator Context:
+- PPI acts as a leading indicator for CPI as it measures input costs faced by producers that eventually filter into retail prices.
+- The expected lower MoM print could allay concerns about pipeline pricing pressure, despite faster YoY.
+
+Typical Observed Impacts:
+- Higher-than-expected PPI often leads to immediate upward pressure on bond yields and the USD, as it feeds inflation expectations.
+- Market impact is higher when PPI reverses trend or when MoM is volatile.
+
+Correlated Indicators:
+- CPI (particularly goods component), Core CPI, ISM Prices Paid.
+- A low PPI mitigates inflation fears; high linkage with S&P 500 sector moves (industrials and consumer staples).
+
+5. US Core CPI (Ex-Food/Energy) – May (June 11, 09:30 AM ET)
+
+Variation Assessment:
+- Expectations: 3.5% YoY, 0.3% MoM. Prior: 3.6% YoY, 0.3% MoM.
+- Reflects steady/slightly decelerating trend in underlying inflation pressures.
+
+Indicator Context:
+- Closely watched by the Fed to gauge persistent inflation excluding energy/food volatility.
+- Still above target, but gradual easing boosts expectations for rate cuts later in 2024.
+
+Typical Observed Impacts:
+- If MoM is 0.2% or less, market will likely price even more aggressive rate cuts, bullish for risk assets and Treasuries.
+- Surprises above 0.4% MoM can provoke bond market selloffs, USD strength.
+
+Correlated Indicators:
+- Fed’s preferred supercore inflation, PCE deflator.
+- In concert with wage data, guides FOMC’s “higher for longer” narrative.
+
+6. China Balance of Trade – May (June 9, 12:00 AM Beijing)
+
+Variation Assessment:
+- Expectations: surplus +$70bn, exports +6.5%, imports +4.5%.
+- Previous: Apr surplus +$72.3bn, exports +8.6%, imports +6.8%.
+
+Indicator Context:
+- Slight moderation in export/import growth expected; still robust and signaling both resilient external demand and stabilizing domestic recovery.
+- Trade balance levels matter for CNY direction and emerging market (EM) sentiment.
+
+Typical Observed Impacts:
+- Outperformance strengthens CNY and lifts sentiment in RMB-sensitive assets (commodities, Asian equities).
+- Misses can spark CNY depreciation and global risk-off, especially if coupled with weak import growth (reflecting weak Chinese demand).
+
+Correlated Indicators:
+- China Caixin/official PMIs, commodity price indices (iron ore, copper), cross-border capital flows.
+- Indirect linkage to export-driven economies (Germany, South Korea).
+
+7. UK Unemployment & Wage Data – Apr (June 10, 03:00 AM London)
+
+Variation Assessment:
+- Unemployment expected at 4.4% (up from 4.3%); earnings growth seen steady at 5.7%.
+- Slight further labor loosening, but wage growth remains elevated.
+
+Indicator Context:
+- Wage growth far outpaces BoE’s inflation target, even as unemployment edges up.
+- Labor market cooling is a precondition for BoE to cut rates, but sticky wages complicate the debate.
+
+Typical Observed Impacts:
+- High wage prints have supported GBP and prompted hawkish BoE rhetoric.
+- Weak jobs data (rising unemployment) could unanchor GBP if wage growth softens simultaneously.
+
+Correlated Indicators:
+- UK CPI, BoE policy statements, PMI employment subcomponents.
+- Similarity to Eurozone labor trends (tight market, sticky wages).
+
+8. US Michigan Consumer Sentiment (Prelim) – June (June 13, 11:00 AM ET)
+
+Variation Assessment:
+- Consensus: 72.0 (up from May: 69.1, but well below April: 77.2).
+- Sentiment remains well below pre-pandemic norms, with recent sharp drop in May.
+
+Indicator Context:
+- Precursor to actual retail sales and spending trends.
+- Sensitive to gas prices, job market headlines, and political/election newsflow.
+
+Typical Observed Impacts:
+- Declines often prompt short-term equity volatility (especially in consumer discretionary).
+- Surprises higher can buoy risky assets; persistent weakness may portend a consumption slowdown.
+
+Correlated Indicators:
+- Conference Board consumer confidence, retail sales (m/m), labor market indicators.
+
+9. Brazil Inflation Rate (IPCA) – May (June 10, 09:00 AM Brasilia)
+
+Variation Assessment:
+- Expectations: 3.9% YoY (Apr: 3.7%); MoM at 0.3%.
+- Gradual rise but within BCB target band (1.75–4.75%).
+
+Indicator Context:
+- Slight pick-up could delay further rate cuts or slow pace of easing, a key driver for BRL and Bovespa.
+- Recent food and fuel volatility a concern for future months.
+
+Typical Observed Impacts:
+- Higher-than-expected readings tend to boost BRL, halt BCB easing bets; equities may underperform on growth/inflation tradeoff.
+- Inline/softer prints reinforce ongoing easing stance; positive for equities, neutral to negative for BRL.
+
+Correlated Indicators:
+- Brazil Selic rate decisions, wage and employment data.
+
+10. Japan PPI (YoY & MoM) – May (June 10, 08:50 PM Tokyo)
+
+Variation Assessment:
+- Expectations: 2.4% YoY, 0.2% MoM, stepping up from recent 1.9%/0.3%.
+- Indicates strengthening upstream price pressures, likely due to yen weakness and higher energy imports.
+
+Indicator Context:
+- Critical for BoJ, which is looking for sustainable pass-through to consumer prices as a prerequisite for ending negative rates.
+- Yen weakness could exaggerate results in local currency terms.
+
+Typical Observed Impacts:
+- Higher PPI tends to lift JGB yields and strengthens expectations for normalization, positive for JPY.
+- Soft PPI slows BoJ policy normalization and may weaken JPY further.
+
+Correlated Indicators:
+- Japanese CPI, wage statistics, Bank of Japan policy guidance.
 
 ---
 
-### 1. 3-Month Bill Auction (October 30, 2023)
-- **Variation Assessment:** Actual outcomes are expected to remain neutral to positive due to consistent previous results and market conditions.
-- **Indicator Context:** Given the stable issuance and low yield historically, this indicates investor confidence and a stable financial environment.
-- **Typical Observed Impacts:** Historically, auctions of short-term bills have contributed little to market volatility except in extreme economic conditions.
-- **Correlated Indicators:** Interest rates on short-term securities often reflect and predict movements in monetary policy. Monitoring Fed decisions following this can reveal broader market trends.
+Summary of Key Correlations and Patterns
 
-### 2. 50-Year KTB Auction (October 30, 2023)
-- **Variation Assessment:** Expectations are positive due to ongoing strong demand, which may diverge appropriately if yields decrease.
-- **Indicator Context:** Yield trends decreasing slightly suggest a shift in investor preference towards long-term securities amid lower risk appetites.
-- **Typical Observed Impacts:** Historical trends show that strong demand can lead to lower yields, supporting long-term borrowing and investment.
-- **Correlated Indicators:** The auction's impact on long-term interest rates can be linked to future growth forecasts and monetary policy shifts.
+- The US inflation trio (Headline CPI, Core CPI, PPI) will drive global risk mood: consistent with recent moderation, market is biased towards risk-on if there are no upside surprises.
+- China’s trade numbers act as a bellwether for global manufacturing and EM risk appetite. Weakness there has knock-on effects for commodity exporters (AUD, CAD, LATAM FX).
+- Labor market releases (US jobless, UK jobs/wages) help calibrate central bank policy paths, while sticky wage growth vs. rising unemployment is a recurring theme in both jurisdictions.
+- Sentiment-driven measures (US Michigan, G7 headlines) may stoke short-term volatility but only alter trends on substantial surprises or coordinated policy statements.
 
-### 3. Wholesale Prices MoM (October 30, 2023)
-- **Variation Assessment:** A slight increase is anticipated, aligning with ongoing economic recovery patterns.
-- **Indicator Context:** Previous months reflected steady growth, indicating potential inflationary pressures.
-- **Typical Observed Impacts:** Moderate increases in wholesale prices often indicate rising retail prices and can prompt changes in consumer expectations.
-- **Correlated Indicators:** This indicator is linked to retail price indexes and consumer sentiment, potentially impacting future Fed policy.
+Opportunities/Risks:
+- Markets are poised for potential repricing on US data: downside CPI/PPI surprises create opportunity for risk assets, yield curve steepeners, and weaker USD trades.
+- G7 Summit injects geopolitical risk, with potential FX and commodity volatility.
+- China and Brazil releases may inspire targeted EM trades, especially in local currency and rates.
 
-### 4. GDP MoM (November 1, 2023)
-- **Variation Assessment:** Positive growth is expected, reflective of robust economic conditions.
-- **Indicator Context:** Historical data supports a trend of continuous growth, suggesting a healthy economic environment.
-- **Typical Observed Impacts:** Strong GDP growth typically boosts market confidence, leading to positive equity market reactions.
-- **Correlated Indicators:** GDP is closely related to employment data, industrial production, and retail sales, which are key signals of overall economic health.
-
-### 5. ECB Cipollone Speech (November 1, 2023)
-- **Variation Assessment:** Market expectation is focused on potential inflation cues.
-- **Indicator Context:** Variability in past speeches indicates that market reactions can be unpredictable based on the content.
-- **Typical Observed Impacts:** Prior speeches have sometimes sparked significant market movements, particularly in foreign exchange and bond markets.
-- **Correlated Indicators:** Interest rates and inflation expectations will likely be impacted; closely watch currency markets in response.
-
-### 6. Michigan Consumer Sentiment Prel (November 3, 2023)
-- **Variation Assessment:** A slight decline is expected, reflecting potential economic anxieties.
-- **Indicator Context:** Historically volatile, this sentiment indicator is strongly influenced by broader economic conditions.
-- **Typical Observed Impacts:** A significant decline might prompt concerns regarding consumer spending, affecting retail sectors.
-- **Correlated Indicators:** Tightly linked with retail sales and broader economic sentiment indices.
-
-### 7. Non-Oil Exports YoY (November 3, 2023)
-- **Variation Assessment:** Stability expected with minor fluctuations, indicating consistent external demand.
-- **Indicator Context:** Historically, this data has had a low impact on broader market sentiment.
-- **Typical Observed Impacts:** Limited reaction from markets, serves generally as a supplementary confirmation of economic health.
-- **Correlated Indicators:** This may correlate weakly with overall trade balances and currency strength.
-
-### 8. Industrial Production YoY (November 3, 2023)
-- **Variation Assessment:** An increase is anticipated, supporting growth trajectories.
-- **Indicator Context:** Month-over-month indicators suggest positive trends in manufacturing output.
-- **Typical Observed Impacts:** Increases in industrial production are often bullish for stock markets, reinforcing growth expectations.
-- **Correlated Indicators:** Interlinked with retail sales and GDP, indicative of supply side strength in the economy.
-
-### 9. Retail Sales MoM (November 3, 2023)
-- **Variation Assessment:** An increase is expected following recent declines, reflecting a rebound in consumer spending.
-- **Indicator Context:** Correlates directly with consumer confidence and purchasing power.
-- **Typical Observed Impacts:** Positive retail sales growth can rejuvenate market sentiment and drive stock prices upward.
-- **Correlated Indicators:** Highly correlated with consumer sentiment, GDP, and wholesale price movements.
-
-### 10. Fed Interest Rate Decision (November 3, 2023)
-- **Variation Assessment:** Expectations lean towards no change in rates, maintaining a growth-supportive stance.
-- **Indicator Context:** Historically stable rates suggest confidence in ongoing economic expansion.
-- **Typical Observed Impacts:** Unchanged rates typically support equity and bond markets, maintaining investor confidence.
-- **Correlated Indicators:** Closely related to inflation indicators, GDP, and employment data which will guide future rate decisions.
-
----
-
-**Conclusion:**  
-By analyzing the upcoming economic events through the lenses of variations against expectations, contextual background, historical impacts, and relative importance to each other, we position ourselves to anticipate market reactions effectively. Monitoring these correlational dynamics will help identify emerging opportunities and risks across financial markets.
+Final Recommendation:
+Monitor headline and core US CPI closely for policy and market guidance. Watch for signs of global consumer weakness (via Michigan, UK jobs/wages, China imports). Be alert to G7 headlines and China trade as key tellers for risk sentiment. Correlated trades in FX, sovereign rates, and global equity indices are expected to be sensitive to deviations and trends established by these high-importance macro prints.

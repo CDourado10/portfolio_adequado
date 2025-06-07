@@ -27,7 +27,7 @@ class MasterPortfolioCrew:
             config=self.agents_config['portfolio_manager'],
             verbose=True,
             tools=[MacroAnalysisPositioningTool(), AssetExplorationTool(), PortfolioOptimizationTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @task
@@ -75,10 +75,9 @@ class MasterPortfolioCrew:
 if __name__ == "__main__":
     crew = MasterPortfolioCrew()
     results = crew.crew().kickoff(inputs={
-        "risk_level": "low",
-        "investment_horizon": "long_term",
-        "asset_types": ["etfs", "bonds", "commodities", "stocks", "cryptocurrencies"]
+        "risk_level": "medium",
+        "investment_horizon": "medium_term",
+        "asset_types": ["etfs", "bonds", "commodities", "stocks"]
     })
 
-    
     print(results)

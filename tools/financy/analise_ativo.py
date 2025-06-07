@@ -5,6 +5,8 @@ import vectorbtpro as vbt
 import numpy as np
 import pandas as pd
 from numba import njit
+import yfinance as yf
+from datetime import datetime, timedelta
 
 class AssetAnalysisInput(BaseModel):
     """Input schema for asset analysis."""
@@ -27,7 +29,39 @@ class AssetDataTool(BaseTool):
         """Runs the analysis for the provided assets."""
         try:
             symbols_list = [s.strip().upper() for s in symbols.split(",")]
-            data = vbt.YFData.pull(symbols_list, start=f"{period} ago", tz="UTC")
+            period_map = {
+                "1 day": "1d",
+                "5 days": "5d",
+                "1 month": "1mo",
+                "3 months": "3mo",
+                "6 months": "6mo",
+                "1 year": "1y",
+                "2 years": "2y",
+                "5 years": "5y",
+                "10 years": "10y",
+                "ytd": "ytd",
+                "max": "max"
+            }
+            user_period = period.strip().lower()
+            yf_period = period_map.get(user_period)
+            if yf_period:
+                data = yf.download(symbols_list, period=yf_period)
+            else:
+                # fallback: tenta converter para data
+                try:
+                    n, unidade = user_period.split()
+                    n = int(n)
+                    if "month" in unidade:
+                        delta = timedelta(days=30 * n)
+                    elif "year" in unidade:
+                        delta = timedelta(days=365 * n)
+                    else:
+                        delta = timedelta(days=n)
+                    start = (datetime.now() - delta).strftime('%Y-%m-%d')
+                    data = yf.download(symbols_list, start=start)
+                except Exception as e:
+                    raise ValueError(f"Período '{period}' inválido para análise.")
+            print(data)
             closes = data.get("Close")
             closes = closes.resample('1D').last().ffill().bfill()
 

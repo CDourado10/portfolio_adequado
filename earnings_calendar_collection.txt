@@ -1,32 +1,138 @@
-Structured earnings base:
+Structured Earnings Database: Major Corporate Reports for Next Week (Ordered by Market Cap)
 
-1. **Companies Ordered by Market Cap**
-   - **Tencent Holdings** (700:HK)
-     - EPS: 5.71, Consensus: 4.54, Revenue: 169.33B, MarketCap: $602.35B, Release Timing: Pre-market
-   - **PDD Holdings** (PDD:US)
-     - EPS: 19.86, Consensus: 17.32, Revenue: 115.04B, MarketCap: $159.38B, Release Timing: Post-market
-   - **Enel** (ENEL:IM)
-     - EPS: 0.11, Consensus: 0.12, Revenue: 21.313B, MarketCap: $76.78B, Release Timing: Pre-market
-   - **Assicurazioni Generali** (G:IM)
-     - EPS: 1.29, Consensus: 0.94, Revenue: 22.39B, MarketCap: $54.05B, Release Timing: Pre-market
-   - **BMW** (BMW:GR)
-     - EPS: 2.41, Consensus: 2.91, Revenue: 36.42B, MarketCap: $50.56B, Release Timing: Pre-market
-   - **Daimler Truck Holding AG** (DTG:GR)
-     - Consensus: 0.87, Previous: 1.48, MarketCap: $34.44B, Release Timing: Pre-market
-   - **General Mills** (GIS:US)
-     - EPS: 0.98, Consensus: 1.17, Revenue: 5.02B, MarketCap: $33.96B, Release Timing: Pre-market
-   - **Williams Sonoma** (WSM:US)
-     - Consensus: 2.90, Previous: 5.44, Revenue: 2.34B, MarketCap: $10.77B, Release Timing: Post-market
-   - **WuXi AppTec** (603259:CH)
-     - Consensus: 1.09, Previous: 0.76, Revenue: 11.5B, MarketCap: $21.08B, Release Timing: Pre-market
-   - **Computacenter** (CCC:LN)
-     - Consensus: 1.08, Previous: 0.96, Revenue: 3.77B, MarketCap: $5.55B, Release Timing: Post-market
+--------------------------------------------------------------------------------------------------
+1. Oracle (ORCL:US)
+   - Market Cap: $358.02B
+   - Sector: Technology / Software & Services
+   - Earnings Period: Q4
+   - Result Timing: Wednesday, June 11, After Market Close (PM)
+   - Market Expectations: 
+       - EPS (consensus): $1.65
+       - Revenue (consensus): $14.57B
+   - Recent Company History: 
+       - Q3 2024: EPS $1.41 (beat by $0.01), Revenue $13.28B (+7.1% YoY)
+       - Consistent cloud revenue growth; focus on AI-infrastructure demand.
 
-2. **EPS and Revenue Expectations**
-   - Companies have varied expectations for EPS and revenue, with some showing positive growth while others face declines.
+--------------------------------------------------------------------------------------------------
+2. Inditex (ITX:SM)
+   - Market Cap: $165.72B
+   - Sector: Consumer Discretionary / Apparel Retail
+   - Earnings Period: Q1
+   - Result Timing: Wednesday, June 11 (Market Open, Europe)
+   - Market Expectations: 
+       - EPS (consensus): €0.49
+       - Revenue (consensus): €8.14B
+   - Recent Company History: 
+       - Q4 2023: EPS €0.55 (in line), Revenue €9.15B (+9% YoY)
+       - Outperformed peers on digital & physical sales blend.
 
-3. **Release Timing**
-   - Most companies are reporting results pre-market, while others are scheduled for post-market releases.
+--------------------------------------------------------------------------------------------------
+3. Adobe Systems (ADBE:US)
+   - Market Cap: $153.08B
+   - Sector: Technology / Application Software
+   - Earnings Period: Q2
+   - Result Timing: Thursday, June 12, After Market Close (PM)
+   - Market Expectations: 
+       - EPS (consensus): $4.39
+       - Revenue (consensus): $5.14B
+   - Recent Company History:
+       - Q1 2024: EPS $4.48 (beat by $0.02), Revenue $5.18B (+9.7% YoY)
+       - Creative Cloud and Document Cloud continue strong subscription growth.
 
-4. **Recent Company History**
-   - Recent performance varies, with notable fluctuations observed in the EPS figures and revenue projections based on past trends.
+--------------------------------------------------------------------------------------------------
+4. Kroger (KR:US)
+   - Market Cap: $50.63B
+   - Sector: Consumer Staples / Food Retail
+   - Earnings Period: Q1
+   - Result Timing: Thursday, June 12, Before Market Open (AM)
+   - Market Expectations:
+       - EPS (consensus): $1.32
+       - Revenue (consensus): $37.11B
+   - Recent Company History:
+       - Q4 2023: EPS $1.34 (beat by $0.03), Revenue $37.06B (+6.1% YoY)
+       - Ongoing merger with Albertsons under regulatory review.
+
+--------------------------------------------------------------------------------------------------
+5. Dollarama (DOL:CN)
+   - Market Cap: $34.82B
+   - Sector: Consumer Staples / Discount Retail
+   - Earnings Period: Q1
+   - Result Timing: Wednesday, June 11, Before Market Open (AM)
+   - Market Expectations:
+       - EPS (consensus): C$0.80
+       - Revenue (consensus): C$1.41B
+   - Recent Company History: 
+       - Q4 2023: EPS C$0.95 (beat by C$0.03), Revenue C$1.64B (+10.9% YoY)
+       - Value-oriented sales accelerate in inflationary environment.
+
+--------------------------------------------------------------------------------------------------
+6. Casey's General Stores (CASY:US)
+   - Market Cap: $16.94B
+   - Sector: Consumer Staples / Convenience Stores
+   - Earnings Period: Q4
+   - Result Timing: Monday, June 9, After Market Close (PM)
+   - Market Expectations:
+       - EPS (consensus): $1.74
+       - Revenue (consensus): $3.61B
+   - Recent Company History: 
+       - Q3 2024: EPS $2.23 (beat by $0.06), Revenue $3.33B (+7.4% YoY)
+       - Store expansion and fuel margins in focus.
+
+--------------------------------------------------------------------------------------------------
+7. J.M. Smucker (SJM:US)
+   - Market Cap: $12.33B
+   - Sector: Consumer Staples / Food Products
+   - Earnings Period: Q4
+   - Result Timing: Tuesday, June 10, Before Market Open (AM)
+   - Market Expectations:
+       - EPS (consensus): $2.45
+       - Revenue (consensus): $2.39B
+   - Recent Company History:
+       - Q3 2024: EPS $2.48 (beat by $0.04), Revenue $2.23B (+4.7% YoY)
+       - Dog food and coffee segments outperforming.
+
+--------------------------------------------------------------------------------------------------
+8. GameStop (GME:US)
+   - Market Cap: $8.16B
+   - Sector: Consumer Discretionary / Specialty Retail
+   - Earnings Period: Q1
+   - Result Timing: Tuesday, June 10, After Market Close (PM)
+   - Market Expectations:
+       - EPS (consensus): -$0.09
+       - Revenue (consensus): $882M
+   - Recent Company History:
+       - Q4 2023: EPS $0.22 (beat by $0.08), Revenue $1.79B (-19% YoY)
+       - E-commerce transition struggles; meme stock volatility persists.
+
+--------------------------------------------------------------------------------------------------
+9. Restoration Hardware (RH:US)
+   - Market Cap: $3.31B
+   - Sector: Consumer Discretionary / Home Furnishings
+   - Earnings Period: Q1
+   - Result Timing: Thursday, June 12, After Market Close (PM)
+   - Market Expectations:
+       - EPS (consensus): $1.54
+       - Revenue (consensus): $725M
+   - Recent Company History: 
+       - Q4 2023: EPS $1.72 (missed), Revenue $738M (-4.4% YoY)
+       - Margin pressure from luxury housing softness.
+
+--------------------------------------------------------------------------------------------------
+10. ABM Industries (ABM:US)
+    - Market Cap: $2.9B
+    - Sector: Industrials / Facilities Services
+    - Earnings Period: Q2
+    - Result Timing: Friday, June 13, Before Market Open (AM)
+    - Market Expectations:
+       - EPS (consensus): $0.91
+       - Revenue (consensus): $2.05B
+    - Recent Company History: 
+       - Q1 2024: EPS $0.95 (beat), Revenue $2.01B (+2.8% YoY)
+       - Contract wins stabilize growth in a slow commercial environment.
+
+--------------------------------------------------------------------------------------------------
+
+Summary:
+- Companies are ordered by market capitalization.
+- Each entry includes sector, reporting period, estimated EPS & revenue (market consensus), precise release time (pre/post/open), and recent financial performance to contextualize tracking.
+- This database allows for time-sensitive monitoring and historical performance comparison structured for calendar-driven analysis of major corporate results in the upcoming week.

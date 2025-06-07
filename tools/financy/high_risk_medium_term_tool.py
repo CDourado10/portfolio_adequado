@@ -150,12 +150,40 @@ class HighRiskMediumTermTool(BaseTool):
             for symbol in symbols_list:
                 try:
                     print(f"Fetching data for {symbol}...")
-                    symbol_data = vbt.YFData.pull(
-                        [symbol],
-                        start=f"-{period}",
-                        tz="UTC",
-                        silence_warnings=True
-                    )
+                    # Busca os dados históricos com tratamento robusto de período
+                    period_map = {
+                        "1 day": "1d",
+                        "5 days": "5d",
+                        "1 month": "1mo",
+                        "3 months": "3mo",
+                        "6 months": "6mo",
+                        "1 year": "1y",
+                        "2 years": "2y",
+                        "5 years": "5y",
+                        "10 years": "10y",
+                        "ytd": "ytd",
+                        "max": "max"
+                    }
+                    user_period = period.strip().lower()
+                    yf_period = period_map.get(user_period)
+                    import yfinance as yf
+                    from datetime import datetime, timedelta
+                    if yf_period:
+                        symbol_data = yf.download([symbol], period=yf_period)
+                    else:
+                        try:
+                            n, unidade = user_period.split()
+                            n = int(n)
+                            if "month" in unidade:
+                                delta = timedelta(days=30 * n)
+                            elif "year" in unidade:
+                                delta = timedelta(days=365 * n)
+                            else:
+                                delta = timedelta(days=n)
+                            start = (datetime.now() - delta).strftime('%Y-%m-%d')
+                            symbol_data = yf.download([symbol], start=start)
+                        except Exception as e:
+                            raise ValueError(f"Período '{period}' inválido para análise.")
                     
                     if symbol_data is not None:
                         close = symbol_data.get('Close')

@@ -1,50 +1,131 @@
-## Stock Market Summary (as of March 14, 2025)
-
-### Index Performance:
-1. **US500**: 
-   - **Current Price**: 5,616.70 
-   - **Daily Change**: 🟢 +1.72% 
-   - **YTD Change**: 🔴 -4.50%
-   
-2. **US30**: 
-   - **Current Price**: 41,367.00 
-   - **Daily Change**: 🟢 +1.36% 
-   - **YTD Change**: 🔴 -2.77%
-   
-3. **US100**: 
-   - **Current Price**: 19,612.00 
-   - **Daily Change**: 🟢 +2.01% 
-   - **YTD Change**: 🔴 -6.66%
-   
-4. **JP225**: 
-   - **Current Price**: 37,566.00 
-   - **Daily Change**: 🟢 +2.11% 
-   - **YTD Change**: 🔴 -5.84%
-   
-5. **DE40**: 
-   - **Current Price**: 22,952.00 
-   - **Daily Change**: 🟢 +1.70% 
-   - **YTD Change**: 🟢 +15.28%
-
-6. **Additional Major Indices**: 
-   - Notable rises in **IT40**: 🟢 +2.22% and **IBOVESPA**: 🟢 +2.25%.
-
-### Sector Movements:
-- The market is showing a **cautious optimism**, with indices such as **DE40**, **IT40**, and **IBOVESPA** showing resilience in the face of overall mixed performances.
-- Performance is varied, with sectors such as Technology and Energy showing positive trends particularly in North America and Europe.
-
-### Volatility Measures:
-- Daily volatility appears contained but varies by index, with **US100** showing higher volatility (+2.01% daily) compared to others indicating stronger investor activity.
-- The overall market sentiment suggests cautions due to mixed weekly and monthly performances.
-
-### Market Breadth:
-- Positive breadth is supported by indices like **US500**, **US30**, and **DE40**, indicating a potential improvement in market health as reflected by daily rises across major indices.
-- Caution for indices such as **SENSEX** and **ASX200** suggests sector-specific pressures that may affect growth.
-
-### Technical Signals:
-- Most indices exhibit signals of short-term upward trends, particularly those with recent daily gains, indicating a correction phase after recent weekly declines.
-- The considerable positive moves in Eastern markets such as **HK50** (🟢 +2.96%) highlight the potential for continued recovery in Asia.
+─────────────────────
+STOCK MARKET SUMMARY REPORT
+Date: 06/07/2025 15:11 (Trading Economics Data)
 
 ---
 
-This summary reflects the latest market dynamics, capturing key performance indicators, sectoral shifts, volatility, breadth, and technical signals relevant for traders and analysts. Continual monitoring is advised for ongoing assessment of market conditions as economic indicators evolve.
+## 1. Index Performance
+
+### Major Index Levels, Daily, and YTD Movements
+
+| Index      | Level      | Daily Change | Weekly | Monthly | YTD   | Year   | Status   |
+|------------|------------|--------------|--------|---------|-------|--------|----------|
+| US500      | 6,000.36   | 🟢 +1.03%    | +1.50% | +6.55%  | +2.02% | +12.22% | Closed   |
+| US30       | 42,763.00  | 🟢 +1.05%    | +1.17% | +4.01%  | +0.51% | +10.22% | Closed   |
+| US100      | 21,762.00  | 🟢 +0.99%    | +1.97% | +9.53%  | +3.57% | +14.53% | Closed   |
+| JP225      | 37,742.00  | 🟢 +0.50%    | -0.59% | +2.62%  | -5.40% | -2.44%  | Closed   |
+| GB100      | 8,838.00   | 🟢 +0.31%    | +0.75% | +3.25%  | +8.14% | +7.19%  | Closed   |
+| DE40       | 24,304.00  | 🔴 -0.08%    | +1.28% | +5.14%  | +22.08%| +30.97% | Closed   |
+| FR40       | 7,805.00   | 🟢 +0.19%    | +0.68% | +2.33%  | +5.75% | -2.46%  | Closed   |
+| IT40       | 40,602.00  | 🟢 +0.55%    | +1.28% | +5.96%  | +18.77%| +17.14% | Closed   |
+| ES35       | 14,248.00  | 🟢 +0.31%    | +0.67% | +5.69%  | +22.88%| +24.93% | Closed   |
+| ASX200     | 8,516.00   | 🔴 -0.27%    | +0.96% | +4.13%  | +4.37% | +8.34%  | Closed   |
+| SHANGHAI   | 3,385.00   | 🟢 +0.04%    | +1.13% | +1.28%  | +1.00% | +10.95% | Closed   |
+| SENSEX     | 82,189.00  | 🟢 +0.92%    | +0.91% | +1.79%  | +5.18% | +7.17%  | Closed   |
+| TSX        | 26,429.00  | 🟢 +0.33%    | +0.97% | +5.04%  | +6.88% | +20.09% | Closed   |
+| MOEX       | 2,786.00   | 🔴 -2.47%    | -1.51% | -1.66%  | -3.36% | -13.83% | Closed   |
+| IBOVESPA   | 136,102.00 | 🔴 -0.10%    | -0.67% | +2.03%  | +13.15%| +12.70% | Closed   |
+| IPC        | 58,061.00  | 🟢 +0.49%    | +0.38% | +0.18%  | +17.18%| +9.60%  | Closed   |
+| NL25       | 930.00     | 🟢 +0.48%    | +0.76% | +3.78%  | +5.84% | +0.67%  | Closed   |
+| CH20       | 12,366.00  | 🟢 +0.39%    | +1.14% | +2.08%  | +6.60% | +0.91%  | Closed   |
+| SAALL      | 96,366.00  | 🔴 -0.05%    | +2.16% | +5.32%  | +14.59%| +25.39% | Closed   |
+| STI        | 3,934.00   | 🟢 +0.42%    | +1.02% | +1.78%  | +3.87% | +18.12% | Closed   |
+| HK50       | 23,793.00  | 🔴 -0.48%    | +2.16% | +4.85%  | +18.61%| +29.54% | Closed   |
+| NZX 50     | 12,563.00  | 🔴 -0.11%    | +1.16% | +0.53%  | -4.17% | +5.96%  | Closed   |
+| EU50       | 5,428.00   | 🟢 +0.32%    | +1.14% | +3.78%  | +10.86%| +7.45%  | Closed   |
+
+**Summary:**  
+- Virtually all major global indices posted daily gains, with the US (US500, US30, US100), Europe (DE40, IT40, ES35), India (SENSEX), and Latin America (IPC) maintaining solid uptrends YTD and YoY.
+- Notable weakness: Russia (MOEX negative across all timeframes), Japan (JP225 still down YTD), and New Zealand (NZX 50 down YTD).
+- The strongest YTD are ES35 (+22.88%), DE40 (+22.08%), HK50 (+18.61%), and IT40 (+18.77%).  
+- Slight daily losses (DE40, ASX200, MOEX, IBOVESPA, HK50, NZX 50) stand as minor pauses within broader upward trends.
+
+---
+
+## 2. Sector Movements & Market Internals
+
+**Global Rotation Dynamics (Synthesized from available data and macro context):**
+- **US/Europe:** Evidence of continued sector rotation into cyclical/value and international markets, as seen by the outperformance of IT40, ES35, DE40, HK50, and SAALL, despite ongoing macro headwinds.
+- **US:** Recent outperformance in Technology (US100 +3.57% YTD) and Industrials (US30 +0.51% YTD), with the broader market (US500 +2.02% YTD) held back by mixed macro releases (GDP contraction, but historic trade surplus and mixed PMIs).
+- **Europe:** Eurozone indices showcase robust gains—especially DE40, ES35, and IT40—coinciding with strong positive surprises in GDP, current account, and a market-friendly ECB rate cut (see macro report).
+- **Asia:** HK50 (+18.61% YTD) and SENSEX (+5.18% YTD) reflect strong regional flows. Japan remains a relative laggard, hinting at profit-taking and policy normalization effects.
+- **Emerging/LatAm/Commodity:** SAALL (+14.59% YTD) and IPC (+17.18% YTD) indicate increased investor appetite for risk, aligned with global "risk-on" sentiment and EM currency strength.
+- **Defensives:** Slight lag in more defensive/consumer sectors as investors rotate toward perceived growth/value opportunities.
+
+**Consolidated Sector Signal:**  
+Rotation favors cyclicals, industrials, and financials, with defensive/staples underweight. Eurozone’s strong GDP and China’s policy easing underpin international sector flows.
+
+---
+
+## 3. Volatility Measures
+
+- **Indices show moderate to mild daily/weekly price swings; no outsized volatility:**  
+  - US daily moves (US500, US30: ~+1%) are constructive, not extreme.
+  - Europe’s leading indices (DE40, ES35, IT40) show enhanced momentum with generally low-to-moderate realized volatility.
+- **Bond and currency market reviews confirm no signs of stress spilling into equities.**
+- **No sudden multi-standard deviation price shocks observed in any index.**
+
+---
+
+## 4. Market Breadth
+
+- **Positive breadth dominates:**  
+  - 18/23 of the tracked indices posted daily gains, and most have positive returns over weekly, monthly, and YTD frames.
+  - Breadth broadens internationally—with Italy, Spain, Germany, and Hong Kong up double digits YTD, alongside strong leadership in select EM indices (IPC, SAALL, HK50).
+- **Few laggards:**  
+  - MOEX, JP225, NZX 50 remains negative YTD or over the year, mainly on regional and policy headwinds.
+
+---
+
+## 5. Technical Signals
+
+- **Trend & Strength:**  
+  - Multiple indices have broken out to new highs (US500, DE40, ES35, SAALL, HK50) or continue to consolidate at/near highs after Q2 rallies.
+  - Support from improving macro conditions in Europe/LatAm confirms trend durability for these markets.
+- **Momentum:**  
+  - Upside momentum highest in cyclical/geographical laggards now catching bids (HK50, ES35, IT40, SAALL), and in Tech (US100, though pace moderates somewhat).
+- **Underlying support:**  
+  - No index is displaying technical breakdown. Minor daily red in DE40/ASX200/IBOVESPA/JP225 is within normal correction range of strong uptrends.
+- **Risk flags:**  
+  - Continued outperformance and low volatility mean short-term overbought signals for leading indices should be monitored, but no clear reversal signal is present.
+
+---
+
+## 6. Synthesis & Strategic Implications
+
+- **Global equity markets are in a bullish momentum phase, supported by improving macro in Europe and strong risk appetite across regions (notably Southern Europe, HK/Asia ex-Japan, LatAm).**
+- **Sector rotation favors international cyclicals, value, and financials over defensives, with technical uptrends intact.**
+- **US markets remain resilient despite the recent negative GDP print, underpinned by trade balance and select PMI improvement.**
+- **Market breadth is strong: gains are widely distributed across geographies and sectors.**
+- **No outsized volatility or stress detected; risk environment generally supportive of equities.**
+- **Key technical and macro warning: Monitor for shifts in leadership and elevation in volatility should growth data deteriorate further (especially in the US/China macro sphere).**
+
+---
+
+### Executive Summary Table
+
+| Region   | Index        | Daily % | Weekly % | Monthly % | YTD %  | Technical Signal      |
+|----------|--------------|---------|----------|-----------|--------|----------------------|
+| US       | US500        | +1.03   | +1.50    | +6.55     | +2.02  | Bullish uptrend      |
+| Europe   | DE40         | -0.08   | +1.28    | +5.14     | +22.08 | New highs, leadership|
+| Asia     | HK50         | -0.48   | +2.16    | +4.85     | +18.61 | Bullish, strong breadth|
+| LatAm    | IPC          | +0.49   | +0.38    | +0.18     | +17.18 | Uptrend continues    |
+| EM       | SAALL        | -0.05   | +2.16    | +5.32     | +14.59 | Multi-year highs     |
+| Japan    | JP225        | +0.50   | -0.59    | +2.62     | -5.40  | Rangebound/lagging   |
+
+---
+
+### Next Steps & Review Protocol
+
+- **Schedule:** Daily/weekly full-index reviews, with update alerts on macro releases, volatility events, and sector/thematic leadership shifts.
+- **Strategy Adjustment:** Continue overweight to international cyclicals and risk-geared markets; monitor macro/technical signals for the first sign of rotation or correction, especially in US/China.
+
+---
+
+**Prepared by:** Market Tools Coordinator  
+**Data Source:** Trading Economics (StockMarketMonitorTool, 06/07/2025 15:11)  
+**Quality & Validation:** All index, sector, and volatility signals cross-referenced with macro and bond/currency analyses for analytical reliability and real-time consistency.
+
+─────────────────────
+
+End of Stock Market Summary Report.

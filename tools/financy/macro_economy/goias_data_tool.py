@@ -849,7 +849,7 @@ class GoiasDataTool(BaseTool):
         # Junta toda a saída e remove caracteres problemáticos
         output_text = "\n".join(output)
         output_text = output_text.replace("\\", "")  # Remove barras invertidas
-
+        output_text = output_text.encode('latin1').decode('utf-8')
         return output_text
 
 
@@ -883,6 +883,7 @@ class GoiasDataTool(BaseTool):
             # Processa serviços
             all_indicators.extend(self._process_business_data())
             
+            all_indicators = all_indicators.encode('latin1').decode('utf-8')
             # Formata e retorna a saída
             return self._format_report(all_indicators)
             

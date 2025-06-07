@@ -1,43 +1,45 @@
-Here are the promising investment assets based on historical performance, aligned with low-risk and long-term investment strategies:
+Based on your medium risk and medium-term investment criteria, and the asset types ['etfs', 'bonds', 'commodities', 'stocks'], here is a curated list of promising assets with their Yahoo Finance symbols:
 
-1. **Grayscale Bitcoin Trust ETF (GBTC)**
-   - **Last Price:** $66.97
-   - **Market Capitalization:** $46,368,018,432
+---
 
-2. **MicroSectors FANG+ Index 2X Leveraged ETN (FNGO)**
-   - **Last Price:** $74.48
-   - **Market Capitalization:** N/A
+**Stocks (Medium Risk, Undervalued, Strong Growth):**
+1. General Motors Company (GM)
+2. Energy Transfer LP (ET)
+3. APA Corporation (APA)
+4. Kinross Gold Corporation (KGC)
+5. Laureate Education, Inc. (LAUR)
+6. Ford Motor Company (F)
+7. Banco Bradesco S.A. (BBD)
+8. Itaú Unibanco Holding S.A. (ITUB)
+9. Petróleo Brasileiro S.A. - Petrobras (PBR)
+10. United Airlines Holdings, Inc. (UAL)
+11. GigaCloud Technology Inc. (GCT)
+12. Northeast Community Bancorp, Inc. (NECB)
+13. OppFi Inc. (OPFI)
 
-3. **Invesco Solar ETF (TAN)**
-   - **Last Price:** $32.47
-   - **Market Capitalization:** N/A
+**ETFs (Equity & Broad Market, Top Performance):**
+14. JPMorgan BetaBuilders U.S. Equity ETF (BBUS)
+15. SPDR Portfolio S&P 500 ETF (SPLG)
+16. iShares Morningstar U.S. Equity ETF (ILCB)
+17. iShares Core S&P Total U.S. Stock Market ETF (ITOT)
 
-4. **Invesco WilderHill Clean Energy ETF (PBW)**
-   - **Last Price:** $16.83
-   - **Market Capitalization:** $96,259,064
+**Bond ETFs (Moderate Duration, Income Focus, Mid Risk):**
+18. Vanguard Intermediate-Term Bond Index Fund (BIV)
+19. VanEck China Bond ETF (CBON)
+20. Vanguard Long-Term Bond Fund (BLV)
+21. Vanguard Short-Term Bond Index Fund ETF Shares (BSV)
+22. Schwab 5-10 Year Corporate Bond ETF (SCHI)
+23. Schwab 1-5 Year Corporate Bond ETF (SCHJ)
 
-5. **First Trust NASDAQ Clean Edge Green Energy Index Fund (QCLN)**
-   - **Last Price:** $29.23
-   - **Market Capitalization:** N/A
+**Commodity ETFs (Diversified Commodity Exposure):**
+24. GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF (COMB)
+25. abrdn Bloomberg All Commodity Strategy K-1 Free ETF (BCI)
+26. SPDR Bloomberg Enhanced Roll Yield Commodity Strategy No K-1 ETF (CERY)
+27. iShares Bloomberg Roll Select Commodity Strategy ETF (CMDY)
+28. abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF (BCD)
 
-6. **ARK Genomic Revolution ETF (ARKG)**
-   - **Last Price:** $22.82
-   - **Market Capitalization:** N/A
+---
 
-7. **ARK Next Generation Internet ETF (ARKW)**
-   - **Last Price:** $96.16
-   - **Market Capitalization:** N/A
+These assets offer a balance across equities, ETFs, bonds, and commodities, emphasizing undervaluation, robust financials, income, and diversified index/commodity strategies—all suitable for a medium risk and medium-term outlook.
 
-8. **ARK Innovation ETF (ARKK)**
-   - **Last Price:** $49.20
-   - **Market Capitalization:** N/A
-
-9. **Invesco Global Clean Energy ETF (PBD)**
-   - **Last Price:** $11.42
-   - **Market Capitalization:** N/A
-
-10. **iShares Global Clean Energy ETF (ICLN)**
-   - **Last Price:** $11.61
-   - **Market Capitalization:** N/A
-
-These assets have demonstrated strong performance potentials and show promise for long-term investment, aligning with low-risk profiles.
+Each asset includes both its name and Yahoo Finance symbol (ticker) for easy reference and research.

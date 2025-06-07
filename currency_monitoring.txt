@@ -1,52 +1,137 @@
-**Currency Market Report**
+─────────────
+CURRENCY MARKET REPORT – 06/07/2025 15:09 (Trading Economics/Market Tools Coordinator)
 
-**Date:** March 14, 2025
+---
 
-**1. Major Pair Movements:**
-- **EURUSD:** 
-  - Current Price: 1.0876
-  - Daily Movement: 🟢 +0.22%
-  - YTD Movement: 🟢 +5.00%
+## 1. Major Pair Movements
 
-- **GBPUSD:** 
-  - Current Price: 1.2925
-  - Daily Movement: 🔴 -0.20%
-  - YTD Movement: 🟢 +3.24%
+**USD Index (DXY):** 99.19 🟢 +0.45% daily / 🔴 -8.57% YTD — *Dollar index fell sharply YTD, small rebound today.*
 
-- **AUDUSD:** 
-  - Current Price: 0.6322
-  - Daily Movement: 🟢 +0.58%
-  - YTD Movement: 🟢 +2.14%
+**EUR/USD:** 1.1396 🔴 -0.43% daily / 🟢 +10.01% YTD  
+**GBP/USD:** 1.3525 🔴 -0.33% daily / 🟢 +8.04% YTD  
+**USD/JPY:** 144.87 🟢 +0.92% daily / 🔴 -7.93% YTD  
+**USD/CHF:** 0.8225 🟢 +0.31% daily / 🔴 -9.36% YTD  
+**USD/CAD:** 1.3695 🟢 +0.15% daily / 🔴 -4.74% YTD  
+**AUD/USD:** 0.6491 🔴 -0.23% daily / 🟢 +4.87% YTD  
+**NZD/USD:** 0.6015 🔴 -0.43% daily / 🟢 +7.54% YTD
 
-- **USDJPY:** 
-  - Current Price: 148.4940
-  - Daily Movement: 🟢 +0.46%
-  - YTD Movement: 🔴 -5.63%
+- **Key themes:**  
+  - Broad-based USD underperformance YTD versus EUR (+10%), GBP (+8%), AUD/NZD (+5-7%), CHF (-9.4%), JPY (-7.9%).
+  - Today saw some USD strength, notably against JPY (USDJPY +0.92% daily), CHF (+0.31% daily), and commodity EMs.
+  - EUR and GBP both traded lower vs USD today despite large YTD gains, reflecting profit-taking, consolidation, or macro crosscurrents (ECB rate cut, mixed US data).
+  - USD/JPY reversed higher sharply today — possible realignment with rising US yields and BOJ normalization trends.
+  - Commodity pairs (AUD, NZD, CAD) all weaker vs USD on the day; remain very strong on YTD basis.
 
-- **USDCNY:** 
-  - Current Price: 7.2394
-  - Daily Movement: 🔴 -0.12%
-  - YTD Movement: 🔴 -1.34% 
+---
 
-- **USDCAD:** 
-  - Current Price: 1.4388
-  - Daily Movement: 🔴 -0.36%
-  - YTD Movement: 🟢 +0.07%
+## 2. Volatility Levels and Notable Daily Moves
 
-**2. Volatility Levels:**
-- The pairs display mixed volatility with significant positive shifts in emerging market currencies like AUDUSD and NZDUSD. Major pairs like EURUSD demonstrated stability with slight positive shifts, while USDJPY showed negative volatility, indicating risk.
+- **Daily Moves >+0.5%:**  
+  - **USD/JPY:** +0.92% (1.3 yen move) — significant, fastest among majors. 
+  - **USD/SEK:** +0.77%
+  - **USD/HUF:** +0.49%
+  - **EUR/USD, GBP/USD, NZD/USD:** ~-0.4% each (notable for majors)
+  - **USD/RUB:** +2.07% (Russia, high EM volatility)
+  - **USDPLN, USDCLP:** +0.56%, +0.40%
+  - Most EM pairs generally saw sub-0.50% daily moves, with isolated spikes (RUB, JPY, SEK).
 
-**3. Trend Analysis:**
-- Overall, the trend appears cautious with many major pairs showing incremental changes. EURUSD remains robust, strengthening against the dollar. Emerging markets like AUD and NZD demonstrate resilience, influenced by local economic conditions. Conversely, USDJPY and USDCNY are showing weakness amid international tensions.
+- **Volatility Interpretation:**  
+  - Short-term volatility moderately elevated, but not at crisis levels. Biggest moves centered on USDJPY, USDRUB, USDSEK.
+  - DXY’s move of +0.45% is robust for the broad index but not extreme.
 
-**4. Intervention Signals:**
-- Recent movements in USDCNY and USDCAD suggest potential market interventions, particularly from Chinese authorities aimed at stabilizing yuan volatility. Moreover, USDJPY's movement highlights Japan's monetary policy adjustments in response to inflationary pressures.
+---
 
-**5. Risk Sentiment Indicators:**
-- Current assessments reflect an overall cautious market sentiment:
-  - **Risk Indicators:** 
-     - Bond yields are in a downward trend (🔴).
-     - Currency stability remains neutral (⚪).
-     - Stock market indicators show moderate growth (🟢).
+## 3. Trend Analysis
 
-The findings underscore a cautious yet optimistic outlook, with central banks potentially influencing movements in vulnerable currencies. Continued monitoring in the coming days will be pivotal to assess ongoing trends.
+- **USD Weakness Domination (Year-to-Date):**  
+  - DXY -8.57% YTD: US dollar significantly weaker across developed market FX, especially to EUR, GBP, CHF, SEK, PLN, CZK, HUF, NOK.
+  - Major pairs: EURUSD +10%, GBPUSD +8%, USDCHF -9.4%, USDSEK -12.9%, USDPLN -8.9%.
+  - USD/JPY has been a significant outlier: weaker dollar (-8% YTD) but staged a sharp daily rally.
+  - Commodity currencies (AUDUSD +4.9%, NZDUSD +7.5%) also firm against USD, though Y/Y slips reflect cyclical turnover.
+  - EM: USDMXN -8.3% YTD, USDBRL -10.1% YTD, USDCLP -6% YTD: broad EM strength, but EM-specific idiosyncratic trends present (see below).
+
+- **Emerging Market Currencies:**  
+  - USDTRY: +11.0% YTD, +21.1% Y/Y (Turkish lira continues to depreciate; highest EM volatility).
+  - USDRUB: -30.5% YTD; large swings, huge daily (+2.1%) move, but longer trend is RUB strength vs USD (due to capital controls/FX policy effects).
+  - USDBRL, USDMXN, USDZAR: all stronger EMFX (BRL, MXN, ZAR up 5–10% YTD), indicating capital inflow or falling US rate premium.
+
+---
+
+## 4. Intervention Signals & Policy Implications
+
+- **Macro Backdrop:**
+  - US: GDP contraction, large (but volatile) trade surplus; policy stable but easing cycle speculation grows.
+  - Eurozone: ECB rate cut, strong trade/current accounts; EUR strength in line with surplus and policy divergence, but some correction today.
+  - Japan: BOJ creeping toward normalization; JPY weakness YTD punctuated by daily reversal.
+  - China: PBoC repeated easing, deflation; CNY down -2% YTD vs USD.
+
+- **Intervention Watch:**
+  - **JPY:** Sharp USDJPY daily jump may draw BOJ verbal intervention, especially in context of recent JPY depreciation and global scrutiny.
+  - **TRY:** High, ongoing volatility (USDTRY +11% YTD, +1.5% MTD) could trigger further CBRT activity to halt lira slide.
+  - **RUB:** Wild swings, capital controls still in place; +2.1% daily move and -30% YTD trend flash red for monitoring.
+  - **MXN, BRL, CLP:** Authorities may signal unease about currency strength, particularly given related rate trends and trade context.
+
+---
+
+## 5. Risk Sentiment Indicators
+
+- **Trend Bias:**  
+  - Dollar weakness YTD highlights broad risk-on sentiment, likely driven by: receding US rate premium (bond yields off peaks despite recent rebound), better European/EM macro trends, narrowing US fiscal room.
+  - DXY attempted rebound today, but price action remains choppy — caution warranted if macro (growth) fears persist.
+  
+- **EM Sensitivity:**  
+  - High volatility in TRY, RUB, HUF, SEK; capital flows remain critical risk barometers.
+  - LatAm EMFX (MXN, BRL, CLP) strong YTD, but susceptible to reversal on risk aversion or US macro shocks.
+  - East Asian EM (KRW, CNY, SGD) mix of slight depreciation vs USD and intervention sensitivity, particularly given China growth risks.
+
+- **Inter-market Readings:**  
+  - Bond market trends (US 10Y up, Euro peripherals narrower) reinforce the current "risk-on, but cautious" backdrop for FX.
+  - Macro flags: US growth scare, policy easing in Europe/China/Japan open the door for ongoing USD volatility.
+
+---
+
+## 6. Unusual Fluctuations Review
+
+- **Highlight moves today (>1% daily):**
+  - **USDRUB:** +2.07%
+  - **USDJPY:** +0.92% (not a full 1%, but significant for a major pair)
+  - **USDTRY:** +1.52% MTD
+- **No broad-based crisis signals, but several EM pairs warrant close vigilance (TRY, RUB, HUF, SEK).**
+
+---
+
+## 7. Executive FX Market Table (Excerpt, 27 pairs)
+
+| Pair      | Last  | Daily   | WTD   | MTD   | YTD      | Y/Y     | Notable Moves?     |
+|-----------|-------|---------|-------|-------|----------|---------|--------------------|
+| EURUSD    |1.1396 | -0.43%  |+0.42% |+0.85% |+10.01%   |+5.51%   | YTD uptrend, DM pullback today  |
+| GBPUSD    |1.3525 | -0.33%  |+0.49% |+1.76% |+8.04%    |+6.37%   | YTD uptrend, DM pullback today  |
+| USDJPY    |144.87 | +0.92%  |+0.56% |+0.73% | -7.93%   | -7.57%  | Sharp daily rally, YTD weak     |
+| USDCNH    |7.1899 | +0.19%  |-0.21% |-0.53% | -2.01%   | -0.99%  | Persistent CNY drift            |
+| USDCHF    |0.8225 | +0.31%  |-0.03% |-0.21% | -9.36%   | -8.25%  | Strong CHF, USD rebound today   |
+| USDCAD    |1.3695 | +0.15%  |-0.32% |-1.04% | -4.74%   | -0.51%  | CAD resilient, USD Uptick today |
+| AUDUSD    |0.6491 | -0.23%  |+0.93% |+1.04% |+4.87%    | -1.34%  | Commodity pair up, softer today |
+| NZDUSD    |0.6015 | -0.43%  |+0.90% |+0.88% |+7.54%    | -1.44%  | Commodity pair up, softer today |
+| USDTRY    |39.21  | -0.13%  |+0.02% |+1.52% |+10.98%   |+21.12%  | EM: High, elevated volatility   |
+| USDRUB    |78.85  |+2.07%   |+1.74% |-2.20% | -30.53%  |-11.75%  | Extremes, sanctions effects     |
+| USDMXN    |19.11  | -0.23%  |-1.64% |-2.48% | -8.33%   |+3.91%   | Strong MXN, policy watch        |
+| USDBRL    | 5.56  | -0.50%  |-2.87% |-3.21% | -10.09%  |+4.05%   | Strong BRL, sharp reversal Y/Y  |
+| ...       |       |         |       |       |          |         |                                |
+
+---
+
+## 8. Summary Conclusions
+
+- **USD remains fundamentally soft YTD, with today’s session revealing a tactical bounce mainly against JPY, EMs, and select majors.**
+- **EUR and GBP both show consolidation after a prolonged uptrend, shaped by diverging central bank policies (ECB cut, Fed on pause).**
+- **Highest volatility in EM currencies (RUB, TRY, HUF, SEK), with isolated risk spikes but no systemic panic.**
+- **Major trend is one of gradual unwinding of USD exceptionalism, re-risking into Europe and EM despite lurking macro fragility.**
+- **Intervention risk is highest in JPY (post-rally), TRY (persistent depreciation), and select EMs; action likely verbal barring major disorder.**
+- **Overall FX risk sentiment: moderately positive, underpinned by policy easing, solid Eurozone/EM macro releases, and stable global bond markets. Data signals to watch closely: US growth trajectory, EM policy responses, intraday volatility spikes, and dollar index rebounds.**
+
+---
+
+*Prepared by: Market Tools Coordinator, 06/07/2025 15:09*
+
+Data sources: Trading Economics (CurrencyMonitorTool), Supplemented with Macro & Bond Reports.
+─────────────

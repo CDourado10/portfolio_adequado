@@ -14,8 +14,8 @@ class PortfolioReductionInput(BaseModel):
         description="List of asset symbols for reduction (comma-separated) in yfinance format"
     )
     lookback: str = Field(
-        default="1y",
-        description="Lookback period in yfinance format (e.g., '1y', '6mo', '3mo', '1mo')"
+        default="1 year",
+        description="Lookback period in yfinance format (e.g., '1 year', '6 months', '3 months', '1 month')"
     )
     target_assets: int = Field(
         ...,
@@ -118,11 +118,40 @@ class PortfolioReductionTool(BaseTool):
                 try:
                     with warnings.catch_warnings():
                         warnings.simplefilter("ignore")
-                        data = vbt.YFData.pull(
-                            symbols_list,
-                            start=f"{lookback} ago",
-                            tz="UTC"
-                        )
+                        # Busca os dados históricos com tratamento robusto de período
+                        period_map = {
+                            "1 day": "1d",
+                            "5 days": "5d",
+                            "1 month": "1mo",
+                            "3 months": "3mo",
+                            "6 months": "6mo",
+                            "1 year": "1y",
+                            "2 years": "2y",
+                            "5 years": "5y",
+                            "10 years": "10y",
+                            "ytd": "ytd",
+                            "max": "max"
+                        }
+                        user_period = lookback.strip().lower()
+                        yf_period = period_map.get(user_period)
+                        import yfinance as yf
+                        from datetime import datetime, timedelta
+                        if yf_period:
+                            data = yf.download(symbols_list, period=yf_period)
+                        else:
+                            try:
+                                n, unidade = user_period.split()
+                                n = int(n)
+                                if "month" in unidade:
+                                    delta = timedelta(days=30 * n)
+                                elif "year" in unidade:
+                                    delta = timedelta(days=365 * n)
+                                else:
+                                    delta = timedelta(days=n)
+                                start = (datetime.now() - delta).strftime('%Y-%m-%d')
+                                data = yf.download(symbols_list, start=start)
+                            except Exception as e:
+                                raise ValueError(f"Período '{lookback}' inválido para análise.")
                         
                         # Get price data
                         close_prices = data.get("Close")
@@ -212,7 +241,7 @@ if __name__ == "__main__":
     symbols = "AAPL,MSFT,GOOGL,AMZN,META,TSLA,NVDA,JPM,JNJ,V"
     result = reducer._run(
         symbols=symbols,
-        lookback="1y",
+        lookback="1 year",
         target_assets=5,
         min_volume_percentile=0.2,
         rebalance_period="1M"

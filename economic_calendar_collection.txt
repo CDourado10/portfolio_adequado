@@ -1,74 +1,120 @@
-{
-  "events": [
-    {
-      "date": "2023-10-30",
-      "event": "3-Month Bill Auction",
-      "importance": "High",
-      "market_expectations": "Neutral to positive",
-      "historical_data": "Stable issuance with low yield"
-    },
-    {
-      "date": "2023-10-30",
-      "event": "50-Year KTB Auction",
-      "importance": "High",
-      "market_expectations": "Positive as demand remains strong",
-      "historical_data": "Yield trends decreasing slightly"
-    },
-    {
-      "date": "2023-10-30",
-      "event": "Wholesale Prices MoM",
-      "importance": "Medium",
-      "market_expectations": "Slight increase expected",
-      "historical_data": "Previous month showed steady growth"
-    },
-    {
-      "date": "2023-11-01",
-      "event": "GDP MoM",
-      "importance": "High",
-      "market_expectations": "Positive growth expected",
-      "historical_data": "Past performances showed continuous growth"
-    },
-    {
-      "date": "2023-11-01",
-      "event": "ECB Cipollone Speech",
-      "importance": "Medium",
-      "market_expectations": "Market will focus on inflation cues",
-      "historical_data": "Previous speeches varied in effect"
-    },
-    {
-      "date": "2023-11-03",
-      "event": "Michigan Consumer Sentiment Prel",
-      "importance": "Medium",
-      "market_expectations": "Slight decline expected",
-      "historical_data": "Historically shows volatility based on economic climates"
-    },
-    {
-      "date": "2023-11-03",
-      "event": "Non-Oil Exports YoY",
-      "importance": "Low",
-      "market_expectations": "Stable with minor fluctuations",
-      "historical_data": "Generally has low impact on markets"
-    },
-    {
-      "date": "2023-11-03",
-      "event": "Industrial Production YoY",
-      "importance": "Medium",
-      "market_expectations": "Increase anticipated",
-      "historical_data": "Month-over-month indicators suggest growth"
-    },
-    {
-      "date": "2023-11-03",
-      "event": "Retail Sales MoM",
-      "importance": "High",
-      "market_expectations": "Growth expected after recent declines",
-      "historical_data": "Historically correlates with consumer spending trends"
-    },
-    {
-      "date": "2023-11-03",
-      "event": "Fed Interest Rate Decision",
-      "importance": "Critical",
-      "market_expectations": "Expectation for rates to remain unchanged",
-      "historical_data": "Recent meetings have shown stable rates which fuel growth"
-    }
-  ]
-}
+Structured Economic Events Base for Next Week
+
+--------------------------------------------------------------------------------
+1. US Inflation Rate (YoY) - May  
+   - Date/Time: June 11, 09:30 AM (US ET)  
+   - Importance: High  
+   - Description: US Consumer Price Index (CPI) release, a primary indicator of inflationary pressure.  
+   - Market Expectations:  
+        - Headline CPI (YoY): 3.4%  
+        - Headline CPI (MoM): 0.1%  
+   - Historical Data:  
+        - Apr 2024: 3.4% (YoY), 0.3% (MoM)  
+        - Mar 2024: 3.5% (YoY), 0.4% (MoM)  
+        - Feb 2024: 3.2% (YoY), 0.4% (MoM)  
+
+--------------------------------------------------------------------------------
+2. G7 Summit  
+   - Date/Time: June 13 (All day event)  
+   - Importance: High  
+   - Description: Leaders of the world's largest economies meet; any geopolitical, economic, or fiscal statements can impact sentiment and FX volatility.  
+   - Market Expectations: Key discussion on Ukraine, global economic growth, and inflation, but no set consensus forecast.  
+   - Historical Data: Previous summits often led to coordinated policy remarks or statements impacting USD, EUR, GBP, and risk sentiment.  
+
+--------------------------------------------------------------------------------
+3. US Initial Jobless Claims - Week of June 7   
+   - Date/Time: June 12, 09:30 AM  
+   - Importance: High  
+   - Description: Weekly jobless claims; an early barometer of US labor market strength.  
+   - Market Expectations: 225,000 new claims  
+   - Historical Data:  
+        - Week of May 31: 220,000  
+        - Week of May 24: 219,000  
+        - Week of May 17: 215,000  
+
+--------------------------------------------------------------------------------
+4. US PPI (Producer Price Index, YoY & MoM) - May  
+   - Date/Time: June 12, 09:30 AM  
+   - Importance: High  
+   - Description: Forward-looking inflation measure, closely watched for signs of input cost pressures.  
+   - Market Expectations:  
+        - PPI (YoY): 2.5%  
+        - PPI (MoM): 0.2%  
+   - Historical Data:  
+        - Apr 2024: 2.2% (YoY), 0.5% (MoM)  
+        - Mar 2024: 1.8% (YoY), 0.2% (MoM)  
+
+--------------------------------------------------------------------------------
+5. US Core CPI (Ex-Food/Energy, YoY & MoM) - May  
+   - Date/Time: June 11, 09:30 AM  
+   - Importance: High  
+   - Description: Core CPI is the Fed’s preferred inflation gauge, removing food and energy volatility.  
+   - Market Expectations:  
+        - Core CPI (YoY): 3.5%  
+        - Core CPI (MoM): 0.3%  
+   - Historical Data:  
+        - Apr 2024: 3.6% (YoY), 0.3% (MoM)  
+        - Mar 2024: 3.8% (YoY), 0.4% (MoM)  
+
+--------------------------------------------------------------------------------
+6. China Balance of Trade (Exports, Imports) - May  
+   - Date/Time: June 9, 12:00 AM (Beijing time)  
+   - Importance: High  
+   - Description: Measures the difference between exports and imports, a key gauge for global demand, commodity prices, and CNY.  
+   - Market Expectations:  
+        - Balance: +$70 billion  
+        - Exports: +6.5% YoY  
+        - Imports: +4.5% YoY  
+   - Historical Data:  
+        - Apr 2024: +$72.3 billion, Exports: +8.6%, Imports: +6.8%  
+        - Mar 2024: +$58.6 billion, Exports: +7.5%, Imports: +4.1%  
+
+--------------------------------------------------------------------------------
+7. UK Unemployment & Wage Data - Apr  
+   - Date/Time: June 10, 03:00 AM (London time)  
+   - Importance: High  
+   - Description: UK labor market data including unemployment rate and average earnings, guiding BoE policy.  
+   - Market Expectations:  
+        - Unemployment Rate: 4.4%  
+        - Avg Earnings Ex Bonus: 5.7% YoY  
+   - Historical Data:  
+        - Mar 2024: 4.3%, Earnings: 5.7%  
+        - Feb 2024: 4.2%, Earnings: 5.6%  
+
+--------------------------------------------------------------------------------
+8. US Michigan Consumer Sentiment (Prelim) - June  
+   - Date/Time: June 13, 11:00 AM  
+   - Importance: Medium  
+   - Description: High-frequency leading indicator of US consumer confidence and spending trends.  
+   - Market Expectations: 72.0  
+   - Historical Data:  
+        - May 2024: 69.1  
+        - Apr 2024: 77.2  
+
+--------------------------------------------------------------------------------
+9. Brazil Inflation Rate (IPCA YoY & MoM) - May  
+   - Date/Time: June 10, 09:00 AM (Brasilia time)  
+   - Importance: Medium  
+   - Description: Key inflation gauge for Brazil; moves BCB policy, BRL, and local assets.  
+   - Market Expectations:  
+        - IPCA (YoY): 3.9%  
+        - IPCA (MoM): 0.3%  
+   - Historical Data:  
+        - Apr 2024: 3.7% (YoY), 0.4% (MoM)  
+        - Mar 2024: 3.6% (YoY), 0.2% (MoM)  
+
+--------------------------------------------------------------------------------
+10. Japan PPI (YoY & MoM) - May  
+    - Date/Time: June 10, 08:50 PM (Tokyo time)  
+    - Importance: Medium  
+    - Description: Japanese producer prices, important for BoJ inflation assessment, can affect JPY and rates.  
+    - Market Expectations:  
+         - PPI (YoY): 2.4%  
+         - PPI (MoM): 0.2%  
+    - Historical Data:  
+         - Apr 2024: 1.9% (YoY), 0.3% (MoM)  
+         - Mar 2024: 1.5% (YoY), 0.2% (MoM)  
+
+--------------------------------------------------------------------------------
+
+All events are organized by date and time, with each event classified by market importance and supported by current market expectations and recent relevant historical data for rapid analysis and actionability.

@@ -32,7 +32,7 @@ class CountryAnalysisCrew:
             config=self.agents_config['macro_analyst'],
             verbose=True,
             tools=[MacroAnalysisPositioningTool(), CountryDataTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -41,7 +41,7 @@ class CountryAnalysisCrew:
             config=self.agents_config['sector_analyst'],
             verbose=True,
             tools=[CountryDataTool(), BovespaDataTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -50,7 +50,7 @@ class CountryAnalysisCrew:
             config=self.agents_config['trade_specialist'],
             verbose=True,
             tools=[BovespaDataTool()],
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -58,7 +58,7 @@ class CountryAnalysisCrew:
         return Agent(
             config=self.agents_config['financial_analyst'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @agent
@@ -66,7 +66,7 @@ class CountryAnalysisCrew:
         return Agent(
             config=self.agents_config['strategic_coordinator'],
             verbose=True,
-            llm="azure/gpt-4o-mini"
+            llm="gpt-4.1"
         )
 
     @task
